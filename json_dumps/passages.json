@@ -1,0 +1,61 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "title": "First Letter of Ben Meir; [L1BM1 Bodl. Ms Hebf. 26.2 recto]",
+    "text": "ושמע טוב כשנים עשר החתומים ושם טוב כמנגן בניצוח\\\nטעמים \\[ו\\]כבנה ושכלל בית עולמים וכשבעה רועים\\\nהקדומים וכשמנה המסוימים וכארבעה הדומים והעלומים\\\nיוחקו הברכות כלם בראש קוראיהם בישלומים לכל המון\\\nקהילות אחינו ישראל הדרים במדנת שנער הרבנים וזקנים וראשי\\\nכנסיות ובתי אבות ופרנסי ציבור וגזברי עם ומרכלים ומלמדי\\\nוחזנים ויתר אחינו יש(ראל) וחבירנו ביראת אל הקדושים הטהורים",
+    "loi_id": "loi_passage_id__1",
+    "corpus": [
+      {
+        "id": 1,
+        "value": "Geniza fragments",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "Calendar Controversy corpus",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "translation": "and (Saul) who summoned well the twelve sealed (the twelve tribes of\\\nIsrael); and a good name like the musician (David) who mastered his\\\ntunes; and like (Solomon) who built and completed the eternal house; and\\\nlike the seven ancient shepherds, and like the designated eight (Micah\\\n5:4); and like the four silent and concealed –\\\nmay all the blessings be engraved on the heads of those who call out to\\\nthem with greetings. To all the multitude\\\nof communitiesof Israel, our brothers, who dwell in the province of\\\nShinar (Babylonia), the rabbis, elders, heads\\\nof synagogues and of families, leaders of the community, treasurers of the\\\npeople, superintendents, teachers,\\\nḥazzanim, and the rest of Israel our brothers, our equals in the fear of God, holy, pure,",
+    "parallel_text": null,
+    "bibl_quotes": [],
+    "commentary": "This passage is a florid introduction, weaving together biblical archetypes and eschatological figures. Saul, David, and Solomon represent Israel’s kingship and Temple; the “seven shepherds and eight princes” (Micah 5:4) are a messianic motif; the “four concealed” may allude to hidden righteous figures or mystical categories. By invoking these, Ben Meir situates his letter in a cosmic and messianic register. He then turns to address the Babylonian communities directly, listing their leaders and officials in a formal salutation. This rhetorical strategy both honors the Babylonian addressees and frames Palestinian authority within a biblical-messianic continuum.",
+    "work": [
+      {
+        "id": 1,
+        "value": "First Letter of Ben Meir",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "Bodl., Ms Hebf. 26.2",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "title": "",
+    "text": "",
+    "loi_id": "loi_passage_id__2",
+    "corpus": [],
+    "genre": [],
+    "translation": null,
+    "parallel_text": null,
+    "bibl_quotes": [],
+    "commentary": null,
+    "work": [],
+    "manuscript": []
+  }
+}

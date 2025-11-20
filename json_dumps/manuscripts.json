@@ -1,0 +1,29 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "Bodl., Ms Hebf. 26.2"
+      }
+    ],
+    "library": [
+      {
+        "id": 1,
+        "value": "Bodl.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "idno": "Ms Hebf. 26.2",
+    "loi_id": "loi_ms_id__1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "shelfmark": [],
+    "library": [],
+    "idno": null,
+    "loi_id": "loi_ms_id__2"
+  }
+}

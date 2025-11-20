@@ -1,0 +1,36 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "title": "First Letter of Ben Meir",
+    "gnd": "",
+    "author": [
+      {
+        "id": 1,
+        "value": "Aharon Ben Meir",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [
+      {
+        "id": 1,
+        "value": "ca. 921/922 CE",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "place": [],
+    "loi_id": "loi_work_id__1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "title": "",
+    "gnd": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work_id__2"
+  }
+}

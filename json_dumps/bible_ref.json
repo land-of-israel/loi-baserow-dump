@@ -1,0 +1,18 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "bible": "Micah 5:4",
+    "text": "He will stand and shepherd his flock\n    in the strength of the Lord,\n    in the majesty of the name of the Lord his God.\nAnd they will live securely, for then his greatness\n    will reach to the ends of the earth.",
+    "url": "",
+    "loi_id": "loi_biblref_id__1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "bible": "",
+    "text": "",
+    "url": "",
+    "loi_id": "loi_biblref_id__2"
+  }
+}

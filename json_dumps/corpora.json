@@ -1,0 +1,20 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Geniza fragments",
+    "note": "",
+    "reference": "",
+    "url": "",
+    "loi_id": "loi_corpus_id__1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Calendar Controversy corpus",
+    "note": "",
+    "reference": "",
+    "url": "",
+    "loi_id": "loi_corpus_id__2"
+  }
+}

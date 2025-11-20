@@ -1,0 +1,24 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "Bodl.",
+    "place": [
+      {
+        "id": 1,
+        "value": "Oxford",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "full_label": "Bodleian library",
+    "loi_id": "loi_library_id__1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "",
+    "place": [],
+    "full_label": "",
+    "loi_id": "loi_library_id__2"
+  }
+}
