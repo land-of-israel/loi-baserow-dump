@@ -3,14 +3,14 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "language": "Hebrew",
-    "Notes": "",
+    "notes": "",
     "loi_id": "loi_lang_id__1"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "language": "Aramaic",
-    "Notes": "",
+    "notes": "",
     "loi_id": "loi_lang_id__2"
   }
 }
