@@ -4,13 +4,185 @@
     "order": "1.00000000000000000000",
     "label": "Ben Meir",
     "notes": "",
-    "loi_id": "loi_keyword_id__1"
+    "loi_id": "loi_keyword__1",
+    "passages": []
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "label": "",
+    "label": "calendar dispute",
     "notes": "",
-    "loi_id": "loi_keyword_id__2"
+    "loi_id": "loi_keyword__2",
+    "passages": [
+      {
+        "id": 1,
+        "value": "First Letter of Ben Meir; [L1BM1 Bodl. Ms Hebf. 26.2 recto]",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "First Letter of Ben Meir; [L1BM1 JTS ENA 2556.2 verso left, L1BM2T-S8K8 recto]",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "More of Ben Meir",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "label": "intercalation",
+    "notes": "",
+    "loi_id": "loi_keyword__4",
+    "passages": [
+      {
+        "id": 11,
+        "value": "The Jews of Egypt",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "Exilarch's Authority",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "label": "calendar",
+    "notes": "",
+    "loi_id": "loi_keyword__5",
+    "passages": [
+      {
+        "id": 11,
+        "value": "The Jews of Egypt",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "Exilarch's Authority",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 20,
+        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "First Letter of Ben Meir;",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "order": "5.00000000000000000000",
+    "label": "Babylonia",
+    "notes": "",
+    "loi_id": "loi_keyword__38",
+    "passages": [
+      {
+        "id": 20,
+        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "order": "20.00000000000000000000"
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "order": "6.00000000000000000000",
+    "label": "Jerusalem",
+    "notes": "",
+    "loi_id": "loi_keyword__39",
+    "passages": [
+      {
+        "id": 20,
+        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "order": "20.00000000000000000000"
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "order": "7.00000000000000000000",
+    "label": "Yom Tov Sheni",
+    "notes": "",
+    "loi_id": "loi_keyword__40",
+    "passages": [
+      {
+        "id": 20,
+        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "order": "20.00000000000000000000"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "8.00000000000000000000",
+    "label": "property",
+    "notes": "",
+    "loi_id": "loi_keyword__41",
+    "passages": [
+      {
+        "id": 20,
+        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "order": "20.00000000000000000000"
+      }
+    ]
   }
 }

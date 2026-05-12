@@ -20,20 +20,141 @@
       }
     ],
     "place": [],
-    "loi_id": "loi_work_id__1",
+    "loi_id": "loi_work__1",
     "corpus": [],
-    "language": []
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "title": "",
+    "title": "Mekhaleket rav sedya ve gaon ben meir",
+    "reference": "",
+    "author": [
+      {
+        "id": 2,
+        "value": "Chaim Bornstein",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__2",
+    "corpus": [],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "title": "Otzar HaGeonim Rosh Hashana",
+    "reference": "",
+    "author": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__3",
+    "corpus": [],
+    "language": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "title": "Megillat Evyatar",
+    "reference": "",
+    "author": [
+      {
+        "id": 3,
+        "value": "Saadya",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__4",
+    "corpus": [],
+    "language": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "title": "Sheiltot",
     "reference": "",
     "author": [],
     "manuscript": [],
     "date": [],
     "place": [],
-    "loi_id": "loi_work_id__2",
+    "loi_id": "loi_work__5",
+    "corpus": [],
+    "language": []
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "title": "Ginze Kedem",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__6",
+    "corpus": [],
+    "language": []
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "title": "Jam Schel Schlomo (Jeßnitz)",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__7",
+    "corpus": [],
+    "language": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "title": "Tshuvot Rav Natronai Gaon",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__8",
+    "corpus": [],
+    "language": []
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "title": "Ma'aseh haGeonim",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__9",
     "corpus": [],
     "language": []
   }

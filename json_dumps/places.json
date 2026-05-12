@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "name": "Oxford",
     "geonames": "https://www.geonames.org/2640729/oxford.html",
-    "loi_id": "loi_place_id__1",
+    "loi_id": "loi_place__1",
     "wikidata": "",
     "note": null
   },
@@ -13,7 +13,7 @@
     "order": "2.00000000000000000000",
     "name": "",
     "geonames": "",
-    "loi_id": "loi_place_id__2",
+    "loi_id": "loi_place__2",
     "wikidata": "",
     "note": null
   }

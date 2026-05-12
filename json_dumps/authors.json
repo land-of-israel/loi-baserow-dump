@@ -5,14 +5,102 @@
     "name": "Aharon Ben Meir",
     "gnd": "",
     "wikidata": "https://www.wikidata.org/wiki/Q2820100",
-    "loi_id": "loi_author_id__1"
+    "loi_id": "loi_author__1"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "",
+    "name": "Chaim Bornstein",
+    "gnd": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q7069107",
+    "loi_id": "loi_author__2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Saadya",
+    "gnd": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q328748",
+    "loi_id": "loi_author__3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Benjamin Manasseh Lewin",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author_id__2"
+    "loi_id": "loi_author__4"
+  },
+  "36": {
+    "id": 36,
+    "order": "5.00000000000000000000",
+    "name": "Achai of Shabcha",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__36"
+  },
+  "37": {
+    "id": 37,
+    "order": "6.00000000000000000000",
+    "name": "Amram Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__37"
+  },
+  "38": {
+    "id": 38,
+    "order": "7.00000000000000000000",
+    "name": "Elchanan ben Shemarya",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__38"
+  },
+  "39": {
+    "id": 39,
+    "order": "8.00000000000000000000",
+    "name": "Evyatar haKohen",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__39"
+  },
+  "40": {
+    "id": 40,
+    "order": "9.00000000000000000000",
+    "name": "Hai Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__40"
+  },
+  "41": {
+    "id": 41,
+    "order": "10.00000000000000000000",
+    "name": "Natronai bar Hilai",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__41"
+  },
+  "42": {
+    "id": 42,
+    "order": "11.00000000000000000000",
+    "name": "Pirkoi ben Baboi",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__42"
+  },
+  "43": {
+    "id": 43,
+    "order": "12.00000000000000000000",
+    "name": "Sherira Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__43"
+  },
+  "44": {
+    "id": 44,
+    "order": "13.00000000000000000000",
+    "name": "Simhah ben Samuel of Vitry",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__44"
   }
 }

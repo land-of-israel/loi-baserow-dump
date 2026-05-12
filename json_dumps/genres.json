@@ -5,7 +5,7 @@
     "name": "Responsum",
     "note": "",
     "reference": "",
-    "loi_id": "loi_genre_id__1",
+    "loi_id": "loi_genre__1",
     "main_genre": []
   },
   "2": {
@@ -14,7 +14,7 @@
     "name": "Siddur",
     "note": "",
     "reference": "https://d-nb.info/gnd/4181184-7",
-    "loi_id": "loi_genre_id__2",
+    "loi_id": "loi_genre__2",
     "main_genre": []
   },
   "3": {
@@ -23,7 +23,7 @@
     "name": "",
     "note": "",
     "reference": "",
-    "loi_id": "loi_genre_id__3",
+    "loi_id": "loi_genre__3",
     "main_genre": []
   }
 }

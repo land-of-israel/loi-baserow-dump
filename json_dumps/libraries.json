@@ -11,7 +11,7 @@
       }
     ],
     "full_label": "Bodleian library",
-    "loi_id": "loi_library_id__1"
+    "loi_id": "loi_library__1"
   },
   "2": {
     "id": 2,
@@ -19,6 +19,6 @@
     "label": "",
     "place": [],
     "full_label": "",
-    "loi_id": "loi_library_id__2"
+    "loi_id": "loi_library__2"
   }
 }

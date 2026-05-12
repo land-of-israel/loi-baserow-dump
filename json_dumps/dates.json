@@ -5,7 +5,7 @@
     "label": "ca. 921/922 CE",
     "tpq": "920",
     "taq": "923",
-    "loi_id": "loi_date_id__1"
+    "loi_id": "loi_date__1"
   },
   "2": {
     "id": 2,
@@ -13,6 +13,6 @@
     "label": "",
     "tpq": null,
     "taq": null,
-    "loi_id": "loi_date_id__2"
+    "loi_id": "loi_date__2"
   }
 }
