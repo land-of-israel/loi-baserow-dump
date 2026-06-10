@@ -6,7 +6,11 @@
     "note": "",
     "reference": "",
     "loi_id": "loi_genre__1",
-    "main_genre": []
+    "main_genre": {
+      "id": 23185,
+      "value": "Responsum",
+      "color": "light-brown"
+    }
   },
   "2": {
     "id": 2,
@@ -15,7 +19,7 @@
     "note": "",
     "reference": "https://d-nb.info/gnd/4181184-7",
     "loi_id": "loi_genre__2",
-    "main_genre": []
+    "main_genre": null
   },
   "3": {
     "id": 3,
@@ -24,6 +28,6 @@
     "note": "",
     "reference": "",
     "loi_id": "loi_genre__3",
-    "main_genre": []
+    "main_genre": null
   }
 }

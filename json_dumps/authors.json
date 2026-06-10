@@ -5,7 +5,9 @@
     "name": "Aharon Ben Meir",
     "gnd": "",
     "wikidata": "https://www.wikidata.org/wiki/Q2820100",
-    "loi_id": "loi_author__1"
+    "loi_id": "loi_author__1",
+    "birth_date": [],
+    "death_date": []
   },
   "2": {
     "id": 2,
@@ -13,7 +15,9 @@
     "name": "Chaim Bornstein",
     "gnd": "",
     "wikidata": "https://www.wikidata.org/wiki/Q7069107",
-    "loi_id": "loi_author__2"
+    "loi_id": "loi_author__2",
+    "birth_date": [],
+    "death_date": []
   },
   "3": {
     "id": 3,
@@ -21,7 +25,9 @@
     "name": "Saadya",
     "gnd": "",
     "wikidata": "https://www.wikidata.org/wiki/Q328748",
-    "loi_id": "loi_author__3"
+    "loi_id": "loi_author__3",
+    "birth_date": [],
+    "death_date": []
   },
   "4": {
     "id": 4,
@@ -29,7 +35,9 @@
     "name": "Benjamin Manasseh Lewin",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__4"
+    "loi_id": "loi_author__4",
+    "birth_date": [],
+    "death_date": []
   },
   "36": {
     "id": 36,
@@ -37,7 +45,9 @@
     "name": "Achai of Shabcha",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__36"
+    "loi_id": "loi_author__36",
+    "birth_date": [],
+    "death_date": []
   },
   "37": {
     "id": 37,
@@ -45,7 +55,9 @@
     "name": "Amram Gaon",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__37"
+    "loi_id": "loi_author__37",
+    "birth_date": [],
+    "death_date": []
   },
   "38": {
     "id": 38,
@@ -53,7 +65,9 @@
     "name": "Elchanan ben Shemarya",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__38"
+    "loi_id": "loi_author__38",
+    "birth_date": [],
+    "death_date": []
   },
   "39": {
     "id": 39,
@@ -61,7 +75,9 @@
     "name": "Evyatar haKohen",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__39"
+    "loi_id": "loi_author__39",
+    "birth_date": [],
+    "death_date": []
   },
   "40": {
     "id": 40,
@@ -69,7 +85,9 @@
     "name": "Hai Gaon",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__40"
+    "loi_id": "loi_author__40",
+    "birth_date": [],
+    "death_date": []
   },
   "41": {
     "id": 41,
@@ -77,7 +95,9 @@
     "name": "Natronai bar Hilai",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__41"
+    "loi_id": "loi_author__41",
+    "birth_date": [],
+    "death_date": []
   },
   "42": {
     "id": 42,
@@ -85,7 +105,9 @@
     "name": "Pirkoi ben Baboi",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__42"
+    "loi_id": "loi_author__42",
+    "birth_date": [],
+    "death_date": []
   },
   "43": {
     "id": 43,
@@ -93,7 +115,9 @@
     "name": "Sherira Gaon",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__43"
+    "loi_id": "loi_author__43",
+    "birth_date": [],
+    "death_date": []
   },
   "44": {
     "id": 44,
@@ -101,6 +125,8 @@
     "name": "Simhah ben Samuel of Vitry",
     "gnd": "",
     "wikidata": "",
-    "loi_id": "loi_author__44"
+    "loi_id": "loi_author__44",
+    "birth_date": [],
+    "death_date": []
   }
 }

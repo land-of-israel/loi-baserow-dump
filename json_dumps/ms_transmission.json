@@ -3,10 +3,23 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "name": "",
-    "passage": [],
-    "manuscript": [],
-    "locus": null,
-    "loi_id": "loi_ms_transmission__1"
+    "passage": [
+      {
+        "id": 1,
+        "value": "First Letter of Ben Meir; [L1BM1 Bodl. Ms Hebf. 26.2 recto]",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "Bodl., Ms Hebf. 26.2",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "locus": "2r",
+    "loi_id": "loi_ms_transmission__1",
+    "facsimile": ""
   },
   "2": {
     "id": 2,
@@ -15,6 +28,7 @@
     "passage": [],
     "manuscript": [],
     "locus": null,
-    "loi_id": "loi_ms_transmission__2"
+    "loi_id": "loi_ms_transmission__2",
+    "facsimile": ""
   }
 }

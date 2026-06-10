@@ -16,7 +16,8 @@
       }
     ],
     "idno": "Ms Hebf. 26.2",
-    "loi_id": "loi_ms__1"
+    "loi_id": "loi_ms__1",
+    "facsimile": ""
   },
   "2": {
     "id": 2,
@@ -24,6 +25,7 @@
     "shelfmark": [],
     "library": [],
     "idno": "",
-    "loi_id": "loi_ms__2"
+    "loi_id": "loi_ms__2",
+    "facsimile": ""
   }
 }
