@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "",
+    "loi_id": "loi_ms_transmission__1",
     "passage": [
       {
         "id": 1,
@@ -18,17 +18,15 @@
       }
     ],
     "locus": "2r",
-    "loi_id": "loi_ms_transmission__1",
     "facsimile": ""
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "",
+    "loi_id": "loi_ms_transmission__2",
     "passage": [],
     "manuscript": [],
     "locus": null,
-    "loi_id": "loi_ms_transmission__2",
     "facsimile": ""
   }
 }
