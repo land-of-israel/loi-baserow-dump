@@ -28,6 +28,13 @@
         "value": "Hebrew",
         "order": "1.00000000000000000000"
       }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
     ]
   },
   "2": {
@@ -53,7 +60,8 @@
         "value": "Hebrew",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "genre": []
   },
   "3": {
     "id": 3,
@@ -72,7 +80,8 @@
     "place": [],
     "loi_id": "loi_work__3",
     "corpus": [],
-    "language": []
+    "language": [],
+    "genre": []
   },
   "4": {
     "id": 4,
@@ -91,7 +100,8 @@
     "place": [],
     "loi_id": "loi_work__4",
     "corpus": [],
-    "language": []
+    "language": [],
+    "genre": []
   },
   "5": {
     "id": 5,
@@ -104,7 +114,8 @@
     "place": [],
     "loi_id": "loi_work__5",
     "corpus": [],
-    "language": []
+    "language": [],
+    "genre": []
   },
   "6": {
     "id": 6,
@@ -117,7 +128,8 @@
     "place": [],
     "loi_id": "loi_work__6",
     "corpus": [],
-    "language": []
+    "language": [],
+    "genre": []
   },
   "7": {
     "id": 7,
@@ -130,7 +142,8 @@
     "place": [],
     "loi_id": "loi_work__7",
     "corpus": [],
-    "language": []
+    "language": [],
+    "genre": []
   },
   "8": {
     "id": 8,
@@ -143,7 +156,8 @@
     "place": [],
     "loi_id": "loi_work__8",
     "corpus": [],
-    "language": []
+    "language": [],
+    "genre": []
   },
   "9": {
     "id": 9,
@@ -156,6 +170,7 @@
     "place": [],
     "loi_id": "loi_work__9",
     "corpus": [],
-    "language": []
+    "language": [],
+    "genre": []
   }
 }
