@@ -192,5 +192,36 @@
     "corpus": [],
     "language": [],
     "genre": []
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "title": "Samuel ben Ḥofni Gaon and His Cultural World: Texts and Studies",
+    "reference": "",
+    "author": [
+      {
+        "id": 69,
+        "value": "David E. Sklare",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "Samuel ben Ḥofni",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "CUL-TS, England Ms. T-S Ar. 48.87",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__11",
+    "corpus": [],
+    "language": [],
+    "genre": []
   }
 }

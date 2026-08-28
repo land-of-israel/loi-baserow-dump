@@ -128,5 +128,25 @@
     "loi_id": "loi_author__44",
     "birth_date": [],
     "death_date": []
+  },
+  "69": {
+    "id": 69,
+    "order": "14.00000000000000000000",
+    "name": "David E. Sklare",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__69",
+    "birth_date": [],
+    "death_date": []
+  },
+  "70": {
+    "id": 70,
+    "order": "15.00000000000000000000",
+    "name": "Samuel ben Ḥofni",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__70",
+    "birth_date": [],
+    "death_date": []
   }
 }

@@ -24,9 +24,15 @@
     "id": 2,
     "order": "2.00000000000000000000",
     "loi_id": "loi_ms_transmission__2",
-    "passage": [],
+    "passage": [
+      {
+        "id": 355,
+        "value": "Samuel ben Hofni",
+        "order": "296.00000000000000000000"
+      }
+    ],
     "manuscript": [],
-    "locus": null,
-    "facsimile": ""
+    "locus": "48.87, folio 2",
+    "facsimile": "https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/itempage?vid=KTIV&scope=KTIV&docId=PNX_MANUSCRIPTS990051321370205171"
   }
 }

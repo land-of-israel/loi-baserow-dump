@@ -4673,5 +4673,26 @@
     "german_translation": "",
     "page": "396ff",
     "keywords": []
+  },
+  "355": {
+    "id": 355,
+    "order": "296.00000000000000000000",
+    "title": "Samuel ben Hofni",
+    "text": "ומן שק אלעצא עלי ראס מתיבה אלעצר אלתאבת אלריאסה פאמצא אחכאם מן עזלה הו פורץ גדירן של ישראל",
+    "loi_id": "loi_passage__355",
+    "translation": "One who rebels against the head of the yeshiva . . . and carries out the rulings of\\\nsomeone whom he has dismissed breaks down the fences of Israel.",
+    "parallel_text": [],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 11,
+        "value": "Samuel ben Ḥofni Gaon and His Cultural World: Texts and Studies",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "german_translation": "",
+    "page": "81–85, 97",
+    "keywords": []
   }
 }
