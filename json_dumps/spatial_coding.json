@@ -1,0 +1,99 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "legal",
+    "excerpt": "",
+    "loi_id": "loi_parallel__1",
+    "passages": [
+      {
+        "id": 2,
+        "value": "The Sages of Israel’s Authority over the Calendar and the Primacy of Jerusalem",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Prayer at the Mount of Olives and the Memory of Past Support",
+        "order": "6.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "cultural",
+    "excerpt": "",
+    "loi_id": "loi_parallel__2",
+    "passages": [
+      {
+        "id": 1,
+        "value": "Blessings upon the Communities of Shinar: Greeting to the Babylonian Congregations",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "The Sages of Israel’s Authority over the Calendar and the Primacy of Jerusalem",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Jerusalem’s Atoning Power and the Cessation of Joy after the Destruction",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Consolation Only in the Joy of the Temple",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "The Institutional Hierarchy of Jerusalem",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Prayer at the Mount of Olives and the Memory of Past Support",
+        "order": "6.00000000000000000000"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "symbolic",
+    "excerpt": "",
+    "loi_id": "loi_parallel__3",
+    "passages": [
+      {
+        "id": 1,
+        "value": "Blessings upon the Communities of Shinar: Greeting to the Babylonian Congregations",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "The Sages of Israel’s Authority over the Calendar and the Primacy of Jerusalem",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Jerusalem’s Atoning Power and the Cessation of Joy after the Destruction",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Consolation Only in the Joy of the Temple",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "The Institutional Hierarchy of Jerusalem",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Prayer at the Mount of Olives and the Memory of Past Support",
+        "order": "6.00000000000000000000"
+      }
+    ]
+  }
+}

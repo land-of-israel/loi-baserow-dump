@@ -1,0 +1,42 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "The Jewish Calendar Controversy of 921/2 CE",
+    "editor": [
+      {
+        "id": 102,
+        "value": "Sacha Stern",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__1",
+    "works": [
+      {
+        "id": 1,
+        "value": "First Letter of Ben Meir",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+    "editor": [
+      {
+        "id": 103,
+        "value": "Israel Schepansky",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__2",
+    "works": [
+      {
+        "id": 1,
+        "value": "First Letter of Ben Meir",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  }
+}

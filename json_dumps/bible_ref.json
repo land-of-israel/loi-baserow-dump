@@ -3,16 +3,189 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "bible": "Micah 5:4",
-    "text": "He will stand and shepherd his flock\n    in the strength of the Lord,\n    in the majesty of the name of the Lord his God.\nAnd they will live securely, for then his greatness\n    will reach to the ends of the earth.",
-    "url": "",
-    "loi_id": "loi_biblref__1"
+    "text": "And that shall afford safety.\nShould Assyria invade our land\nAnd tread upon our fortresses, \nWe will set up over that nation seven shepherds,\nEight princes of other nations,",
+    "url": "https://www.sefaria.org/Micah.5.4?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__1",
+    "Mehrzeiliger Text": "וְהָיָה זֶה שָׁלוֹם אַשּׁוּר  כִּי־יָבוֹא בְאַרְצֵנוּ וְכִי יִדְרֹךְ בְּאַרְמְנוֹתֵינוּ וַהֲקֵמֹנוּ עָלָיו שִׁבְעָה רֹעִים וּשְׁמֹנָה נְסִיכֵי אָדָם"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
+    "bible": "Ecclesiastes 12:11",
+    "text": "The sayings of the wise are like goads, like nails fixed in prodding sticks. They were given by one Shepherd.",
+    "url": "https://www.sefaria.org/Ecclesiastes.12.11?lang=bi",
+    "loi_id": "loi_biblref__2",
+    "Mehrzeiliger Text": "דִּבְרֵי חֲכָמִים כַּדָּרְבֹנוֹת וּכְמַשְׂמְרוֹת נְטוּעִים בַּעֲלֵי אֲסֻפּוֹת נִתְּנוּ מֵרֹעֶה אֶחָד"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "bible": "Song of Songs 8:13",
+    "text": "O you who linger in the garden, A lover is listening; Let me hear your voice.",
+    "url": "https://www.sefaria.org/Song_of_Songs.8.13?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__3",
+    "Mehrzeiliger Text": "הַיּוֹשֶׁבֶת בַּגַּנִּים חֲבֵרִים מַקְשִׁיבִים לְקוֹלֵךְ הַשְׁמִיעִנִי"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "bible": "Psalms 119:100",
+    "text": "I have gained more understanding than my elders, for I observe Your precepts.",
+    "url": "https://www.sefaria.org/Psalms.119.100?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__4",
+    "Mehrzeiliger Text": "מִזְּקֵנִים אֶתְבּוֹנָן כִּי פִקּוּדֶיךָ נָצָרְתִּי"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "bible": "mSukkah 5:1",
+    "text": "One who did not see the Celebration of the Place of the Drawing of the Water never saw celebration in his days.",
+    "url": "https://www.sefaria.org/Mishnah_Sukkah.5.1?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__5",
+    "Mehrzeiliger Text": "כָּל מִי שֶׁלֹּא רָאָה שִׂמְחַת בֵּית הַשּׁוֹאֵבָה, לֹא רָאָה שִׂמְחָה מִיָּמָיו"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "bible": "bSan 37a:2-3",
+    "text": "The mishna teaches that the Sanhedrin would sit in a semicircle. The Gemara asks: From where are these matters derived? Rabbi Aḥa bar Ḥanina says: As the verse states: “Your navel is like a round goblet, let no mingled wine be wanting; your belly is like a heap of wheat set about with lilies” (Song of Songs 7:3). This verse is interpreted as referring to the members of the Sanhedrin, who sit in a semicircle. “Your navel”; this is an allusion to the Sanhedrin. And why is it called by way of allusion “your navel”? It is because it sits in the navel of the world, in the Temple. “Goblet [aggan]”; this teaches that the Sanhedrin protects [meginna] the entire world with its merit. “Round [hassahar]”; this teaches that the Sanhedrin is similar to the moon [sahar]. The court sits in a semicircle, like the shape of the moon.",
+    "url": "https://www.sefaria.org/Sanhedrin.37a.2?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__6",
+    "Mehrzeiliger Text": "מְנָא הָנֵי מִילֵּי? אָמַר רַבִּי אַחָא בַּר חֲנִינָא: דְּאָמַר קְרָא ״שׇׁרְרֵךְ אַגַּן הַסַּהַר אַל יֶחְסַר הַמָּזֶג וְגוֹ׳״.\n״שׇׁרְרֵךְ״ – זוֹ סַנְהֶדְרִין. לָמָּה נִקְרָא שְׁמָהּ ״שׇׁרְרֵךְ״? שֶׁהִיא יוֹשֶׁבֶת בְּטִיבּוּרוֹ שֶׁל עוֹלָם. ״אַגַּן״ – שֶׁהִיא מְגִינָּה עַל כׇּל הָעוֹלָם כּוּלּוֹ. ״הַסַּהַר״ – שֶׁהִיא דּוֹמָה לַסַּהַר."
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "bible": "Song of Songs 7:3",
+    "text": "Your navel is like a round goblet—\nLet mixed wine not be lacking!—\nYour belly like a heap of wheat\nHedged about with lilies.",
+    "url": "https://www.sefaria.org/Song_of_Songs.7.3?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__7",
+    "Mehrzeiliger Text": "שׇׁרְרֵךְ אַגַּן הַסַּהַר אַל־יֶחְסַר הַמָּזֶג בִּטְנֵךְ עֲרֵמַת חִטִּים סוּגָה בַּשּׁוֹשַׁנִּים"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "bible": "Shir HaShirim Rabbah 1:9",
+    "text": "There was, then, no person in Jerusalem who would remain overnight with iniquity ascribed to him",
+    "url": "https://www.sefaria.org/Shir_HaShirim_Rabbah.1.9.6?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__8",
+    "Mehrzeiliger Text": "לֹא הָיָה אָדָם לָן בִּירוּשָׁלַיִם וּבְיָדוֹ עָווֹן"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "bible": "Isaiah 33:24",
+    "text": "And no one who lives there shall say, “I am sick”;\nIt shall be inhabited by folk whose sin has been forgiven.",
+    "url": "https://www.sefaria.org/Isaiah.33.24?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__9",
+    "Mehrzeiliger Text": "וּבַל־יֹאמַר שָׁכֵן חָלִיתִי הָעָם הַיֹּשֵׁב בָּהּ נְשֻׂא עָוֺן"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "bible": "Psalm 133:3",
+    "text": "like the dew of Hermon that falls upon the mountains of Zion. There GOD ordained blessing, everlasting life.",
+    "url": "https://www.sefaria.org/Psalms.133.3?lang=bi",
+    "loi_id": "loi_biblref__10",
+    "Mehrzeiliger Text": "כְּטַל־חֶרְמוֹן שֶׁיֹּרֵד עַל־הַרְרֵי צִיּוֹן כִּי שָׁם  צִוָּה יְהֹוָה אֶת־הַבְּרָכָה חַיִּים עַד־הָעוֹלָם"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "bible": "Habakkuk 3:17",
+    "text": "Though the fig tree does not bud\nAnd no yield is on the vine,\nThough the olive crop has failed\nAnd the fields produce no grain,\nThough sheep have vanished from the fold\nAnd no cattle are in the pen,",
+    "url": "https://www.sefaria.org/Habakkuk.3.17?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__11",
+    "Mehrzeiliger Text": "כִּי־תְאֵנָה לֹא־תִפְרָח וְאֵין יְבוּל בַּגְּפָנִים כִּחֵשׁ מַעֲשֵׂה־זַיִת וּשְׁדֵמוֹת לֹא־עָשָׂה אֹכֶל גָּזַר מִמִּכְלָה צֹאן וְאֵין בָּקָר בָּרְפָתִים"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "bible": "Haggai 1:6",
+    "text": "You have sowed much and brought in little; you eat without being satisfied; you drink without getting your fill; you clothe yourselves, but no one gets warm; and he who earns anything earns it for a leaky purse.",
+    "url": "https://www.sefaria.org/Haggai.1.6?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__12",
+    "Mehrzeiliger Text": "זְרַעְתֶּם הַרְבֵּה וְהָבֵא מְעָט אָכוֹל וְאֵין־לְשׇׂבְעָה שָׁתוֹ וְאֵין־לְשׇׁכְרָה לָבוֹשׁ וְאֵין־לְחֹם לוֹ וְהַמִּשְׂתַּכֵּר מִשְׂתַּכֵּר אֶל־צְרוֹר נָקוּב"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "bible": "bSotah 48a",
+    "text": "And since then the dew has not descended for blessing, and the taste has been removed from fruit.",
+    "url": "https://www.sefaria.org/Sotah.48a.14?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__13",
+    "Mehrzeiliger Text": "וְלֹא יָרַד הַטַּל לִבְרָכָה, וְנִיטַּל טַעַם הַפֵּירוֹת"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "bible": "Isaiah 51:3",
+    "text": "Truly  GOD has comforted Zion,\nComforted all her ruins—\nMade her wilderness like Eden,\nHer desert like the Garden of  GOD.\nGladness and joy shall abide there,\nThanksgiving and the sound of music.",
+    "url": "https://www.sefaria.org/Isaiah.51.3?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__14",
+    "Mehrzeiliger Text": "כִּי־נִחַם יְהֹוָה צִיּוֹן נִחַם כׇּל־חׇרְבֹתֶיהָ וַיָּשֶׂם מִדְבָּרָהּ כְּעֵדֶן וְעַרְבָתָהּ כְּגַן־יְהֹוָה שָׂשׂוֹן וְשִׂמְחָה יִמָּצֵא בָהּ תּוֹדָה וְקוֹל זִמְרָה"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "bible": "Isaiah 66:1",
+    "text": "Thus said  GOD:\nThe heaven is My throne\nAnd the earth is My footstool:\nWhere could you build a house for Me,\nWhat place could serve as My abode?",
+    "url": "",
+    "loi_id": "loi_biblref__15",
+    "Mehrzeiliger Text": "כֹּה אָמַר יְהֹוָה הַשָּׁמַיִם כִּסְאִי וְהָאָרֶץ הֲדֹם רַגְלָי אֵי־זֶה בַיִת אֲשֶׁר תִּבְנוּ־לִי וְאֵי־זֶה מָקוֹם מְנוּחָתִי"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "bible": "Psalms 72:17",
+    "text": "May his name be eternal;\nwhile the sun lasts, may his name endure; \nlet peoples invoke his blessedness upon themselves;\nlet all nations count him happy.",
+    "url": "",
+    "loi_id": "loi_biblref__16",
+    "Mehrzeiliger Text": "יְהִי שְׁמוֹ  לְעוֹלָם לִפְנֵי־שֶׁמֶשׁ (ינין) [יִנּוֹן] שְׁמוֹ וְיִתְבָּרְכוּ בוֹ כׇּל־גּוֹיִם יְאַשְּׁרוּהוּ"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "bible": "Ezekiel 20:6",
+    "text": "that same day I swore to them to take them out of the land of Egypt into a land flowing with milk and honey, a land that I had sought out for them, the fairest of all lands.",
+    "url": "https://www.sefaria.org/Ezekiel.20.6?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__17",
+    "Mehrzeiliger Text": "בַּיּוֹם הַהוּא נָשָׂאתִי יָדִי לָהֶם לְהוֹצִיאָם מֵאֶרֶץ מִצְרָיִם אֶל־אֶרֶץ אֲשֶׁר־תַּרְתִּי לָהֶם זָבַת חָלָב וּדְבַשׁ צְבִי הִיא לְכׇל־הָאֲרָצוֹת"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "bible": "bYoma 2a",
+    "text": "Seven days prior to Yom Kippur the Sages would remove the High Priest, who performs the entire Yom Kippur service, from his house to the Chamber of Parhedrin",
+    "url": "https://www.sefaria.org/Yoma.2a.1?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__18",
+    "Mehrzeiliger Text": "שִׁבְעַת יָמִים קוֹדֶם יוֹם הַכִּפּוּרִים מַפְרִישִׁין כֹּהֵן גָּדוֹל מִבֵּיתוֹ לְלִשְׁכַּת פַּרְהֶדְרִין"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "bible": "Nehemiah 2:16",
+    "text": "The prefects knew nothing of where I had gone or what I had done, since I had not yet divulged it to the Jews—the priests, the nobles, the prefects, or the rest of the officials.",
+    "url": "https://www.sefaria.org/Nehemiah.2.16?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__19",
+    "Mehrzeiliger Text": "וְהַסְּגָנִים לֹא יָדְעוּ אָנָה הָלַכְתִּי וּמָה אֲנִי עֹשֶׂה וְלַיְּהוּדִים וְלַכֹּהֲנִים וְלַחֹרִים וְלַסְּגָנִים וּלְיֶתֶר עֹשֵׂה הַמְּלָאכָה עַד־כֵּן לֹא הִגַּדְתִּי"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
     "bible": "",
     "text": "",
     "url": "",
-    "loi_id": "loi_biblref__2"
+    "loi_id": "loi_biblref__20",
+    "Mehrzeiliger Text": ""
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "bible": "Psalms 91:4",
+    "text": "With pinions you will be covered;\nyou will find refuge under God’s wings—\nwhose fidelity is an encircling shield.",
+    "url": "https://www.sefaria.org/Psalms.91.4?lang=bi",
+    "loi_id": "loi_biblref__21",
+    "Mehrzeiliger Text": "בְּאֶבְרָתוֹ  יָסֶךְ לָךְ וְתַחַת־כְּנָפָיו תֶּחְסֶה צִנָּה וְסֹחֵרָה אֲמִתּוֹ"
   }
 }

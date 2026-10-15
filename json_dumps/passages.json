@@ -2,12 +2,18 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "title": "First Letter of Ben Meir; [L1BM1 Bodl. Ms Hebf. 26.2 recto]",
+    "title": "Blessings upon the Communities of Shinar: Greeting to the Babylonian Congregations",
     "text": "ושמע טוב כשנים עשר החתומים ושם טוב כמנגן בניצוח טעמים \\[ו\\]כבנה ושכלל בית עולמים וכשבעה רועים הקדומים וכשמנה המסוימים וכארבעה הדומים והעלומים יוחקו הברכות כלם בראש קוראיהם בישלומים לכל המון קהילות אחינו ישראל הדרים במדנת שנער הרבנים וזקנים וראשי כנסיות ובתי אבות ופרנסי ציבור וגזברי עם ומרכלים ומלמדי וחזנים ויתר אחינו יש(ראל) וחבירנו ביראת אל הקדושים הטהורים",
     "loi_id": "loi_passage__1",
     "translation": "and (Saul) who summoned well the twelve sealed (the twelve tribes of\\\nIsrael); and a good name like the musician (David) who mastered his\\\ntunes; and like (Solomon) who built and completed the eternal house; and\\\nlike the seven ancient shepherds, and like the designated eight (Micah\\\n5:4); and like the four silent and concealed –\\\nmay all the blessings be engraved on the heads of those who call out to\\\nthem with greetings. To all the multitude\\\nof communitiesof Israel, our brothers, who dwell in the province of\\\nShinar (Babylonia), the rabbis, elders, heads\\\nof synagogues and of families, leaders of the community, treasurers of the\\\npeople, superintendents, teachers,\\\nḥazzanim, and the rest of Israel our brothers, our equals in the fear of God, holy, pure,",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 1,
+        "value": "Micah 5:4",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "commentary": "This passage is a florid introduction, weaving together biblical archetypes and eschatological figures. Saul, David, and Solomon represent Israel’s kingship and Temple; the “seven shepherds and eight princes” (Micah 5:4) are a messianic motif; the “four concealed” may allude to hidden righteous figures or mystical categories. By invoking these, Ben Meir situates his letter in a cosmic and messianic register. He then turns to address the Babylonian communities directly, listing their leaders and officials in a formal salutation. This rhetorical strategy both honors the Babylonian addressees and frames Palestinian authority within a biblical-messianic continuum.",
     "work": [
       {
@@ -16,25 +22,69 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "Und ein guter Ruf ist wie die zwölf Unterzeichnenden, und ein guter Name wie ein Sänger, der die Melodien der biblischen Kantillation meisterhaft anstimmt, und wie derjenige, der das ewige Haus (den Tempel) baute und vollendete, und wie die sieben frühen Hirten, und wie die acht Ausgewählten (Micah 5,4), und wie die vier Gleichenden und Verborgen(en). So sollen alle Segenssprüche eingeprägt sein an der Spitze ihrer Vorleser, in Frieden, für die gesamte Menge der Gemeinden unserer Brüder Israel, die im Land Schinear wohnen – die Rabbiner und Ältesten und Vorsteher der Synagogen und Familienoberhäupter, die Gemeindevorsteher, die Schatzmeister des Volkes, die Kaufleute, die Lehrer und Vorsänger sowie all unsere übrigen Brüder Israel und unsere Gefährten in der Ehrfurcht vor Gott, den heiligen und reinen.",
+    "page": "[L1BM1 Bodl. Ms Hebf. 26.2 recto]; p. 221",
     "keywords": [
       {
         "id": 2,
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": []
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "title": "First Letter of Ben Meir; [L1BM1 JTS ENA 2556.2 verso left, L1BM2T-S8K8 recto]",
+    "title": "The Sages of Israel’s Authority over the Calendar and the Primacy of Jerusalem",
     "text": "הקובעים מועדים וזמנים חכמי ישראל הדרבונים מקום אגן הסהר הקדמונים המעברים ימים ושנים ועל פיהם המועדים מיתקנים אין רשות לאדם מישראל להשיג גבול ראשונים שעליהם נאמר היושבת בגנים ומצוה לעשות על פי זקנים שכן אמר דוד אבי המנגנים מזקנים אתבונן ואין שבחן של ישראל אלא ירושלים עיר הקודש וסנהדרין גדולה שבתוכה שכך שנו חכ(מים)ז(כרונם) לב(רכה) מישלא ראה בשמחת בית השאבה לא ראה שמחה מימיו",
     "loi_id": "loi_passage__2",
-    "translation": "Who fix the festivals and times, the sages of Israel (who are like) goads (cf. Eccl. 12:11), \nthe site of the moon circle, the elders\nwho intercalate days and years, on whose authority the festivals are set— \nno man in Israel is allowed to overstep the boundary of the ancients\nabout whom it was said: ‘You that dwell sin the gardens …’ (Song 8:13).\nIt is a commandment to act on the authority of the sages, for so said David,\nfather of musicians: ‘from the elders I have understood’ (Ps. 119:100). And the only praise of Israel was Jerusalem the holy city and the great \nSanhedrin that was within it,\nfor so our sages of blessed memory have taught: ‘he who has never seen the rejoicing of the House of Water-Drawing has never seen rejoicing in \nhis life’ (mSukkah 5:1);",
+    "translation": "Who fix the festivals and times, the sages of Israel (who are like) goads (cf. Eccl. 12:11), the site of the moon circle, the elders  \nwho intercalate days and years, on whose authority the festivals are set—no man in Israel is allowed to overstep the boundary of the ancients about whom it was said: ‘You that dwell sin the gardens …’ (Song 8:13). It is a commandment to act on the authority of the sages, for so said David,  \nfather of musicians: ‘from the elders I have understood’ (Ps. 119:100). And the only praise of Israel was Jerusalem the holy city and the great Sanhedrin that was within it,  \nfor so our sages of blessed memory have taught: ‘he who has never seen the rejoicing of the House of Water-Drawing has never seen rejoicing in his life’ (mSukkah 5:1);",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 2,
+        "value": "Ecclesiastes 12:11",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Song of Songs 8:13",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Psalms 119:100",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "mSukkah 5:1",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "bSan 37a:2-3",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "Song of Songs 7:3",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "commentary": "The letter asserts the exclusive authority of the sages of Israel to fix the calendar, grounding this in biblical verses and rabbinic tradition. It elevates Jerusalem and the Sanhedrin as Israel’s true glory, while implicitly rejecting Babylonian claims.",
     "work": [
       {
@@ -43,26 +93,66 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "Diejenigen, die Zeiten und festgesetzte Termine bestimmen – die Weisen Israels, die Erstberatenen, die im Bereich des Halbmondes (bSan 37a, Hld 7,3) wohnen, die Alten der Vorzeit –, jene, die Tage und Jahre berechnen, und nach deren Entscheidung die Festzeiten festgelegt werden: Niemand aus Israel hat das Recht, die Grenzen der Früheren zu verrücken, über die gesagt wurde: ‚Die in den Gärten Sitzende‘ (Hld 8,13). Und es ist Gebot, nach der Weisung der Ältesten zu handeln, wie David, der Vater der Sänger, sagte: ‚Von den Ältesten will ich Einsicht gewinnen‘ (Ps 119,100). Der Ruhm Israels aber ist nichts anderes als Jerusalem, die heilige Stadt, und das große Sanhedrin, das in ihr war; denn so lehrten die Weisen, seligen Angedenkens (mSukkah 5:1): ‚Wer die Freude des Wasser-Schöpfens (Simchat Beit ha-Sho’eva) nicht gesehen hat, hat nie Freude in seinem Leben gesehen.‘",
+    "page": "[L1BM1 JTS ENA 2556.2 verso left, L1BM2T-S8K8 recto]; p. 225",
     "keywords": [
       {
         "id": 2,
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [
+      {
+        "id": 1,
+        "value": "solid",
+        "order": "1.00000000000000000000"
       }
     ]
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "title": "",
+    "title": "Jerusalem’s Atoning Power and the Cessation of Joy after the Destruction",
     "text": "ומה היתה שמחת בית המקדש שלא לן אדם בירושלים ובידו עון שנ(אמר) העם היושב בה נשוא עון ולא עוד אלא שכל ימים שהיה בית המקדש קיים היתה הברכה והזול והשובע בעולם דכת(יב) כטל חרמון וגומר אבל משחרב בית המקדש נסתלקה השמחה",
     "loi_id": "loi_passage__3",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
+    "bibl_quotes": [
+      {
+        "id": 8,
+        "value": "Shir HaShirim Rabbah 1:9",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "Isaiah 33:24",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Psalm 133:3",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "commentary": "Continuing the preceding evocation of Temple joy, the passage defines that joy not as festivity but as atonement: while the Temple stood, no one remained overnight in Jerusalem still bearing guilt. Isa 33:24 supplies the prooftext, and Ps 133:3 extends the claim from Jerusalem to the world at large, making the Temple the source of blessing, abundance and plenty everywhere. The destruction accordingly removes joy not from Israel alone but from creation. The argument reinforces the letter’s central contention by shifting register: Jerusalem’s pre-eminence is presented as cosmological fact rather than as institutional prerogative.",
     "work": [
       {
         "id": 1,
@@ -70,25 +160,75 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "Und was war die Freude des Tempels? Dass niemand in Jerusalem übernachtete, solange noch Schuld an seiner Hand war. (Shir HaShirim Rabbah 1,9), wie es heißt: „Das Volk, das darin wohnt, wird von Schuld getragen sein“ (Jes 33,24). Und mehr noch: Solange der Tempel bestand, war Segen, Wohlfeilheit und Sättigung in der Welt, wie es geschrieben steht: „Wie der Tau des Hermon …“(Ps. 133,3). Doch seit der Zerstörung des Tempels wich die Freude von der Welt.",
+    "page": "[L1BM1 JTS ENA 2556.2 verso left, L1BM2 T-S 8K8 verso]: p. 225",
     "keywords": [
       {
         "id": 2,
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [
+      {
+        "id": 1,
+        "value": "solid",
+        "order": "1.00000000000000000000"
       }
     ]
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "title": "",
+    "title": "Consolation Only in the Joy of the Temple",
     "text": "ולא ירד טל ברכה ונטיל טעם הפירות דכת(יב) כי תאנה לא תפרח וג(ומר) זרעתם הרבה והבא מעט וכשיופיע הק(דוש) ב(רוך) ה(וא) ברחמיו הרבים לנחם את ישראל אינו מנחמן ומשמחן אלא בשמחת בית המקדש דכת(יב) כי נחם י̇י̇י̇ ציון שיאמר בעל הרחמים ויעשה למען שמו ויביט בעלבון עמו ויבנה ביתו ואולמו וישכלל מקום הדומו ויחיש להם יומו ויצמיח ינון שמו",
     "loi_id": "loi_passage__4",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 11,
+        "value": "Habakkuk 3:17",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "Haggai 1:6",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "bSotah 48a",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "Isaiah 51:3",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "Isaiah 66:1",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "Psalms 72:17",
+        "order": "16.00000000000000000000"
+      }
+    ],
     "commentary": "",
     "work": [
       {
@@ -97,25 +237,65 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "Und der Segens­tau fiel nicht mehr, und der Geschmack der Früchte wurde genommen (bSotah 48a), wie es heißt: „Der Feigenbaum wird nicht blühen (Hab 3,17) … ihr sät viel und bringt wenig ein (Hag 1,6)“. Und wenn der Heilige, gepriesen sei Er, mit seinem großen Erbarmen Israel trösten wird, wird er sie nicht anders trösten und erfreuen als mit der Freude des Tempels, wie es heißt: „Denn der Herr hat Zion getröstet“ (Jes 51,3). Möge der Herr der Barmherzigkeit sprechen und um seines Namens willen handeln, auf die Erniedrigung seines Volkes schauen, sein Haus und seinen Saal bauen, der Ort seines Fußschemels, vollenden (Jes 66,1), ihren Tag beschleunigen und seinen Namen „Yinon“ (Ps 72,17) erblühen lassen.",
+    "page": "[L1BM1 JTS ENA 2556.2 recto right, L1BM2 T-S 8K8 verso]; p. 227",
     "keywords": [
       {
         "id": 2,
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [
+      {
+        "id": 1,
+        "value": "solid",
+        "order": "1.00000000000000000000"
       }
     ]
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "title": "",
+    "title": "The Institutional Hierarchy of Jerusalem",
     "text": "שאו שלום גדול ממנו ומן יצחק אב בית דין שלנו ומן סנהדרין גדולה וסנהדרין קטנה היושבת לפנינו ומן החכמים והמשנים ומפלהדרין ומן תלמידין ומן הזקנים ומן השופטים והסופרין והחזנין ומן החורין והסגנים ומכל שארית עדת ישראל הדרים במקדש י̇י̇י̇ ובצבי ארצות שברחמי יוצרנו אנו חנויים ובצל אברתו אנו מסתופפים ועל חסדו אנו נשענים כי לא עזב ולא יעזוב לעולם ומעודינו ועד",
     "loi_id": "loi_passage__5",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 17,
+        "value": "Ezekiel 20:6",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "bYoma 2a",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "Nehemiah 2:16",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 21,
+        "value": "Psalms 91:4",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "commentary": "",
     "work": [
       {
@@ -124,26 +304,45 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "Tragt großen Frieden von uns und von Isaak, unserem Aw Beit Din, und vom großen Sanhedrin und vom kleinen Sanhedrin, der vor uns sitzt, sowie von den Weisen und den Repetenten, den Beisitzern (parhedrin, vgl. bYoma 2a), den Schülern und den Ältesten, den Richtern, Schreibern und Vorbetern, den Edlen und den Vorstehern (vgl. Neh 2,16) und von der ganzen übrigen Gemeinde Israels, die im Heiligtum des Herrn und im Schmuck der Länder (Ez 20,6) wohnen, denn durch das Erbarmen unseres Schöpfers sind wir gelagert, im Schatten seiner Flügel finden wir Zuflucht (vgl. Ps 91,4) und auf seine Gnade stützen wir uns, denn er hat nicht verlassen und wird in Ewigkeit nicht verlassen, und von jeher und bis in alle Zeit.",
+    "page": "[L1BM1 JTS ENA 2556.2 recto right, L1BM2 T-S 8K7 recto]; p. 227",
     "keywords": [
       {
         "id": 2,
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [
+      {
+        "id": 1,
+        "value": "solid",
+        "order": "1.00000000000000000000"
       }
     ]
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "title": "",
+    "title": "Prayer at the Mount of Olives and the Memory of Past Support",
     "text": "היום הזה זכרכם הטוב לא מש מפינו ותפלתינו עליכם תדירה ועל זקני יקר שלכם בהר הזתים מול היכל י̇י̇י̇ מקום הדום רגלי אלהינו ועל שער הכהן ועל שערי מקדש יי בקיבוץ כל ישר(אל) לחג את חג י̇י̇י̇ חג הסוכות וכשמוע כל יש(ראל) שבחכם מפינו אז שמחו וששו ועלצו בשלום אשר הציבו שדי בינינו כי בהיותנו בבגדאד אצלכם לא נמנענו מלעזור אתכם בכל לבבינו ובכל נפשינו על הקושרים עליכם וכל מאמרכם ותאוותכם היינו עושים ובחזירתנו אל ארץ מולדתנו צוינו בכל מדינה ומדינה ועיר",
     "loi_id": "loi_passage__6",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
-    "commentary": "",
+    "commentary": "Erets Israel as Erets Moladetenu",
     "work": [
       {
         "id": 1,
@@ -151,13 +350,37 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "Heute weicht eure gute Erinnerung nicht von unseren Lippen, und unser Gebet für euch ist beständig; und über eure ehrwürdigen Ältesten auf dem Ölberg, gegenüber dem Heiligtum des Herrn, dem Ort, an dem die Füße unseres Gottes ruhen, sowie über das Tor des Priesters und die Tore des Tempels des Herrn beim Zusammenkommen ganz Israels, um das Fest des Herrn, das Laubhüttenfest, zu feiern; und als ganz Israel euren Lobpreis aus unserem Mund hörte, da freuten sie sich, jubelten und frohlockten über den Frieden, den der Allmächtige zwischen uns gestiftet hat. Denn als wir in Bagdad bei euch waren, haben wir uns nicht gescheut, euch mit ganzem Herzen und mit ganzer Seele gegen diejenigen zu unterstützen, die sich gegen euch verschworen hatten, und wir erfüllten jedes eurer Worte und Wünsche. Und auf unserer Rückkehr in unser Heimatland (Eretz Israel bei Schepansky) wurden wir in jeder Stadt und in jedem Land beauftragt …",
+    "page": "[L1BM1 Bodl. Ms Heb f. 26.3 recto, L1BM2 T-S 8K7 recto] p. 227-229",
     "keywords": [
       {
         "id": 2,
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [
+      {
+        "id": 1,
+        "value": "solid",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -186,7 +409,9 @@
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "8": {
     "id": 8,
@@ -213,7 +438,9 @@
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "9": {
     "id": 9,
@@ -240,7 +467,9 @@
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "10": {
     "id": 10,
@@ -261,7 +490,9 @@
         "value": "calendar dispute",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "11": {
     "id": 11,
@@ -293,7 +524,9 @@
         "value": "calendar",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "12": {
     "id": 12,
@@ -325,7 +558,9 @@
         "value": "calendar",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "13": {
     "id": 13,
@@ -362,7 +597,9 @@
         "value": "calendar",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "14": {
     "id": 14,
@@ -377,7 +614,9 @@
     "work": [],
     "german_translation": "Bezüglich der Frage, die ihr an Rav Hai gestellt habt:\\\nZu dem, was gesagt wurde (Beitza 4b) über die zwei Festtage der Diaspora –\\\nRav sagt: Wenn (ein Ei) an dem einen Tag geboren wurde, ist es am anderen erlaubt.\\\nUnd Rav Assi sagt: Wenn es an diesem geboren wurde, ist es an jenem verboten.\\\n\\\nUnd dazu sagen wir: Rav Assi war im Zweifel und verhielt sich hier streng und dort streng.\\\nRabbi Seira sagte: „Die Ansicht von Rav Assi erscheint zutreffender, denn heute kennen wir die feste Festlegung des Monats …“\\\n\\\nUnser Herr möge uns erklären: Welcher Zweifel war es, über den Rav Assi im Unklaren war?\\\nUnd warum sagte Rabbi Seira, dass Rav Assis Ansicht überzeugender sei?\\\nDenn wenn doch das Geheimnis der Interkalation (des Kalenders) in den Händen des Gerichts liegt –\\\nwelcher Zweifel bleibt überhaupt noch?\\\n\\\nDenn all diese Zweifel, die in Bezug auf die zwei Festtage der Diaspora an vielen Stellen erwähnt werden, bestärken die Behauptungen der Ketzer gegen uns.\\\nUnd wir wünschen, dass unser Herr jede Anfechtung beseitigt, wie er es mit seiner Weisheit in der Antwort über das Schofarblasen getan hat, durch die alle Einwände aufgehoben wurden.\\\n\\\nDenn Rabbenu Saadja sel. A. sagte in seinem Kommentar ausdrücklich, dass es ursprünglich gar keinen Zweifel gab.\\\nSondern: Der Heilige, gelobt sei Er, gebot Seinem Diener Mosche, und dieser sagte Israel,\\\ndass im Land Israel ein einziger Festtag sei,\\\naber in der Diaspora zwei Festtage –\\\nund so war es immer.\\\n\\\nGanz Israel hielt immer ohne Zweifel nach der Interkalation und nach der Berechnung.\\\nBis die Ketzer auftraten – und da suchten die Weisen zu zeigen, dass Mondbeobachtung und Berechnung übereinstimmen.\\\nDaher taten sie all das, was Rabban Gamliel mit der Tafel tat, und sie schickten Boten usw.\\\n\\\nDoch später kehrten sie zu ihrem ursprünglichen Prinzip zurück, wie der Heilige, gelobt sei Er, zu Mosche gesagt hatte:\\\nIm Land Israel soll man einen Tag halten, und in der Diaspora zwei Tage.\\\n\\\nUnd unser Herr sagte in seinen Responsen an die Leute von Qābat, dass dies eine Verordnung aus der Zeit der frühen Propheten sei.\\\nUnd so führten die frühen Propheten Israel seit Beginn der Exilszeit:\\\nIn der Diaspora feierte man jeden Feiertag zwei Tage, aber Jom Kippur nur einen Tag.\\\n\\\nUnd wie kann ein Brauch eine Erweiterung dessen darstellen, was in der Tora steht?\\\nDenn die Tora sagt:\\\n„Sieben Tage sollst du Matzot essen“,\\\n„Sieben Tage sollt ihr in den Hütten sitzen“ –\\\nund der Brauch bringt einen achten Tag hervor!\\\n\\\nWir finden jedoch, dass ein Brauch keinem Toragesetz etwas hinzufügt,\\\nsondern dass die Weisen ihn als eine Art Verstärkung erklärten und sagten: Es ist ein rabbinisches Dekret.\\\nAber bei jährlichen Festen sagt die Tora sieben Tage – und der Brauch sagt acht?!\\\n\\\nUnd weiter:\\\nWarum wird ein zweiter Tag nach Rosch HaSchana gefeiert, obwohl die Tora sagt, es sei ein Tag?\\\nUnd wenn du für Jom Kippur zählst, zählst du doch nur vom ersten Tag!\\\n\\\nAußerdem gaben unsere Rabbinen diesem (zweiten Tag von Rosch HaSchana) ein besonderes Gewicht und sagten:\\\n„Die zwei Tage von Rosch HaSchana sind eine Heiligkeit.“\\\nUnd unser Herr sagte, dass die Bewohner des Landes Israel Rosch HaSchana zwei Tage feiern –\\\ndoch wir sehen, dass man bis heute nur einen Tag hält.\\\n\\\nUnser Herr möge uns mit seiner großen Weisheit all diese Zweifel erklären:\\\nWie kann dies eine Erweiterung gegenüber dem Geschriebenen sein?\\\nEr möge uns all diese Zweifel gut darlegen und klären.",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "15": {
     "id": 15,
@@ -398,7 +637,9 @@
     ],
     "german_translation": "Die Frage, die danach in deinem Brief kam, betrifft die zwei Festtage der Diaspora, und du erwähnst, dass deine Ansicht dahin tendiert, man solle sich an die ursprüngliche Verordnung halten. Der grundlegende Punkt in dieser Sache ist, dass die Interkalation – also die Festlegung von Monaten und Schaltjahren – die wir besitzen, von Mose, Friede über ihm, überliefert wurde. Zugleich wurde überliefert, dass das Hohe Gericht besondere Ordnungen dafür hat: Es gibt Jahre, in denen die Ordnung verlangt, einen Monat zu verkürzen, dann wird er als voller Monat in die Interkalation eingerechnet, und wenn sie einen Monat voll machen, wird er als mangelhafter Monat in die Interkalation gerechnet. Rosch Chodesch ist der Tag, den das Gericht heiligt; danach gleichen sie die Zählung wieder aus, entsprechend dem, was sie verändert haben, bis die Tage gemäß dem vollständigen Schaltzyklus, der uns überliefert wurde, wieder stimmen, als wäre nichts verändert worden. Man schickte Boten aus und entzündete Signalfeuer, um den Menschen mitzuteilen, an welchem Tag das Gericht den Monat geheiligt hatte; deshalb musste man Rosch Haschana im Haus des Gerichtes feiern – dort, wo das Gericht anwesend war und den Monat geheiligt hatte – einen einzigen Tag, während man außerhalb dieses Bereichs, im Rahmen der techum-Grenze, zwei Tage einhalten musste. Später verbreitete sich die Nachricht in ganz Erez Israel gemäß der Festlegung des Gerichts, und dann brauchte man die übrigen Feste nur einen Tag zu feiern, wie es in der Tora steht, und so verfuhr man zu allen Zeiten vor dem Exil. Als dann das Exil kam und die Propheten mit ihnen dort waren, legten sie für jene im Exil als Gesetz fest, dass sie zwei Tage feiern sollen, außer Jom Kippur, und zwar nach der Berechnung des Schaltzyklus; und so tat das Volk in allen Städten, und so handelten die Propheten wie Hesekiel und Daniel. Ebenso musste jemand, der vor der Tempelzerstörung verreiste, nach demselben Gesetz handeln. Was die Propheten als Gesetz festgelegt haben, kann nicht aufgehoben werden, und nachdem die Veränderungen durch das Gericht ein Ende hatten, fragte das Volk die Weisen: „Jetzt, da wir die Festlegung des Monats kennen – warum feiern wir noch zwei Tage?“ Und die Antwort lautete: „Ändert nicht den Brauch eurer Väter.“ Denn wer könnte aufheben, was die Propheten in dieser Sache festgelegt haben?",
     "page": "IV, 36",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "16": {
     "id": 16,
@@ -419,7 +660,9 @@
     ],
     "german_translation": "Und bezüglich der zwei Festtage der Diaspora sagen wir, dass schon seit den Tagen Jehoschua ben Nun, als Israel ins Land einzog, eine Bedingung damit verknüpft war. Und was ist der Grund? Weil es aus logischer Sicht unmöglich ist, dass die Bewohner Jerusalems, die Bewohner Galiläas, die Bewohner des Ostjordanlandes und all jene, die weiter entfernt wohnen, den Neumond zur gleichen Stunde sehen könnten; denn die Bewohner des Landes Israel sehen ihn stets früher als der gesamte übrige Weltkreis, wie wir sagen: „Vierundzwanzig Stunden ist der Mond verborgen“. Ebenso war es unmöglich, sofort Boten zu ihnen zu schicken, da das Gebiet Israels sich bis zum Euphrat erstreckte. Deshalb bleibt keine Möglichkeit, außer zu sagen, dass sie sich in den entfernten Gebieten auf die Berechnung und die Interkalation stützten und folglich zwei Tage beobachteten. Und obwohl Berechnung und Sichtung grundsätzlich identisch im Ergebnis sind, sagen wir dennoch, dass es in Erez Israel eine Mizwa ist, nach der tatsächlichen Sichtung zu heiligen – und darüber hinaus gibt es dazu nichts hinzuzufügen. Gibt es etwa etwas, das Mordechai als zwei Purimtage festlegte und Israel sie annahm, während ein von den Weisen festgesetzter Feiertag nicht angenommen würde? Der Ursprung der zwei Festtage der Diaspora wurde aus Rosch Haschana gelernt, da wir dort sagen: Wenn die Zeugen erst nach dem Mincha-Gebet kommen, gilt sowohl jener Tag als auch der folgende als heiliger Tag. Auf ähnliche Weise findest du dies bei den Stämmen, obwohl die Tora sagt: „Es soll kein Erbteil von einem Stamm zu einem anderen übergehen“, legte Jehoschua doch eine Bedingung fest, dass wenn sie es wünschen, sie (Frauen) hinübergehen und heiraten dürfen. So heißt es: „Der Sohn einer Witwe aus dem Stamm Dan“, und an anderer Stelle steht: „aus dem Stamm Naftali“ – wie geht das zusammen? Sein Vater war aus Naftali, aber seine Mutter aus Dan.",
     "page": "IV, 36",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "17": {
     "id": 17,
@@ -440,7 +683,9 @@
     ],
     "german_translation": "",
     "page": "264",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "18": {
     "id": 18,
@@ -461,7 +706,9 @@
     ],
     "german_translation": "Zwei Tage Rosch Haschana an jedem Ort außer  am Beit HaVa'ad (dem Ort des Gerichts).",
     "page": "IV, 35",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "19": {
     "id": 19,
@@ -482,7 +729,9 @@
     ],
     "german_translation": "Die zwei Festtage von Rosch HaSchana gelten als eine einzige Heiligkeit, und sogar im Tempel werden diese beiden Festtage eingehalten. Daher nennt man sie nicht ‘die zwei Festtage der Diaspora'.",
     "page": "275",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "20": {
     "id": 20,
@@ -529,7 +778,9 @@
         "value": "property",
         "order": "8.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "50": {
     "id": 50,
@@ -556,7 +807,9 @@
         "value": "calendar",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "51": {
     "id": 51,
@@ -571,7 +824,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "52": {
     "id": 52,
@@ -586,7 +841,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "53": {
     "id": 53,
@@ -601,7 +858,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "54": {
     "id": 54,
@@ -616,7 +875,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "55": {
     "id": 55,
@@ -631,7 +892,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "56": {
     "id": 56,
@@ -646,7 +909,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "57": {
     "id": 57,
@@ -661,7 +926,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "58": {
     "id": 58,
@@ -676,7 +943,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "59": {
     "id": 59,
@@ -691,7 +960,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "60": {
     "id": 60,
@@ -706,7 +977,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "61": {
     "id": 61,
@@ -721,7 +994,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "62": {
     "id": 62,
@@ -736,7 +1011,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "63": {
     "id": 63,
@@ -751,7 +1028,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "64": {
     "id": 64,
@@ -766,7 +1045,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "65": {
     "id": 65,
@@ -781,7 +1062,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "66": {
     "id": 66,
@@ -796,7 +1079,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "67": {
     "id": 67,
@@ -811,7 +1096,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "68": {
     "id": 68,
@@ -826,7 +1113,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "69": {
     "id": 69,
@@ -841,7 +1130,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "70": {
     "id": 70,
@@ -856,7 +1147,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "71": {
     "id": 71,
@@ -871,7 +1164,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "72": {
     "id": 72,
@@ -886,7 +1181,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "73": {
     "id": 73,
@@ -901,7 +1198,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "74": {
     "id": 74,
@@ -916,7 +1215,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "75": {
     "id": 75,
@@ -931,7 +1232,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "76": {
     "id": 76,
@@ -946,7 +1249,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "77": {
     "id": 77,
@@ -961,7 +1266,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "78": {
     "id": 78,
@@ -976,7 +1283,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "79": {
     "id": 79,
@@ -991,7 +1300,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "80": {
     "id": 80,
@@ -1006,7 +1317,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "81": {
     "id": 81,
@@ -1021,7 +1334,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "82": {
     "id": 82,
@@ -1036,7 +1351,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "83": {
     "id": 83,
@@ -1051,7 +1368,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "84": {
     "id": 84,
@@ -1066,7 +1385,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "85": {
     "id": 85,
@@ -1081,7 +1402,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "86": {
     "id": 86,
@@ -1096,7 +1419,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "87": {
     "id": 87,
@@ -1111,7 +1436,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "88": {
     "id": 88,
@@ -1126,7 +1453,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "89": {
     "id": 89,
@@ -1141,7 +1470,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "90": {
     "id": 90,
@@ -1156,7 +1487,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "91": {
     "id": 91,
@@ -1171,7 +1504,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "92": {
     "id": 92,
@@ -1186,7 +1521,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "93": {
     "id": 93,
@@ -1201,7 +1538,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "94": {
     "id": 94,
@@ -1216,7 +1555,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "95": {
     "id": 95,
@@ -1231,7 +1572,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "96": {
     "id": 96,
@@ -1246,7 +1589,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "97": {
     "id": 97,
@@ -1261,7 +1606,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "98": {
     "id": 98,
@@ -1276,7 +1623,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "99": {
     "id": 99,
@@ -1291,7 +1640,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "100": {
     "id": 100,
@@ -1306,7 +1657,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "101": {
     "id": 101,
@@ -1321,7 +1674,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "102": {
     "id": 102,
@@ -1336,7 +1691,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "103": {
     "id": 103,
@@ -1351,7 +1708,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "104": {
     "id": 104,
@@ -1366,7 +1725,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "105": {
     "id": 105,
@@ -1381,7 +1742,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "106": {
     "id": 106,
@@ -1396,7 +1759,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "107": {
     "id": 107,
@@ -1411,7 +1776,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "108": {
     "id": 108,
@@ -1426,7 +1793,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "109": {
     "id": 109,
@@ -1441,7 +1810,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "110": {
     "id": 110,
@@ -1456,7 +1827,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "111": {
     "id": 111,
@@ -1471,7 +1844,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "112": {
     "id": 112,
@@ -1486,7 +1861,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "113": {
     "id": 113,
@@ -1501,7 +1878,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "114": {
     "id": 114,
@@ -1516,7 +1895,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "115": {
     "id": 115,
@@ -1531,7 +1912,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "116": {
     "id": 116,
@@ -1546,7 +1929,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "117": {
     "id": 117,
@@ -1561,7 +1946,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "118": {
     "id": 118,
@@ -1576,7 +1963,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "119": {
     "id": 119,
@@ -1591,7 +1980,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "120": {
     "id": 120,
@@ -1606,7 +1997,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "121": {
     "id": 121,
@@ -1621,7 +2014,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "122": {
     "id": 122,
@@ -1636,7 +2031,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "123": {
     "id": 123,
@@ -1651,7 +2048,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "124": {
     "id": 124,
@@ -1666,7 +2065,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "125": {
     "id": 125,
@@ -1681,7 +2082,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "126": {
     "id": 126,
@@ -1696,7 +2099,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "127": {
     "id": 127,
@@ -1711,7 +2116,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "128": {
     "id": 128,
@@ -1726,7 +2133,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "129": {
     "id": 129,
@@ -1741,7 +2150,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "130": {
     "id": 130,
@@ -1756,7 +2167,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "131": {
     "id": 131,
@@ -1771,7 +2184,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "132": {
     "id": 132,
@@ -1786,7 +2201,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "133": {
     "id": 133,
@@ -1801,7 +2218,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "134": {
     "id": 134,
@@ -1816,7 +2235,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "135": {
     "id": 135,
@@ -1831,7 +2252,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "136": {
     "id": 136,
@@ -1846,7 +2269,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "137": {
     "id": 137,
@@ -1861,7 +2286,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "138": {
     "id": 138,
@@ -1876,7 +2303,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "139": {
     "id": 139,
@@ -1891,7 +2320,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "140": {
     "id": 140,
@@ -1906,7 +2337,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "141": {
     "id": 141,
@@ -1921,7 +2354,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "142": {
     "id": 142,
@@ -1936,7 +2371,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "143": {
     "id": 143,
@@ -1951,7 +2388,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "144": {
     "id": 144,
@@ -1966,7 +2405,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "145": {
     "id": 145,
@@ -1981,7 +2422,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "146": {
     "id": 146,
@@ -1996,7 +2439,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "147": {
     "id": 147,
@@ -2011,7 +2456,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "148": {
     "id": 148,
@@ -2026,7 +2473,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "149": {
     "id": 149,
@@ -2041,7 +2490,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "150": {
     "id": 150,
@@ -2056,7 +2507,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "151": {
     "id": 151,
@@ -2071,7 +2524,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "152": {
     "id": 152,
@@ -2086,7 +2541,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "153": {
     "id": 153,
@@ -2101,7 +2558,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "154": {
     "id": 154,
@@ -2116,7 +2575,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "155": {
     "id": 155,
@@ -2131,7 +2592,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "156": {
     "id": 156,
@@ -2146,7 +2609,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "157": {
     "id": 157,
@@ -2161,7 +2626,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "158": {
     "id": 158,
@@ -2176,7 +2643,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "159": {
     "id": 159,
@@ -2191,7 +2660,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "160": {
     "id": 160,
@@ -2206,7 +2677,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "161": {
     "id": 161,
@@ -2221,7 +2694,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "162": {
     "id": 162,
@@ -2236,7 +2711,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "163": {
     "id": 163,
@@ -2251,7 +2728,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "164": {
     "id": 164,
@@ -2266,7 +2745,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "165": {
     "id": 165,
@@ -2281,7 +2762,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "166": {
     "id": 166,
@@ -2296,7 +2779,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "167": {
     "id": 167,
@@ -2311,7 +2796,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "168": {
     "id": 168,
@@ -2326,7 +2813,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "169": {
     "id": 169,
@@ -2341,7 +2830,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "170": {
     "id": 170,
@@ -2356,7 +2847,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "171": {
     "id": 171,
@@ -2371,7 +2864,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "172": {
     "id": 172,
@@ -2386,7 +2881,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "173": {
     "id": 173,
@@ -2401,7 +2898,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "174": {
     "id": 174,
@@ -2416,7 +2915,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "175": {
     "id": 175,
@@ -2431,7 +2932,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "176": {
     "id": 176,
@@ -2446,7 +2949,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "177": {
     "id": 177,
@@ -2461,7 +2966,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "178": {
     "id": 178,
@@ -2476,7 +2983,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "179": {
     "id": 179,
@@ -2491,7 +3000,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "180": {
     "id": 180,
@@ -2506,7 +3017,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "181": {
     "id": 181,
@@ -2521,7 +3034,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "182": {
     "id": 182,
@@ -2536,7 +3051,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "183": {
     "id": 183,
@@ -2551,7 +3068,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "184": {
     "id": 184,
@@ -2566,7 +3085,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "185": {
     "id": 185,
@@ -2581,7 +3102,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "186": {
     "id": 186,
@@ -2596,7 +3119,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "187": {
     "id": 187,
@@ -2611,7 +3136,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "188": {
     "id": 188,
@@ -2626,7 +3153,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "189": {
     "id": 189,
@@ -2641,7 +3170,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "190": {
     "id": 190,
@@ -2656,7 +3187,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "191": {
     "id": 191,
@@ -2671,7 +3204,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "192": {
     "id": 192,
@@ -2686,7 +3221,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "193": {
     "id": 193,
@@ -2701,7 +3238,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "194": {
     "id": 194,
@@ -2716,7 +3255,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "195": {
     "id": 195,
@@ -2731,7 +3272,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "196": {
     "id": 196,
@@ -2746,7 +3289,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "197": {
     "id": 197,
@@ -2761,7 +3306,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "198": {
     "id": 198,
@@ -2776,7 +3323,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "199": {
     "id": 199,
@@ -2791,7 +3340,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "200": {
     "id": 200,
@@ -2806,7 +3357,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "201": {
     "id": 201,
@@ -2821,7 +3374,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "202": {
     "id": 202,
@@ -2836,7 +3391,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "203": {
     "id": 203,
@@ -2851,7 +3408,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "204": {
     "id": 204,
@@ -2866,7 +3425,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "205": {
     "id": 205,
@@ -2881,7 +3442,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "206": {
     "id": 206,
@@ -2896,7 +3459,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "207": {
     "id": 207,
@@ -2911,7 +3476,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "208": {
     "id": 208,
@@ -2926,7 +3493,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "209": {
     "id": 209,
@@ -2941,7 +3510,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "210": {
     "id": 210,
@@ -2956,7 +3527,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "211": {
     "id": 211,
@@ -2971,7 +3544,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "212": {
     "id": 212,
@@ -2986,7 +3561,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "213": {
     "id": 213,
@@ -3001,7 +3578,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "214": {
     "id": 214,
@@ -3016,7 +3595,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "215": {
     "id": 215,
@@ -3031,7 +3612,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "216": {
     "id": 216,
@@ -3046,7 +3629,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "217": {
     "id": 217,
@@ -3061,7 +3646,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "218": {
     "id": 218,
@@ -3076,7 +3663,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "219": {
     "id": 219,
@@ -3091,7 +3680,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "220": {
     "id": 220,
@@ -3106,7 +3697,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "221": {
     "id": 221,
@@ -3121,7 +3714,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "222": {
     "id": 222,
@@ -3136,7 +3731,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "223": {
     "id": 223,
@@ -3151,7 +3748,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "224": {
     "id": 224,
@@ -3166,7 +3765,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "225": {
     "id": 225,
@@ -3181,7 +3782,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "226": {
     "id": 226,
@@ -3196,7 +3799,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "227": {
     "id": 227,
@@ -3211,7 +3816,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "228": {
     "id": 228,
@@ -3226,7 +3833,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "229": {
     "id": 229,
@@ -3241,7 +3850,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "230": {
     "id": 230,
@@ -3256,7 +3867,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "231": {
     "id": 231,
@@ -3271,7 +3884,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "232": {
     "id": 232,
@@ -3286,7 +3901,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "233": {
     "id": 233,
@@ -3301,7 +3918,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "234": {
     "id": 234,
@@ -3316,7 +3935,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "235": {
     "id": 235,
@@ -3331,7 +3952,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "236": {
     "id": 236,
@@ -3346,7 +3969,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "237": {
     "id": 237,
@@ -3361,7 +3986,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "238": {
     "id": 238,
@@ -3376,7 +4003,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "239": {
     "id": 239,
@@ -3391,7 +4020,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "240": {
     "id": 240,
@@ -3406,7 +4037,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "241": {
     "id": 241,
@@ -3421,7 +4054,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "242": {
     "id": 242,
@@ -3436,7 +4071,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "243": {
     "id": 243,
@@ -3451,7 +4088,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "244": {
     "id": 244,
@@ -3466,7 +4105,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "245": {
     "id": 245,
@@ -3481,7 +4122,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "246": {
     "id": 246,
@@ -3496,7 +4139,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "247": {
     "id": 247,
@@ -3511,7 +4156,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "248": {
     "id": 248,
@@ -3526,7 +4173,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "249": {
     "id": 249,
@@ -3541,7 +4190,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "250": {
     "id": 250,
@@ -3556,7 +4207,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "251": {
     "id": 251,
@@ -3571,7 +4224,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "252": {
     "id": 252,
@@ -3586,7 +4241,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "253": {
     "id": 253,
@@ -3601,7 +4258,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "254": {
     "id": 254,
@@ -3616,7 +4275,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "255": {
     "id": 255,
@@ -3631,7 +4292,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "256": {
     "id": 256,
@@ -3646,7 +4309,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "257": {
     "id": 257,
@@ -3661,7 +4326,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "258": {
     "id": 258,
@@ -3676,7 +4343,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "259": {
     "id": 259,
@@ -3691,7 +4360,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "260": {
     "id": 260,
@@ -3706,7 +4377,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "261": {
     "id": 261,
@@ -3721,7 +4394,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "262": {
     "id": 262,
@@ -3736,7 +4411,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "263": {
     "id": 263,
@@ -3751,7 +4428,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "264": {
     "id": 264,
@@ -3766,7 +4445,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "265": {
     "id": 265,
@@ -3781,7 +4462,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "266": {
     "id": 266,
@@ -3796,7 +4479,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "267": {
     "id": 267,
@@ -3811,7 +4496,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "268": {
     "id": 268,
@@ -3826,7 +4513,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "269": {
     "id": 269,
@@ -3841,7 +4530,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "270": {
     "id": 270,
@@ -3856,7 +4547,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "271": {
     "id": 271,
@@ -3871,7 +4564,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "272": {
     "id": 272,
@@ -3886,7 +4581,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "273": {
     "id": 273,
@@ -3901,7 +4598,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "274": {
     "id": 274,
@@ -3916,7 +4615,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "275": {
     "id": 275,
@@ -3931,7 +4632,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "276": {
     "id": 276,
@@ -3946,7 +4649,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "277": {
     "id": 277,
@@ -3961,7 +4666,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "278": {
     "id": 278,
@@ -3976,7 +4683,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "279": {
     "id": 279,
@@ -3991,7 +4700,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "280": {
     "id": 280,
@@ -4006,7 +4717,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "281": {
     "id": 281,
@@ -4021,7 +4734,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "282": {
     "id": 282,
@@ -4036,7 +4751,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "283": {
     "id": 283,
@@ -4051,7 +4768,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "284": {
     "id": 284,
@@ -4066,7 +4785,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "285": {
     "id": 285,
@@ -4081,7 +4802,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "286": {
     "id": 286,
@@ -4096,7 +4819,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "287": {
     "id": 287,
@@ -4111,7 +4836,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "288": {
     "id": 288,
@@ -4126,7 +4853,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "289": {
     "id": 289,
@@ -4141,7 +4870,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "290": {
     "id": 290,
@@ -4156,7 +4887,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "291": {
     "id": 291,
@@ -4171,7 +4904,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "292": {
     "id": 292,
@@ -4186,7 +4921,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "293": {
     "id": 293,
@@ -4201,7 +4938,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "294": {
     "id": 294,
@@ -4216,7 +4955,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "295": {
     "id": 295,
@@ -4231,7 +4972,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "296": {
     "id": 296,
@@ -4246,7 +4989,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "297": {
     "id": 297,
@@ -4261,7 +5006,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "298": {
     "id": 298,
@@ -4276,7 +5023,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "299": {
     "id": 299,
@@ -4291,7 +5040,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "300": {
     "id": 300,
@@ -4306,7 +5057,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "301": {
     "id": 301,
@@ -4321,7 +5074,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "302": {
     "id": 302,
@@ -4336,7 +5091,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "303": {
     "id": 303,
@@ -4351,7 +5108,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "304": {
     "id": 304,
@@ -4366,7 +5125,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "305": {
     "id": 305,
@@ -4381,7 +5142,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "306": {
     "id": 306,
@@ -4396,7 +5159,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "307": {
     "id": 307,
@@ -4411,7 +5176,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "308": {
     "id": 308,
@@ -4426,7 +5193,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "309": {
     "id": 309,
@@ -4441,7 +5210,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "310": {
     "id": 310,
@@ -4456,7 +5227,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "311": {
     "id": 311,
@@ -4471,7 +5244,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "312": {
     "id": 312,
@@ -4486,7 +5261,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "313": {
     "id": 313,
@@ -4501,7 +5278,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "314": {
     "id": 314,
@@ -4516,7 +5295,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "315": {
     "id": 315,
@@ -4531,7 +5312,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "316": {
     "id": 316,
@@ -4546,7 +5329,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "317": {
     "id": 317,
@@ -4561,7 +5346,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "318": {
     "id": 318,
@@ -4576,7 +5363,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "319": {
     "id": 319,
@@ -4591,7 +5380,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "320": {
     "id": 320,
@@ -4606,7 +5397,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "321": {
     "id": 321,
@@ -4621,7 +5414,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "322": {
     "id": 322,
@@ -4636,7 +5431,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "323": {
     "id": 323,
@@ -4651,7 +5448,9 @@
     "work": [],
     "german_translation": "",
     "page": "",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "354": {
     "id": 354,
@@ -4672,7 +5471,9 @@
     ],
     "german_translation": "",
     "page": "396ff",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   },
   "355": {
     "id": 355,
@@ -4693,6 +5494,8 @@
     ],
     "german_translation": "",
     "page": "81–85, 97",
-    "keywords": []
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": []
   }
 }
