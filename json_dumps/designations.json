@@ -1,0 +1,284 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "Ẓevi Araẓot",
+    "loi_id": "loi_parallel__1",
+    "passages": [
+      {
+        "id": 5,
+        "value": "The Institutional Hierarchy of Jerusalem",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "form_he": "צבי ארצות",
+    "source": [
+      {
+        "id": 17,
+        "value": "Ezekiel 20:6",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the glory of all lands",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Erets Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "Ir ha-Kodesh",
+    "loi_id": "loi_parallel__2",
+    "passages": [
+      {
+        "id": 2,
+        "value": "The Sages of Israel’s Authority over the Calendar and the Primacy of Jerusalem",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "form_he": "עיר הקודש",
+    "source": [
+      {
+        "id": 55,
+        "value": "Isaiah 48:2",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Isaiah 52:1",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "Nehemiah 11:1",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the holy city",
+    "referent": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "Ẓiyyon",
+    "loi_id": "loi_parallel__3",
+    "passages": [
+      {
+        "id": 4,
+        "value": "Consolation Only in the Joy of the Temple",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "form_he": "ציון",
+    "source": [
+      {
+        "id": 14,
+        "value": "Isaiah 51:3",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "gloss_en": "Zion",
+    "referent": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "order": "4.00000000000000000000",
+    "label": "Ereẓ ha-Ẓevi",
+    "loi_id": "loi_parallel__36",
+    "passages": [],
+    "form_he": "ארץ הצבי",
+    "source": [
+      {
+        "id": 52,
+        "value": "Daniel 11:16",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the glorious land",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Erets Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "order": "5.00000000000000000000",
+    "label": "Medinat Shinar",
+    "loi_id": "loi_parallel__37",
+    "passages": [
+      {
+        "id": 1,
+        "value": "Blessings upon the Communities of Shinar: Greeting to the Babylonian Congregations",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "form_he": "מדינת שנער",
+    "source": [
+      {
+        "id": 20,
+        "value": "Genesis 10:10",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 53,
+        "value": "Daniel 1:2",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "Genesis 11:2",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the province of Shinar (Babylonia)",
+    "referent": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "order": "6.00000000000000000000",
+    "label": "Har ha-Zeitim",
+    "loi_id": "loi_parallel__38",
+    "passages": [],
+    "form_he": "הר הזתים",
+    "source": [
+      {
+        "id": 58,
+        "value": "II Samuel 15:30",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 59,
+        "value": "Zechariah 14:4",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the Mount of Olives",
+    "referent": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "order": "7.00000000000000000000",
+    "label": "Ereẓ Moladetenu",
+    "loi_id": "loi_parallel__39",
+    "passages": [
+      {
+        "id": 6,
+        "value": "Prayer at the Mount of Olives and the Memory of Past Support",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "form_he": "ארץ מולדתנו",
+    "source": [
+      {
+        "id": 60,
+        "value": "Genesis 11:28",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Jeremiah 22:10",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "Ezekiel 23:15",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the land of our birth",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Erets Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "order": "8.00000000000000000000",
+    "label": "Yerushalayim",
+    "loi_id": "loi_parallel__40",
+    "passages": [
+      {
+        "id": 2,
+        "value": "The Sages of Israel’s Authority over the Calendar and the Primacy of Jerusalem",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Jerusalem’s Atoning Power and the Cessation of Joy after the Destruction",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "form_he": "ירושלים",
+    "source": [],
+    "gloss_en": "Jerusalem",
+    "referent": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "9.00000000000000000000",
+    "label": "Ereẓ Yisra’el",
+    "loi_id": "loi_parallel__41",
+    "passages": [],
+    "form_he": "ארץ ישראל",
+    "source": [
+      {
+        "id": 63,
+        "value": "I Samuel 13:19",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "Ezekiel 40:2",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "gloss_en": "Land of Israel",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Erets Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  }
+}

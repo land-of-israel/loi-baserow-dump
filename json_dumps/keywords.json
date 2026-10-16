@@ -5,7 +5,13 @@
     "label": "Ben Meir",
     "notes": "",
     "loi_id": "loi_keyword__1",
-    "passages": []
+    "passages": [
+      {
+        "id": 6,
+        "value": "Prayer at the Mount of Olives and the Memory of Past Support",
+        "order": "6.00000000000000000000"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -182,6 +188,20 @@
         "id": 20,
         "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
         "order": "20.00000000000000000000"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "9.00000000000000000000",
+    "label": "Baghdad Journey",
+    "notes": "",
+    "loi_id": "loi_keyword__71",
+    "passages": [
+      {
+        "id": 6,
+        "value": "Prayer at the Mount of Olives and the Memory of Past Support",
+        "order": "6.00000000000000000000"
       }
     ]
   }

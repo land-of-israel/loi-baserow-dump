@@ -6,7 +6,8 @@
     "geonames": "https://www.geonames.org/2640729/oxford.html",
     "loi_id": "loi_place__1",
     "wikidata": "",
-    "note": null
+    "note": null,
+    "designations": []
   },
   "2": {
     "id": 2,
@@ -15,7 +16,8 @@
     "geonames": "",
     "loi_id": "loi_place__2",
     "wikidata": "",
-    "note": null
+    "note": null,
+    "designations": []
   },
   "3": {
     "id": 3,
@@ -24,6 +26,75 @@
     "geonames": "",
     "loi_id": "loi_place__3",
     "wikidata": "",
-    "note": ""
+    "note": "",
+    "designations": [
+      {
+        "id": 1,
+        "value": "Ẓevi Araẓot",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "Ereẓ ha-Ẓevi",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "Ereẓ Moladetenu",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "order": "4.00000000000000000000",
+    "name": "Jerusalem",
+    "geonames": "",
+    "loi_id": "loi_place__36",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 2,
+        "value": "Ir ha-Kodesh",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Ẓiyyon",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 38,
+        "value": "Har ha-Zeitim",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "order": "5.00000000000000000000",
+    "name": "Babylonia",
+    "geonames": "",
+    "loi_id": "loi_place__37",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 37,
+        "value": "Medinat Shinar",
+        "order": "5.00000000000000000000"
+      }
+    ]
   }
 }
