@@ -24,10 +24,14 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "",
+    "name": "Polemical circular letter",
     "note": "",
     "reference": "",
     "loi_id": "loi_genre__3",
-    "main_genre": null
+    "main_genre": {
+      "id": 23977,
+      "value": "Epistle",
+      "color": "muted-red"
+    }
   }
 }

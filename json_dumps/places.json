@@ -22,7 +22,7 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "Erets Israel/Palestine",
+    "name": "Eretz Israel/Palestine",
     "geonames": "",
     "loi_id": "loi_place__3",
     "wikidata": "",
@@ -47,6 +47,11 @@
         "id": 41,
         "value": "Ereẓ Yisra’el",
         "order": "9.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
       }
     ]
   },
@@ -94,6 +99,11 @@
         "id": 37,
         "value": "Medinat Shinar",
         "order": "5.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "Ha-Golah",
+        "order": "11.00000000000000000000"
       }
     ]
   }

@@ -15,6 +15,21 @@
         "id": 6,
         "value": "Prayer at the Mount of Olives and the Memory of Past Support",
         "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "The Bans Pronounced on Your Behalf and the Letters of Ben Zakkai",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "No Intercalation outside the Land: The Precedent of Jacob",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
+        "order": "9.00000000000000000000"
       }
     ]
   },
@@ -54,6 +69,11 @@
         "id": 6,
         "value": "Prayer at the Mount of Olives and the Memory of Past Support",
         "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "The Bans Pronounced on Your Behalf and the Letters of Ben Zakkai",
+        "order": "7.00000000000000000000"
       }
     ]
   },
@@ -93,6 +113,16 @@
         "id": 6,
         "value": "Prayer at the Mount of Olives and the Memory of Past Support",
         "order": "6.00000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "No Intercalation outside the Land: The Precedent of Jacob",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
+        "order": "9.00000000000000000000"
       }
     ]
   }

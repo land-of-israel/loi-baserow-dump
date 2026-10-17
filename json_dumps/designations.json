@@ -23,7 +23,7 @@
     "referent": [
       {
         "id": 3,
-        "value": "Erets Israel/Palestine",
+        "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
     ]
@@ -114,7 +114,7 @@
     "referent": [
       {
         "id": 3,
-        "value": "Erets Israel/Palestine",
+        "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
     ]
@@ -220,7 +220,7 @@
     "referent": [
       {
         "id": 3,
-        "value": "Erets Israel/Palestine",
+        "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
     ]
@@ -258,7 +258,18 @@
     "order": "9.00000000000000000000",
     "label": "Ereẓ Yisra’el",
     "loi_id": "loi_parallel__41",
-    "passages": [],
+    "passages": [
+      {
+        "id": 7,
+        "value": "The Bans Pronounced on Your Behalf and the Letters of Ben Zakkai",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "form_he": "ארץ ישראל",
     "source": [
       {
@@ -276,7 +287,86 @@
     "referent": [
       {
         "id": 3,
-        "value": "Erets Israel/Palestine",
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "order": "10.00000000000000000000",
+    "label": "Ḥuẓ la-Areẓ",
+    "loi_id": "loi_parallel__42",
+    "passages": [
+      {
+        "id": 8,
+        "value": "No Intercalation outside the Land: The Precedent of Jacob",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "form_he": "חוצה לארץ",
+    "source": [],
+    "gloss_en": "outside the Land",
+    "referent": []
+  },
+  "43": {
+    "id": 43,
+    "order": "11.00000000000000000000",
+    "label": "Ha-Golah",
+    "loi_id": "loi_parallel__43",
+    "passages": [
+      {
+        "id": 9,
+        "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "form_he": "הגולה",
+    "source": [
+      {
+        "id": 66,
+        "value": "Ezra 6:19",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Ezra 6:20",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "Nehemia 7:6",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the exile; diaspora",
+    "referent": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "12.00000000000000000000",
+    "label": "Ha-Areẓ",
+    "loi_id": "loi_parallel__44",
+    "passages": [
+      {
+        "id": 9,
+        "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "form_he": "הארץ",
+    "source": [],
+    "gloss_en": "the Land",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
     ]

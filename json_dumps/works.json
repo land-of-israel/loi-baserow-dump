@@ -28,7 +28,7 @@
     "place": [
       {
         "id": 3,
-        "value": "Erets Israel/Palestine",
+        "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
     ],
@@ -49,9 +49,9 @@
     ],
     "genre": [
       {
-        "id": 1,
-        "value": "Responsum",
-        "order": "1.00000000000000000000"
+        "id": 3,
+        "value": "Polemical circular letter",
+        "order": "3.00000000000000000000"
       }
     ],
     "edition": [
@@ -259,6 +259,21 @@
     "date": [],
     "place": [],
     "loi_id": "loi_work__11",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": []
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "title": "More of Ben Meir",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__12",
     "corpus": [],
     "language": [],
     "genre": [],

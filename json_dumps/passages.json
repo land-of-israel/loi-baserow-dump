@@ -444,7 +444,7 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "title": "",
+    "title": "The Bans Pronounced on Your Behalf and the Letters of Ben Zakkai",
     "text": "ועיר לחזנים והיו קוראים הפתיחים שלכם ומנדים שנאכם ומיכן נטרו איבה עלינו ובי̇י̇י̇ בטחנו לא נבוש ותנינו שבח כבודכם והודענו בכל החסד אשר גמלתונו והיו חמודיי וכל סנהדרין שלנו בצאתם אל כל המקומות מודיעים רוב אהבתינו לכם כי מעולם לא היתה אהבה בין חכמי ארץ ישר(אל) כמות זה הדור יהי רצון שיתמידה רחום ובאילו הימים הגיעו אלינו כל האגרות אשר כתבם דויד האומר בן זכאי הידוע אצלכם במעשיו הטובים ודרכיו התמימים הוא ובניו וכוהן והמתחבר אליהם סעיד בן יוסף אלדלאצי אשר הוא דומה להם והם דומים לו ובעת אשר התבוננו באגרות ידענו רוב חכמתכם אשר אתם יודעים בכבודכם כי פירוש אלף אינם מכירים קל וחומר מכניסים עצמם במה שלא הנחילם חי העולמים ולא הרשם להזכיר בפה כי אתם יודעים שהנביאים הראשונים והחכמים",
     "loi_id": "loi_passage__7",
     "translation": "",
@@ -458,8 +458,8 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "Und [wir wiesen in jeder einzelnen Provinz und Stadt] die Vorbeter an, und sie verlasen eure Bannschreiben (petiḥin) und belegten eure Feinde mit dem Bann; von daher hegten jene Feindschaft gegen uns. Doch auf den Herrn vertrauten wir und wurden nicht zuschanden, sondern trugen das Lob eurer Ehre vor und machten all die Güte bekannt, die ihr uns erwiesen habt. Und meine Teuren und unser ganzer Sanhedrin taten, wenn sie an alle Orte hinauszogen, die Fülle unserer Liebe zu euch kund, denn niemals gab es eine solche Liebe zwischen den Weisen des Landes Israel [und den Weisen Babyloniens?] wie in dieser Generation — möge der Barmherzige wollen, dass sie fortdauere. Und in diesen Tagen erreichten uns alle Briefe, die David geschrieben hat, der sich Ben Zakkai nennt, der euch durch seine guten Werke und seine lauteren Wege bekannt ist, er und seine Söhne, und der Kohen, und der, der sich ihnen anschließt, Saʿīd ben Josef al-Dilāṣī — er gleicht ihnen, und sie gleichen ihm. Und als wir die Briefe betrachteten, erkannten wir die Fülle eurer Weisheit, die ihr in eurer Ehre wisst: dass sie die Deutung des Alef nicht kennen — um wie viel weniger den Schluss vom Leichteren auf das Schwerere —, sich aber in das hineinbegeben, was der Lebendige der Welten ihnen nicht zugeteilt und auszusprechen nicht gestattet hat. Denn ihr wisst, dass die früheren Propheten und die Weisen […]",
+    "page": "[L1BM1 Bodl. Ms Heb f. 26.3 recto, L1BM2 T-S 8K7 verso] p. 229-231",
     "keywords": [
       {
         "id": 2,
@@ -467,18 +467,41 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "spatial_coding": [],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "title": "",
+    "title": "No Intercalation outside the Land: The Precedent of Jacob",
     "text": "נמנעו מלעבר בחוצה לארץ וראיה לדבר מאבינו יעקוב ז̇צ̇ל̇ שכך למדנו מרבותינו ז̇ל̇ כשיצא יעקוב אבינו לחוצה לארץ",
     "loi_id": "loi_passage__8",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 1,
+        "value": "Pirkei DeRabbi Eliezer 8",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
     "work": [
@@ -488,8 +511,8 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "sich davon zurückhielten, außerhalb des Landes zu interkalieren; ein Beweis dafür ist unser Vater Jakob seligen Andenkens, denn so haben wir von unseren Lehrern seligen Andenkens gelernt: Als unser Vater Jakob ins Ausland hinausging (Pirqei de Rabbi Eliezer Kap. 8)",
+    "page": "[L1BM2 T-S 8K7 verso]; p. 231",
     "keywords": [
       {
         "id": 2,
@@ -497,20 +520,43 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "spatial_coding": [],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "title": "",
+    "title": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
     "text": "שאמ(ר) ר(בי) בכך יורה יורה ידין ידין יתיר בכורות אל יתיר בכורות ומכלל כל הדברים הללו יש הרשות לחבורת ארץ יש(ראל) על חכמי בני הגולה ואין לבני הגולה רשות על בני ארץ יש(ראל) גם כמה שי\\[פ\\]ורץ בתלמודם יורו לומר דשלחו מתם ולא נראתה ולא נשמעה מעולם לבני הגולה להורות או לדון או להעמיד רשות להם את בני ארץ ישראל ועוד תלמודם מעיד בכמה הוריות ועיבורים לרבן גמליאל אבינו ז̇ל̇ כרצונו ואין ממיר בארץ מכל החכמים שהיו בדורו כל שכן בחוץ לארץ ולפיכך הוצרכנו עתה לבאר לכם סוד ארבעה שעות להראות כי מאחר שהרשות בידנו לעבר לא בדאו ולא באפס שורש מחשבון הכריז חמודנו גם להודיעכם ביאור כל שער ושער אשר למדנו מן החכמ(ים) הראשונים ז̇ל̇",
     "loi_id": "loi_passage__9",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
+    "bibl_quotes": [
+      {
+        "id": 65,
+        "value": "Sanhedrin 5a",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "commentary": "The juridical core of the letter. Rabbi Judah ha-Nasi’s partial ordination of Rav (bSan 5a–b) is adduced as proof: a Palestinian authority granted a Babylonian scholar licence to teach and to judge while withholding competence in the matter of firstborn animals. From this the letter infers a one-directional jurisdiction — the ḥavurah of Eretz Israel holds authority over the sages of the exile, and the exiles none over the inhabitants of the Land. The Babylonian Talmud is turned against its own custodians: its recurrent formula “they sent from there” records rulings travelling westward to eastward, never the reverse, and no instance exists of the exiles instructing, judging, or appointing authority over Palestine. A second argument follows from Rabban Gamliel, invoked as the senders’ own ancestor, whose rulings and intercalations met no opposition even within the Land. The unit closes by turning to the technical matter at issue, announcing an exposition of the “secret of the four hours” and of each of the gates as received from the earlier sages.",
     "work": [
       {
         "id": 1,
@@ -518,8 +564,8 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "german_translation": null,
-    "page": null,
+    "german_translation": "denn so sagte Rabbi: „Er darf lehren — er darf lehren; er darf richten — er darf richten; Erstgeborene freigeben — er darf nicht freigeben.” (bSanh 5a) Und aus all diesen Dingen ergibt sich, dass das Kollegium (ḥavurah) des Landes Israel Vollmacht über die Weisen der Benei ha-Golah (der Diaspora) hat, während die Benei ha-Golah keine Vollmacht über die Benei Ereẓ Yisra’el (die im Land Israel) besitzen; auch wo immer es in ihrem Talmud [auf]bricht, lehren sie zu sagen „sie sandten von dort”, doch ist niemals gesehen oder gehört worden, dass die Diaspora die Autorität gehabt hätte, Entscheidungen zu treffen, zu richten oder Vollmacht über die Benei Ereẓ Yisra’el auszuüben. Zudem bezeugt ihr eigener Talmud in vielen Entscheidungen und bei der Festlegung von Schaltjahren, dass Rabban Gamliel, unser Vater seligen Andenkens, nach seinem Willen handelte, ohne dass ihm irgendeiner der Weisen seiner Generation im Land widersprach – geschweige denn außerhalb des Landes. Deshalb sahen wir uns nun veranlasst, euch das Geheimnis der vier Stunden (sod arbaʿah shaʿot) zu erklären, um zu zeigen, dass, da die Vollmacht bei uns liegt, unser Geliebter nichts Erdachtes und nichts ohne Wurzel in der Berechnung verkündet hat, und zugleich euch die Erklärung jedes einzelnen Tores (shaʿar) darzulegen, so wie wir es von den frühen Weisen seligen Andenkens gelernt haben.",
+    "page": "[L1BM1 Bodl. Ms Heb f. 26.4 recto]; p. 232-233",
     "keywords": [
       {
         "id": 2,
@@ -527,21 +573,54 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "spatial_coding": [],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "Ha-Golah",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "title": "More of Ben Meir",
+    "title": "",
     "text": "ואין משגיחין בעיבור החודש ובקידוש החודש אלא על בני ארץ ישראל לא על בני בבל, ואפילו המלומד בתורה ואינו בקיא בסוד העיבור אין מעברין את השנה ואין מקדשין את החודש על פיו, שהרי אמרו בתלמוד: אמר שמואל יכילנא לתקונה לכולה גולה. אמליה אבוי דרבי שמלאי: ידע מר הא דתניא בסוד העיבור מחשבין את תולדתו, נולד קודם חצות או אחר חצות, אמליה: לא, אמליה: מדהא לא ידע מר איכא נמי מילי אחרנייתא דלא ידע מר. והרי מר שמואל גבור בתורה ומאבות העולם והיו דברים אלו נעלמים ממנו. וכן אנו אומרים בתלמוד שלבני ארץ ישראל תני לקידוש החודש מתחילין מן הגדול. אמר רבי חייה בר אדא מתניתא אמרה כן: ראש בית דין אומר מקודש. תני לעיבור השנה מתחילין מן הצד... וכבר נכנס רבי יוחנן והוא היה הקטן שבהם, אמרו לו: אמור הרי השנה מקודשת בעיבורה, אמר רבי יוחנן: הרי השנה מקודשת בעיבורה. אמר רבי יונתן ראה לשון שלימדנו בן הנפח, אילו אמר בעיבורה הייתי אומר אלו י״א יום שהחמה עודפת על הלבנה בכל שנה אלא בעיבורה שהוסיפו לה חכמים שלשים יום. רבי יעקב בר אדא ורבי יסא בשם רבי יוחנן לעיבור הולכין אחר המינוי, לבית הועד הולכין אחר הרגיל והוא שיהא כל אחד ואחד יושב במקומו... ואין חוששין לדברי הקובע חדשים בחשוב המולדות לבד ומארבעה שערים ומי שעיבר בלא ראיה",
     "loi_id": "loi_passage__10",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
+    "work": [
+      {
+        "id": 12,
+        "value": "More of Ben Meir",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "german_translation": "",
     "page": null,
     "keywords": [

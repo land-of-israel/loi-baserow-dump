@@ -2,15 +2,19 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "label": "",
-    "excerpt": "",
-    "loi_id": "loi_parallel__1"
+    "label": "Pirkei DeRabbi Eliezer 8",
+    "excerpt": "Isaac gave to Jacob all the blessings and delivered to him the principle of intercalation. When Jacob went out of the (Holy) Land, he attempted to intercalate the year outside the (Holy) Land. The Holy One, blessed be He, said to him: Jacob! Thou hast no authority to intercalate the year outside the land (of Israel);",
+    "loi_id": "loi_parallel__1",
+    "excerpt_he": "יִצְחָק מָסַר לְיַעֲקֹב וְנִכְנַס בְּסוֹד הָעִבּוּר וְעִבֵּר אֶת הַשָּׁנָה. יָצָא יַעֲקֹב לְחוּצָה לָאָרֶץ וּבִקֵּשׁ לְעַבֵּר אֶת הַשָּׁנָה בְּחוּצָה לָאָרֶץ. אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא: ״יַעֲקֹב, אֵין לְךָ רְשׁוּת לְעַבֵּר אֶת הַשָּׁנָה בְּחוּצָה לָאָרֶץ",
+    "url": "https://www.sefaria.org/Pirkei_DeRabbi_Eliezer.8.1?lang=bi"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "label": "",
     "excerpt": "",
-    "loi_id": "loi_parallel__2"
+    "loi_id": "loi_parallel__2",
+    "excerpt_he": null,
+    "url": ""
   }
 }
