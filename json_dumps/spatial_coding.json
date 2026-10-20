@@ -30,6 +30,16 @@
         "id": 9,
         "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
         "order": "9.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Both Talmuds on Calendrical Authority",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 358,
+        "value": "Ha-Ḥodesh as Notarikon: The Four Gates Given to the Men of the Great Assembly",
+        "order": "10.50000000000000000000"
       }
     ]
   },
@@ -74,6 +84,11 @@
         "id": 7,
         "value": "The Bans Pronounced on Your Behalf and the Letters of Ben Zakkai",
         "order": "7.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Both Talmuds on Calendrical Authority",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -123,6 +138,11 @@
         "id": 9,
         "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
         "order": "9.00000000000000000000"
+      },
+      {
+        "id": 358,
+        "value": "Ha-Ḥodesh as Notarikon: The Four Gates Given to the Men of the Great Assembly",
+        "order": "10.50000000000000000000"
       }
     ]
   }

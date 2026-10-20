@@ -11,10 +11,10 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "label": "",
-    "excerpt": "",
+    "label": "bSanhedrin 10b",
+    "excerpt": "The mishna teaches: The intercalation of the month is performed by a panel of three judges. The Gemara extrapolates: The tanna does not teach: The calculation to determine if the month must be extended is performed by three judges, and he does not teach: The sanctification of the new month is performed by three judges; rather, he teaches: The intercalation of the month, referring to the decision to extend the month by an extra day and begin the following month on the thirty-first day instead of the thirtieth, is performed by a panel of three judges. The Gemara asks: Why are judges necessary to extend the month? Simply do not sanctify the new month, and let the previous month be intercalated by itself. When the thirtieth day of any month is not declared the first day of the new month, the earlier month is extended by default. Why, then, does the mishna specify: Intercalation?",
     "loi_id": "loi_parallel__2",
-    "excerpt_he": null,
-    "url": ""
+    "excerpt_he": "עִיבּוּר הַחֹדֶשׁ בִּשְׁלֹשָׁה. חִישּׁוּב לָא קָתָנֵי, קִידּוּשׁ לָא קָתָנֵי, אֶלָּא עִיבּוּר. לָא לִיקַדְּשֵׁיהּ, וּמִמֵּילָא לִעַבַּר?",
+    "url": "https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.1.2.11?lang=bi&with=Navigation&lang2=en"
   }
 }

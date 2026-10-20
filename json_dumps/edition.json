@@ -36,6 +36,36 @@
         "id": 1,
         "value": "First Letter of Ben Meir",
         "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "More of Ben Meir",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "Mekhaleket Rav Sadya ve Gaon ben Meir",
+    "editor": [
+      {
+        "id": 2,
+        "value": "Chaim Bornstein",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__3",
+    "works": [
+      {
+        "id": 2,
+        "value": "More of Ben Meir",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "Second Letter of Rav Saadyah Gaon",
+        "order": "12.00000000000000000000"
       }
     ]
   }

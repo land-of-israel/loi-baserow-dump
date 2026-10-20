@@ -607,22 +607,39 @@
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "title": "",
+    "title": "Both Talmuds on Calendrical Authority",
     "text": "ואין משגיחין בעיבור החודש ובקידוש החודש אלא על בני ארץ ישראל לא על בני בבל, ואפילו המלומד בתורה ואינו בקיא בסוד העיבור אין מעברין את השנה ואין מקדשין את החודש על פיו, שהרי אמרו בתלמוד: אמר שמואל יכילנא לתקונה לכולה גולה. אמליה אבוי דרבי שמלאי: ידע מר הא דתניא בסוד העיבור מחשבין את תולדתו, נולד קודם חצות או אחר חצות, אמליה: לא, אמליה: מדהא לא ידע מר איכא נמי מילי אחרנייתא דלא ידע מר. והרי מר שמואל גבור בתורה ומאבות העולם והיו דברים אלו נעלמים ממנו. וכן אנו אומרים בתלמוד שלבני ארץ ישראל תני לקידוש החודש מתחילין מן הגדול. אמר רבי חייה בר אדא מתניתא אמרה כן: ראש בית דין אומר מקודש. תני לעיבור השנה מתחילין מן הצד... וכבר נכנס רבי יוחנן והוא היה הקטן שבהם, אמרו לו: אמור הרי השנה מקודשת בעיבורה, אמר רבי יוחנן: הרי השנה מקודשת בעיבורה. אמר רבי יונתן ראה לשון שלימדנו בן הנפח, אילו אמר בעיבורה הייתי אומר אלו י״א יום שהחמה עודפת על הלבנה בכל שנה אלא בעיבורה שהוסיפו לה חכמים שלשים יום. רבי יעקב בר אדא ורבי יסא בשם רבי יוחנן לעיבור הולכין אחר המינוי, לבית הועד הולכין אחר הרגיל והוא שיהא כל אחד ואחד יושב במקומו... ואין חוששין לדברי הקובע חדשים בחשוב המולדות לבד ומארבעה שערים ומי שעיבר בלא ראיה",
     "loi_id": "loi_passage__10",
     "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
+    "parallel_text": [
+      {
+        "id": 2,
+        "value": "bSanhedrin 10b",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 69,
+        "value": "bRosh ha-Shanah 20b",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "ySanhedrin 1:2",
+        "order": "40.00000000000000000000"
+      }
+    ],
     "commentary": "",
     "work": [
       {
-        "id": 12,
+        "id": 2,
         "value": "More of Ben Meir",
-        "order": "12.00000000000000000000"
+        "order": "2.00000000000000000000"
       }
     ],
-    "german_translation": "",
-    "page": null,
+    "german_translation": "Und man richtet sich bei der Festsetzung eines Schaltmonats und bei der Heiligung des Monats ausschließlich nach den Bewohnern des Landes Israel, nicht nach denen von Bavel; selbst wenn jemand in der Tora gelehrt ist, aber im Geheimnis der Interkalation (sod ha-ʿibbur) nicht bewandert, darf man weder ein Jahr nach seinem Urteil einschalten noch den Monat nach ihm heiligen. Denn so heißt es im Talmud (bRosh ha-Shanah 20b): Samuel sagte: „Ich könnte den Kalender für die ganze Diaspora in Ordnung bringen.” Da sagte ihm der Vater des Rabbi Simlai: „Weiß der Herr, was gelehrt wurde: dass man im Geheimnis der Interkalation die Geburt (des Neumondes) berechnet, ob sie vor Mittag oder nach Mittag eintritt?” Er sagte ihm: „Nein.” Er sagte ihm: „Da der Herr dies nicht weiß, gibt es auch noch andere Dinge, die der Herr nicht weiß.” Und dabei war Mar Samuel mächtig in der Tora und von den Vätern der Welt — und dennoch waren ihm diese Dinge verborgen. Und ebenso sagen wir im Talmud der Bewohner des Landes Israel (ySanhedrin 1:2, 18c–d): Gelehrt wurde: Für die Heiligung des Monats beginnt man vom Größten. Rabbi Ḥiyya bar Adda sagte: Die Mischna sagt es so: Das Oberhaupt des Gerichtshofs spricht „Geheiligt!”. Gelehrt wurde: Für die Einschaltung des Jahres beginnt man von der Seite (vgl. bSanhedrin 10b) … Und einst trat Rabbi Yoḥanan ein, und er war der Jüngste unter ihnen; sie sagten zu ihm: „Sprich: Das Jahr ist durch seine Einschaltung geheiligt.” Rabbi Yoḥanan sagte: „Das Jahr ist durch seine Einschaltung geheiligt.” Rabbi Jonathan sagte: Sieh die Ausdrucksweise, die uns der Sohn des Schmieds (Rabbi Yoḥanan bar Nappaḥa) gelehrt hat: Hätte er [die andere Form] gesagt, so hätte ich gesagt, es seien jene elf Tage, um welche die Sonne den Mond in jedem Jahr übertrifft; vielmehr „durch seine Einschaltung” — dass die Weisen ihm dreißig Tage hinzugefügt haben. Rabbi Yaʿakov bar Adda und Rabbi Yissa im Namen des Rabbi Yoḥanan: Bei der Einschaltung geht man nach der Ernennung, beim Versammlungshaus nach dem Gewohnten, und zwar so, dass ein jeder an seinem Platz sitzt. Und man achtet nicht auf die Worte dessen, der die Monate allein nach der Berechnung der Konjunktionen (moladot) und nach den Vier Toren (arbaʿah sheʿarim) festlegt, noch auf den, der eingeschaltet hat ohne Beobachtung (reʾiyah).",
+    "page": "p. 94-95",
     "keywords": [
       {
         "id": 2,
@@ -630,9 +647,112 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "spatial_coding": [],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "358": {
+    "id": 358,
+    "order": "10.50000000000000000000",
+    "title": "Ha-Ḥodesh as Notarikon: The Four Gates Given to the Men of the Great Assembly",
+    "text": "החדש\" דרשי ליה רבנן בלשון נוטריקון: החדש — הנה חשבון ד' שערים.  \nומאי ניהו, אלו שערי בינה שנמסרו לאנשי כנסת הגדולה לדחות ראש השנה וניסן מיום ולמחרתים ולקבעם בזמן הראוי להם.",
+    "loi_id": "loi_passage__358",
+    "translation": "",
+    "parallel_text": [],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 2,
+        "value": "More of Ben Meir",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "german_translation": "Das Wort ha-chodesh deuten die Rabbanan als Notarikon (Akronym): „Siehe, die Berechnung der vier Tore.” Gemeint sind die „Tore der Einsicht”, die den Männern der Großen Versammlung übergeben wurden, um Rosch ha-Schana und Nissan um einen Tag oder zwei zu verschieben und sie auf den ihnen angemessenen Zeitpunkt festzusetzen.",
+    "page": "103",
+    "keywords": [],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
+  },
+  "359": {
+    "id": 359,
+    "order": "10.66666666666666607455",
+    "title": "Saadiah’s Circular: The Warning from Aleppo and the Call to the Communities",
+    "text": "הקדמתי מקץ שני חדשים וכתבתי אליכם אגרת ובתוכה אגרות ראשי הגולה, יעזרנו קדשנו, וכל ראשי הישיבות יאמצם משגבנו, להודיעכם כי בתוך הקיץ שעבר  \nבחלב שמעתי כי בן מאיר חושב להכריז מרחשון וכסלו חסרין וכתבתי אני  \nכמה איגרות להזהירו לבלתי להעיז ולהודיעו כי המה שלמים. ושבתי אני  \nוירדתי בגדד להיות סגור כי קבל, עד אשר באה השמועה בבגדד כי הכריז חסרין,  \nועל זאת נבהלו כל רבותינו חכמי הישיבות כי כמוהו לא נהיה מעולם להכריז המועדים  \nשלא כהלכה, ועל כן כתבו אל כל הקהלות... כי המה שלמין ותסכם בשלישי, ואין בינינו  \nחלוקה ואין פרץ ואין יוצאת ואין צוחה ברחובותינו. ושלחתי מקץ שני חדשים את  \nאגרותיהם אליכם בתוך אגרת אגרת. ואת כבודם הקבצו וקראום ועמדו על עמדכם ואזרו  \nכגברים חלציכם כאנשי חיל למלחמה וחוסו על ישראל ועל נחלת ד' לבל יאכלו  \nחמץ בפסח ובל יאכלו וישתו ויעשו מלאכה ביום הכפורים",
+    "loi_id": "loi_passage__359",
+    "translation": null,
+    "parallel_text": [],
+    "bibl_quotes": [
+      {
+        "id": 74,
+        "value": "Psalms 144:14",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "Job 38:3",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "Job 40:7",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "commentary": "",
+    "work": [
+      {
+        "id": 12,
+        "value": "Second Letter of Rav Saadyah Gaon",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "german_translation": "... Ich habe nach zwei Monaten vorab einen Brief an euch gesandt und darin die Schreiben der Häupter der Diaspora — unser Heiliger stehe uns bei — und aller Häupter der Lehrhäuser — unser Hort stärke sie —, um euch mitzuteilen, dass ich im vergangenen Sommer in Aleppo hörte, Ben Meir beabsichtige, Marcheschwan und Kislew als „mangelhafte” Monate auszurufen. Und ich schrieb mehrere Briefe, um ihn zu warnen, sich das nicht herauszunehmen, und ihm mitzuteilen, dass sie „volle” Monate sind.\nDann kehrte ich um und zog nach Bagdad hinab, in der Annahme, er habe die Mahnung angenommen — bis in Bagdad die Nachricht eintraf, dass er sie doch als „mangelhaft” ausgerufen hatte. Darüber entsetzten sich alle unsere Lehrer, die Weisen der Lehrhäuser, denn dergleichen hatte es nie gegeben: die Festzeiten entgegen der Halacha auszurufen.\nDeshalb schrieben sie an alle Gemeinden ..., dass sie „voll” sind und [das Fest] auf den dritten [Wochentag] fällt, und dass es unter uns keine Spaltung gibt, „kein Einbruch und kein Auszug und kein Wehgeschrei auf unseren Plätzen” (Ps 144,14).\nUnd ich sandte nach zwei Monaten ihre Schreiben an euch, Brief für Brief. Ihr aber, Geehrte, versammelt euch, lest sie vor, steht auf eurem Posten und „gürtet wie Männer eure Lenden” (Hi 38,3; 40,7), gleich Kriegsleuten zur Schlacht, und habt Erbarmen mit Israel und mit dem Erbteil des Herrn, damit sie nicht Gesäuertes an Pessach essen und nicht essen, trinken und Arbeit verrichten am Versöhnungstag ...",
+    "page": "70-71",
+    "keywords": [],
+    "spatial_coding": [],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 46,
+        "value": "Naḥalat YHWH",
+        "order": "14.00000000000000000000"
+      }
+    ]
   },
   "11": {
     "id": 11,

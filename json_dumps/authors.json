@@ -19,7 +19,13 @@
     "loi_id": "loi_author__2",
     "birth_date": [],
     "death_date": [],
-    "parallel_texts 2": []
+    "parallel_texts 2": [
+      {
+        "id": 3,
+        "value": "Mekhaleket Rav Sadya ve Gaon ben Meir",
+        "order": "3.00000000000000000000"
+      }
+    ]
   },
   "3": {
     "id": 3,

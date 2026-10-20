@@ -70,13 +70,13 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "title": "Mekhaleket rav sedya ve gaon ben meir",
+    "title": "More of Ben Meir",
     "reference": "",
     "author": [
       {
-        "id": 2,
-        "value": "Chaim Bornstein",
-        "order": "2.00000000000000000000"
+        "id": 1,
+        "value": "Aharon Ben Meir",
+        "order": "1.00000000000000000000"
       }
     ],
     "manuscript": [],
@@ -92,7 +92,18 @@
       }
     ],
     "genre": [],
-    "edition": []
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Mekhaleket Rav Sadya ve Gaon ben Meir",
+        "order": "3.00000000000000000000"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -267,16 +278,34 @@
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "title": "More of Ben Meir",
+    "title": "Second Letter of Rav Saadyah Gaon",
     "reference": "",
-    "author": [],
+    "author": [
+      {
+        "id": 3,
+        "value": "Saadya",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "manuscript": [],
     "date": [],
-    "place": [],
+    "place": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "loi_id": "loi_work__12",
     "corpus": [],
     "language": [],
     "genre": [],
-    "edition": []
+    "edition": [
+      {
+        "id": 3,
+        "value": "Mekhaleket Rav Sadya ve Gaon ben Meir",
+        "order": "3.00000000000000000000"
+      }
+    ]
   }
 }

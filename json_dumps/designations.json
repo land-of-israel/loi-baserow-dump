@@ -268,6 +268,11 @@
         "id": 9,
         "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
         "order": "9.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Both Talmuds on Calendrical Authority",
+        "order": "10.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -363,6 +368,74 @@
     "form_he": "הארץ",
     "source": [],
     "gloss_en": "the Land",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "order": "13.00000000000000000000",
+    "label": "Bavel",
+    "loi_id": "loi_parallel__45",
+    "passages": [
+      {
+        "id": 10,
+        "value": "Both Talmuds on Calendrical Authority",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "form_he": "בבל",
+    "source": [
+      {
+        "id": 20,
+        "value": "Genesis 10:10",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "gloss_en": "Babylonia",
+    "referent": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "order": "14.00000000000000000000",
+    "label": "Naḥalat YHWH",
+    "loi_id": "loi_parallel__46",
+    "passages": [
+      {
+        "id": 359,
+        "value": "Saadiah’s Circular: The Warning from Aleppo and the Call to the Communities",
+        "order": "10.66666666666666607455"
+      }
+    ],
+    "form_he": "נחלת ד׳",
+    "source": [
+      {
+        "id": 71,
+        "value": "I Samuel 26:19",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "II Samuel 20:19",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "II Samuel 14:16",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the inheritance of the Lord",
     "referent": [
       {
         "id": 3,
