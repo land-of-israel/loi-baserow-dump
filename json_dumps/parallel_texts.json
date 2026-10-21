@@ -16,5 +16,23 @@
     "loi_id": "loi_parallel__2",
     "excerpt_he": "עִיבּוּר הַחֹדֶשׁ בִּשְׁלֹשָׁה. חִישּׁוּב לָא קָתָנֵי, קִידּוּשׁ לָא קָתָנֵי, אֶלָּא עִיבּוּר. לָא לִיקַדְּשֵׁיהּ, וּמִמֵּילָא לִעַבַּר?",
     "url": "https://www.sefaria.org/Jerusalem_Talmud_Sanhedrin.1.2.11?lang=bi&with=Navigation&lang2=en"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "Jeremiah 17:8",
+    "excerpt": "He shall be like a tree planted by waters,\nSending forth its roots by a stream:\nIt does not sense the coming of heat,\nIts leaves are ever fresh;\nIt has no care in a year of drought,\nIt does not cease to yield fruit.",
+    "loi_id": "loi_parallel__3",
+    "excerpt_he": "וְהָיָה כְּעֵץ  שָׁתוּל עַל־מַיִם וְעַל־יוּבַל יְשַׁלַּח שׇׁרָשָׁיו וְלֹא (ירא) [יִרְאֶה] כִּי־יָבֹא חֹם וְהָיָה עָלֵהוּ רַעֲנָן וּבִשְׁנַת בַּצֹּרֶת לֹא יִדְאָג וְלֹא יָמִישׁ מֵעֲשׂוֹת פֶּרִי",
+    "url": ""
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": "Proverbs 22:28",
+    "excerpt": "Do not remove the ancient boundary stone\nThat your ancestors set up.",
+    "loi_id": "loi_parallel__4",
+    "excerpt_he": "אַל־תַּסֵּג גְּבוּל עוֹלָם אֲשֶׁר עָשׂוּ אֲבוֹתֶיךָ",
+    "url": "https://www.sefaria.org/Proverbs.22.28?lang=bi&with=all&lang2=en"
   }
 }

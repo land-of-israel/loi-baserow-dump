@@ -692,7 +692,13 @@
     ],
     "german_translation": "Das Wort ha-chodesh deuten die Rabbanan als Notarikon (Akronym): „Siehe, die Berechnung der vier Tore.” Gemeint sind die „Tore der Einsicht”, die den Männern der Großen Versammlung übergeben wurden, um Rosch ha-Schana und Nissan um einen Tag oder zwei zu verschieben und sie auf den ihnen angemessenen Zeitpunkt festzusetzen.",
     "page": "103",
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 2,
+        "value": "calendar dispute",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "spatial_coding": [
       {
         "id": 1,
@@ -737,20 +743,189 @@
     "work": [
       {
         "id": 12,
-        "value": "Second Letter of Rav Saadyah Gaon",
+        "value": "Second Letter of Rav Saadya Gaon",
         "order": "12.00000000000000000000"
       }
     ],
     "german_translation": "... Ich habe nach zwei Monaten vorab einen Brief an euch gesandt und darin die Schreiben der Häupter der Diaspora — unser Heiliger stehe uns bei — und aller Häupter der Lehrhäuser — unser Hort stärke sie —, um euch mitzuteilen, dass ich im vergangenen Sommer in Aleppo hörte, Ben Meir beabsichtige, Marcheschwan und Kislew als „mangelhafte” Monate auszurufen. Und ich schrieb mehrere Briefe, um ihn zu warnen, sich das nicht herauszunehmen, und ihm mitzuteilen, dass sie „volle” Monate sind.\nDann kehrte ich um und zog nach Bagdad hinab, in der Annahme, er habe die Mahnung angenommen — bis in Bagdad die Nachricht eintraf, dass er sie doch als „mangelhaft” ausgerufen hatte. Darüber entsetzten sich alle unsere Lehrer, die Weisen der Lehrhäuser, denn dergleichen hatte es nie gegeben: die Festzeiten entgegen der Halacha auszurufen.\nDeshalb schrieben sie an alle Gemeinden ..., dass sie „voll” sind und [das Fest] auf den dritten [Wochentag] fällt, und dass es unter uns keine Spaltung gibt, „kein Einbruch und kein Auszug und kein Wehgeschrei auf unseren Plätzen” (Ps 144,14).\nUnd ich sandte nach zwei Monaten ihre Schreiben an euch, Brief für Brief. Ihr aber, Geehrte, versammelt euch, lest sie vor, steht auf eurem Posten und „gürtet wie Männer eure Lenden” (Hi 38,3; 40,7), gleich Kriegsleuten zur Schlacht, und habt Erbarmen mit Israel und mit dem Erbteil des Herrn, damit sie nicht Gesäuertes an Pessach essen und nicht essen, trinken und Arbeit verrichten am Versöhnungstag ...",
     "page": "70-71",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 2,
+        "value": "calendar dispute",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": [
       {
         "id": 46,
         "value": "Naḥalat YHWH",
         "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "360": {
+    "id": 360,
+    "order": "10.75000000000000000000",
+    "title": "The Assembly of the Academies: The True Four Gates against Ben Meir’s Reckoning",
+    "text": "לא דיו \\[לבן מאיר\\] שטעה בשלש שנים הללו וגרם למקצת ישראל אשר  \nסביבותיו לחלל את המועדות האלה, אלא בקש לטעת דברי טעות בתוך בני ישראל  \nלחלל את המועדות הבאים, ולהוסיף על חטא פשע, להכשיל רבים בתורה, לשוטה  \nבעם מוקש אשר לא ימיש פריו. ובכן ציונו ונאספו הראשים והאלופים והחכמים והתלמידים ונועצנו מה לעשות למכשול הגדול הזה אשר הביאו בן מאיר, ולהעמיד עצתם  \nויאמרו... ראוי לכתב... לזכרון בתוך כל ישראל להודיעם... ולהזהירם ולצוות אותם כי  \nלא סתם ונחבא... אשר ימצאהו בקרא היום וכתוב בם חלקון נ\"ב במקום תש\"א,  \nאו תמ\"ח במקום רד\"א, או תרמ\"ט במקום ת\"ח, או שעה רנ\"ג במקום תרצ\"ח, או שעה  \nק\"ג במקום תקפ\"ז, לא יסמכו עליהן ולא ישגיחו בהן. כי בן מאיר בא מלבו בעת הזאת  \nולא מפי המדינות. אבל ארבעה שערים האמתיים אשר המה מצויים בתוך כל בני ישראל  \nאשר בכל המדינות, מסורת שער ראשון תש\"א ור\"ד, ומסורת שער שני תרצ\"א ור\"ד,  \nומסורת שער שלישי שעות ור\"ד, ומסורת שער רביעי תצ\"א ור\"ד ותקפ\"ט, כאשר  \nמסרום לנו רבותינו בהלכה למעשה\"... ... כן כן לימדונו רבותינו : \"אמר שמואל יכילנא  \nלתקוני לכולה גולה, אמר ליה אבא אבוה דר' שמלאי לשמואל, ידע מר האי מילתא דתנא סוד  \nהעיבור נולד קודם חצות או לאחר חצות, אמר ליה: לא. אמר ליה: ומדידע לא ידע מר\"  \nומפרשי רבנן מאי ניהו מילי אחרנייתא: ר\"ד ות\"ח תצ\"א ותרצ\"ה ותקפ\"ט",
+    "loi_id": "loi_passage__360",
+    "translation": "",
+    "parallel_text": [
+      {
+        "id": 3,
+        "value": "Jeremiah 17:8",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 69,
+        "value": "bRosh ha-Shanah 20b",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "commentary": "",
+    "work": [
+      {
+        "id": 13,
+        "value": "More of Saadya Gaon",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "german_translation": "… Es genügte [Ben Meir] nicht, dass er sich in diesen drei Jahren geirrt und einen Teil Israels in seiner Umgebung dazu gebracht hat, diese Festzeiten zu entweihen — vielmehr suchte er, irrige Lehren unter den Kindern Israels zu pflanzen, um auch die kommenden Festzeiten zu entweihen, Frevel zur Sünde hinzuzufügen, viele in der Tora straucheln zu lassen, [zu setzen?] dem Volk einen Fallstrick, der nicht aufhört, Frucht zu tragen (vgl. Jer 17,8).\nUnd so geboten wir, und es versammelten sich die Häupter, die Allufim, die Weisen und die Schüler, und wir berieten uns, was gegen dieses große Hindernis zu tun sei, das Ben Meir heraufgeführt hat, und ihren Beschluss aufzustellen. Und sie sprachen: … Es ist geboten, [es] niederzuschreiben … zum Gedenken inmitten von ganz Israel, um sie zu unterrichten … sie zu warnen und ihnen zu gebieten, dass nicht […] verborgen […]:\nWer immer heute [etwas] findet und bei ihnen geschrieben steht 52 Chalakim anstelle von 701, oder 448 anstelle von 204, oder 649 anstelle von 408, oder Stunde 253 anstelle von 698, oder Stunde 103 anstelle von 587 — auf die soll man sich nicht stützen und ihnen keine Beachtung schenken. Denn Ben Meir kommt damit zu dieser Zeit aus seinem eigenen Herzen und nicht aus dem Munde der Länder (ha-medinot).\n\nVielmehr sind die wahren Vier Tore diejenigen, die sich bei allen Kindern Israels in allen Ländern finden: die Überlieferung des ersten Tores 701 und 204; die Überlieferung des zweiten Tores 691 und 204; die Überlieferung des dritten Tores [Zahl fehlt] Stunden und 204; und die Überlieferung des vierten Tores 491 und 204 und 589 — so wie unsere Lehrer sie uns als Halacha zur praktischen Anwendung (halakhah le-maʿaseh) überliefert haben …\n… So nämlich haben unsere Lehrer uns gelehrt (bRosh ha-Shanah 20b): ‚Samuel sagte: Ich vermöchte den Kalender für die ganze Golah in Ordnung zu bringen. Da sprach Abba, der Vater des R. Simlai, zu Samuel: Weiß der Herr jene Sache, die gelehrt wurde — im Geheimnis der Interkalation: ob [der Neumond] vor Mittag oder nach Mittag geboren wird? Er sagte ihm: Nein. Er sagte ihm: Da der Herr dies nicht weiß [, gibt es noch anderes, was der Herr nicht weiß].’\nUnd die Rabbanan erklären: Was sind jene anderen Dinge? 204 und [408?], 491 und 695 und 589.",
+    "page": "102",
+    "keywords": [
+      {
+        "id": 2,
+        "value": "calendar dispute",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 43,
+        "value": "Ha-Golah",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "Ha-Medinot",
+        "order": "15.00000000000000000000"
+      }
+    ]
+  },
+  "361": {
+    "id": 361,
+    "order": "10.80000000000000071054",
+    "title": "The Babylonian Reply on Intercalation in the Land",
+    "text": "וכל אותן ההלכות שהביא ראש ישיבה להוכיח שאין מעברין את השנה  \nבחוץ לארץ וכל המשניות שציינת וכתבת מראשו של פרק ר' אליעזר התבוננו בהם  \nוידענו אותם, ואנחנו יודעים כי מבראשונה כשהיה בית המקדש קיים לא היה  \nעבור השנה תלוי לקבוע  אדר ואדר אלא בחכמי ארץ ישראל ובארץ ישראל, לפי  \nשהעיבור תלוי באביב ובפירות האילן כמו ששנינו : על שלשה סימנים מעברים  \nאת השנה, על האביב ועל פירות האילן ועל התקופה. על שנים מהם מעברים ועל אחד  \nאינן מעברים, ובזמן שאביב אחד מהם הכל שמחים. וכיון שעיבור השנה תלוי באביב  \nלא היה אפשר לעבר על אביב של שאר ארצות מפני שבחוץ לארץ יש מקום צונן מתאחר  \nחודש אביב עד סיון ויש מקום חם ששממהר לבוא מסוף שבט ומתחילין בקצירה מן אדר ולכך  \nלא היה אפשר לקבוע עיבור שנה אלא בארץ ישראל שנאמר לשכנו תדרשנו ובאת שמה —  \nכל דרישותיך שאתה דורש לא יהיו אלא בשכונה של מקום, ואפילו בארץ ישראל עצמה  \nכבר לא היתה כולה כשירה לעיבור אלא נחלת בני יהודה הוכשרה יותר מכולם...  \n...וכל המשניות הראיתם שכתב ראש ישיבה שם אביב שדין זה נהג בין שבפני  \nהבית ובין שלא בפני הבית, על הדברים האלה ראינו אותם אבל על זה היה בזמן שהיו מקדשים על האביב ועל הראיה. גם ידענו כי הראשונים היו שולחנן ודורשין מרבותינו של ארץ ישראל קביעת שנה בשנה לפי שלא היו בקיאין בסדר העיבור כמותן לפיכך  \nהיו כותבין אליהם, אבל מן שנים רבות כבר עלו כמה חכמים מבבל אל ארץ ישראל  \nודקדקו עם חכמי ארץ ישראל בסוד העיבור ופשפשו וחיפשו בו עד שנתבוננו בו יפה  \nיפה וכבר הם קובעים חדשים בבבל זה כמה שנים רבות לבדם, וגם חכמי ארץ ישראל מחשבים  \nוקובעים חדשים לבדם, וכבר עלה החשבון אחד ולא נמצא ביניהם חילוף...  \nמפני שהחשבונות כולם כאחד ניתנו מרועה אחד ולא ראינו קלקול כזה ולא פירצה כזאת.  \nובוודאי אלו אנחנו התחלנו לקבוע חדשים היה לו לראש ישיבה בבבל להוכיח אותנו ולאמר  \nשניתם מנהג ועברתם על דברי רבותיכם. הנה נא יש בישיבות זקנים שהגיעו לגבורות  \nוגם הזקינו מאוד וכולם אין אחד מהם זוכר שהוצרכו אנשי בבל לשאול עיבור שנים וקביעת  \nחדשים מארץ ישראל, אלא אתם מנהג אבותיכם בידכם וגם אנחנו מנהג אבותינו בידינו,  \nואנחנו מעברים השנים ברשות, לא השגנו גבול ולא שנינו מנהג ולא הוצרכנו עצמנו  \nלבוא ולשאול קביעת המועדים מפיהם.  \nושכתב ראש ישיבה שאף על פי שעיברתם השנה ברשות עיברתם שלא כדין, כי  \nעשיתם חדשיה שלימין ואינם אלא חסרין, נודיע לפני ראש ישיבה כי אנו עשינו כדין  \nוכמנהג שהיה ביד אבותינו, כי השנה הזאת ראש השנה שלה בחמישי \\[בשבת\\] והחדשים  \nשלימין והפסח בשלישי, וראש השנה של שנה הבאה בחמישי וחדשים כסדרן והפסח בשבת  \nוהשנה השלישית ראש שנה בשני בשבת , שכיון שתשרי של שנה שלישית נולד ביום  \nשבת אחר חצות כבר זמנו עבר מלקבעו בשבת ובאחד בשבת אין נכון לקבעו  לפיכך  \nנדחה לשני בשבת.",
+    "loi_id": "loi_passage__361",
+    "translation": "",
+    "parallel_text": [
+      {
+        "id": 1,
+        "value": "Pirkei DeRabbi Eliezer 8",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Proverbs 22:28",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 2,
+        "value": "Ecclesiastes 12:11",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 77,
+        "value": "bSanhedrin 11b",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Deuteronomy 12:5",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "commentary": "",
+    "work": [],
+    "german_translation": "Und all jene Halachot, die das Haupt der Jeschiwa angeführt hat, um zu beweisen, dass man das Jahr nicht außerhalb des Landes interkaliert, und alle Mischnajot, die du angegeben und vom Anfang des Kapitels „R. Eliezer” (Pirqei de-Rabbi Eliezer, Kap. 8) abgeschrieben hast — wir haben sie uns angesehen und wir kennen sie. Und wir wissen, dass ursprünglich, als der Tempel noch stand, die Schaltung des Jahres nicht davon abhing, einen Adar und [einen zweiten] Adar festzusetzen, sondern von den Weisen des Landes Israel und im Lande Israel. Denn die Schaltung hängt am Aviv (der Gerstenreife) und an den Baumfrüchten, wie wir gelernt haben (bSanhedrin 11b): Aufgrund dreier Zeichen interkaliert man das Jahr — aufgrund des Aviv, der Baumfrüchte und der Tequfah. Aufgrund zweier von ihnen interkaliert man, aufgrund eines einzigen nicht; und wenn der Aviv eines von ihnen ist, freuen sich alle.\n\nUnd da die Schaltung des Jahres am Aviv hängt, war es nicht möglich, nach dem Aviv der übrigen Länder zu interkalieren, denn außerhalb des Landes gibt es eine kalte Gegend, wo der Aviv-Monat sich bis zum Siwan verzögert, und es gibt eine heiße Gegend, wo er früh kommt, vom Ende des Schwat an, und man vom Adar an mit der Ernte beginnt. Darum war es nicht möglich, die Schaltung des Jahres anderswo als im Lande Israel festzusetzen, denn es heißt: „Nach seiner Wohnstätte sollst du fragen und dorthin kommen” (Dtn 12,5) — all dein Fragen, das du fragst, soll nur in der Wohnstätte des Ortes (shekhunah shel Makom) geschehen. Und sogar im Lande Israel selbst war schon nicht mehr das ganze Land zur Schaltung tauglich, sondern das Erbteil der Söhne Jehudas war tauglicher als alle übrigen …\n\n… Und alle Mischnajot, die ihr angeführt habt, wo das Haupt der Jeschiwa dort „Aviv” schrieb, dieses Recht habe sowohl zur Zeit des Tempels als auch außerhalb der Tempelzeit gegolten — diese Dinge haben wir gesehen; aber dies war zu der Zeit, da man nach dem Aviv und nach der Sichtung (reʾiyah) heiligte. Auch wissen wir, dass die Früheren [an sie] zu senden und bei unseren Lehrern des Landes Israel die Festsetzung Jahr für Jahr zu erfragen pflegten, weil sie in der Ordnung der Schaltung nicht so bewandert waren wie jene; deshalb schrieben sie an sie. Aber seit vielen Jahren sind schon etliche Weise aus Bavel in das Land Israel hinaufgezogen und haben mit den Weisen des Landes Israel das Geheimnis der Interkalation (sod ha-ʿibbur) genau durchgenommen, haben es durchforscht und durchsucht, bis sie es recht gut verstanden. Und sie setzen in Bavel nun schon seit vielen Jahren die Monate für sich allein fest, und auch die Weisen des Landes Israel berechnen und setzen die Monate für sich allein fest — und die Rechnung ging als eine auf, und es fand sich kein Unterschied zwischen ihnen …, denn die Berechnungen sind allesamt von einem Hirten gegeben worden (Qoh 12,11), und wir haben keinen solchen Missstand und keinen solchen Bruch gesehen.\n\nUnd gewiss, hätten wir damit angefangen, die Monate festzusetzen, so stünde es dem Haupt der Jeschiwa in Bavel zu, uns zurechtzuweisen und zu sagen: Ihr habt den Brauch geändert und seid über die Worte eurer Lehrer hinweggegangen. Nun aber gibt es in den Jeschiwot Greise, die zur Gevurot (das achtzigste Jahr, mAvot 5,21) gelangt und noch weit darüber hinaus gealtert sind — und nicht einer von ihnen erinnert sich, dass die Leute Bavels je nötig gehabt hätten, die Schaltung der Jahre und die Festsetzung der Monate aus dem Lande Israel zu erfragen. Vielmehr: Ihr habt den Brauch eurer Väter in euren Händen, und auch wir haben den Brauch unserer Väter in unseren Händen. Und wir interkalieren die Jahre mit Befugnis; wir haben keine Grenze verrückt (vgl. Spr 22,28), keinen Brauch geändert und hatten es nicht nötig, zu kommen und die Festsetzung der Festzeiten aus ihrem Munde zu erfragen.\n\nUnd was das Haupt der Jeschiwa schrieb — dass ihr das Jahr zwar mit Befugnis interkaliert habt, aber nicht nach dem Recht, weil ihr seine Monate voll gemacht habt, wo sie doch nur defekt sind —, so tun wir dem Haupt der Jeschiwa kund, dass wir nach dem Recht gehandelt haben und nach dem Brauch, der in der Hand unserer Väter war: Denn in diesem Jahr fällt sein Rosch ha-Schana auf den fünften [Wochentag], die Monate sind voll und Pessach fällt auf den dritten. Und das Rosch ha-Schana des kommenden Jahres fällt auf den fünften, die Monate folgen ihrer Ordnung (ke-sidran) und Pessach fällt auf den Schabbat. Und im dritten Jahr fällt das Rosch ha-Schana auf den zweiten Wochentag — denn da der Molad des Tischri des dritten Jahres am Schabbat nach Mittag eintritt, ist seine Zeit bereits verstrichen, um ihn auf den Schabbat zu legen; und auf den ersten Wochentag ist es nicht recht, ihn zu legen — darum wird er auf den zweiten Wochentag verschoben.",
+    "page": "73",
+    "keywords": [
+      {
+        "id": 2,
+        "value": "calendar dispute",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "Naḥalat Benei Yehudah",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 49,
+        "value": "She’ar Araẓot",
+        "order": "17.00000000000000000000"
       }
     ]
   },

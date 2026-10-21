@@ -273,6 +273,11 @@
         "id": 10,
         "value": "Both Talmuds on Calendrical Authority",
         "order": "10.00000000000000000000"
+      },
+      {
+        "id": 361,
+        "value": "The Babylonian Reply on Intercalation in the Land",
+        "order": "10.80000000000000071054"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -307,6 +312,11 @@
         "id": 8,
         "value": "No Intercalation outside the Land: The Precedent of Jacob",
         "order": "8.00000000000000000000"
+      },
+      {
+        "id": 361,
+        "value": "The Babylonian Reply on Intercalation in the Land",
+        "order": "10.80000000000000071054"
       }
     ],
     "form_he": "חוצה לארץ",
@@ -324,6 +334,11 @@
         "id": 9,
         "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
         "order": "9.00000000000000000000"
+      },
+      {
+        "id": 360,
+        "value": "The Assembly of the Academies: The True Four Gates against Ben Meir’s Reckoning",
+        "order": "10.75000000000000000000"
       }
     ],
     "form_he": "הגולה",
@@ -386,6 +401,11 @@
         "id": 10,
         "value": "Both Talmuds on Calendrical Authority",
         "order": "10.00000000000000000000"
+      },
+      {
+        "id": 361,
+        "value": "The Babylonian Reply on Intercalation in the Land",
+        "order": "10.80000000000000071054"
       }
     ],
     "form_he": "בבל",
@@ -443,5 +463,62 @@
         "order": "3.00000000000000000000"
       }
     ]
+  },
+  "47": {
+    "id": 47,
+    "order": "15.00000000000000000000",
+    "label": "Ha-Medinot",
+    "loi_id": "loi_parallel__47",
+    "passages": [
+      {
+        "id": 360,
+        "value": "The Assembly of the Academies: The True Four Gates against Ben Meir’s Reckoning",
+        "order": "10.75000000000000000000"
+      }
+    ],
+    "form_he": "המדינות / בכל המדינות",
+    "source": [],
+    "gloss_en": "the provinces",
+    "referent": []
+  },
+  "48": {
+    "id": 48,
+    "order": "16.00000000000000000000",
+    "label": "Naḥalat Benei Yehudah",
+    "loi_id": "loi_parallel__48",
+    "passages": [
+      {
+        "id": 361,
+        "value": "The Babylonian Reply on Intercalation in the Land",
+        "order": "10.80000000000000071054"
+      }
+    ],
+    "form_he": "נחלת בני יהודה",
+    "source": [],
+    "gloss_en": "the inheritance of the sons of Judah",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "49": {
+    "id": 49,
+    "order": "17.00000000000000000000",
+    "label": "She’ar Araẓot",
+    "loi_id": "loi_parallel__49",
+    "passages": [
+      {
+        "id": 361,
+        "value": "The Babylonian Reply on Intercalation in the Land",
+        "order": "10.80000000000000071054"
+      }
+    ],
+    "form_he": "שאר ארצות",
+    "source": [],
+    "gloss_en": "the other lands",
+    "referent": []
   }
 }

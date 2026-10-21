@@ -595,5 +595,25 @@
     "loi_id": "loi_biblref__76",
     "text_he": "Gird your loins like a man; \nI will ask, and you will inform Me.",
     "designations": []
+  },
+  "77": {
+    "id": 77,
+    "order": "47.00000000000000000000",
+    "bible": "bSanhedrin 11b",
+    "text": "The Sages taught in a baraita (Tosefta 2:2): The court may intercalate the year for three matters: For the ripening of the grain, if it is not yet time for the barley to ripen; for the fruit of the trees, if they have not yet ripened; and for the equinox, i.e., to ensure that the autumnal equinox will precede Sukkot. If two of these concerns apply, the court intercalates the year even if the third factor does not apply; but for only one of them the court does not intercalate the year.",
+    "url": "https://www.sefaria.org/Sanhedrin.11b?lang=bi",
+    "loi_id": "loi_biblref__77",
+    "text_he": "תָּנוּ רַבָּנַן: עַל שְׁלֹשָׁה דְּבָרִים מְעַבְּרִין אֶת הַשָּׁנָה – עַל הָאָבִיב, וְעַל פֵּירוֹת הָאִילָן, וְעַל הַתְּקוּפָה. עַל שְׁנַיִם מֵהֶן מְעַבְּרִין, וְעַל אֶחָד מֵהֶן אֵין מְעַבְּרִין.",
+    "designations": []
+  },
+  "78": {
+    "id": 78,
+    "order": "48.00000000000000000000",
+    "bible": "Deuteronomy 12:5",
+    "text": "but look only to the site that the ETERNAL your God will choose amidst all your tribes as God’s habitation, to establish the divine name there. There you are to go,",
+    "url": "https://www.sefaria.org/Deuteronomy.12.5?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__78",
+    "text_he": "כִּי אִם־אֶל־הַמָּקוֹם אֲשֶׁר־יִבְחַר יְהֹוָה אֱלֹהֵיכֶם מִכׇּל־שִׁבְטֵיכֶם לָשׂוּם אֶת־שְׁמוֹ שָׁם לְשִׁכְנוֹ תִדְרְשׁוּ וּבָאתָ שָּׁמָּה",
+    "designations": []
   }
 }

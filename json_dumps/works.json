@@ -278,7 +278,7 @@
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "title": "Second Letter of Rav Saadyah Gaon",
+    "title": "Second Letter of Rav Saadya Gaon",
     "reference": "",
     "author": [
       {
@@ -297,6 +297,39 @@
       }
     ],
     "loi_id": "loi_work__12",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 3,
+        "value": "Mekhaleket Rav Sadya ve Gaon ben Meir",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "title": "More of Saadya Gaon",
+    "reference": "",
+    "author": [
+      {
+        "id": 3,
+        "value": "Saadya",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__13",
     "corpus": [],
     "language": [],
     "genre": [],
