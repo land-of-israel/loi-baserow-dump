@@ -26,7 +26,8 @@
         "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "2": {
     "id": 2,
@@ -65,7 +66,8 @@
         "value": "Jerusalem",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "3": {
     "id": 3,
@@ -94,7 +96,8 @@
         "value": "Jerusalem",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "36": {
     "id": 36,
@@ -117,7 +120,8 @@
         "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "37": {
     "id": 37,
@@ -156,7 +160,8 @@
         "value": "Babylonia",
         "order": "5.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "38": {
     "id": 38,
@@ -184,7 +189,8 @@
         "value": "Jerusalem",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "39": {
     "id": 39,
@@ -223,7 +229,8 @@
         "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "40": {
     "id": 40,
@@ -251,7 +258,8 @@
         "value": "Jerusalem",
         "order": "4.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "41": {
     "id": 41,
@@ -278,6 +286,31 @@
         "id": 361,
         "value": "The Babylonian Reply on Intercalation in the Land",
         "order": "10.80000000000000071054"
+      },
+      {
+        "id": 12,
+        "value": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+        "order": "14.50000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -300,7 +333,8 @@
         "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "42": {
     "id": 42,
@@ -317,12 +351,33 @@
         "id": 361,
         "value": "The Babylonian Reply on Intercalation in the Land",
         "order": "10.80000000000000071054"
+      },
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+        "order": "14.50000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
       }
     ],
     "form_he": "חוצה לארץ",
     "source": [],
     "gloss_en": "outside the Land",
-    "referent": []
+    "referent": [],
+    "commentary": null
   },
   "43": {
     "id": 43,
@@ -339,6 +394,11 @@
         "id": 360,
         "value": "The Assembly of the Academies: The True Four Gates against Ben Meir’s Reckoning",
         "order": "10.75000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
+        "order": "12.00000000000000000000"
       }
     ],
     "form_he": "הגולה",
@@ -366,7 +426,8 @@
         "value": "Babylonia",
         "order": "5.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "44": {
     "id": 44,
@@ -378,6 +439,11 @@
         "id": 9,
         "value": "The Ḥavurah of Eretz Israel Has Authority over the Exiles",
         "order": "9.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
       }
     ],
     "form_he": "הארץ",
@@ -389,7 +455,8 @@
         "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "45": {
     "id": 45,
@@ -406,6 +473,11 @@
         "id": 361,
         "value": "The Babylonian Reply on Intercalation in the Land",
         "order": "10.80000000000000071054"
+      },
+      {
+        "id": 12,
+        "value": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
+        "order": "12.00000000000000000000"
       }
     ],
     "form_he": "בבל",
@@ -423,7 +495,8 @@
         "value": "Babylonia",
         "order": "5.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "46": {
     "id": 46,
@@ -462,7 +535,8 @@
         "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "47": {
     "id": 47,
@@ -479,7 +553,8 @@
     "form_he": "המדינות / בכל המדינות",
     "source": [],
     "gloss_en": "the provinces",
-    "referent": []
+    "referent": [],
+    "commentary": null
   },
   "48": {
     "id": 48,
@@ -502,7 +577,8 @@
         "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "commentary": null
   },
   "49": {
     "id": 49,
@@ -519,6 +595,207 @@
     "form_he": "שאר ארצות",
     "source": [],
     "gloss_en": "the other lands",
-    "referent": []
+    "referent": [],
+    "commentary": null
+  },
+  "82": {
+    "id": 82,
+    "order": "18.00000000000000000000",
+    "label": "Ayarot ha-ʿOmedot ʿal ha-Gevulim",
+    "loi_id": "loi_parallel__82",
+    "passages": [
+      {
+        "id": 12,
+        "value": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "form_he": "עיירות העומדות על הגבולים",
+    "source": [
+      {
+        "id": 65,
+        "value": "bSanhedrin 5a",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the towns standing on the borders",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "commentary": null
+  },
+  "83": {
+    "id": 83,
+    "order": "19.00000000000000000000",
+    "label": "Yehudah",
+    "loi_id": "loi_parallel__83",
+    "passages": [
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "form_he": "יהודה",
+    "source": [],
+    "gloss_en": "Judea",
+    "referent": [
+      {
+        "id": 71,
+        "value": "Judea",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "commentary": null
+  },
+  "84": {
+    "id": 84,
+    "order": "20.00000000000000000000",
+    "label": "Galil",
+    "loi_id": "loi_parallel__84",
+    "passages": [
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
+      }
+    ],
+    "form_he": "גליל",
+    "source": [],
+    "gloss_en": "the Galilee",
+    "referent": [
+      {
+        "id": 72,
+        "value": "Galilee",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "commentary": null
+  },
+  "85": {
+    "id": 85,
+    "order": "21.00000000000000000000",
+    "label": "Shikhno shel ha-Kadosh Barukh Hu",
+    "loi_id": "loi_parallel__85",
+    "passages": [
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "form_he": "שכנו של הקב״ה",
+    "source": [
+      {
+        "id": 78,
+        "value": "Deuteronomy 12:5",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the dwelling of the Holy One",
+    "referent": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "commentary": "Rashi: שכנו של מקום - ירושלים והוא ביהודה"
+  },
+  "86": {
+    "id": 86,
+    "order": "22.00000000000000000000",
+    "label": "Galuyot",
+    "loi_id": "loi_parallel__86",
+    "passages": [
+      {
+        "id": 394,
+        "value": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+        "order": "14.50000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
+      }
+    ],
+    "form_he": "גליות",
+    "source": [],
+    "gloss_en": "Diaspora",
+    "referent": [],
+    "commentary": ""
+  },
+  "87": {
+    "id": 87,
+    "order": "23.00000000000000000000",
+    "label": "Ever ha-Yarden",
+    "loi_id": "loi_parallel__87",
+    "passages": [
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
+      }
+    ],
+    "form_he": "עבר הירדן",
+    "source": [
+      {
+        "id": 125,
+        "value": "Numbers 32:19",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "Joshua 1:14",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "gloss_en": "Transjordan",
+    "referent": [
+      {
+        "id": 73,
+        "value": "Transjordan",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "88": {
+    "id": 88,
+    "order": "24.00000000000000000000",
+    "label": "Ereẓ Yehudah",
+    "loi_id": "loi_parallel__88",
+    "passages": [
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
+      }
+    ],
+    "form_he": "ארץ יהודה",
+    "source": [],
+    "gloss_en": "the land of Judah",
+    "referent": [
+      {
+        "id": 71,
+        "value": "Judea",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "commentary": ""
   }
 }

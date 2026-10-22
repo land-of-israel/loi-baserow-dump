@@ -55,6 +55,36 @@
         "id": 361,
         "value": "The Babylonian Reply on Intercalation in the Land",
         "order": "10.80000000000000071054"
+      },
+      {
+        "id": 11,
+        "value": "One Band, Not Bands: Reliance on the Intercalation Sent by the Ḥavurah",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+        "order": "14.50000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
       }
     ]
   },
@@ -119,6 +149,26 @@
         "id": 361,
         "value": "The Babylonian Reply on Intercalation in the Land",
         "order": "10.80000000000000071054"
+      },
+      {
+        "id": 11,
+        "value": "One Band, Not Bands: Reliance on the Intercalation Sent by the Ḥavurah",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+        "order": "14.50000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
       }
     ]
   },
@@ -173,6 +223,21 @@
         "id": 358,
         "value": "Ha-Ḥodesh as Notarikon: The Four Gates Given to the Men of the Great Assembly",
         "order": "10.50000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
       }
     ]
   }

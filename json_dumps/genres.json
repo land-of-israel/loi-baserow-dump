@@ -33,5 +33,14 @@
       "value": "Epistle",
       "color": "muted-red"
     }
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Halakhic discourse",
+    "note": "",
+    "reference": "",
+    "loi_id": "loi_genre__4",
+    "main_genre": null
   }
 }

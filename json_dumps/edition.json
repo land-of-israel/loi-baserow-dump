@@ -17,7 +17,10 @@
         "value": "First Letter of Ben Meir",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "publisher": null,
+    "place": [],
+    "year": "2019"
   },
   "2": {
     "id": 2,
@@ -41,8 +44,31 @@
         "id": 2,
         "value": "More of Ben Meir",
         "order": "2.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Megillat Evyatar",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Letter from one of the sages of Babylon to Ben Meir",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "Responsum of Rav Hai Gaon on the Second Festival Day",
+        "order": "15.00000000000000000000"
       }
-    ]
+    ],
+    "publisher": null,
+    "place": [],
+    "year": "1968"
   },
   "3": {
     "id": 3,
@@ -71,7 +97,119 @@
         "id": 13,
         "value": "More of Saadya Gaon",
         "order": "13.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Letter from one of the sages of Babylon to Ben Meir",
+        "order": "14.00000000000000000000"
       }
-    ]
+    ],
+    "publisher": "Schuldberg",
+    "place": [
+      {
+        "id": 70,
+        "value": "Warsaw",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "year": "1904"
+  },
+  "36": {
+    "id": 36,
+    "order": "4.00000000000000000000",
+    "label": "Otzar HaGeonim Rosh Hashana",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__36",
+    "works": [
+      {
+        "id": 3,
+        "value": "Responsa of a Babylonian Gaon",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "publisher": null,
+    "place": [],
+    "year": "1933"
+  },
+  "37": {
+    "id": 37,
+    "order": "5.00000000000000000000",
+    "label": "Saadyana",
+    "editor": [
+      {
+        "id": 104,
+        "value": "Solomon Schechter",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__37",
+    "works": [
+      {
+        "id": 4,
+        "value": "Megillat Evyatar",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "publisher": null,
+    "place": [],
+    "year": "1903"
+  },
+  "38": {
+    "id": 38,
+    "order": "6.00000000000000000000",
+    "label": "Sefer She'iltot",
+    "editor": [
+      {
+        "id": 106,
+        "value": "Naftali Zevi Yehudah Berlin",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__38",
+    "works": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "publisher": "Romm",
+    "place": [
+      {
+        "id": 69,
+        "value": "Vilnius",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "year": "1860"
+  },
+  "39": {
+    "id": 39,
+    "order": "7.00000000000000000000",
+    "label": "Teshuvot haGeonim Leik",
+    "editor": [
+      {
+        "id": 107,
+        "value": "Jakob Mussafia",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__39",
+    "works": [
+      {
+        "id": 47,
+        "value": "Responsum of Rav Hai Gaon on the Second Festival Day",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": "1864"
   }
 }

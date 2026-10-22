@@ -89,11 +89,6 @@
         "id": 361,
         "value": "The Babylonian Reply on Intercalation in the Land",
         "order": "10.80000000000000071054"
-      },
-      {
-        "id": 13,
-        "value": "Sheilta 46",
-        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -106,18 +101,33 @@
     "passages": [
       {
         "id": 11,
-        "value": "The Jews of Egypt",
+        "value": "One Band, Not Bands: Reliance on the Intercalation Sent by the Ḥavurah",
         "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "Exilarch's Authority",
+        "value": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
         "order": "12.00000000000000000000"
       },
       {
         "id": 13,
         "value": "Sheilta 46",
         "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+        "order": "14.50000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
       }
     ]
   },
@@ -130,18 +140,33 @@
     "passages": [
       {
         "id": 11,
-        "value": "The Jews of Egypt",
+        "value": "One Band, Not Bands: Reliance on the Intercalation Sent by the Ḥavurah",
         "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "Exilarch's Authority",
+        "value": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
         "order": "12.00000000000000000000"
       },
       {
         "id": 13,
         "value": "Sheilta 46",
         "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+        "order": "14.50000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
       },
       {
         "id": 20,
@@ -190,6 +215,26 @@
     "notes": "",
     "loi_id": "loi_keyword__40",
     "passages": [
+      {
+        "id": 13,
+        "value": "Sheilta 46",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "One Day in the Land, Two Outside: Custom against Scripture",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+        "order": "14.50000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+        "order": "14.66666666666666607455"
+      },
       {
         "id": 20,
         "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",

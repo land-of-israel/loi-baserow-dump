@@ -10,9 +10,9 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "label": "",
-    "tpq": null,
-    "taq": null,
+    "label": "ca. 705 – 745 CE",
+    "tpq": "705",
+    "taq": "745",
     "loi_id": "loi_date__2"
   }
 }

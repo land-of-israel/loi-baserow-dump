@@ -7,7 +7,8 @@
     "loi_id": "loi_place__1",
     "wikidata": "",
     "note": null,
-    "designations": []
+    "designations": [],
+    "edition": []
   },
   "2": {
     "id": 2,
@@ -17,7 +18,8 @@
     "loi_id": "loi_place__2",
     "wikidata": "",
     "note": null,
-    "designations": []
+    "designations": [],
+    "edition": []
   },
   "3": {
     "id": 3,
@@ -62,8 +64,14 @@
         "id": 48,
         "value": "Naḥalat Benei Yehudah",
         "order": "16.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "Ayarot ha-ʿOmedot ʿal ha-Gevulim",
+        "order": "18.00000000000000000000"
       }
-    ]
+    ],
+    "edition": []
   },
   "36": {
     "id": 36,
@@ -93,8 +101,14 @@
         "id": 40,
         "value": "Yerushalayim",
         "order": "8.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Shikhno shel ha-Kadosh Barukh Hu",
+        "order": "21.00000000000000000000"
       }
-    ]
+    ],
+    "edition": []
   },
   "37": {
     "id": 37,
@@ -119,7 +133,103 @@
         "id": 45,
         "value": "Bavel",
         "order": "13.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "Ayarot ha-ʿOmedot ʿal ha-Gevulim",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "69": {
+    "id": 69,
+    "order": "6.00000000000000000000",
+    "name": "Vilnius",
+    "geonames": "",
+    "loi_id": "loi_place__69",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 38,
+        "value": "Sefer She'iltot",
+        "order": "6.00000000000000000000"
       }
     ]
+  },
+  "70": {
+    "id": 70,
+    "order": "7.00000000000000000000",
+    "name": "Warsaw",
+    "geonames": "",
+    "loi_id": "loi_place__70",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 3,
+        "value": "Mekhaleket Rav Sadya ve Gaon ben Meir",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "8.00000000000000000000",
+    "name": "Judea",
+    "geonames": "",
+    "loi_id": "loi_place__71",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 83,
+        "value": "Yehudah",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Ereẓ Yehudah",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "72": {
+    "id": 72,
+    "order": "9.00000000000000000000",
+    "name": "Galilee",
+    "geonames": "",
+    "loi_id": "loi_place__72",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 84,
+        "value": "Galil",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "73": {
+    "id": 73,
+    "order": "10.00000000000000000000",
+    "name": "Transjordan",
+    "geonames": "",
+    "loi_id": "loi_place__73",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 87,
+        "value": "Ever ha-Yarden",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "edition": []
   }
 }

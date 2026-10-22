@@ -80,10 +80,28 @@
       }
     ],
     "manuscript": [],
-    "date": [],
-    "place": [],
+    "date": [
+      {
+        "id": 1,
+        "value": "ca. 921/922 CE",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "loi_id": "loi_work__2",
-    "corpus": [],
+    "corpus": [
+      {
+        "id": 2,
+        "value": "Calendar Controversy corpus",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "language": [
       {
         "id": 1,
@@ -91,7 +109,13 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "genre": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Polemical circular letter",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 2,
@@ -108,23 +132,47 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "title": "Otzar HaGeonim Rosh Hashana",
+    "title": "Responsa of a Babylonian Gaon",
     "reference": "",
-    "author": [
-      {
-        "id": 4,
-        "value": "Benjamin Manasseh Lewin",
-        "order": "4.00000000000000000000"
-      }
-    ],
+    "author": [],
     "manuscript": [],
     "date": [],
-    "place": [],
+    "place": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "loi_id": "loi_work__3",
-    "corpus": [],
-    "language": [],
-    "genre": [],
-    "edition": []
+    "corpus": [
+      {
+        "id": 2,
+        "value": "Calendar Controversy corpus",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 2,
+        "value": "Aramaic",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 36,
+        "value": "Otzar HaGeonim Rosh Hashana",
+        "order": "4.00000000000000000000"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -140,27 +188,90 @@
     ],
     "manuscript": [],
     "date": [],
-    "place": [],
+    "place": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "loi_id": "loi_work__4",
     "corpus": [],
     "language": [],
     "genre": [],
-    "edition": []
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "Saadyana",
+        "order": "5.00000000000000000000"
+      }
+    ]
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "title": "Sheiltot",
-    "reference": "",
-    "author": [],
+    "title": "Sheiltot d'Rav Achai Gaon",
+    "reference": "https://www.sefaria.org/Sheiltot_d'Rav_Achai_Gaon?tab=contents",
+    "author": [
+      {
+        "id": 36,
+        "value": "Achai of Shabcha",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "Achai Gaon",
+        "order": "19.00000000000000000000"
+      }
+    ],
     "manuscript": [],
-    "date": [],
-    "place": [],
+    "date": [
+      {
+        "id": 2,
+        "value": "ca. 705 – 745 CE",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "loi_id": "loi_work__5",
     "corpus": [],
-    "language": [],
-    "genre": [],
-    "edition": []
+    "language": [
+      {
+        "id": 2,
+        "value": "Aramaic",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Halakhic discourse",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 38,
+        "value": "Sefer She'iltot",
+        "order": "6.00000000000000000000"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -288,7 +399,13 @@
       }
     ],
     "manuscript": [],
-    "date": [],
+    "date": [
+      {
+        "id": 1,
+        "value": "ca. 921/922 CE",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "place": [
       {
         "id": 37,
@@ -297,9 +414,27 @@
       }
     ],
     "loi_id": "loi_work__12",
-    "corpus": [],
-    "language": [],
-    "genre": [],
+    "corpus": [
+      {
+        "id": 2,
+        "value": "Calendar Controversy corpus",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Polemical circular letter",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 3,
@@ -321,7 +456,13 @@
       }
     ],
     "manuscript": [],
-    "date": [],
+    "date": [
+      {
+        "id": 1,
+        "value": "ca. 921/922 CE",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "place": [
       {
         "id": 37,
@@ -330,14 +471,120 @@
       }
     ],
     "loi_id": "loi_work__13",
-    "corpus": [],
-    "language": [],
-    "genre": [],
+    "corpus": [
+      {
+        "id": 2,
+        "value": "Calendar Controversy corpus",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Polemical circular letter",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 3,
         "value": "Mekhaleket Rav Sadya ve Gaon ben Meir",
         "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "order": "14.00000000000000000000",
+    "title": "Letter from one of the sages of Babylon to Ben Meir",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [
+      {
+        "id": 1,
+        "value": "ca. 921/922 CE",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__46",
+    "corpus": [
+      {
+        "id": 2,
+        "value": "Calendar Controversy corpus",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Polemical circular letter",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Mekhaleket Rav Sadya ve Gaon ben Meir",
+        "order": "3.00000000000000000000"
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "order": "15.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on the Second Festival Day",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__47",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "Teshuvot haGeonim Leik",
+        "order": "7.00000000000000000000"
       }
     ]
   }

@@ -83,7 +83,7 @@
       },
       {
         "id": 6,
-        "value": "bSan 37a:2-3",
+        "value": "bSanhedrin 37a:2-3",
         "order": "6.00000000000000000000"
       },
       {
@@ -552,7 +552,7 @@
     "bibl_quotes": [
       {
         "id": 65,
-        "value": "Sanhedrin 5a",
+        "value": "bSanhedrin 5a",
         "order": "35.00000000000000000000"
       }
     ],
@@ -878,9 +878,15 @@
       }
     ],
     "commentary": "",
-    "work": [],
+    "work": [
+      {
+        "id": 46,
+        "value": "Letter from one of the sages of Babylon to Ben Meir",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "german_translation": "Und all jene Halachot, die das Haupt der Jeschiwa angeführt hat, um zu beweisen, dass man das Jahr nicht außerhalb des Landes interkaliert, und alle Mischnajot, die du angegeben und vom Anfang des Kapitels „R. Eliezer” (Pirqei de-Rabbi Eliezer, Kap. 8) abgeschrieben hast — wir haben sie uns angesehen und wir kennen sie. Und wir wissen, dass ursprünglich, als der Tempel noch stand, die Schaltung des Jahres nicht davon abhing, einen Adar und [einen zweiten] Adar festzusetzen, sondern von den Weisen des Landes Israel und im Lande Israel. Denn die Schaltung hängt am Aviv (der Gerstenreife) und an den Baumfrüchten, wie wir gelernt haben (bSanhedrin 11b): Aufgrund dreier Zeichen interkaliert man das Jahr — aufgrund des Aviv, der Baumfrüchte und der Tequfah. Aufgrund zweier von ihnen interkaliert man, aufgrund eines einzigen nicht; und wenn der Aviv eines von ihnen ist, freuen sich alle.\n\nUnd da die Schaltung des Jahres am Aviv hängt, war es nicht möglich, nach dem Aviv der übrigen Länder zu interkalieren, denn außerhalb des Landes gibt es eine kalte Gegend, wo der Aviv-Monat sich bis zum Siwan verzögert, und es gibt eine heiße Gegend, wo er früh kommt, vom Ende des Schwat an, und man vom Adar an mit der Ernte beginnt. Darum war es nicht möglich, die Schaltung des Jahres anderswo als im Lande Israel festzusetzen, denn es heißt: „Nach seiner Wohnstätte sollst du fragen und dorthin kommen” (Dtn 12,5) — all dein Fragen, das du fragst, soll nur in der Wohnstätte des Ortes (shekhunah shel Makom) geschehen. Und sogar im Lande Israel selbst war schon nicht mehr das ganze Land zur Schaltung tauglich, sondern das Erbteil der Söhne Jehudas war tauglicher als alle übrigen …\n\n… Und alle Mischnajot, die ihr angeführt habt, wo das Haupt der Jeschiwa dort „Aviv” schrieb, dieses Recht habe sowohl zur Zeit des Tempels als auch außerhalb der Tempelzeit gegolten — diese Dinge haben wir gesehen; aber dies war zu der Zeit, da man nach dem Aviv und nach der Sichtung (reʾiyah) heiligte. Auch wissen wir, dass die Früheren [an sie] zu senden und bei unseren Lehrern des Landes Israel die Festsetzung Jahr für Jahr zu erfragen pflegten, weil sie in der Ordnung der Schaltung nicht so bewandert waren wie jene; deshalb schrieben sie an sie. Aber seit vielen Jahren sind schon etliche Weise aus Bavel in das Land Israel hinaufgezogen und haben mit den Weisen des Landes Israel das Geheimnis der Interkalation (sod ha-ʿibbur) genau durchgenommen, haben es durchforscht und durchsucht, bis sie es recht gut verstanden. Und sie setzen in Bavel nun schon seit vielen Jahren die Monate für sich allein fest, und auch die Weisen des Landes Israel berechnen und setzen die Monate für sich allein fest — und die Rechnung ging als eine auf, und es fand sich kein Unterschied zwischen ihnen …, denn die Berechnungen sind allesamt von einem Hirten gegeben worden (Qoh 12,11), und wir haben keinen solchen Missstand und keinen solchen Bruch gesehen.\n\nUnd gewiss, hätten wir damit angefangen, die Monate festzusetzen, so stünde es dem Haupt der Jeschiwa in Bavel zu, uns zurechtzuweisen und zu sagen: Ihr habt den Brauch geändert und seid über die Worte eurer Lehrer hinweggegangen. Nun aber gibt es in den Jeschiwot Greise, die zur Gevurot (das achtzigste Jahr, mAvot 5,21) gelangt und noch weit darüber hinaus gealtert sind — und nicht einer von ihnen erinnert sich, dass die Leute Bavels je nötig gehabt hätten, die Schaltung der Jahre und die Festsetzung der Monate aus dem Lande Israel zu erfragen. Vielmehr: Ihr habt den Brauch eurer Väter in euren Händen, und auch wir haben den Brauch unserer Väter in unseren Händen. Und wir interkalieren die Jahre mit Befugnis; wir haben keine Grenze verrückt (vgl. Spr 22,28), keinen Brauch geändert und hatten es nicht nötig, zu kommen und die Festsetzung der Festzeiten aus ihrem Munde zu erfragen.\n\nUnd was das Haupt der Jeschiwa schrieb — dass ihr das Jahr zwar mit Befugnis interkaliert habt, aber nicht nach dem Recht, weil ihr seine Monate voll gemacht habt, wo sie doch nur defekt sind —, so tun wir dem Haupt der Jeschiwa kund, dass wir nach dem Recht gehandelt haben und nach dem Brauch, der in der Hand unserer Väter war: Denn in diesem Jahr fällt sein Rosch ha-Schana auf den fünften [Wochentag], die Monate sind voll und Pessach fällt auf den dritten. Und das Rosch ha-Schana des kommenden Jahres fällt auf den fünften, die Monate folgen ihrer Ordnung (ke-sidran) und Pessach fällt auf den Schabbat. Und im dritten Jahr fällt das Rosch ha-Schana auf den zweiten Wochentag — denn da der Molad des Tischri des dritten Jahres am Schabbat nach Mittag eintritt, ist seine Zeit bereits verstrichen, um ihn auf den Schabbat zu legen; und auf den ersten Wochentag ist es nicht recht, ihn zu legen — darum wird er auf den zweiten Wochentag verschoben.",
-    "page": "73",
+    "page": "73-74",
     "keywords": [
       {
         "id": 2,
@@ -932,21 +938,27 @@
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "title": "The Jews of Egypt",
+    "title": "One Band, Not Bands: Reliance on the Intercalation Sent by the Ḥavurah",
     "text": "דליהוי כולן וכל ישראל אגודה אחת בחדשים וכל מועדים כבהדין מנהגא... ולא מיבעיא בהכדין מעשה דכדין עבדו ושדרו לקמי ראש החבורה ובני החבורה חסירין דסמכינן עליהון, דלא אפשר לשויינון לא כסדרן ולא שלמין... ולעולם עליהון סמכינן, דלא ליהוי ישראל אגודות אגודות, ואנא וראשי מתיבאתה ורבנז וכל ישראל אסמכינן על עיבורא דאישתדר לקמי חבירין",
     "loi_id": "loi_passage__11",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 37,
+        "value": "bYevamot 13b–14a",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
     "work": [
       {
         "id": 3,
-        "value": "Otzar HaGeonim Rosh Hashana",
+        "value": "Responsa of a Babylonian Gaon",
         "order": "3.00000000000000000000"
       }
     ],
-    "german_translation": "Und es war, dass alle und ganz Israel eine Einheit waren in den Monaten und Festtagen, wie es Brauch war,\nund er brachte die Angelegenheiten nicht vor einen Richter, sondern übermittelte sie dem Kopf der Gruppe und den Mitgliedern der Gruppe.",
+    "german_translation": "… dass sie alle und ganz Israel eine einzige Vereinigung (aguddah aḥat) seien in den Monaten und allen Festzeiten, gemäß diesem Brauch … Und erst recht in einem solchen Fall, denn so haben sie gehandelt und [es] vor das Haupt der Ḥavurah und die Mitglieder der Ḥavurah gesandt: defekt [seien die Monate] — und darauf stützen wir uns, denn es ist nicht möglich, sie weder ke-sidran noch voll zu machen … Und allezeit stützen wir uns auf sie, damit Israel nicht zu Vereinigungen und Vereinigungen werde (vgl. bYevamot 13b–14a zu Dtn 14,1) — und ich und die Häupter der Lehrhäuser (metivata) und die Rabbanan und ganz Israel stützen uns auf die Interkalation, die vor die Ḥaverin gesandt wurde.",
     "page": "41, סי' מ\"ב",
     "keywords": [
       {
@@ -960,19 +972,46 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "spatial_coding": [],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "title": "Exilarch's Authority",
+    "title": "The Land Is Not Called Golah: The Exilarch Has No Standing in Ereẓ Israel",
     "text": "שאפילו ראש גולה שבבבל אין לו רשות ולא שם בארץ ישראל מעולם. וזו הלכה למעשה בתלמוד סנהדרין בבלי, והרי רבה בר בר חנה כשהיה לו מריבה עם ראשי ישיבה של ארץ ישראל אמר ליה אין אני צריך לרשותך אלא אני נוטל רשות מאבא מארי ואבא מארי מרב שבבבל... והרי רשות בבל מועילה בארץ ישראל? ופירשו את הדבר רבה בר בר חנה לעיירות העומדות על הגבולים הוא שנטל רשות ולא לארץ ישראל. ועוד שאומרין בתלמוד בבלי אנן שליחותייהו עבדינן כו' אנן צריכין לקבל רשותם שהרי המועדות אין אנו יכולים לעשותם אלא על פיהם... \\[ועוד\\] שארץ ישראל אינה קרואה גולה שיהא ראש גולה נסמך בה. ועוד שאין עוקרין נשיא שבארץ ישראל שעל פיו מעברין את השנה וקובעין את המועדות הסדורים לפני הקב\"ה קודם יצירת העולם דהכי גמרי בסוד העיבור.",
     "loi_id": "loi_passage__12",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 65,
+        "value": "bSanhedrin 5a",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "bGittin 88b",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "bBava Kamma 84b",
+        "order": "50.00000000000000000000"
+      }
+    ],
     "commentary": "",
     "work": [
       {
@@ -981,8 +1020,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "german_translation": "Selbst der Exilarch hat keine Autorität und keinen Namen in Israel – niemals.\nUnd dies ist eine praktische, verbindliche Halacha im babylonischen Talmud, Traktat Sanhedrin.\nUnd siehe: Rabba bar bar Ḥannah, als er eine Streitigkeit mit den Roshei Yeshiva des Landes Israel hatte, sagte zu ihm (dem Leiter der Yeshiva): ‚Ich benötige \ndeine Erlaubnis nicht, sondern ich nehme meine Erlaubnis von meinem Vater, und mein Vater (nimmt sie) von Rav in Babylon…‘ Und siehe: Gilt also die Autorität Babylons im Land Israel?\nSie erklärten dies so: Rabba bar bar Ḥannah nahm die Erlaubnis nur für Ortschaften, die an den Grenzen liegen, nicht aber für das Land Israel selbst. Und außerdem sagen sie im babylonischen Talmud:\nWir handeln als ihre Gesandten“ usw., das heißt: Wir müssen ihre Erlaubnis einholen, denn die Festzeiten können wir nur nach ihrem (d. h. dem Sanhedrin von Eretz Israel) Ausspruch festlegen…\n [Weiterhin:] Das Land Israel wird nicht ‚Exil‘ genannt, sodass ein Exilarch dort eingesetzt werden könnte\nUnd außerdem hebt man den Nasi (Patriarchen) im Land Israel nicht auf, denn auf seine Anordnung hin wird das Jahr überzählig gemacht (Schaltjahr bestimmt) \nund die Festzeiten festgelegt – jene Festzeiten, die vor dem Heiligen, gepriesen sei Er, bereits vor der Erschaffung der Welt feststanden, wie im Geheimnis der Kalenderberechnung überliefert ist.",
-    "page": "",
+    "german_translation": "… dass selbst der Rosch Golah, der in Bavel ist, keine Vollmacht hat und niemals einen Amtstitel im Lande Israel hatte. Und dies ist Halacha zur praktischen Anwendung im Babylonischen Talmud, Traktat Sanhedrin (bSanhedrin 5a–b). Und siehe, Rabbah bar bar Ḥanah: Als er einen Streit mit den Häuptern der Jeschiwa des Landes Israel hatte, sagte er [zu ihm]: Ich brauche deine Vollmacht nicht, vielmehr nehme ich die Vollmacht von meinem Herrn Vater, und mein Herr Vater von Rav, der in Bavel ist … Gilt denn also die Vollmacht Bavels im Lande Israel? Und sie erklärten die Sache: Rabbah bar bar Ḥanah nahm die Vollmacht nur für die Ortschaften, die an den Grenzen stehen, nicht aber für das Land Israel.\nUnd ferner, dass sie im Babylonischen Talmud sagen: „Wir handeln in ihrem Auftrag” usw. (bGittin 88b; bBava Qamma 84b) — wir müssen ihre Vollmacht empfangen, denn die Festzeiten können wir nur nach ihrem Ausspruch begehen …\n[Und ferner], dass das Land Israel nicht Golah genannt wird, sodass ein Rosch Golah darin ordiniert werden könnte. Und ferner, dass man den Nasi, der im Lande Israel ist, nicht absetzt, denn auf seinen Ausspruch hin schaltet man das Jahr und setzt die Festzeiten fest, die vor dem Heiligen, gepriesen sei er, geordnet sind seit vor der Erschaffung der Welt — denn so haben sie es im Geheimnis der Interkalation (sod ha-ʿibbur) gelernt.",
+    "page": "92-93",
     "keywords": [
       {
         "id": 4,
@@ -995,9 +1034,41 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "spatial_coding": [],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "Ha-Golah",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "Ayarot ha-ʿOmedot ʿal ha-Gevulim",
+        "order": "18.00000000000000000000"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -1007,23 +1078,39 @@
     "loi_id": "loi_passage__13",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 77,
+        "value": "bSanhedrin 11b",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Deuteronomy 12:5",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "mRosh ha-Shana 2:2",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "bBeitzah 4b",
+        "order": "52.00000000000000000000"
+      }
+    ],
     "commentary": "",
     "work": [
       {
         "id": 5,
-        "value": "Sheiltot",
+        "value": "Sheiltot d'Rav Achai Gaon",
         "order": "5.00000000000000000000"
       }
     ],
-    "german_translation": "\"Man darf das Jahr (Schaltjahr) nur in Judäa interkalieren; wenn man es in Galiläa interkaliert hat, ist es dennoch gültig interkaliert.\nChananja, der Mann aus Kfar Ono, sagte jedoch aus, dass wenn man es in Galiläa interkaliert, es nicht gültig interkaliert ist.\n\nRabbi Jehuda, der Sohn von Rabbi Schimon ben Pazi, sagte zu diesem Vers:\n„Zu Seiner Wohnung sollt ihr suchen und dorthin sollst du kommen“ (Dtn 12,5)\n– alle Nachforschungen, die du anstellst, sollen nur am Ort der Wohnung des Heiligen, gelobt sei Er, vorgenommen werden.\n\nUnd das gilt nur, wenn es Experten (Mumchim) im Land Israel gibt.\nAber wenn sich ein Experte im Ausland befindet, darf man das Jahr auch dort interkalieren und Monate festlegen – sogar außerhalb des Landes.\n\nDenn Rabbi Akiva interkalierte Jahre und setzte Monate im Ausland fest, weil es seinesgleichen im Land Israel nicht gab.\"\n\"Und ursprünglich – da man nicht wusste, ob der Monat ein voller (30 Tage) oder unvollständiger (29 Tage) war – pflegte man Fackeln (Signalfeuer) zu entzünden, wie wir im Mischna-Text lernen:\n„Anfangs entzündete man Fackeln; als die Kutäer (Samaritaner) Unheil stifteten (und die Signale verfälschten), legte man fest, dass Boten ausgesandt werden.“\n\nUnd wenn die Kutäer aufgehört hätten, Unheil zu stiften, würden wir wieder nur einen Tag (Feiertag) begehen.\nUnd überall dort, wo die Boten (rechtzeitig) ankommen, begeht man nur einen Tag.\nUnd jetzt – warum halten wir dennoch zwei Tage?\nWegen der Nachricht, die man von dort (Erez Israel) geschickt hat:\n„Hütet euch, die Tradition eurer Väter in euren Händen zu vernachlässigen; manchmal gibt es Verfolgung, und man könnte durcheinanderkommen.“\n\nUnd wo die Boten von Rosch Chodesch Nisan bis zum fünfzehnten und von Rosch Chodesch Tischri bis zum fünfzehnten ankommen – und man darum weiß, ob die Monate mangelhaft oder voll gemacht wurden –, begeht man einen Tag.\nAn Orten jedoch, an die die Boten nicht gelangen, begeht man zwei Tage, denn vielleicht wurde der Monat Adar voll gemacht, oder vielleicht wurde der Monat Elul voll gemacht.\n\nRabbi Jochanan verkündete:\nAn einem Ort, an den die Boten von Nisan kommen, aber nicht die Boten von Tischri – wegen des Jahreswechsels und Jom Kippur, da es unmöglich ist, (für Boten) zu reisen –, sollen sie zwei Tage feiern.\nDies ist eine Verordnung: Nisan wegen Tischri.\n\nUnd Rabbi Seira sagte im Namen von Rav Nachman:\nAlle Zweifel werfen wir nach vorne (in die Zukunft).\nDen 15. und 16. feiern wir;\nden 14. und 15. feiern wir nicht.\n\nWarum nicht den 14.?\nVielleicht hat man Aw verkürzt und ebenso Schevat verkürzt.\nDa die Zeitspanne dann groß wäre, hätte man es (im Land Israel) sicher gehört – und wenn es so wäre, wäre es bekannt geworden.\n\nUnd heute, obwohl wir den festen Kalender kennen und wissen, wann die Interkalation (Schaltmonat) stattfindet, halten wir dennoch zwei Tage – an jedem Ort, an den die Boten damals nicht gelangten\"",
+    "german_translation": "Man schaltet das Jahr nur in Jehudah; und wenn sie es im Galil geschaltet haben, ist es geschaltet. Ḥananyah, der Mann aus Kefar Ono, bezeugte: Wenn sie es im Galil geschaltet haben, ist es nicht geschaltet. Rabbi Jehuda, der Sohn des Rabbi Schimon ben Pazi, sagte: aus diesem Vers — „Nach seiner Wohnstätte sollt ihr fragen und dorthin kommen” (Dtn 12,5): Alles Fragen, das du fragst, soll nur in der Wohnstätte des Heiligen, gepriesen sei er, geschehen (bSanhedrin 11b).\nUnd dies gilt [nur], solange es Fachkundige (mumḥin) im Lande Israel gibt; wenn es aber einen Fachkundigen außerhalb des Landes gibt, schaltet und setzt man fest sogar außerhalb des Landes. Denn R. Akiva schaltete Jahre und setzte Monate außerhalb des Landes fest, weil er seinesgleichen im Lande Israel nicht zurückgelassen hatte.\nUnd ursprünglich, da man vom Monat nicht wusste, ob er defekt oder voll sei, pflegte man Signalfeuer (masuʾot) zu entzünden, wie wir gelernt haben (mRosch ha-Schana 2,2): Anfangs entzündete man Signalfeuer; als die Kutäer Unheil stifteten, verordnete man, dass Boten ausziehen. Und hätten die Kutäer [es] unterlassen, so begingen wir einen Tag; und wo die Boten hingelangen, begeht man einen Tag.\nUnd nun, aus welchem Grund begehen wir zwei Tage? Weil sie von dort sandten (bBeiẓah 4b): Seid achtsam — der Brauch eurer Väter sei in euren Händen; zuweilen gibt es Verfolgung, und man gerät in Unordnung.\nUnd wo die Boten hingelangen, vom Neumond des Nisan bis zum Fünfzehnten und vom Neumond des Tischri bis zum Fünfzehnten, sodass sie kundtun, ob sie ihn defekt oder voll gemacht haben, hält man einen Tag. Ein Ort, zu dem sie nicht gelangen, hält zwei Tage — vielleicht haben sie den Adar voll gemacht, vielleicht haben sie den Elul voll gemacht.\nR. Yoḥanan verkündete: Ein Ort, zu dem die Boten des Nisan gelangen, aber die Boten des Tischri nicht gelangen — weil Neujahr und Versöhnungstag [dazwischenliegen], sodass es nicht möglich ist zu reisen —, soll zwei Tage halten: eine Verordnung für Nisan wegen Tischri.\nUnd R. Zeira sagte im Namen des Rav Naḥman: Allen Zweifel werfen wir nach vorn. Den Fünfzehnten und den Sechzehnten begehen wir, den Vierzehnten und den Fünfzehnten begehen wir nicht. Und sollte man nicht den Vierzehnten begehen? Vielleicht haben sie den Aw defekt gemacht und auch den Schwat defekt gemacht [?]. Da es weit entfernt ist: Wäre es so, dass sie ihn defekt gemacht hätten, so wäre es bekannt geworden.\nUnd heutzutage, obwohl wir die Festsetzung des Monats kennen [und] wann die Schaltung kommt — dennoch halten wir zwei Tage an einem Ort, zu dem die Boten nicht gelangten.",
     "page": "",
     "keywords": [
-      {
-        "id": 2,
-        "value": "calendar dispute",
-        "order": "2.00000000000000000000"
-      },
       {
         "id": 4,
         "value": "intercalation",
@@ -1033,29 +1120,388 @@
         "id": 5,
         "value": "calendar",
         "order": "4.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "Yom Tov Sheni",
+        "order": "7.00000000000000000000"
       }
     ],
-    "spatial_coding": [],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "Yehudah",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Galil",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Shikhno shel ha-Kadosh Barukh Hu",
+        "order": "21.00000000000000000000"
+      }
+    ]
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "title": "Tschuvat Rav Hai Gaon",
+    "title": "One Day in the Land, Two Outside: Custom against Scripture",
     "text": "לרב האיי ששאלתם הא דאתמר (ביצה ד' ב) שני ימים טובים של גליות רב אמר נולדה בזה מותרת בזה ורב אסי אמר נולדה בזה אסורה בזה ואמרי' רב אסי ספוקי מספקא ליה ועביד הכא לחומרא והכא לחומרא. אמר ר' זירא כוותיה דרב אסי מסתברא דהאידנא ידעינן בקבועא דירחא וכו' יפרש לנו אדוננו מה זה הספק שנסתפק לרב אסי ואמר ר' זירא כוותיה דרב אסי מסתברא כי מאחר שסוד העיבור בידיהם איזה ספק נשאר כי על כל אלו הספקות שאומר בכל מקום בשני ימים טובים הרבה מחזיקים בהם עלינו המינים דבריהם. ונרצה מאדוננו שיסיר כל תואנה שתעמוד בהם כמו שהרחיב בחכמתו בתשובת התקיעות והוסרו התואנות בדבריו כי רבינו סעדיה ז\"ל אמר בפירושו כי אין ספק מעיקרא אלא הקב\"ה צוה את משה עבדו והוא אמר לישראל כי בארץ יהיה להם יום אחד ובחוצה לארץ שני ימים וכן היה מעולם. כל ישראל עושין בלא ספק על העיבור ועל החשבון. עד שיצאו המינים ובקשו חכמים להראות כי ראיית הירח והחשבון אחד הוא. והיו עושין כל אותם הדברים שעשה רבן גמליאל בטבלא ועשו השלוחים וכו'. ואחר כך חזרו לעמוד על עקרן כמו שאמר הקב\"ה למשה שיהיו עושים בארץ יום אחד ובחוצה לארץ שני ימים ואמר אדוננו בתשובותיו לאנשי קאבת כי גזרה מימות נביאים ראשונים וכן הנהיגו הנביאים הראשונים את ישראל מתחילת הגלות שעושין יום טוב בחוצה לארץ שני ימים ויום הכפורים יום אחד. והיאך יבא מנהג בתוספת על מה שכתוב בתורה דכתיב שבעת ימים מצות תאכלו. בסוכות תשבו שבעת ימים. ויבא המנהג שמונה. ואנו מוצאין כי לא יהיה המנהג תוספת על הכתוב, אלא שיאמרו חכמים אותו על דרך חיזוק ויאמרו גזרה מדרבנן. אבל במועדים שיבאו בכל שנה יאמר הכתוב שבעה ויאמרו כי בא המנהג שמונה! ועוד יום אחר ראש השנה למה יעשה שנים והתורה אמרה אחד וכשאתה מונה ליום הכפורים אי אתה מונה אלא מן הראשון. ועוד עשו לו רבותינו מעלה ואמרו שני ימים של ראש השנה קדושה אחת ואמר אדוננו כי בני ארץ ישראל תופסין ראש השנה שני ימים ואנו רואין עד עתה אין תופסין אלא יום אחד. יפרש לנו אדוננו ברוב חכמתו כל אלו הספקות. ואיך יהיה תוספת על הכתוב. ויבאר הטב כל אלו הספקות.",
     "loi_id": "loi_passage__14",
     "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
+    "parallel_text": [
+      {
+        "id": 39,
+        "value": "mRosh ha-Shana 2:8",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 114,
+        "value": "bBeitzah 4b",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "Leviticus 23:42",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "Exodus 12:15",
+        "order": "54.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "Bezüglich der Frage, die ihr an Rav Hai gestellt habt:\\\nZu dem, was gesagt wurde (Beitza 4b) über die zwei Festtage der Diaspora –\\\nRav sagt: Wenn (ein Ei) an dem einen Tag geboren wurde, ist es am anderen erlaubt.\\\nUnd Rav Assi sagt: Wenn es an diesem geboren wurde, ist es an jenem verboten.\\\n\\\nUnd dazu sagen wir: Rav Assi war im Zweifel und verhielt sich hier streng und dort streng.\\\nRabbi Seira sagte: „Die Ansicht von Rav Assi erscheint zutreffender, denn heute kennen wir die feste Festlegung des Monats …“\\\n\\\nUnser Herr möge uns erklären: Welcher Zweifel war es, über den Rav Assi im Unklaren war?\\\nUnd warum sagte Rabbi Seira, dass Rav Assis Ansicht überzeugender sei?\\\nDenn wenn doch das Geheimnis der Interkalation (des Kalenders) in den Händen des Gerichts liegt –\\\nwelcher Zweifel bleibt überhaupt noch?\\\n\\\nDenn all diese Zweifel, die in Bezug auf die zwei Festtage der Diaspora an vielen Stellen erwähnt werden, bestärken die Behauptungen der Ketzer gegen uns.\\\nUnd wir wünschen, dass unser Herr jede Anfechtung beseitigt, wie er es mit seiner Weisheit in der Antwort über das Schofarblasen getan hat, durch die alle Einwände aufgehoben wurden.\\\n\\\nDenn Rabbenu Saadja sel. A. sagte in seinem Kommentar ausdrücklich, dass es ursprünglich gar keinen Zweifel gab.\\\nSondern: Der Heilige, gelobt sei Er, gebot Seinem Diener Mosche, und dieser sagte Israel,\\\ndass im Land Israel ein einziger Festtag sei,\\\naber in der Diaspora zwei Festtage –\\\nund so war es immer.\\\n\\\nGanz Israel hielt immer ohne Zweifel nach der Interkalation und nach der Berechnung.\\\nBis die Ketzer auftraten – und da suchten die Weisen zu zeigen, dass Mondbeobachtung und Berechnung übereinstimmen.\\\nDaher taten sie all das, was Rabban Gamliel mit der Tafel tat, und sie schickten Boten usw.\\\n\\\nDoch später kehrten sie zu ihrem ursprünglichen Prinzip zurück, wie der Heilige, gelobt sei Er, zu Mosche gesagt hatte:\\\nIm Land Israel soll man einen Tag halten, und in der Diaspora zwei Tage.\\\n\\\nUnd unser Herr sagte in seinen Responsen an die Leute von Qābat, dass dies eine Verordnung aus der Zeit der frühen Propheten sei.\\\nUnd so führten die frühen Propheten Israel seit Beginn der Exilszeit:\\\nIn der Diaspora feierte man jeden Feiertag zwei Tage, aber Jom Kippur nur einen Tag.\\\n\\\nUnd wie kann ein Brauch eine Erweiterung dessen darstellen, was in der Tora steht?\\\nDenn die Tora sagt:\\\n„Sieben Tage sollst du Matzot essen“,\\\n„Sieben Tage sollt ihr in den Hütten sitzen“ –\\\nund der Brauch bringt einen achten Tag hervor!\\\n\\\nWir finden jedoch, dass ein Brauch keinem Toragesetz etwas hinzufügt,\\\nsondern dass die Weisen ihn als eine Art Verstärkung erklärten und sagten: Es ist ein rabbinisches Dekret.\\\nAber bei jährlichen Festen sagt die Tora sieben Tage – und der Brauch sagt acht?!\\\n\\\nUnd weiter:\\\nWarum wird ein zweiter Tag nach Rosch HaSchana gefeiert, obwohl die Tora sagt, es sei ein Tag?\\\nUnd wenn du für Jom Kippur zählst, zählst du doch nur vom ersten Tag!\\\n\\\nAußerdem gaben unsere Rabbinen diesem (zweiten Tag von Rosch HaSchana) ein besonderes Gewicht und sagten:\\\n„Die zwei Tage von Rosch HaSchana sind eine Heiligkeit.“\\\nUnd unser Herr sagte, dass die Bewohner des Landes Israel Rosch HaSchana zwei Tage feiern –\\\ndoch wir sehen, dass man bis heute nur einen Tag hält.\\\n\\\nUnser Herr möge uns mit seiner großen Weisheit all diese Zweifel erklären:\\\nWie kann dies eine Erweiterung gegenüber dem Geschriebenen sein?\\\nEr möge uns all diese Zweifel gut darlegen und klären.",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 47,
+        "value": "Responsum of Rav Hai Gaon on the Second Festival Day",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "german_translation": "An Rav Hai: Was ihr gefragt habt zu dem, was gesagt wurde (bBeiẓah 4b) über die zwei Festtage der Diaspora — Rav sagt: Wurde [ein Ei] an diesem gelegt, ist es an jenem erlaubt; und Rav Assi sagt: Wurde es an diesem gelegt, ist es an jenem verboten. Und wir sagen: Rav Assi war im Zweifel und verfuhr hier erschwerend und dort erschwerend. Rabbi Zeira sagte: Es ist einleuchtend wie Rav Assi, denn heutzutage kennen wir die Festsetzung des Monats usw.\n\nUnser Herr möge uns erklären: Was ist dieser Zweifel, in dem Rav Assi unschlüssig war, und [weshalb] sagte Rabbi Zeira, es sei einleuchtend wie Rav Assi? Denn nachdem das Geheimnis der Interkalation (sod ha-ʿibbur) in ihren Händen ist — welcher Zweifel bleibt da? Denn all diese Zweifel, von denen allerorten bei den zwei Festtagen die Rede ist — vieles davon halten uns die Minim als ihre Beweise entgegen. Und wir wünschen von unserem Herrn, dass er jeden Einwand beseitige, der an ihnen haftet, so wie er in seiner Weisheit im Responsum über die Schofartöne ausführlich war und die Einwände durch seine Worte beseitigt wurden.\n\nDenn unser Lehrer Saadia seligen Andenkens sagte in seinem Kommentar, dass es von Anfang an keinen Zweifel gab, sondern der Heilige, gepriesen sei er, gebot Mose, seinem Knecht, und dieser sagte Israel, dass es im Lande für sie ein Tag sein solle und außerhalb des Landes zwei Tage; und so war es von jeher. Ganz Israel hielt ohne Zweifel nach der Interkalation und nach der Berechnung — bis die Minim auftraten und die Weisen zeigen wollten, dass die Sichtung des Mondes und die Berechnung eines sind. Und sie taten all jene Dinge, die Rabban Gamliel mit der Tafel tat (vgl. mRosch ha-Schana 2,8), und setzten die Boten ein usw. Und danach kehrten sie zu ihrem Grundsatz zurück, wie der Heilige, gepriesen sei er, zu Mose gesagt hatte: dass sie im Lande einen Tag halten und außerhalb des Landes zwei Tage.\n\nUnd unser Herr sagte in seinen Responsen an die Leute von Qābat, dass es eine Verordnung aus den Tagen der früheren Propheten sei, und dass die früheren Propheten Israel seit Beginn des Exils so geführt hätten: dass man außerhalb des Landes den Festtag zwei Tage hält und den Versöhnungstag einen Tag.\n\nUnd wie sollte ein Brauch als Hinzufügung über das kommen, was in der Tora geschrieben steht? Denn es steht geschrieben: „Sieben Tage sollt ihr Ungesäuertes essen” (Ex 12,15), „In Hütten sollt ihr sieben Tage wohnen” (Lev 23,42) — und der Brauch brächte acht? Und wir finden, dass der Brauch keine Hinzufügung über das Geschriebene ist, sondern dass die Weisen ihn zur Bekräftigung sagen und „Verordnung von den Rabbanan” sagen. Aber bei den Festzeiten, die in jedem Jahr kommen, sagt die Schrift sieben — und sie sagen, der Brauch bringe acht!\n\nUnd ferner: Der Tag nach Rosch ha-Schana — warum sollte man zwei halten, wo doch die Tora einen sagt? Und wenn du zum Versöhnungstag zählst, zählst du nur vom ersten an. Und ferner machten unsere Lehrer ihm eine Erhöhung und sagten: Die zwei Tage des Rosch ha-Schana sind eine Heiligkeit (qedushah aḥat). Und unser Herr sagte, dass die Bewohner des Landes Israel Rosch ha-Schana zwei Tage halten — wir aber sehen bis jetzt, dass sie nur einen Tag halten.\n\nUnser Herr möge uns in der Fülle seiner Weisheit all diese Zweifel erklären, und wie es eine Hinzufügung über das Geschriebene sein kann, und all diese Zweifel wohl darlegen.",
+    "page": "סי' א",
+    "keywords": [
+      {
+        "id": 4,
+        "value": "intercalation",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "calendar",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "Yom Tov Sheni",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
+  },
+  "394": {
+    "id": 394,
+    "order": "14.50000000000000000000",
+    "title": "Hai Gaon’s Reply: Court, Reckoning, and What Still Requires the Land",
+    "text": "כך ראינו כי זה שאמרתם שכתב רבינו סעדיה ז\"ל קנה הוא שדחה את אפיקורוס, ואמתת הדבר הוא כך. כי עבור שנה ועבור חדש החזירו הקב\"ה לבית דין שאם עברו את השנה מעוברת ואם עזבוה היא פשוטה. ואם עברו את החדש הוא מעובר ואם חסרוהו מחוסר ולפי מה שקובעין את השנה ואת החדש הוא רצונו של הקב\"ה. והמועדים הנעשים בקביעותם הם מועדי ה' ולכך אמר בתורה אשר תקראו אותם אותם הם מועדי ה'. וציום עבור השנה לצורך כי הכתוב תלה את המועדים בזמני השנה כדי שלא יקיפו המועדים מזמן לזמן בדרך שמקיפים אותם אשר חדשיהם חדשי הלבנה ואין להם עיבור. וכן שמור את חדש האביב. וחג האסיף בצאת השנה. וחג האסיף תקופת השנה. ושנו חז\"ל (סנהדרין יא ב) על שלשה סימנים מעברין את השנה על האביב ועל התקופה ועל פירות האילן. ואע\"פ כי המצוה לעבר שנה צריכה אם עברוה שלא לצורך מעוברת שכך שנו חכמים (ספרא פ' אמור) אשר תקראו אותם מועדי אם קראתם אתם מועדי ואם לאו אינן מועדי. ואם לא היתה השנה צריכה לעבר ועברוה אנוסין או שוגגין או מוטעין מנין שהיא מעוברת ת\"ל אשר תקראו אתם מועדי אם קראתם אתם מועדי ואם לאו אינן מועדי. אבל החדש אין בו צורך כדרך שיש צורך בשנים מפני האביב ומפני התקופה אלא כמו שרואים עושין. וכך שנו חז\"ל (שם) יכול כשם שמעברין את השנה כך יעברו את החדש לצורך ת\"ל החדש אחר החדש אנו הולכין ואין להם להוסיף על החדש החסר אלא יום אחד ולא לפחות מן השלם אלא יום אחד שנמצא אם כ\"ט אם ל' לא חסר ולא יתר. ואחר שאמרו אחר החדש אנו הולכין כך שנו יכול אם היה צריך שני ימים נותנין שני ימים ת\"ל אותו יום א' בלבד. והחשבון הזה שבידנו שהוא סוד העבור היה בידיהן של ישראל מימות משה רבינו ומוזהרין לעשות לפיהו כשיראו בית דין, והוא מדוקדק. בכל מחזור י\"ט שנה ושבעה חדשים יתרים כדי שיצא המחזור ותעמוד שנת הלבנה נכח שנת החמה. ואין ביניהן אלא שעה ותפ\"ה חלקים בלבד. ואם רואין בית דין לעבר שלא כסדר הזה להקדים או לאחר מה שעשה עשוי. ובלבד שיעשו כהלכות שהיו עמהם בקבלה שאמרו חז\"ל (סנהדרין יב א) אין מעברין את השנה לא בשביעית ולא במוצאי שביעית אימתי רגילין לעבר בערב שביעית. ואמרו אין מעברין את השנה בימי רעבון. וזה אשר אמרו (שם יא א) כי משנים מדת סוד העבור ומקדימין ומאחרין את העבור בעבור מדות שמנו אותם חכמים כגון גליות ישראל שנעקרו ממקומן לחוג ועדיין לא הגיעו כדי כלן מועד א' ומפני הדרכים ומפני הגשרים שיבאו עולי רגלים ומפני תנורי פסחים כגון שרבו מי גשמים ונימוקו כמו שאמר חוני המעגל (תענית יט א) באו והכניסו תנורי פסחים שלא ימוקו כי צורך גדול הוא שצריכים אותם האלפים לצלותו ולאכול בלילה ההוא. ודברים שהם סעד לעיבור כמו שצוה רבן גמליאל לכתוב (סנהדרין יא א) גוזליא רכיכין ואמריא דעדקין וזמן אביבא לא מטא. וכשנצרכין ומעברין שנים שלא כסדר סוד העיבור אשר בידנו יושבים אחר כך בסור הצורך ופורעין מה שלוו מן השנים עד שמעמידין שנת הלבנה כנגד שנת החמה בסוף אותו המחזור או שלאחריו שלא יהא ביניהם אלא שעה ותפ\"ה חלקים כמו שאמרו חז\"ל (שם יב א) אמר ר' שמעון מעשה בר' עקיבא שהיה חבוש בבית האסורין ועבר את השנה שלש שנים זו אחר זו. אמרו לו משם ראיה ב\"ד ישבו וקבעו כל אחת ואחת בזמנה. וגם כן בחדשים היה להם שלשה פנים, א' חשבון עיבור זה שהוא עמנו היום כי הפשוטה לעולם אין בה פחות מחמשה מעוברים ידועים. ואין בה פחות מחמשה חסרים ידועים ומרחשון וכסליו במשפטן ואדר ראשון מלא במעוברת כשרואין לקבוע כדת הזאת היו קובעין והיא התפושה לעולם. והשני ראיית הירח כשרואין לקדש על הראייה מקדשין יום שלישי לפי מה שרואין לא מזה ולא מזה. מה שעשו עשוי אלא שחוזרין לדת. ומבלי צורך מצוה לקדש על הראייה. ואין להם מעיקרא לרחוק מן הראייה יותר משלשה ימים. ולפי ההלכות המועתקות עושין. ששנינו (ערכין ח' ב) אין פוחתין מארבעה חדשים המעוברין בשנה ולא נראין יותר משמנה. וכל זאת שלא ירחקו מן הראייה. וכן אמרו (שם ט' ב) מעשה ועשה רבי תשעה חסרין ונראה חדש בזמנו. והיה רבי תמה ואמר עשינו תשעה חסרין ונראה חדש בזמנו. אמר לפניו ר' שמעון ברבי שמא שנה מעוברת היתה ועיבור שלה ל' אשתקד עשינו שניהם מלאים דל תלתא לבהדי תלתא והויא ליה בדוכתיה. א\"ל רבי נר ישראל כך היה. ובזמן שהחדש היוצא חסר צריכין ב\"ד לקדש את החדש הבא אבל בזמן שהוא מלא אין צריכין לקדש את החדש הבא שא\"א להיות יותר מל' יום. ומקום הוועד אין עושין ראש השנה אלא יום א'. אבל חוץ לתחום אותו מקום נוהגין שני ימים קדש ושולחים שלוחים לכל מקום באיזה יום קדשו ב\"ד את החדש. וכל מקום ששלוחי תשרי מגיעין אין נוהגין את שאר המועדים אלא יום ג' וזו היא ששנינו (ר\"ה יח א) על ששה חדשים השלוחים יוצאים. ואין השלוחים יוצאין אלא להגיד מה שעשו ב\"ד כיון ששינו ועל אלול מפני ר\"ה ועל תשרי מפני תקנת המועדות אמרינן עלה (שם יט ב) כיון דנפקו להו על אלול מה לן על תשרי וכי תימא דילמא עברוה לאלול והאמר רבה בר בר חנה אמר רב מימות עזרא ואילך לא מצינו אלול מעובר. לא מצינו דלא אצטריך הא דאצטריך מעברינן והא קא מקלקלא ר\"ה, מוטב תקלקל ר\"ה ולא נקלקלו כלהו מועדות. דייקא נמי דקתני ועל תשרי מפני תקנת המועדות ש\"מ. ולכל מקום שאין שלוחי ב\"ד מגיעין שני ימים טובים עושין של גליות. ואע\"פ שיודעים איך נקבעה שנה ויודעין ראש חדש ניסן דאמרינן (שם כא א) מכריז ר' יוחנן כל היכא דמטו שלוחי ניסן ולא מטו שלוחי תשרי לעברו תרי יומי גזרה ניסן אטו תשרי להודיע כי אע\"פ שבאו שלוחים להם מתי ראש ניסן עושין פסח שני ימים ועצרת שני ימים. ושני ימים הללו ספקא דהדרי הוו מעיקרא, כי הדבר כמו שפירשנו לכם, כי מימות הנביאים הראשונים כך היו ישראל נהוגין. כל מי שהוא בא\"י בבית הועד עושין ר\"ה יום א', ובכל העולם כלו אפי' מקום שאינו רחוק מבית הועד אלא תחום שבת עושין ר\"ה שני ימים. ואלתר שיוצא ר\"ה לאחר י\"ט ב\"ד שולחין בכל א\"י ומודיעין מתי קבעו ב\"ד את החדש תשרי. ולפיכך עושין את שאר המועדות יום א'. אבל מי שבח\"ל מצוה עליהם לעשות שני ימים. כי חזקתן חזקת מי שאינו יודע באיזה יום קבעו ב\"ד את החדש. וכיון שהוא אצלם ספק נגזר עליהם לעשות שני ימים, שאם זה הוא שעשאוהו ב\"ד הרי עמהם היו, ואם זה הוא שעשאוהו ב\"ד הרי עמהם היו. ולפנים מטילין את הספק ולא לאחור, כאשר אנו אומרים (שם כ\"ב) אמר ר' זירא אמר רב נחמן כל ספקא לקמיה שרינן /שדינן/ ליה למימרא דחמיסר ושיתסר עבדינן וארביסר לא עבדינן. ואע\"פ שיש לחוש דילמא חסרוהו ב\"ד. ואשר כתבנו אל קאבת גזרה היא מימות הנביאים הראשונים וכך הופיעו הנביאים את ישראל כך הוא הדבר. ואשר אמרתם והיאך יבא המנהג בתוספת על מה שכתוב בתורה, והיאך יאמר הכתוב ז' ואתה תאמר ח', אין אלה דברי חכמים כמוכם. כי לא כתבנו מי גזר את הגזרה הזאת מאחר שהנביאים כך צוו את ישראל לעשות, וכך היה יחזקאל, וכך היה דניאל עושה. היאך יאמרו כי יש בזו משום בל תוסיף. אילו היה בדבר טעות לא עשוהו הנביאים. והיאך יחשב כי מה שעשו הנביאים טעות. ולא עוד אלא כי במצות הקב\"ה עשו מה שעשו. והעיבור שיש בה שינוי מן המסורת אינו כשר אלא בא\"י",
+    "loi_id": "loi_passage__394",
+    "translation": "",
+    "parallel_text": [],
+    "bibl_quotes": [
+      {
+        "id": 77,
+        "value": "bSanhedrin 11b",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 117,
+        "value": "Leviticus 23:2",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "Deuteronomy 16:1",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Exodus 23:16",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Exodus 34:22",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "bSanhedrin 12a",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "bTaanit 19a",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 123,
+        "value": "bArakhin 8b",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "bRosh ha-Shana 18a",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "commentary": "",
+    "work": [
+      {
+        "id": 47,
+        "value": "Responsum of Rav Hai Gaon on the Second Festival Day",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "german_translation": "So sehen wir: Das, was ihr gesagt habt, was unser Lehrer Saadia seligen Andenkens geschrieben hat — ein Rohr war es, mit dem er den Epikureer abgewehrt hat. Die Wahrheit der Sache aber ist diese:\nDenn die Schaltung des Jahres und die Schaltung des Monats hat der Heilige, gepriesen sei er, dem Bet Din übergeben: Wenn sie das Jahr schalten, ist es geschaltet; und wenn sie es lassen, ist es ein gewöhnliches Jahr. Und wenn sie den Monat voll machen, ist er voll; und wenn sie ihn defekt machen, ist er defekt. Und wie sie Jahr und Monat festsetzen, so ist es der Wille des Heiligen, gepriesen sei er. Und die Festzeiten, die nach ihrer Festsetzung begangen werden, sind die Festzeiten des Herrn; darum sagt die Tora: „die ihr ausrufen werdet” (Lev 23,2) — jene, [die ihr ausruft,] sind die Festzeiten des Herrn.\nUnd er gebot ihnen die Schaltung des Jahres aus Notwendigkeit, denn die Schrift hat die Festzeiten an die Zeiten des Jahres gebunden, damit die Festzeiten nicht von Zeit zu Zeit wandern, wie sie bei denen wandern, deren Monate Mondmonate sind und die keine Schaltung haben. Und so: „Beobachte den Monat des Aviv” (Dtn 16,1), „das Fest der Lese beim Ausgang des Jahres” (Ex 23,16), „das Fest der Lese bei der Wende des Jahres” (Ex 34,22). Und unsere Lehrer lehrten (bSanhedrin 11b): Aufgrund dreier Zeichen schaltet man das Jahr — aufgrund des Aviv, der Tequfah und der Baumfrüchte.\nUnd obwohl das Gebot, das Jahr zu schalten, eine Notwendigkeit voraussetzt: Wenn sie es ohne Notwendigkeit geschaltet haben, ist es geschaltet. Denn so lehrten die Weisen (Sifra, Emor): „die ihr ausrufen werdet — meine Festzeiten”: Habt ihr sie ausgerufen, sind es meine Festzeiten; wenn nicht, sind es nicht meine Festzeiten. Und wenn das Jahr der Schaltung nicht bedurfte und sie es unter Zwang, versehentlich oder in die Irre geführt schalteten — woher, dass es geschaltet ist? Die Schrift lehrt: „die ihr ausrufen werdet — meine Festzeiten”: Habt ihr sie ausgerufen, sind es meine Festzeiten; wenn nicht, sind es nicht meine Festzeiten.\nBeim Monat aber besteht keine Notwendigkeit, wie sie bei den Jahren wegen des Aviv und wegen der Tequfah besteht, sondern wie sie sehen, so tun sie. Und so lehrten unsere Lehrer (ebd.): Man könnte meinen, wie man das Jahr nach Bedarf schaltet, so schalte man auch den Monat; die Schrift lehrt: „der Monat” — dem Monat folgen wir. Und sie dürfen zum defekten Monat nur einen Tag hinzufügen und vom vollen nur einen Tag abziehen, sodass sich ergibt: entweder 29 oder 30, nicht weniger und nicht mehr. Und nachdem sie gesagt hatten „dem Monat folgen wir”, lehrten sie so: Man könnte meinen, wären zwei Tage nötig, gebe man zwei Tage; die Schrift lehrt: „ihn” — einen Tag allein.\nUnd diese Berechnung, die in unserer Hand ist, welche das Geheimnis der Interkalation (sod ha-ʿibbur) ist, war in den Händen Israels seit den Tagen Moses, unseres Lehrers, und sie sind gewarnt, danach zu verfahren, wenn das Bet Din es so sieht; und sie ist genau ausgearbeitet: In jedem Zyklus von 19 Jahren sind sieben Monate überschüssig, damit der Zyklus aufgehe und das Mondjahr dem Sonnenjahr gegenüberstehe, und es bleibt zwischen ihnen nur eine Stunde und 485 Teile.\nUnd wenn das Bet Din es für richtig hält, nicht nach dieser Ordnung zu schalten, vorzuverlegen oder hinauszuschieben — was es getan hat, ist getan, sofern sie nach den Halachot verfahren, die ihnen in der Überlieferung vorliegen. Denn die Weisen sagten (bSanhedrin 12a): Man schaltet das Jahr weder im siebten Jahr noch im Jahr nach dem siebten; wann pflegt man zu schalten? Im Vorabend des siebten. Und sie sagten: Man schaltet das Jahr nicht in Tagen der Hungersnot.\n\nUnd dies ist es, was sie sagten (ebd. 11a), dass man das Maß des sod ha-ʿibbur ändert und die Schaltung vorverlegt oder hinausschiebt um der Umstände willen, die die Weisen aufgezählt haben: etwa die Exilierten Israels, die von ihrem Ort aufgebrochen sind, um zu feiern, und noch nicht alle zur Festzeit eingetroffen sind; und wegen der Wege und wegen der Brücken, damit die Festpilger kommen; und wegen der Pessachöfen, wenn etwa das Regenwasser überhandnahm und sie aufweichten, wie Ḥoni ha-Meʿaggel sagte (bTaʿanit 19a): Geht und bringt die Pessachöfen herein, damit sie nicht aufweichen — denn es ist eine große Notwendigkeit, da jene Tausende sie brauchen, um in jener Nacht zu braten und zu essen. Und Dinge, die der Schaltung zur Stütze dienen, wie Rabban Gamliel zu schreiben gebot (bSanhedrin 11a): Die Täubchen sind zart und die Lämmer klein, und die Zeit des Aviv ist nicht gekommen.\nUnd wenn Not besteht und sie Jahre schalten, nicht nach der Ordnung des sod ha-ʿibbur, die in unserer Hand ist, so setzen sie sich danach, wenn die Not gewichen ist, und zahlen zurück, was sie von den Jahren geliehen haben, bis sie das Mondjahr dem Sonnenjahr gegenüberstellen am Ende jenes Zyklus oder des folgenden, sodass zwischen ihnen nur eine Stunde und 485 Teile sind, wie die Weisen sagten (ebd. 12a): R. Schimon sagte: Es geschah mit R. Akiva, dass er im Gefängnis eingeschlossen war und das Jahr drei Jahre nacheinander schaltete. Sie sagten ihm: Von dorther ein Beweis? Das Bet Din saß und setzte ein jedes zu seiner Zeit fest.\n\nUnd ebenso hatten sie bei den Monaten drei Weisen [zu verfahren]: Die erste ist diese Berechnung der Schaltung, die heute bei uns ist, denn das gewöhnliche Jahr hat nie weniger als fünf bekannte volle und nie weniger als fünf bekannte defekte Monate, und Marḥeshvan und Kislev nach ihrer Regel, und der erste Adar voll im Schaltjahr; wenn sie es für richtig hielten, nach dieser Ordnung festzusetzen, setzten sie so fest, und sie ist allezeit die gebräuchliche. Und die zweite ist die Sichtung des Mondes: Wenn sie es für richtig hielten, nach der Sichtung zu heiligen, heiligten sie [danach]. [Und die dritte:] gemäß dem, wie sie es für richtig halten — weder nach diesem noch nach jenem; was sie getan haben, ist getan, nur dass sie [danach] zur Regel zurückkehren. Und ohne Not ist es Gebot, nach der Sichtung zu heiligen, und sie dürfen sich von vornherein nicht mehr als drei Tage von der Sichtung entfernen; und nach den überlieferten Halachot verfahren sie, denn wir haben gelernt (bArakhin 8b): Man macht nicht weniger als vier volle Monate im Jahr, und mehr als acht sieht man nicht — und all dies, damit sie sich nicht von der Sichtung entfernen.\n\nUnd so sagten sie (ebd. 9b): Es geschah, dass Rabbi neun defekte [Monate] machte, und der Monat erschien zu seiner Zeit. Und Rabbi wunderte sich und sagte: Wir haben neun defekte gemacht, und der Monat erschien zu seiner Zeit! Da sprach vor ihm R. Schimon be-Rabbi: Vielleicht war es ein Schaltjahr, und seine Schaltung war dreißig [Tage]; im vergangenen Jahr machten wir beide voll — nimm drei gegen drei, und es steht an seinem Ort. Er sagte ihm: Rabbi, Leuchte Israels, so war es.\nUnd wenn der ausgehende Monat defekt ist, muss das Bet Din den kommenden Monat heiligen; ist er aber voll, braucht es den kommenden nicht zu heiligen, da es unmöglich ist, dass er mehr als dreißig Tage habe.\n\nUnd am Ort der Versammlung (meqom ha-waʿad) begeht man Rosch ha-Schana nur einen Tag; außerhalb des Bezirks jenes Ortes aber hält man zwei Tage als heilig, und sie senden Boten an jeden Ort, an welchem Tag das Bet Din den Monat geheiligt hat. Und jeder Ort, zu dem die Boten des Tischri gelangen, begeht die übrigen Festzeiten nur [einen] Tag. Und das ist es, was wir gelernt haben (bRosch ha-Schana 18a): Wegen sechs Monaten ziehen die Boten aus.\nUnd die Boten ziehen nur aus, um mitzuteilen, was das Bet Din getan hat, da sie abgewichen sind; und wegen Elul um Rosch ha-Schana willen, und wegen Tischri um der Ordnung der Festzeiten willen. Wir sagen dazu (ebd. 19b): Da sie doch wegen Elul ausziehen, wozu uns wegen Tischri? Und wolltest du sagen: Vielleicht haben sie den Elul geschaltet? — hat nicht Rabbah bar bar Ḥanah im Namen Ravs gesagt: Seit den Tagen Esras und weiterhin haben wir keinen geschalteten Elul gefunden? — Wir haben [ihn] nicht gefunden, weil es nicht nötig war; wo es nötig ist, schalten wir. Aber dadurch wird doch Rosch ha-Schana gestört! — Besser, Rosch ha-Schana werde gestört, als dass alle Festzeiten gestört werden. Genau so ist auch gelehrt: „und wegen Tischri um der Ordnung der Festzeiten willen” — daraus ist zu schließen.\nUnd an jedem Ort, zu dem die Boten des Bet Din nicht gelangen, begeht man die zwei Festtage der Diaspora. Und obwohl sie wissen, wie das Jahr festgesetzt wurde, und den Neumond des Nisan kennen — denn wir sagen (ebd. 21a): R. Yoḥanan verkündete: Überall, wo die Boten des Nisan gelangen, die Boten des Tischri aber nicht gelangen, sollen sie zwei Tage halten; eine Verordnung für Nisan wegen Tischri —, um kundzutun, dass sie, obwohl Boten zu ihnen kamen [und sie wissen], wann der Neumond des Nisan ist, Pessach zwei Tage und Schawuot zwei Tage begehen.\nUnd diese zwei Tage waren von Anfang an ein wiederkehrender Zweifel, denn die Sache ist, wie wir euch dargelegt haben: Seit den Tagen der früheren Propheten war Israel so gewohnt. Jeder, der im Lande Israel am Ort der Versammlung ist, begeht Rosch ha-Schana einen Tag; und in der ganzen übrigen Welt, selbst an einem Ort, der vom Haus der Versammlung nur einen Sabbatbezirk (teḥum Shabbat) entfernt ist, begeht man Rosch ha-Schana zwei Tage. Und sogleich, wenn Rosch ha-Schana vorüber ist, sendet das Bet Din in ganz Ereẓ Israel und tut kund, wann das Bet Din den Monat Tischri festgesetzt hat; darum begehen sie die übrigen Festzeiten einen Tag. Wer aber außerhalb des Landes ist, dem ist es Gebot, zwei Tage zu begehen, denn ihre Vermutung ist die dessen, der nicht weiß, an welchem Tag das Bet Din den Monat festgesetzt hat. Und da es bei ihnen ein Zweifel ist, wurde über sie verhängt, zwei Tage zu begehen: Denn ist dies der [Tag], den das Bet Din festgesetzt hat, so waren sie mit ihnen; und ist jenes der, den das Bet Din festgesetzt hat, so waren sie mit ihnen.\nUnd den Zweifel werfen wir nach vorn und nicht nach hinten, wie wir sagen (ebd. 22a): R. Zeira sagte im Namen Rav Naḥmans: Allen Zweifel werfen wir nach vorn — das heißt, den Fünfzehnten und den Sechzehnten begehen wir, den Vierzehnten aber begehen wir nicht, obgleich zu befürchten wäre, das Bet Din habe ihn defekt gemacht.\n\nUnd was wir nach Qābat geschrieben haben: Es ist eine Verordnung seit den Tagen der früheren Propheten, und so haben die Propheten Israel unterwiesen; so verhält sich die Sache.\n\nUnd was ihr gesagt habt: Wie sollte ein Brauch als Hinzufügung über das kommen, was in der Tora geschrieben steht, und wie sollte die Schrift sieben sagen und du sagst acht — das sind keine Worte von Weisen wie euch. Denn wir haben nicht geschrieben, wer diese Verordnung verordnet hat, nachdem die Propheten Israel so zu tun geboten haben; und so tat Ezechiel, und so tat Daniel. Wie sollte man sagen, dass darin ein „du sollst nicht hinzufügen” läge? Wäre an der Sache ein Irrtum, hätten die Propheten es nicht getan. Und wie sollte man denken, dass das, was die Propheten taten, ein Irrtum sei? Und mehr noch: Auf Gebot des Heiligen, gepriesen sei er, taten sie, was sie taten.\nUnd eine Schaltung, in der eine Abweichung von der Überlieferung liegt, ist nur im Lande Israel gültig.",
+    "page": "סי' א",
+    "keywords": [
+      {
+        "id": 4,
+        "value": "intercalation",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "calendar",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "Yom Tov Sheni",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "Galuyot",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "395": {
+    "id": 395,
+    "order": "14.66666666666666607455",
+    "title": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
+    "text": "וגם בארץ יהודה בלבד ולא בגליל ולא בעבר הירדן. והתורה אמרה לשכנו תדרשו ובאת שמה והועתק כהלכה כי זה מן הדרישות הצריכות שכנו של מקום. ואין יודעין כאן מה עשו שם. ועתה אם יצא איש ממקומות שמונין את ימיהם שבועות למקום שמונין חדשים ואין מכירין שבועות, או שהפליג בים ושכח אם ביום רביעי יצא או ביום חמישי ואין בלבו ספק אלא בד' ובה' בלבד מה יעשה לשמור יום השבת. הלא כן ראוי שימנה יום א' וישבות שמא ביום ה' יצא, וגם ישבות ביום שלאחריו שמא יום ד' יצא. התאמרו לזה שהקב\"ה צוה לשמור יום א' ואתה שבתת שני ימים. ואם יאריכו ימיו על זאת הלא כן יספור וישבות, וקורא את זה שביעי ואת זה שביעי כמו שאנו עושים שני ימים של סוכות זה נקרא ראשון וזה נקרא ראשון. וליום טוב אחרון אנו קורין שמיני לזה ושמיני לזה. וכיון שכך נהגו ישראל על פי הנביאים נעשית מצוה על כל בני גליות לעשות כן כמצוה האמורה מפי הגבורה. ושמא מימות יהושע בן נון כך הנהיג את כל היוצאים ומשתהים ח\"ל לעשות. ולא נשאר לשואל אלא לומר מאחר שבימים האלה אין לב\"ד של א\"י לפחות ולא להוסיף אלא אוחזים הם כמונו מה שבסוד המועתק מפי משה רבינו מפי הגבורה. מפני מה אנו עושין שני ימים ואין כאן ספק. והוא ששאלנו בשמועה זו (ביצה ד' ב) והאידנא דידעינן בקבועא דירחא מ\"ט קא עבדינן תרי יומי. ויש לדבר זה שתי תשובות אחת מהן כי גם עכשיו פעמים שיהיה שמד שם ויצטרכו לשנות ויתקלקל הדבר. וזהו שאמרנו זמנין דגמרי וגזרי שמדא ומתקלקל מלתא. ותשובה האחרת כי הנביאים צוו את ישראל שבח\"ל ואין אנו יודעין אמתת עלת הדבר בודאי. ואף אין אנו יודעים כי בודאי סרה העילה שזה הדבר תלוי בה כדי שנסיר אותה בסורה. והלכה מועתקת היא ממשה רבינו ע\"ה מפי הגבורה כל דבר שבמנין צריך מנין אחר להתירו. ואמר רב יוסף מנא אמינא לה דכתיב לך אמור להם שובו לכם לאהליכם. ואומר במשוך היובל המה יעלו בהר. ותנן כרם רבעי היה הולך לירושלם מהלך יום א' לכל צד. ואיזהו תחומה עגלה מן הדרום ועקרבה מן הצפון לוד מן המזרח וירדן מן המערב. ואמר עולא ואתימא רבה בר בר חנה אמר ר' יוחנן מה טעם כדי לעטר שוקי ירושלם בפירות. ותניא כרם רבעי היה לו לר\"א במזרח לוד אצל כפר טבי ובקש להפקירו לעניים, א\"ל תלמידיו רבי כבר נמנו עליך חביריך והתירוה. מכדי כתיב היו נכנים לשלשת ימים לך אמור להם שובו לכם לאהליכם למה לי. ש\"מ כל דבר שבמנין צריך מנין אחר להתירו. מאי ואומר וכי תימא ההוא למצות עונה הוא דאתא תא שמע במשוך היובל מכדי כתיב השמרו לכם עלות בהר ונגוע בקצהו במשוך היובל למה לי ש\"מ כל דבר שבמנין וכו' וכי תימא הני מילי מדאורייתא אבל מדרבנן לא ת\"ש כרם רבעי דרבנן וקאמרינן ליה נמנו עליך חביריך והתירוה טעמא דנמנו הא לא נמנו עליו באיסוריה קאי, עכשיו מאין לנו בית דין כבית דינו של דניאל ושל יחזקאל. וגם הלכה היא אין ב\"ד יכול לבטל דברי ב\"ד חבירו עד שיהא גדול ממנו בחכמה ובמנין. ודברים אלו אילו היתה גזרה מב\"ד, ועכשיו שהם דברי נביאים אם בדבר ה' עשו הנביאים מי זה יבטלם. ולזאת אמרו רבותינו שלחו מתם אל תשנו מנהג אבותיכם. ואם בעבור ספק קידוש ב\"ד גזרו בגליות לעשות שני ימים נעשו שניהם מצוה. ועכשיו אין ספק אלא מצוה היא לעשות כן. ואשר אמר גאון פיומי ז\"ל כי צוה הקב\"ה לעשות בארץ יום א' ובגולה שני ימים. כן אנו אומרים כי מצות אלהים היא ואע\"פ כי עיקרה מחמת ספק שהוא מסתפק עלינו קידוש בית דין. וכמה מצות צוה הקב\"ה על הספקות כי אין אנו יודעים נסתרות. אם נולד ולד בין השמשות שעה שהיא ספק אם מיום זה הלא יש בו מצוה. וכי נעשה כאשר צוונו את מצות ה' אנו מקיימין. ואם מספק הוצאנו תרומות ומעשרות הלא כל הלכות דמאי מצות הן ומקיימן קיום מצוה גמורה ידועה אע\"פ כי עיקרה מספק. ספק בן ט' לראשון או בן ז' לאחרון הלא חוקותיו משפטי אמת הן ידועין אע\"פ כי בעבור ספק. קידושי וגירושי ספק הלא גם הם משפטיהם ידועים וברורים והמקיימם מקיים מצוה ידועה. וכמה וכמה כאלה. ומה יש בדבר כי שם הקב\"ה מצוה על אשר לא ידעו איך קידוש החדש בב\"ד לעשות שני ימים. ומה תוחלת למינים בזאת. ואשר אמרו משקלקלו הכותים התקינו שיהיו שלוחים יוצאין ואמרו בתלמוד (ביצה ד' ב) שאם בטל זה עבדינן חד יומא בעבור שני י\"ט של ר\"ה נאמר כי בראשונה אם קדשו ב\"ד את החדש בזמנו בראש תשרי היו משיאין משואות ועושין יום א' וכשקלקלו הכותים והתקנו שיהיו השלוחין יוצאין עושין ר\"ה חוץ לבית הועד כמו שפירשנו. והספק שמספקא ליה לרב אסי דעביד הכא לחומרא והכא לחומרא לא בין שני י\"ט של גליות היא. ומי שחשב כך (טועה). אלא כך אמר דמספקא ליה שני ימים של ר\"ה קדושה אחת הן או הן שתי קדושות. וכבר עמד לנו כי קדושה אחת הן. ואשר אמרנו בעבור בני א\"י בי\"ט של ר\"ה כך אמרנו בדין הוא שיעשו כראשונים ולא ישנו ממנהג אבותיהם נוחי נפש.",
+    "loi_id": "loi_passage__395",
+    "translation": "",
+    "parallel_text": [],
+    "bibl_quotes": [
+      {
+        "id": 78,
+        "value": "Deuteronomy 12:5",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "bBeitzah 4b",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "Deuteronomy 5:27",
+        "order": "65.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "bBeitzah 5a",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 129,
+        "value": "Exodus 19:13",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 130,
+        "value": "mMaaser Sheni 5:2",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 131,
+        "value": "Exodus 19:15",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 132,
+        "value": "Exodus 19:12",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "mEduyot 1:5",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "commentary": "",
+    "work": [
+      {
+        "id": 47,
+        "value": "Responsum of Rav Hai Gaon on the Second Festival Day",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und auch im Lande Jehudah allein, und nicht im Galil und nicht in Ever ha-Jarden. Und die Tora sagt: „Nach seiner Wohnstätte sollt ihr fragen und dorthin kommen” (Dtn 12,5), und es wurde als Halacha überliefert, dass dies zu den Fragen gehört, die der Wohnstätte des Ortes bedürfen. Und wir wissen hier nicht, was sie dort getan haben.\n\nUnd nun: Wenn ein Mensch von Orten, an denen man seine Tage nach Wochen zählt, an einen Ort zieht, an dem man nach Monaten zählt und Wochen nicht kennt, oder wenn einer aufs Meer hinausfuhr und vergaß, ob er am vierten oder am fünften Tag ausgefahren ist, und in seinem Sinn kein anderer Zweifel ist als zwischen dem vierten und dem fünften allein — was soll er tun, um den Schabbat zu halten? Ist es nicht recht, dass er einen Tag zähle und ruhe, vielleicht ist er am fünften ausgefahren, und auch am Tag danach ruhe, vielleicht ist er am vierten ausgefahren? Wolltet ihr dazu sagen: Der Heilige, gepriesen sei er, gebot, einen Tag zu halten, und du hast zwei Tage geruht? Und wenn seine Tage sich darin hinziehen, so soll er ebenso zählen und ruhen und diesen den siebten nennen und jenen den siebten — wie wir zwei Tage des Sukkot begehen: dieser heißt der erste und jener heißt der erste, und beim letzten Festtag nennen wir diesen den achten und jenen den achten. Und da Israel auf Weisung der Propheten so verfahren ist, wurde es allen Bewohnern der Golah zum Gebot, so zu tun, wie ein Gebot, das aus dem Munde der Macht gesagt ist. Und vielleicht hat schon Josua bin Nun alle, die hinausziehen und außerhalb des Landes verweilen, so angewiesen.\n\nUnd dem Fragenden bleibt nur zu sagen: Da in diesen Tagen dem Bet Din von Ereẓ Israel weder abzuziehen noch hinzuzufügen ist, sondern sie wie wir an dem festhalten, was im Geheimnis überliefert ist aus dem Munde Moses, unseres Lehrers, aus dem Munde der Macht — weshalb begehen wir zwei Tage, wo doch hier kein Zweifel ist? Und das ist es, was wir in dieser Lehre gefragt haben (bBeiẓah 4b): Und heutzutage, da wir die Festsetzung des Monats kennen, aus welchem Grund begehen wir zwei Tage?\n\nUnd auf diese Sache gibt es zwei Antworten. Die eine von ihnen: dass auch jetzt zuweilen dort eine Verfolgung sein kann und sie abzuweichen genötigt sind und die Sache in Unordnung gerät; und das ist es, was wir gesagt haben: Zuweilen verhängen sie Verfolgung, und die Sache gerät in Unordnung. Und die andere Antwort: dass die Propheten es Israel, das außerhalb des Landes ist, geboten haben, und wir die Wahrheit des Grundes der Sache nicht mit Gewissheit kennen; und wir wissen auch nicht mit Gewissheit, dass der Grund, an dem diese Sache hängt, weggefallen ist, sodass wir sie mit ihm beseitigen dürften.\n\nUnd es ist eine Halacha, überliefert von Mose, unserem Lehrer, Friede über ihn, aus dem Munde der Macht: Alles, was durch Beschluss [eingesetzt wurde], bedarf eines anderen Beschlusses, um es aufzuheben. Und Rav Josef sagte (bBeiẓah 5a–b): Woher sage ich es? Weil geschrieben steht: „Geh, sage ihnen: Kehrt zurück zu euren Zelten” (Dtn 5,27). Und es heißt: „Wenn das Widderhorn anhaltend tönt, dürfen sie den Berg besteigen” (Ex 19,13). Und wir haben gelernt (mMaʿaser Scheni 5,2): Der Weinberg des vierten Jahres war nach Jerusalem zu bringen, einen Tagesmarsch nach jeder Seite. Und welches ist sein Umkreis? ʿEglah im Süden und ʿAqrabah im Norden, Lod im Osten und der Jordan im Westen [so die Vorlage; vgl. die Mischna]. Und ʿUlla sagte, manche sagen Rabbah bar bar Ḥanah im Namen des R. Yoḥanan: Was ist der Grund? Um die Märkte Jerusalems mit Früchten zu schmücken. Und es ist gelehrt: R. Eliezer hatte einen Weinberg des vierten Jahres östlich von Lod bei Kefar Tavi und wollte ihn den Armen freigeben. Seine Schüler sagten ihm: Rabbi, deine Genossen haben bereits darüber abgestimmt und es erlaubt. — Nun, es steht doch geschrieben: „Seid bereit auf den dritten Tag” (Ex 19,15); wozu dann „Geh, sage ihnen: Kehrt zurück zu euren Zelten”? Daraus ist zu schließen: Alles, was durch Beschluss [eingesetzt wurde], bedarf eines anderen Beschlusses, um es aufzuheben. Was bedeutet „und es heißt”? Und wolltest du sagen, jenes sei um des Gebotes der ehelichen Pflicht willen gekommen — so komm und höre: „Wenn das Widderhorn anhaltend tönt”. Nun, es steht doch geschrieben: „Hütet euch, auf den Berg zu steigen und seinen Rand zu berühren” (Ex 19,12); wozu dann „wenn das Widderhorn anhaltend tönt”? Daraus ist zu schließen: Alles, was durch Beschluss usw. Und wolltest du sagen, dies gelte von der Tora her, nicht aber von den Rabbanan her — so komm und höre: Der Weinberg des vierten Jahres ist von den Rabbanan, und wir sagen dazu: Deine Genossen haben darüber abgestimmt und es erlaubt. Der Grund ist, dass sie abgestimmt haben; hätten sie nicht abgestimmt, bliebe es in seinem Verbot.\n\nNun, woher haben wir heute ein Bet Din wie das Bet Din Daniels und Ezechiels? Und es ist auch eine Halacha: Kein Bet Din kann die Worte eines anderen Bet Din aufheben, es sei denn, es ist größer als jenes an Weisheit und an Zahl (mEduyot 1,5). Und diese Dinge — wäre es eine Verordnung von einem Bet Din [, so ließe sich darüber reden]; nun aber, da es Worte von Propheten sind: Wenn die Propheten es auf das Wort des Herrn hin taten, wer sollte sie aufheben? Und darum sagten unsere Lehrer: Sie sandten von dort: Ändert nicht den Brauch eurer Väter. Und wenn sie wegen des Zweifels an der Heiligung durch das Bet Din über die Golah verhängt haben, zwei Tage zu begehen, so sind beide zum Gebot geworden; und jetzt ist kein Zweifel mehr, sondern es ist Gebot, so zu tun.\n\nUnd was der Gaon von Fayyūm seligen Andenkens sagte, dass der Heilige, gepriesen sei er, geboten habe, im Lande einen Tag und in der Golah zwei Tage zu begehen — so sagen auch wir, dass es ein Gebot Gottes ist, obgleich sein Ursprung aus dem Zweifel kommt, der uns bezüglich der Heiligung durch das Bet Din zweifelhaft ist. Und wie viele Gebote hat der Heilige, gepriesen sei er, über Zweifelsfälle geboten, denn wir kennen das Verborgene nicht! Wenn ein Kind in der Dämmerung geboren wird, zu einer Stunde, die zweifelhaft ist, ob sie von diesem Tag ist — ist darin nicht ein Gebot? Und wenn wir tun, wie uns geboten ist, erfüllen wir die Gebote des Herrn. Und wenn wir aus Zweifel Terumot und Maʿasrot absondern — sind nicht alle Halachot des Demai Gebote, und wer sie erfüllt, erfüllt ein vollgültiges, bekanntes Gebot, obgleich ihr Ursprung aus Zweifel kommt? Der Zweifel, ob ein Kind von neun [Monaten] vom Ersten oder von sieben vom Letzten ist — sind nicht seine Satzungen wahre, bekannte Rechtsbestimmungen, obgleich um eines Zweifels willen? Zweifelhafte Verlobungen und Scheidungen — sind nicht auch deren Rechtsbestimmungen bekannt und klar, und wer sie erfüllt, erfüllt ein bekanntes Gebot? Und wie viele dergleichen! Und was ist dabei, dass der Heilige, gepriesen sei er, denen, die nicht wissen, wie die Heiligung des Monats im Bet Din geschah, zum Gebot gesetzt hat, zwei Tage zu begehen? Und was für eine Hoffnung bleibt darin den Minim?\n\nUnd was sie sagten: Als die Kutäer Unheil stifteten, verordnete man, dass Boten ausziehen, und sie sagten im Talmud (bBeiẓah 4b), wenn dies aufhörte, begingen wir einen Tag — so sagen wir, dass dies um der zwei Festtage des Rosch ha-Schana willen [gesagt ist]: Denn anfangs, wenn das Bet Din den Monat zu seiner Zeit am Anfang des Tischri heiligte, entzündete man Signalfeuer und beging einen Tag; und als die Kutäer Unheil stifteten und man verordnete, dass die Boten ausziehen, beging man Rosch ha-Schana außerhalb des Hauses der Versammlung so, wie wir dargelegt haben.\n\nUnd der Zweifel, in dem Rav Assi unschlüssig war, sodass er hier erschwerend und dort erschwerend verfuhr, besteht nicht zwischen den zwei Festtagen der Golah; und wer so gemeint hat, [irrt]. Vielmehr sagte er so: dass ihm zweifelhaft war, ob die zwei Tage des Rosch ha-Schana eine Heiligkeit (qedushah aḥat) sind oder zwei Heiligkeiten. Und es ist uns bereits feststehend, dass sie eine Heiligkeit sind.\n\nUnd was wir bezüglich der Bewohner von Ereẓ Israel am Festtag des Rosch ha-Schana gesagt haben — so haben wir mit Recht gesagt, dass sie tun sollen wie die Früheren und nicht vom Brauch ihrer Väter, die zur Ruhe eingegangen sind, abweichen",
+    "page": "סי' א",
+    "keywords": [
+      {
+        "id": 4,
+        "value": "intercalation",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "calendar",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "Yom Tov Sheni",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Galil",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "Galuyot",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "Ever ha-Yarden",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Ereẓ Yehudah",
+        "order": "24.00000000000000000000"
+      }
+    ]
   },
   "15": {
     "id": 15,

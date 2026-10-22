@@ -52,7 +52,7 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "bible": "bSan 37a:2-3",
+    "bible": "bSanhedrin 37a:2-3",
     "text": "The mishna teaches that the Sanhedrin would sit in a semicircle. The Gemara asks: From where are these matters derived? Rabbi Aḥa bar Ḥanina says: As the verse states: “Your navel is like a round goblet, let no mingled wine be wanting; your belly is like a heap of wheat set about with lilies” (Song of Songs 7:3). This verse is interpreted as referring to the members of the Sanhedrin, who sit in a semicircle. “Your navel”; this is an allusion to the Sanhedrin. And why is it called by way of allusion “your navel”? It is because it sits in the navel of the world, in the Temple. “Goblet [aggan]”; this teaches that the Sanhedrin protects [meginna] the entire world with its merit. “Round [hassahar]”; this teaches that the Sanhedrin is similar to the moon [sahar]. The court sits in a semicircle, like the shape of the moon.",
     "url": "https://www.sefaria.org/Sanhedrin.37a.2?lang=bi&with=all&lang2=en",
     "loi_id": "loi_biblref__6",
@@ -443,12 +443,18 @@
   "65": {
     "id": 65,
     "order": "35.00000000000000000000",
-    "bible": "Sanhedrin 5a",
+    "bible": "bSanhedrin 5a",
     "text": "He may teach. Rabbi Ḥiyya then asked: May he also adjudicate cases of monetary law, and be absolved from payment if he errs? Rabbi Yehuda HaNasi said to him: He may adjudicate. Rabbi Ḥiyya continued: May he declare a firstborn animal permitted?",
     "url": "https://www.sefaria.org/Sanhedrin.5a.10?lang=bi&with=all&lang2=en",
     "loi_id": "loi_biblref__65",
     "text_he": "״יוֹרֶה?״ ״יוֹרֶה!״, ״יָדִין?״ ״יָדִין!״, ״יַתִּיר בְּכוֹרוֹת?״ ״יַתִּיר!",
-    "designations": []
+    "designations": [
+      {
+        "id": 82,
+        "value": "Ayarot ha-ʿOmedot ʿal ha-Gevulim",
+        "order": "18.00000000000000000000"
+      }
+    ]
   },
   "66": {
     "id": 66,
@@ -614,6 +620,254 @@
     "url": "https://www.sefaria.org/Deuteronomy.12.5?lang=bi&with=all&lang2=en",
     "loi_id": "loi_biblref__78",
     "text_he": "כִּי אִם־אֶל־הַמָּקוֹם אֲשֶׁר־יִבְחַר יְהֹוָה אֱלֹהֵיכֶם מִכׇּל־שִׁבְטֵיכֶם לָשׂוּם אֶת־שְׁמוֹ שָׁם לְשִׁכְנוֹ תִדְרְשׁוּ וּבָאתָ שָּׁמָּה",
+    "designations": [
+      {
+        "id": 85,
+        "value": "Shikhno shel ha-Kadosh Barukh Hu",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "111": {
+    "id": 111,
+    "order": "49.00000000000000000000",
+    "bible": "bGittin 88b",
+    "text": "Rav Yosef said to him: We see ourselves as agents of the ordained judges in Eretz Yisrael, and we are performing our task as judges on the basis of their agency, just as is the case with regard to cases of admissions and loans, which we attend to on the same basis.",
+    "url": "https://www.sefaria.org/Gittin.88b.11?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__111",
+    "text_he": "אֲמַר לֵיהּ: אֲנַן – שְׁלִיחוּתַיְיהוּ קָא עָבְדִינַן, מִידֵּי דְּהָוֵה אַהוֹדָאוֹת וְהַלְוָאוֹת.",
+    "designations": []
+  },
+  "112": {
+    "id": 112,
+    "order": "50.00000000000000000000",
+    "bible": "bBava Kamma 84b",
+    "text": "Rather, what is different about damage to an ox caused by an ox and damage to an ox caused by a man, so that Babylonian judges can rule in these cases even though they are not ordained? The difference is that we, the judges of Babylonia, perform the agency of the judges of Eretz Yisrael, just as we do with regard to the halakhot of admissions and loans, as we are permitted to rule in those cases as agents of the ordained judges in Eretz Yisrael. If so, then in cases of damage caused to a person by a person and cases of damage caused to a person by an ox as well, why not say that the judges of Babylonia perform the agency of the judges of Eretz Yisrael, just as it is with regard to the halakhot of admissions and loans?",
+    "url": "https://www.sefaria.org/Bava_Kamma.84b.2?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__112",
+    "text_he": "אֶלָּא מַאי שְׁנָא שׁוֹר בְּשׁוֹר וְשׁוֹר בְּאָדָם? דִּשְׁלִיחוּתַיְיהוּ קָא עָבְדִינַן – מִידֵּי דְּהָוֵה אַהוֹדָאוֹת וְהַלְוָאוֹת. אָדָם בְּאָדָם וְאָדָם בְּשׁוֹר נָמֵי, שְׁלִיחוּתַיְיהוּ קָא עָבְדִינַן – מִידֵּי דְּהָוֵה אַהוֹדָאוֹת וְהַלְוָאוֹת!",
+    "designations": []
+  },
+  "113": {
+    "id": 113,
+    "order": "51.00000000000000000000",
+    "bible": "mRosh ha-Shana 2:2",
+    "text": "Initially, after the court sanctified the new month they would light torches on the mountaintops, from one peak to another, to signal to the community in Babylonia that the month had been sanctified. After the Samaritans [Kutim] corrupted and ruined this method by lighting torches at the wrong times to confuse the Jews, the Sages instituted that messengers should go out to the Diaspora and inform them of the start of the month.",
+    "url": "https://www.sefaria.org/Mishnah_Rosh_Hashanah.2.2?lang=bi",
+    "loi_id": "loi_biblref__113",
+    "text_he": "בָּרִאשׁוֹנָה הָיוּ מַשִּׂיאִין מַשּׂוּאוֹת. מִשֶּׁקִּלְקְלוּ הַכּוּתִים, הִתְקִינוּ שֶׁיְּהוּ שְׁלוּחִין יוֹצְאִין",
+    "designations": []
+  },
+  "114": {
+    "id": 114,
+    "order": "52.00000000000000000000",
+    "bible": "bBeitzah 4b",
+    "text": "Abaye continues his argument: And this indicates that if the Samaritans had desisted from their interference, the Sages would have restored the earlier custom and we would observe only one day. And, similarly, in a place where the messengers arrived from Jerusalem on time, we observe only one Festival day.",
+    "url": "https://www.sefaria.org/Beitzah.4b.11?lang=bi",
+    "loi_id": "loi_biblref__114",
+    "text_he": "וְאִילּוּ בָּטְלוּ כּוּתִים — עָבְדִינַן חַד יוֹמָא, וְהֵיכָא דְּמָטוּ שְׁלוּחִין — עָבְדִינַן חַד יוֹמָא.",
+    "designations": []
+  },
+  "115": {
+    "id": 115,
+    "order": "53.00000000000000000000",
+    "bible": "Leviticus 23:42",
+    "text": "You shall live in booths seven days; all citizens in Israel shall live in booths,",
+    "url": "https://www.sefaria.org/Leviticus.23.42?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__115",
+    "text_he": "בַּסֻּכֹּת תֵּשְׁבוּ שִׁבְעַת יָמִים כׇּל־הָאֶזְרָח בְּיִשְׂרָאֵל יֵשְׁבוּ בַּסֻּכֹּת",
+    "designations": []
+  },
+  "116": {
+    "id": 116,
+    "order": "54.00000000000000000000",
+    "bible": "Exodus 12:15",
+    "text": "Seven days you shall eat unleavened bread; on the very first day you shall remove leaven from your houses, for whoever eats leavened bread from the first day to the seventh day, that person shall be cut off from Israel.",
+    "url": "https://www.sefaria.org/Exodus.12.15?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__116",
+    "text_he": "שִׁבְעַת יָמִים מַצּוֹת תֹּאכֵלוּ אַךְ בַּיּוֹם הָרִאשׁוֹן תַּשְׁבִּיתוּ שְּׂאֹר מִבָּתֵּיכֶם כִּי  כׇּל־אֹכֵל חָמֵץ וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא מִיִּשְׂרָאֵל מִיּוֹם הָרִאשֹׁן עַד־יוֹם הַשְּׁבִעִי",
+    "designations": []
+  },
+  "117": {
+    "id": 117,
+    "order": "55.00000000000000000000",
+    "bible": "Leviticus 23:2",
+    "text": "Speak to the Israelite people and say to them:\nThese are My fixed times, the fixed times of GOD, that you shall proclaim as sacred occasions.",
+    "url": "https://www.sefaria.org/Leviticus.23.2?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__117",
+    "text_he": "דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם מוֹעֲדֵי יְהֹוָה אֲשֶׁר־תִּקְרְאוּ אֹתָם מִקְרָאֵי קֹדֶשׁ אֵלֶּה הֵם מוֹעֲדָי",
+    "designations": []
+  },
+  "118": {
+    "id": 118,
+    "order": "56.00000000000000000000",
+    "bible": "Deuteronomy 16:1",
+    "text": "Observe the month of Abib and offer a passover sacrifice to the ETERNAL your God, for it was in the month of Abib, at night, that the ETERNAL your God freed you from Egypt.",
+    "url": "https://www.sefaria.org/Deuteronomy.16.1?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__118",
+    "text_he": "שָׁמוֹר אֶת־חֹדֶשׁ הָאָבִיב וְעָשִׂיתָ פֶּסַח לַיהֹוָה אֱלֹהֶיךָ כִּי בְּחֹדֶשׁ הָאָבִיב הוֹצִיאֲךָ יְהֹוָה אֱלֹהֶיךָ מִמִּצְרַיִם לָיְלָה",
+    "designations": []
+  },
+  "119": {
+    "id": 119,
+    "order": "57.00000000000000000000",
+    "bible": "Exodus 23:16",
+    "text": "and the Feast of the Harvest, of the first fruits of your work, of what you sow in the field; and the Feast of Ingathering at the end of the year, when you gather in the results of your work from the field.",
+    "url": "https://www.sefaria.org/Exodus.23.16?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__119",
+    "text_he": "וְחַג הַקָּצִיר בִּכּוּרֵי מַעֲשֶׂיךָ אֲשֶׁר תִּזְרַע בַּשָּׂדֶה וְחַג הָאָסִף בְּצֵאת הַשָּׁנָה בְּאׇסְפְּךָ אֶת־מַעֲשֶׂיךָ מִן־הַשָּׂדֶה",
+    "designations": []
+  },
+  "120": {
+    "id": 120,
+    "order": "58.00000000000000000000",
+    "bible": "Exodus 34:22",
+    "text": "You shall observe the Feast of Weeks, of the first fruits of the wheat harvest; and the Feast of Ingathering at the turn of the year.",
+    "url": "https://www.sefaria.org/Exodus.34.22?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__120",
+    "text_he": "וְחַג שָׁבֻעֹת תַּעֲשֶׂה לְךָ בִּכּוּרֵי קְצִיר חִטִּים וְחַג הָאָסִיף תְּקוּפַת הַשָּׁנָה",
+    "designations": []
+  },
+  "121": {
+    "id": 121,
+    "order": "59.00000000000000000000",
+    "bible": "bSanhedrin 12a",
+    "text": "The Sages taught in a baraita (Tosefta 2:5): The court may not intercalate the year in the Sabbatical Year, so as not to prolong the prohibitions of the Sabbatical Year, nor in the year after the Sabbatical Year, when there is not much produce available, and delaying the consumption of the new crop would also cause hardship. When is the court accustomed to intercalate? On the eve of the Sabbatical Year, which causes no particular challenges. Nevertheless, the courts of the house of Rabban Gamliel would intercalate the year in the year after the Sabbatical Year.",
+    "url": "https://www.sefaria.org/Sanhedrin.12a.10?lang=bi",
+    "loi_id": "loi_biblref__121",
+    "text_he": "תָּנוּ רַבָּנַן: אֵין מְעַבְּרִין אֶת הַשָּׁנָה לֹא בִּשְׁבִיעִית וְלֹא בְּמוֹצָאֵי שְׁבִיעִית. אֵימָתַי רְגִילִין לְעַבֵּר? עֶרֶב שְׁבִיעִית. שֶׁל בֵּית רַבָּן גַּמְלִיאֵל הָיוּ מְעַבְּרִין בְּמוֹצָאֵי שְׁבִיעִית.",
+    "designations": []
+  },
+  "122": {
+    "id": 122,
+    "order": "60.00000000000000000000",
+    "bible": "bTaanit 19a",
+    "text": "The mishna adds: In general, they cry out on account of any trouble that should not befall the community, a euphemism for trouble that may befall the community, except for an overabundance of rain. Although too much rain may be disastrous, one does not cry out over it, because rain is a sign of a blessing. The mishna relates: An incident occurred in which the people said to Ḥoni HaMe’aggel: Pray that rain should fall. He said to them: Go out and bring in the clay ovens used to roast the Paschal lambs, so that they will not dissolve in the water, as torrential rains are certain to fall. He prayed, and no rain fell at all.",
+    "url": "https://www.sefaria.org/Taanit.19a.6?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__122",
+    "text_he": "עַל כׇּל צָרָה שֶׁלֹּא תָּבוֹא עַל הַצִּבּוּר מַתְרִיעִין עֲלֵיהֶן, חוּץ מֵרוֹב גְּשָׁמִים. מַעֲשֶׂה שֶׁאָמְרוּ לוֹ לְחוֹנִי הַמְעַגֵּל, הִתְפַּלֵּל שֶׁיֵּרְדוּ גְּשָׁמִים. אָמַר לָהֶם: צְאוּ וְהַכְנִיסוּ תַּנּוּרֵי פְסָחִים בִּשְׁבִיל שֶׁלֹּא יִמּוֹקוּ. הִתְפַּלֵּל וְלֹא יָרְדוּ גְּשָׁמִים.",
+    "designations": []
+  },
+  "123": {
+    "id": 123,
+    "order": "61.00000000000000000000",
+    "bible": "bArakhin 8b",
+    "text": "No fewer than four full thirty-day months may be established during the course of a year, and it did not seem appropriate to establish more than eight. The two loaves that are brought to the Temple on Shavuot are eaten by the priests not before the second and not after the third day from when they were baked. The shewbread is eaten not before the ninth day from when it was baked, which is the situation in a regular week when the bread is baked on Friday and eaten on the following Shabbat; and not after the eleventh day, when the two Festival days of Rosh HaShana occur on Thursday and Friday, as the shewbread is baked on Wednesday and not eaten until the following Shabbat.",
+    "url": "https://www.sefaria.org/Arakhin.8b.15?lang=bi&lookup=%D7%9E%D6%B7&with=Lexicon&lang2=en",
+    "loi_id": "loi_biblref__123",
+    "text_he": "ין פּוֹחֲתִין מֵאַרְבָּעָה חֳדָשִׁים הַמְעוּבָּרִים בְּשָׁנָה, וְלֹא נִרְאָה יָתֵר עַל שְׁמוֹנָה. שְׁתֵּי הַלֶּחֶם אֵין נֶאֱכָלִין פָּחוֹת מִשְּׁנַיִם, וְלֹא יָתֵר עַל שְׁלֹשָׁה. לֶחֶם הַפָּנִים אֵין נֶאֱכָל פָּחוֹת מִתִּשְׁעָה, וְלֹא יָתֵר עַל אַחַד עָשָׂר.",
+    "designations": []
+  },
+  "124": {
+    "id": 124,
+    "order": "62.00000000000000000000",
+    "bible": "bRosh ha-Shana 18a",
+    "text": "In six months of the year the messengers go out from the court in Jerusalem to report throughout Eretz Yisrael and the Diaspora which day was established as the New Moon, the thirtieth or the thirty-first day since the previous New Moon. They go out in the month of Nisan, due to Passover, so that people will know on which day to celebrate it; in the month of Av, due to the fast of the Ninth of Av; in Elul, due to Rosh HaShana, which begins thirty days after the New Moon of Elul; in Tishrei, due to the need to establish the correct dates on which to celebrate the Festivals of Tishrei, i.e., Yom Kippur and Sukkot; in Kislev, due to Hanukkah; and in Adar, due to Purim.",
+    "url": "https://www.sefaria.org/Rosh_Hashanah.18a.15?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__124",
+    "text_he": "עַל שִׁשָּׁה חֳדָשִׁים הַשְּׁלוּחִין יוֹצְאִין: עַל נִיסָן מִפְּנֵי הַפֶּסַח, עַל אָב מִפְּנֵי הַתַּעֲנִית, עַל אֱלוּל מִפְּנֵי רֹאשׁ הַשָּׁנָה, עַל תִּשְׁרֵי מִפְּנֵי תַּקָּנַת הַמּוֹעֲדוֹת, עַל כִּסְלֵיו מִפְּנֵי חֲנוּכָּה, וְעַל אֲדָר מִפְּנֵי הַפּוּרִים.",
+    "designations": []
+  },
+  "125": {
+    "id": 125,
+    "order": "63.00000000000000000000",
+    "bible": "Numbers 32:19",
+    "text": "But we will not have a share with them in the territory beyond the Jordan, for we have received our share on the east side of the Jordan.",
+    "url": "https://www.sefaria.org/Numbers.32.19?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__125",
+    "text_he": "כִּי לֹא נִנְחַל אִתָּם מֵעֵבֶר לַיַּרְדֵּן וָהָלְאָה כִּי בָאָה נַחֲלָתֵנוּ אֵלֵינוּ מֵעֵבֶר הַיַּרְדֵּן מִזְרָחָה",
+    "designations": [
+      {
+        "id": 87,
+        "value": "Ever ha-Yarden",
+        "order": "23.00000000000000000000"
+      }
+    ]
+  },
+  "126": {
+    "id": 126,
+    "order": "64.00000000000000000000",
+    "bible": "Joshua 1:14",
+    "text": "Let your wives, children, and livestock remain in the land that Moses assigned to you on this side of the Jordan; but every one of your fighting men shall go across armed in the van of your kindred. And you shall assist them",
+    "url": "https://www.sefaria.org/Joshua.1.14?lang=bi",
+    "loi_id": "loi_biblref__126",
+    "text_he": "נְשֵׁיכֶם טַפְּכֶם וּמִקְנֵיכֶם יֵשְׁבוּ בָּאָרֶץ אֲשֶׁר נָתַן לָכֶם מֹשֶׁה בְּעֵבֶר הַיַּרְדֵּן וְאַתֶּם תַּעַבְרוּ חֲמֻשִׁים לִפְנֵי אֲחֵיכֶם כֹּל גִּבּוֹרֵי הַחַיִל וַעֲזַרְתֶּם אוֹתָם",
+    "designations": [
+      {
+        "id": 87,
+        "value": "Ever ha-Yarden",
+        "order": "23.00000000000000000000"
+      }
+    ]
+  },
+  "127": {
+    "id": 127,
+    "order": "65.00000000000000000000",
+    "bible": "Deuteronomy 5:27",
+    "text": "Go, say to them, ‘Return to your tents.’",
+    "url": "https://www.sefaria.org/Deuteronomy.5.27?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__127",
+    "text_he": "לֵךְ אֱמֹר לָהֶם שׁוּבוּ לָכֶם לְאׇהֳלֵיכֶם",
+    "designations": []
+  },
+  "128": {
+    "id": 128,
+    "order": "66.00000000000000000000",
+    "bible": "bBeitzah 5a",
+    "text": "Rav Yosef said: From where do I say my opinion? As it is written, after the Jews received the Torah: “Go, say to them: Return to your tents” (Deuteronomy 5:26), where “your tents” is referring to your wives. And it says, before the revelation at Sinai: “When the ram’s horn sounds long, they may come up to the mount” (Exodus 19:13). And it is stated: “Be ready for the third day, do not come near a woman” (Exodus 19:15). In other words, although the original prohibition served a particular purpose, in this case the giving of the Torah, it was nevertheless necessary to explicitly render the prohibition permitted.",
+    "url": "https://www.sefaria.org/Beitzah.5a?lang=bi",
+    "loi_id": "loi_biblref__128",
+    "text_he": "אָמַר רַב יוֹסֵף: מְנָא אָמֵינָא לַהּ, דִּכְתִיב: ״לֵךְ אֱמוֹר לָהֶם שׁוּבוּ לָכֶם לְאׇהֳלֵיכֶם״, וְאוֹמֵר: ״בִּמְשֹׁךְ הַיֹּבֵל הֵמָּה יַעֲלוּ בָהָר״.",
+    "designations": []
+  },
+  "129": {
+    "id": 129,
+    "order": "67.00000000000000000000",
+    "bible": "Exodus 19:13",
+    "text": "without being touched—by being either stoned or shot; animal or person, a trespasser shall not live.’ When the ram’s horn sounds a long blast, they may go up on the mountain.”",
+    "url": "https://www.sefaria.org/Exodus.19.13?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__129",
+    "text_he": "לֹא־תִגַּע בּוֹ יָד כִּי־סָקוֹל יִסָּקֵל אוֹ־יָרֹה יִיָּרֶה אִם־בְּהֵמָה אִם־אִישׁ לֹא יִחְיֶה בִּמְשֹׁךְ הַיֹּבֵל הֵמָּה יַעֲלוּ בָהָר",
+    "designations": []
+  },
+  "130": {
+    "id": 130,
+    "order": "68.00000000000000000000",
+    "bible": "mMaaser Sheni 5:2",
+    "text": "[The produce of] a vineyard in its fourth year was brought up to Jerusalem within a distance of one day’s journey on each side. And what is the border [of a day’s journey on each side]? Eilat to the south, Akrabat on the north, Lod to the west, and the Jordan [river] to the east. When produce increased, it was decreed that it can be redeemed even if the vineyard was close to the wall. And there was a stipulation on this matter, that whenever it was so desired, the arrangement would be restored as it had been before. Rabbi Yose says: this was the stipulation after the Temple was destroyed, and the stipulation was that when the Temple should be rebuilt the arrangement would be restored as it had been before.",
+    "url": "https://www.sefaria.org/Mishnah_Maaser_Sheni.5.2?lang=bi",
+    "loi_id": "loi_biblref__130",
+    "text_he": "כֶּרֶם רְבָעִי הָיָה עוֹלֶה לִירוּשָׁלַיִם מַהֲלַךְ יוֹם אֶחָד לְכָל צָד. וְאֵיזוֹ הִיא תְחוּמָהּ, אֵילַת מִן הַדָּרוֹם וְעַקְרַבַּת מִן הַצָּפוֹן, לוֹד מִן הַמַּעֲרָב וְהַיַּרְדֵּן מִן הַמִּזְרָח. וּמִשֶּׁרַבּוּ הַפֵּרוֹת, הִתְקִינוּ שֶׁיְּהֵא נִפְדֶּה סָמוּךְ לַחוֹמָה. וּתְנַאי הָיָה הַדָּבָר, שֶׁאֵימָתַי שֶׁיִּרְצוּ, יַחֲזֹר הַדָּבָר לִכְמוֹת שֶׁהָיָה. רַבִּי יוֹסֵי אוֹמֵר, מִשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ, הָיָה הַתְּנַאי הַזֶּה. וּתְנַאי הָיָה, אֵימָתַי שֶׁיִּבָּנֶה בֵּית הַמִּקְדָּשׁ, יַחֲזֹר הַדָּבָר לִכְמוֹת שֶׁהָיָה",
+    "designations": []
+  },
+  "131": {
+    "id": 131,
+    "order": "69.00000000000000000000",
+    "bible": "Exodus 19:15",
+    "text": "And he said to the men, “Be ready for the third day: do not go near a woman.”",
+    "url": "https://www.sefaria.org/Exodus.19.15?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__131",
+    "text_he": "וַיֹּאמֶר אֶל־הָעָם הֱיוּ נְכֹנִים לִשְׁלֹשֶׁת יָמִים אַל־תִּגְּשׁוּ אֶל־אִשָּׁה",
+    "designations": []
+  },
+  "132": {
+    "id": 132,
+    "order": "70.00000000000000000000",
+    "bible": "Exodus 19:12",
+    "text": "You shall set bounds for the people round about, saying, ‘Beware of going up the mountain or touching the border of it. Whoever touches the mountain shall be put to death",
+    "url": "https://www.sefaria.org/Exodus.19.12?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__132",
+    "text_he": "וְהִגְבַּלְתָּ אֶת־הָעָם סָבִיב לֵאמֹר הִשָּׁמְרוּ לָכֶם עֲלוֹת בָּהָר וּנְגֹעַ בְּקָצֵהוּ כׇּל־הַנֹּגֵעַ בָּהָר מוֹת יוּמָת",
+    "designations": []
+  },
+  "133": {
+    "id": 133,
+    "order": "71.00000000000000000000",
+    "bible": "mEduyot 1:5",
+    "text": "And why do they record the opinion of a single person among the many, when the halakhah must be according to the opinion of the many? So that if a court prefers the opinion of the single person it may depend on him. For no court may set aside the decision of another court unless it is greater than it in wisdom and in number. If it was greater than it in wisdom but not in number, in number but not in wisdom, it may not set aside its decision, unless it is greater than it in wisdom and in number.",
+    "url": "https://www.sefaria.org/Mishnah_Eduyot.1.5?lang=bi",
+    "loi_id": "loi_biblref__133",
+    "text_he": "וְלָמָּה מַזְכִּירִין דִּבְרֵי הַיָּחִיד בֵּין הַמְרֻבִּין, הוֹאִיל וְאֵין הֲלָכָה אֶלָּא כְדִבְרֵי הַמְרֻבִּין. שֶׁאִם יִרְאֶה בֵית דִּין אֶת דִּבְרֵי הַיָּחִיד וְיִסְמֹךְ עָלָיו, שֶׁאֵין בֵּית דִּין יָכוֹל לְבַטֵּל דִּבְרֵי בֵית דִּין חֲבֵרוֹ עַד שֶׁיִּהְיֶה גָדוֹל מִמֶּנּוּ בְחָכְמָה וּבְמִנְיָן. הָיָה גָדוֹל מִמֶּנּוּ בְחָכְמָה אֲבָל לֹא בְמִנְיָן, בְּמִנְיָן אֲבָל לֹא בְחָכְמָה, אֵינוֹ יָכוֹל לְבַטֵּל דְּבָרָיו, עַד שֶׁיִּהְיֶה גָדוֹל מִמֶּנּוּ בְחָכְמָה וּבְמִנְיָן",
     "designations": []
   }
 }

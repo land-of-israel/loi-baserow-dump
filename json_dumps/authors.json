@@ -47,7 +47,13 @@
     "loi_id": "loi_author__4",
     "birth_date": [],
     "death_date": [],
-    "parallel_texts 2": []
+    "parallel_texts 2": [
+      {
+        "id": 36,
+        "value": "Otzar HaGeonim Rosh Hashana",
+        "order": "4.00000000000000000000"
+      }
+    ]
   },
   "36": {
     "id": 36,
@@ -201,6 +207,68 @@
         "id": 2,
         "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
         "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "order": "18.00000000000000000000",
+    "name": "Solomon Schechter",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__104",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 37,
+        "value": "Saadyana",
+        "order": "5.00000000000000000000"
+      }
+    ]
+  },
+  "105": {
+    "id": 105,
+    "order": "19.00000000000000000000",
+    "name": "Achai Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__105",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "106": {
+    "id": 106,
+    "order": "20.00000000000000000000",
+    "name": "Naftali Zevi Yehudah Berlin",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__106",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 38,
+        "value": "Sefer She'iltot",
+        "order": "6.00000000000000000000"
+      }
+    ]
+  },
+  "107": {
+    "id": 107,
+    "order": "21.00000000000000000000",
+    "name": "Jakob Mussafia",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__107",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 39,
+        "value": "Teshuvot haGeonim Leik",
+        "order": "7.00000000000000000000"
       }
     ]
   }
