@@ -276,22 +276,45 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "title": "Ginze Kedem",
+    "title": "Another response from Rav Hai Gaon regarding the calendar dispute",
     "reference": "",
-    "author": [],
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "manuscript": [],
     "date": [],
     "place": [],
     "loi_id": "loi_work__6",
     "corpus": [],
     "language": [],
-    "genre": [],
-    "edition": []
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "Ginze Kedem IV",
+        "order": "8.00000000000000000000"
+      }
+    ]
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "title": "Jam Schel Schlomo (Jeßnitz)",
+    "title": "Chiluf Minhagim",
     "reference": "",
     "author": [],
     "manuscript": [],
@@ -301,14 +324,31 @@
     "corpus": [],
     "language": [],
     "genre": [],
-    "edition": []
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Jam Schel Schlomo",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "title": "Tshuvot Rav Natronai Gaon",
     "reference": "",
-    "author": [],
+    "author": [
+      {
+        "id": 41,
+        "value": "Natronai bar Hilai",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "manuscript": [],
     "date": [],
     "place": [],
@@ -316,12 +356,23 @@
     "corpus": [],
     "language": [],
     "genre": [],
-    "edition": []
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "Teshuvot Rav Natronai bar Hilai Gaon",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "title": "Ma'aseh haGeonim",
+    "title": "Ma'aseh ha-Geonim",
     "reference": "",
     "author": [],
     "manuscript": [],
@@ -331,7 +382,18 @@
     "corpus": [],
     "language": [],
     "genre": [],
-    "edition": []
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "Ma'aseh ha-Geonim",
+        "order": "11.00000000000000000000"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -585,6 +647,76 @@
         "id": 39,
         "value": "Teshuvot haGeonim Leik",
         "order": "7.00000000000000000000"
+      }
+    ]
+  },
+  "80": {
+    "id": 80,
+    "order": "16.00000000000000000000",
+    "title": "Responsum of Rabbenu Yosef",
+    "reference": "",
+    "author": [
+      {
+        "id": 140,
+        "value": "Joseph (\"bar Kutnai\")",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__80",
+    "corpus": [],
+    "language": [
+      {
+        "id": 2,
+        "value": "Aramaic",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "Ginze Kedem IV",
+        "order": "8.00000000000000000000"
+      }
+    ]
+  },
+  "81": {
+    "id": 81,
+    "order": "17.00000000000000000000",
+    "title": "Tshuvot ha-Geonim",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__81",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "Ginze Kedem IV",
+        "order": "8.00000000000000000000"
       }
     ]
   }

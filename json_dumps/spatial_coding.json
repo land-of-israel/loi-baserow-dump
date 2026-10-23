@@ -3,7 +3,7 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "label": "legal",
-    "excerpt": "",
+    "definition": "The Land appears as a jurisdictional space: the ground of binding authority, competence, or obligation. Marks passages where rights, prohibitions, or procedural validity are tied to location (who may intercalate or sanctify, where a ruling holds, what obligations attach to residence or departure).",
     "loi_id": "loi_parallel__1",
     "passages": [
       {
@@ -85,6 +85,36 @@
         "id": 395,
         "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
         "order": "14.66666666666666607455"
+      },
+      {
+        "id": 15,
+        "value": "The Prophets’ Ordinance Cannot Be Annulled: On the Two Festival Days",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Two Days in Babylonia, One in the Land",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Two Days of Rosh ha-Shanah Everywhere but the House of Assembly",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "One Sanctity, Not a Diaspora Doubling: The Two Days of Rosh ha-Shanah",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 20,
+        "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
+        "order": "20.00000000000000000000"
       }
     ]
   },
@@ -92,7 +122,7 @@
     "id": 2,
     "order": "2.00000000000000000000",
     "label": "cultural",
-    "excerpt": "",
+    "definition": "The Land appears as the site of institutional and communal practice: what is done there and by whom. Marks passages describing assemblies, courts, academies, liturgy, pilgrimage, teaching, custom, or transmission as located activity, as distinct from the norms governing it.",
     "loi_id": "loi_parallel__2",
     "passages": [
       {
@@ -169,6 +199,36 @@
         "id": 395,
         "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
         "order": "14.66666666666666607455"
+      },
+      {
+        "id": 15,
+        "value": "The Prophets’ Ordinance Cannot Be Annulled: On the Two Festival Days",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Two Days in Babylonia, One in the Land",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Two Days of Rosh ha-Shanah Everywhere but the House of Assembly",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "One Sanctity, Not a Diaspora Doubling: The Two Days of Rosh ha-Shanah",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 20,
+        "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
+        "order": "20.00000000000000000000"
       }
     ]
   },
@@ -176,7 +236,7 @@
     "id": 3,
     "order": "3.00000000000000000000",
     "label": "symbolic",
-    "excerpt": "",
+    "definition": "The Land appears as image, epithet, or scriptural warrant: what it stands for independently of any act performed in it. Marks passages employing biblical designations, metaphor, prooftexts, or eschatological and cosmological framing.",
     "loi_id": "loi_parallel__3",
     "passages": [
       {

@@ -56,6 +56,26 @@
         "order": "5.00000000000000000000"
       },
       {
+        "id": 6,
+        "value": "Another response from Rav Hai Gaon regarding the calendar dispute",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "Tshuvot Rav Natronai Gaon",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "Ma'aseh ha-Geonim",
+        "order": "9.00000000000000000000"
+      },
+      {
         "id": 46,
         "value": "Letter from one of the sages of Babylon to Ben Meir",
         "order": "14.00000000000000000000"
@@ -64,6 +84,16 @@
         "id": 47,
         "value": "Responsum of Rav Hai Gaon on the Second Festival Day",
         "order": "15.00000000000000000000"
+      },
+      {
+        "id": 80,
+        "value": "Responsum of Rabbenu Yosef",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "Tshuvot ha-Geonim",
+        "order": "17.00000000000000000000"
       }
     ],
     "publisher": null,
@@ -211,5 +241,131 @@
     "publisher": "",
     "place": [],
     "year": "1864"
+  },
+  "72": {
+    "id": 72,
+    "order": "8.00000000000000000000",
+    "label": "Ginze Kedem IV",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__72",
+    "works": [
+      {
+        "id": 6,
+        "value": "Another response from Rav Hai Gaon regarding the calendar dispute",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 80,
+        "value": "Responsum of Rabbenu Yosef",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "Tshuvot ha-Geonim",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "publisher": "Rafael Ch. H.",
+    "place": [
+      {
+        "id": 106,
+        "value": "Haifa",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "year": "1922"
+  },
+  "73": {
+    "id": 73,
+    "order": "9.00000000000000000000",
+    "label": "Jam Schel Schlomo",
+    "editor": [
+      {
+        "id": 141,
+        "value": "Yehiel Luria",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__73",
+    "works": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 107,
+        "value": "Jeßnitz",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "year": "1723"
+  },
+  "74": {
+    "id": 74,
+    "order": "10.00000000000000000000",
+    "label": "Teshuvot Rav Natronai bar Hilai Gaon",
+    "editor": [
+      {
+        "id": 142,
+        "value": "Robert Brody",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__74",
+    "works": [
+      {
+        "id": 8,
+        "value": "Tshuvot Rav Natronai Gaon",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "publisher": "Ofeq Institute",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1994"
+  },
+  "75": {
+    "id": 75,
+    "order": "11.00000000000000000000",
+    "label": "Ma'aseh ha-Geonim",
+    "editor": [
+      {
+        "id": 143,
+        "value": "Avraham Epstein",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__75",
+    "works": [
+      {
+        "id": 9,
+        "value": "Ma'aseh ha-Geonim",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "publisher": "Zvi Hirsch Imzkawsky",
+    "place": [
+      {
+        "id": 108,
+        "value": "Berlin",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "year": "1910"
   }
 }

@@ -52,6 +52,11 @@
         "id": 36,
         "value": "Otzar HaGeonim Rosh Hashana",
         "order": "4.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "Ginze Kedem IV",
+        "order": "8.00000000000000000000"
       }
     ]
   },
@@ -269,6 +274,68 @@
         "id": 39,
         "value": "Teshuvot haGeonim Leik",
         "order": "7.00000000000000000000"
+      }
+    ]
+  },
+  "140": {
+    "id": 140,
+    "order": "22.00000000000000000000",
+    "name": "Joseph (\"bar Kutnai\")",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__140",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "141": {
+    "id": 141,
+    "order": "23.00000000000000000000",
+    "name": "Yehiel Luria",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__141",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 73,
+        "value": "Jam Schel Schlomo",
+        "order": "9.00000000000000000000"
+      }
+    ]
+  },
+  "142": {
+    "id": 142,
+    "order": "24.00000000000000000000",
+    "name": "Robert Brody",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__142",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 74,
+        "value": "Teshuvot Rav Natronai bar Hilai Gaon",
+        "order": "10.00000000000000000000"
+      }
+    ]
+  },
+  "143": {
+    "id": 143,
+    "order": "25.00000000000000000000",
+    "name": "Avraham Epstein",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__143",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 75,
+        "value": "Ma'aseh ha-Geonim",
+        "order": "11.00000000000000000000"
       }
     ]
   }

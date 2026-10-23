@@ -128,6 +128,31 @@
         "id": 395,
         "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
         "order": "14.66666666666666607455"
+      },
+      {
+        "id": 15,
+        "value": "The Prophets’ Ordinance Cannot Be Annulled: On the Two Festival Days",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Two Days in Babylonia, One in the Land",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Two Days of Rosh ha-Shanah Everywhere but the House of Assembly",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "One Sanctity, Not a Diaspora Doubling: The Two Days of Rosh ha-Shanah",
+        "order": "19.00000000000000000000"
       }
     ]
   },
@@ -169,14 +194,34 @@
         "order": "14.66666666666666607455"
       },
       {
-        "id": 20,
-        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
-        "order": "20.00000000000000000000"
+        "id": 15,
+        "value": "The Prophets’ Ordinance Cannot Be Annulled: On the Two Festival Days",
+        "order": "15.00000000000000000000"
       },
       {
-        "id": 50,
-        "value": "First Letter of Ben Meir;",
-        "order": "21.00000000000000000000"
+        "id": 16,
+        "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Two Days in Babylonia, One in the Land",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Two Days of Rosh ha-Shanah Everywhere but the House of Assembly",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "One Sanctity, Not a Diaspora Doubling: The Two Days of Rosh ha-Shanah",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 20,
+        "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
+        "order": "20.00000000000000000000"
       }
     ]
   },
@@ -189,7 +234,7 @@
     "passages": [
       {
         "id": 20,
-        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
         "order": "20.00000000000000000000"
       }
     ]
@@ -202,8 +247,13 @@
     "loi_id": "loi_keyword__39",
     "passages": [
       {
+        "id": 18,
+        "value": "Two Days of Rosh ha-Shanah Everywhere but the House of Assembly",
+        "order": "18.00000000000000000000"
+      },
+      {
         "id": 20,
-        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
         "order": "20.00000000000000000000"
       }
     ]
@@ -236,8 +286,33 @@
         "order": "14.66666666666666607455"
       },
       {
+        "id": 15,
+        "value": "The Prophets’ Ordinance Cannot Be Annulled: On the Two Festival Days",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Two Days in Babylonia, One in the Land",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Two Days of Rosh ha-Shanah Everywhere but the House of Assembly",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "One Sanctity, Not a Diaspora Doubling: The Two Days of Rosh ha-Shanah",
+        "order": "19.00000000000000000000"
+      },
+      {
         "id": 20,
-        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
         "order": "20.00000000000000000000"
       }
     ]
@@ -251,7 +326,7 @@
     "passages": [
       {
         "id": 20,
-        "value": "Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).Regarding (the question of) members of the Diaspora residing in Eretz Israel with respect to the second day of the holiday (Yom Tov Sheni).",
+        "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
         "order": "20.00000000000000000000"
       }
     ]
@@ -267,6 +342,20 @@
         "id": 6,
         "value": "Prayer at the Mount of Olives and the Memory of Past Support",
         "order": "6.00000000000000000000"
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "order": "10.00000000000000000000",
+    "label": "Territory of the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__104",
+    "passages": [
+      {
+        "id": 16,
+        "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
+        "order": "16.00000000000000000000"
       }
     ]
   }

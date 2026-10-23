@@ -69,6 +69,11 @@
         "id": 82,
         "value": "Ayarot ha-ʿOmedot ʿal ha-Gevulim",
         "order": "18.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Teḥuman shel Yisra’el ʿad Nehar Perat",
+        "order": "25.00000000000000000000"
       }
     ],
     "edition": []
@@ -106,9 +111,20 @@
         "id": 85,
         "value": "Shikhno shel ha-Kadosh Barukh Hu",
         "order": "21.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Miqdash",
+        "order": "27.00000000000000000000"
       }
     ],
-    "edition": []
+    "edition": [
+      {
+        "id": 74,
+        "value": "Teshuvot Rav Natronai bar Hilai Gaon",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -228,6 +244,74 @@
         "id": 87,
         "value": "Ever ha-Yarden",
         "order": "23.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "106": {
+    "id": 106,
+    "order": "11.00000000000000000000",
+    "name": "Haifa",
+    "geonames": "",
+    "loi_id": "loi_place__106",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 72,
+        "value": "Ginze Kedem IV",
+        "order": "8.00000000000000000000"
+      }
+    ]
+  },
+  "107": {
+    "id": 107,
+    "order": "12.00000000000000000000",
+    "name": "Jeßnitz",
+    "geonames": "",
+    "loi_id": "loi_place__107",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 73,
+        "value": "Jam Schel Schlomo",
+        "order": "9.00000000000000000000"
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "order": "13.00000000000000000000",
+    "name": "Berlin",
+    "geonames": "",
+    "loi_id": "loi_place__108",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 75,
+        "value": "Ma'aseh ha-Geonim",
+        "order": "11.00000000000000000000"
+      }
+    ]
+  },
+  "109": {
+    "id": 109,
+    "order": "14.00000000000000000000",
+    "name": "North Africa",
+    "geonames": "",
+    "loi_id": "loi_place__109",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 123,
+        "value": "Afriqa",
+        "order": "28.00000000000000000000"
       }
     ],
     "edition": []
