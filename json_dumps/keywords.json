@@ -358,5 +358,61 @@
         "order": "16.00000000000000000000"
       }
     ]
+  },
+  "105": {
+    "id": 105,
+    "order": "11.00000000000000000000",
+    "label": "Babylonian primacy",
+    "notes": "",
+    "loi_id": "loi_keyword__105",
+    "passages": [
+      {
+        "id": 52,
+        "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
+        "order": "23.00000000000000000000"
+      }
+    ]
+  },
+  "106": {
+    "id": 106,
+    "order": "12.00000000000000000000",
+    "label": "transmission of Oral Torah",
+    "notes": "",
+    "loi_id": "loi_keyword__106",
+    "passages": [
+      {
+        "id": 52,
+        "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
+        "order": "23.00000000000000000000"
+      }
+    ]
+  },
+  "107": {
+    "id": 107,
+    "order": "13.00000000000000000000",
+    "label": "chain of tradition",
+    "notes": "",
+    "loi_id": "loi_keyword__107",
+    "passages": [
+      {
+        "id": 52,
+        "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
+        "order": "23.00000000000000000000"
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "order": "14.00000000000000000000",
+    "label": "talmudic authority",
+    "notes": "",
+    "loi_id": "loi_keyword__108",
+    "passages": [
+      {
+        "id": 52,
+        "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
+        "order": "23.00000000000000000000"
+      }
+    ]
   }
 }

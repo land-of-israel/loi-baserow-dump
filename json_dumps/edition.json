@@ -94,6 +94,11 @@
         "id": 81,
         "value": "Tshuvot ha-Geonim",
         "order": "17.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "Letter of Pirqoi ben Baboi",
+        "order": "18.00000000000000000000"
       }
     ],
     "publisher": null,
@@ -367,5 +372,34 @@
       }
     ],
     "year": "1910"
+  },
+  "76": {
+    "id": 76,
+    "order": "12.00000000000000000000",
+    "label": "Otzar HaGeonim Gittin",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__76",
+    "works": [
+      {
+        "id": 82,
+        "value": "Letter of Pirqoi ben Baboi",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1941"
   }
 }

@@ -123,6 +123,11 @@
         "id": 74,
         "value": "Teshuvot Rav Natronai bar Hilai Gaon",
         "order": "10.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "Otzar HaGeonim Gittin",
+        "order": "12.00000000000000000000"
       }
     ]
   },
@@ -154,6 +159,11 @@
         "id": 82,
         "value": "Ayarot ha-ʿOmedot ʿal ha-Gevulim",
         "order": "18.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "Bat Bavel",
+        "order": "29.00000000000000000000"
       }
     ],
     "edition": []

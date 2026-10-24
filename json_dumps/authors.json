@@ -57,6 +57,11 @@
         "id": 72,
         "value": "Ginze Kedem IV",
         "order": "8.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "Otzar HaGeonim Gittin",
+        "order": "12.00000000000000000000"
       }
     ]
   },
@@ -129,7 +134,7 @@
   "42": {
     "id": 42,
     "order": "11.00000000000000000000",
-    "name": "Pirkoi ben Baboi",
+    "name": "Pirqoi ben Baboi",
     "gnd": "",
     "wikidata": "",
     "loi_id": "loi_author__42",

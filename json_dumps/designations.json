@@ -252,6 +252,11 @@
         "id": 16,
         "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
         "order": "16.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
+        "order": "23.00000000000000000000"
       }
     ],
     "form_he": "ירושלים",
@@ -336,6 +341,11 @@
         "id": 20,
         "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
         "order": "20.00000000000000000000"
+      },
+      {
+        "id": 53,
+        "value": "Pirkoi ben Baboi",
+        "order": "24.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -429,6 +439,11 @@
         "id": 15,
         "value": "The Prophets’ Ordinance Cannot Be Annulled: On the Two Festival Days",
         "order": "15.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
+        "order": "23.00000000000000000000"
       }
     ],
     "form_he": "הגולה",
@@ -523,6 +538,11 @@
         "id": 20,
         "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
         "order": "20.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
+        "order": "23.00000000000000000000"
       }
     ],
     "form_he": "בבל",
@@ -988,5 +1008,40 @@
       }
     ],
     "commentary": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "29.00000000000000000000",
+    "label": "Bat Bavel",
+    "loi_id": "loi_parallel__124",
+    "passages": [
+      {
+        "id": 52,
+        "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "form_he": "בת בבל",
+    "source": [
+      {
+        "id": 174,
+        "value": "Zechariah 2:11",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "Psalms 137:8",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "gloss_en": "daughter of Babylon",
+    "referent": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "commentary": "Epitheton"
   }
 }

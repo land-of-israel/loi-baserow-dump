@@ -719,5 +719,37 @@
         "order": "8.00000000000000000000"
       }
     ]
+  },
+  "82": {
+    "id": 82,
+    "order": "18.00000000000000000000",
+    "title": "Letter of Pirqoi ben Baboi",
+    "reference": "",
+    "author": [
+      {
+        "id": 42,
+        "value": "Pirqoi ben Baboi",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__82",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "Otzar HaGeonim Gittin",
+        "order": "12.00000000000000000000"
+      }
+    ]
   }
 }

@@ -977,5 +977,67 @@
     "loi_id": "loi_biblref__171",
     "text_he": "כִּי סְלֵיק רַבִּי זֵירָא, אֲכַל מוּגְרֶמֶת דְּרַב וּשְׁמוּאֵל. אָמְרִי לֵיהּ: לָאו מֵאַתְרֵיהּ דְּרַב וּשְׁמוּאֵל אַתְּ? אֲמַר לְהוּ: מַאן אַמְרַהּ? יוֹסֵף בַּר חִיָּיא! יוֹסֵף בַּר חִיָּיא מִכּוּלֵּי עָלְמָא גְּמִיר.",
     "designations": []
+  },
+  "172": {
+    "id": 172,
+    "order": "81.00000000000000000000",
+    "bible": "Isaiah 59:21",
+    "text": "And this shall be My covenant with them, said GOD: My spirit that is upon you, and the words that I have placed in your mouth, shall not be absent from your mouth, nor from the mouth of your children, nor from the mouth of your children’s children—said GOD—from now on, for all time.",
+    "url": "https://www.sefaria.org/Isaiah.59.21?lang=bi",
+    "loi_id": "loi_biblref__172",
+    "text_he": "וַאֲנִי זֹאת בְּרִיתִי אוֹתָם אָמַר יְהֹוָה רוּחִי אֲשֶׁר עָלֶיךָ וּדְבָרַי אֲשֶׁר־שַׂמְתִּי בְּפִיךָ לֹא־יָמוּשׁוּ מִפִּיךָ וּמִפִּי זַרְעֲךָ וּמִפִּי זֶרַע זַרְעֲךָ אָמַר יְהֹוָה מֵעַתָּה וְעַד־עוֹלָם",
+    "designations": []
+  },
+  "173": {
+    "id": 173,
+    "order": "82.00000000000000000000",
+    "bible": "II Kings 24:14",
+    "text": "He exiled all of Jerusalem: all the commanders and all the warriors—ten thousand exiles—as well as all the artisans and smiths; only the poorest people in the land were left.",
+    "url": "https://www.sefaria.org/II_Kings.24.14?lang=bi",
+    "loi_id": "loi_biblref__173",
+    "text_he": "וְהִגְלָה אֶת־כׇּל־יְרוּשָׁלַ͏ִם וְאֶת־כׇּל־הַשָּׂרִים וְאֵת  כׇּל־גִּבּוֹרֵי הַחַיִל (עשרה) [עֲשֶׂרֶת] אֲלָפִים גּוֹלֶה וְכׇל־הֶחָרָשׁ וְהַמַּסְגֵּר לֹא נִשְׁאַר זוּלַת דַּלַּת עַם־הָאָרֶץ",
+    "designations": []
+  },
+  "174": {
+    "id": 174,
+    "order": "83.00000000000000000000",
+    "bible": "Zechariah 2:11",
+    "text": "Away, escape, O Zion, you who dwell in Fair Babylon!",
+    "url": "https://www.sefaria.org/Zechariah.2.11?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__174",
+    "text_he": "הוֹי צִיּוֹן הִמָּלְטִי יוֹשֶׁבֶת בַּת־בָּבֶל",
+    "designations": [
+      {
+        "id": 124,
+        "value": "Bat Bavel",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "175": {
+    "id": 175,
+    "order": "84.00000000000000000000",
+    "bible": "Psalms 137:8",
+    "text": "Fair Babylon, you predator, \na blessing on the one who repays you in kind\nwhat you have inflicted on us;",
+    "url": "https://www.sefaria.org/Psalms.137.8?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__175",
+    "text_he": "בַּת־בָּבֶל הַשְּׁדוּדָה אַשְׁרֵי שֶׁיְשַׁלֶּם־לָךְ אֶת־גְּמוּלֵךְ שֶׁגָּמַלְתְּ לָנוּ",
+    "designations": [
+      {
+        "id": 124,
+        "value": "Bat Bavel",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "176": {
+    "id": 176,
+    "order": "85.00000000000000000000",
+    "bible": "Micah 4:10",
+    "text": "Writhe and scream, Fair Zion,\nLike a woman in travail!\nFor now you must leave the city\nAnd dwell in the country—\nAnd you will reach Babylon.\nThere you shall be saved,\nThere  GOD will redeem you\nFrom the hands of your foes.",
+    "url": "https://www.sefaria.org/Micah.4.10?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__176",
+    "text_he": "חוּלִי וָגֹחִי בַּת־צִיּוֹן כַּיּוֹלֵדָה כִּי־עַתָּה תֵצְאִי מִקִּרְיָה וְשָׁכַנְתְּ בַּשָּׂדֶה וּבָאת עַד־בָּבֶל שָׁם תִּנָּצֵלִי שָׁם יִגְאָלֵךְ יְהֹוָה מִכַּף אֹיְבָיִךְ",
+    "designations": []
   }
 }
