@@ -241,6 +241,11 @@
         "id": 47,
         "value": "Responsum of Rav Hai Gaon on the Second Festival Day",
         "order": "15.00000000000000000000"
+      },
+      {
+        "id": 150,
+        "value": "Responsum of Rav Hai Gaon on the Authority of the Talmud of the Land of Israel",
+        "order": "22.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -401,5 +406,404 @@
       }
     ],
     "year": "1941"
+  },
+  "109": {
+    "id": 109,
+    "order": "13.00000000000000000000",
+    "label": "Genizah Studies Vol. II",
+    "editor": [
+      {
+        "id": 104,
+        "value": "Solomon Schechter",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__109",
+    "works": [
+      {
+        "id": 82,
+        "value": "Letter of Pirqoi ben Baboi",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "publisher": "The Jewish Theological Seminary of America",
+    "place": [
+      {
+        "id": 142,
+        "value": "New York",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "year": "1929"
+  },
+  "110": {
+    "id": 110,
+    "order": "14.00000000000000000000",
+    "label": "Otzar Ha-Geonim Kiddushin",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__110",
+    "works": [
+      {
+        "id": 115,
+        "value": "Shalshelet ha-qabbalah",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 221,
+        "value": "Geonic ruling on writs of authorisation upon land in the Land of Israel",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "111": {
+    "id": 111,
+    "order": "15.00000000000000000000",
+    "label": "Sefer haEshkol",
+    "editor": [
+      {
+        "id": 177,
+        "value": "Sholom Albeck",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__111",
+    "works": [
+      {
+        "id": 116,
+        "value": "Book of Eshkol",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "publisher": "H. Wagshal Beam",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1931"
+  },
+  "144": {
+    "id": 144,
+    "order": "16.00000000000000000000",
+    "label": "Pisqei Rabbenu Avigdor Ẓarfati",
+    "editor": [],
+    "loi_id": "loi_parallel__144",
+    "works": [
+      {
+        "id": 116,
+        "value": "Book of Eshkol",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "145": {
+    "id": 145,
+    "order": "17.00000000000000000000",
+    "label": "Teshuvot haGeonim miToch haGenizah",
+    "editor": [
+      {
+        "id": 210,
+        "value": "Simcha Assaf",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__145",
+    "works": [
+      {
+        "id": 149,
+        "value": "Teshuvot Rav Hai Gaon",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "publisher": "Darom",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1929"
+  },
+  "146": {
+    "id": 146,
+    "order": "18.00000000000000000000",
+    "label": "Teshuvot haGeonim",
+    "editor": [
+      {
+        "id": 210,
+        "value": "Simcha Assaf",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__146",
+    "works": [
+      {
+        "id": 151,
+        "value": "Responsum of Rav Ṣemaḥ bar Paltoy Gaon on Acquisition by Land",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 222,
+        "value": "Responsum on conveyance upon the four cubits in the Land of Israel",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "publisher": "HaMedafis",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1927"
+  },
+  "147": {
+    "id": 147,
+    "order": "19.00000000000000000000",
+    "label": "Sheolot veTshuvot MaHaRam Rothenburg",
+    "editor": [
+      {
+        "id": 213,
+        "value": "Meir von Rothenburg",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Moshe Arye Bloch",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__147",
+    "works": [
+      {
+        "id": 152,
+        "value": "Responsum of Rav Naḥshon Gaon on the Four Cubits Clause",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "publisher": "Josef Sternberg",
+    "place": [
+      {
+        "id": 176,
+        "value": "Budapest",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "year": "1894"
+  },
+  "148": {
+    "id": 148,
+    "order": "20.00000000000000000000",
+    "label": "Sefer Ha-Pardes",
+    "editor": [
+      {
+        "id": 215,
+        "value": "Raschi",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 216,
+        "value": "Chaim Yehuda Ehrenreich",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__148",
+    "works": [
+      {
+        "id": 153,
+        "value": "Sefer ha-Pardes",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "publisher": "Deva",
+    "place": [
+      {
+        "id": 176,
+        "value": "Budapest",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "year": "1924"
+  },
+  "181": {
+    "id": 181,
+    "order": "21.00000000000000000000",
+    "label": "Teshuvot ha-Geonim (Harkavy)",
+    "editor": [
+      {
+        "id": 248,
+        "value": "Abraham Harkavy",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__181",
+    "works": [
+      {
+        "id": 186,
+        "value": "Responsum of Rav Hai Gaon on Conveyance upon the Share in the Land of Israel",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 187,
+        "value": "Geonic Responsum on the Four Cubits Clause",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "182": {
+    "id": 182,
+    "order": "22.00000000000000000000",
+    "label": "Geonica II",
+    "editor": [
+      {
+        "id": 249,
+        "value": "Louis Ginzberg",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__182",
+    "works": [],
+    "publisher": "",
+    "place": [],
+    "year": "1909"
+  },
+  "183": {
+    "id": 183,
+    "order": "23.00000000000000000000",
+    "label": "Tshuvot haGeonim Haktzarot",
+    "editor": [
+      {
+        "id": 250,
+        "value": "Mordechai Elyahu Rabinovits",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__183",
+    "works": [
+      {
+        "id": 188,
+        "value": "Geonic fragment on the four cubits clause",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "publisher": "Zvi Moshkovitz",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1960"
+  },
+  "216": {
+    "id": 216,
+    "order": "24.00000000000000000000",
+    "label": "Ha-Ittur (Warsaw)",
+    "editor": [
+      {
+        "id": 283,
+        "value": "Issac ben Abba Mari",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__216",
+    "works": [
+      {
+        "id": 255,
+        "value": "Sefer ha-Ittur",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "217": {
+    "id": 217,
+    "order": "25.00000000000000000000",
+    "label": "Sefer Ra’avyah",
+    "editor": [
+      {
+        "id": 284,
+        "value": "Avigdor Aptowitzer",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 285,
+        "value": "Eliezer Ben Joel ha-Levi",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__217",
+    "works": [
+      {
+        "id": 256,
+        "value": "Teshuvat Rabbenu Yo’el (Joel b. Isaac ha-Levi of Bonn)",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "publisher": "Mekizei Nirdamim",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1938"
+  },
+  "218": {
+    "id": 218,
+    "order": "26.00000000000000000000",
+    "label": "Sheolot uTshuvot MaHaRam Rothenburg",
+    "editor": [
+      {
+        "id": 213,
+        "value": "Meir von Rothenburg",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Moshe Arye Bloch",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__218",
+    "works": [
+      {
+        "id": 257,
+        "value": "Tshuvot Maharam Rothenburg",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "publisher": "Josef Sternberg",
+    "place": [
+      {
+        "id": 176,
+        "value": "Budapest",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "year": "1894"
   }
 }

@@ -79,6 +79,11 @@
         "id": 4,
         "value": "Consolation Only in the Joy of the Temple",
         "order": "4.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
       }
     ],
     "form_he": "ציון",
@@ -257,6 +262,21 @@
         "id": 52,
         "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "We Rely on Our Own Talmud: Hai Gaon to Naḥshon b. Berakhyah",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 59,
+        "value": "Four Cubits in the Land of Israel: A Clause for Those Who Own No Land",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "Who Today Knows Israel’s Genealogies?",
+        "order": "33.00000000000000000000"
       }
     ],
     "form_he": "ירושלים",
@@ -344,8 +364,88 @@
       },
       {
         "id": 53,
-        "value": "Pirkoi ben Baboi",
+        "value": "Customs of Persecution: Why the Land’s Practice Is Not Tradition",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "Custom Annuls Halakhah: The Palestinian Reply to Yehudai Gaon",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "Hora’ah Interrupted: Why the Palestinian Talmud Does Not Bind",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 59,
+        "value": "Four Cubits in the Land of Israel: A Clause for Those Who Own No Land",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "Land Cannot Be Stolen: Possession under Muslim Rule",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Geonic Responsum Cited: The Land Remains in Our Possession",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "Who Today Knows Israel’s Genealogies?",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "Relied upon since the Early Days: The Four Cubits Tradition from Hilai Gaon",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "From the Portion of His Inheritance in the Land",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "Land Neither Known nor Possessable",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "And to Me, the Writer, It Seems: A Rishon’s Own Argument against the Clause",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Only Where He Has Land: The Talmudic Objections Assembled",
+        "order": "38.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "Presumed to Have Land until Witnesses Say Otherwise",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "Four Cubits Already Given: The Problem of Multiple Deeds",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "Exceedingly Weak and Unsound: Against the Geonic Taqqanah",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "Only Where He Actually Holds Land — and a Grave Is Not Acquired in Life",
+        "order": "42.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -406,6 +506,11 @@
         "id": 395,
         "value": "Two Days as Commandment, Not Doubt: Hai Gaon on the Diaspora Festivals",
         "order": "14.66666666666666607455"
+      },
+      {
+        "id": 68,
+        "value": "Presumed to Have Land until Witnesses Say Otherwise",
+        "order": "39.00000000000000000000"
       }
     ],
     "form_he": "חוצה לארץ",
@@ -543,6 +648,21 @@
         "id": 52,
         "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 55,
+        "value": "A Chain of Transmission Running out of the Land",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "Who Today Knows Israel’s Genealogies?",
+        "order": "33.00000000000000000000"
       }
     ],
     "form_he": "בבל",
@@ -816,6 +936,11 @@
         "id": 19,
         "value": "One Sanctity, Not a Diaspora Doubling: The Two Days of Rosh ha-Shanah",
         "order": "19.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "We Rely on Our Own Talmud: Hai Gaon to Naḥshon b. Berakhyah",
+        "order": "29.00000000000000000000"
       }
     ],
     "form_he": "גליות",
@@ -1043,5 +1168,148 @@
       }
     ],
     "commentary": "Epitheton"
+  },
+  "157": {
+    "id": 157,
+    "order": "30.00000000000000000000",
+    "label": "Edom",
+    "loi_id": "loi_parallel__157",
+    "passages": [
+      {
+        "id": 53,
+        "value": "Customs of Persecution: Why the Land’s Practice Is Not Tradition",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "form_he": "אדום",
+    "source": [],
+    "gloss_en": "Edom (Rome)",
+    "referent": [
+      {
+        "id": 143,
+        "value": "Byzantine Empire",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "158": {
+    "id": 158,
+    "order": "31.00000000000000000000",
+    "label": "Arʿa de-Yisra’el",
+    "loi_id": "loi_parallel__158",
+    "passages": [
+      {
+        "id": 55,
+        "value": "A Chain of Transmission Running out of the Land",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "form_he": "ארעא דישראל",
+    "source": [],
+    "gloss_en": "Land of Israel",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "159": {
+    "id": 159,
+    "order": "32.00000000000000000000",
+    "label": "Arʿa de-Ḥashokha",
+    "loi_id": "loi_parallel__159",
+    "passages": [
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "form_he": "ארעא דחשוכא",
+    "source": [
+      {
+        "id": 211,
+        "value": "bPesachim 34b",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the land of darkness",
+    "referent": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "192": {
+    "id": 192,
+    "order": "33.00000000000000000000",
+    "label": "Galut",
+    "loi_id": "loi_parallel__192",
+    "passages": [
+      {
+        "id": 60,
+        "value": "Land Cannot Be Stolen: Possession under Muslim Rule",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "form_he": "גלות",
+    "source": [],
+    "gloss_en": "exile",
+    "referent": [],
+    "commentary": ""
+  },
+  "225": {
+    "id": 225,
+    "order": "34.00000000000000000000",
+    "label": "Ḥeleq Yerushah be-Ereẓ Yisra’el",
+    "loi_id": "loi_parallel__225",
+    "passages": [
+      {
+        "id": 64,
+        "value": "From the Portion of His Inheritance in the Land",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "form_he": "חלק ירושה אשר לו בארץ ישראל",
+    "source": [],
+    "gloss_en": "the portion of inheritance he has in the Land of Israel",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "258": {
+    "id": 258,
+    "order": "35.00000000000000000000",
+    "label": "Medinat ha-Yam",
+    "loi_id": "loi_parallel__258",
+    "passages": [
+      {
+        "id": 68,
+        "value": "Presumed to Have Land until Witnesses Say Otherwise",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "form_he": "מדינת הים",
+    "source": [],
+    "gloss_en": "the overseas country (abroad)",
+    "referent": [],
+    "commentary": ""
   }
 }

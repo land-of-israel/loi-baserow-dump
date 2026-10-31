@@ -737,7 +737,13 @@
     "place": [],
     "loi_id": "loi_work__82",
     "corpus": [],
-    "language": [],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "genre": [],
     "edition": [
       {
@@ -749,7 +755,428 @@
         "id": 76,
         "value": "Otzar HaGeonim Gittin",
         "order": "12.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "Genizah Studies Vol. II",
+        "order": "13.00000000000000000000"
       }
     ]
+  },
+  "115": {
+    "id": 115,
+    "order": "19.00000000000000000000",
+    "title": "Shalshelet ha-qabbalah",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__115",
+    "corpus": [],
+    "language": [
+      {
+        "id": 2,
+        "value": "Aramaic",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "genre": [],
+    "edition": [
+      {
+        "id": 110,
+        "value": "Otzar Ha-Geonim Kiddushin",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "order": "20.00000000000000000000",
+    "title": "Book of Eshkol",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__116",
+    "corpus": [],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [],
+    "edition": [
+      {
+        "id": 111,
+        "value": "Sefer haEshkol",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 144,
+        "value": "Pisqei Rabbenu Avigdor Ẓarfati",
+        "order": "16.00000000000000000000"
+      }
+    ]
+  },
+  "149": {
+    "id": 149,
+    "order": "21.00000000000000000000",
+    "title": "Teshuvot Rav Hai Gaon",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__149",
+    "corpus": [],
+    "language": [
+      {
+        "id": 2,
+        "value": "Aramaic",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "genre": [],
+    "edition": [
+      {
+        "id": 145,
+        "value": "Teshuvot haGeonim miToch haGenizah",
+        "order": "17.00000000000000000000"
+      }
+    ]
+  },
+  "150": {
+    "id": 150,
+    "order": "22.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on the Authority of the Talmud of the Land of Israel",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__150",
+    "corpus": [],
+    "language": [
+      {
+        "id": 2,
+        "value": "Aramaic",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "genre": [],
+    "edition": [
+      {
+        "id": 39,
+        "value": "Teshuvot haGeonim Leik",
+        "order": "7.00000000000000000000"
+      }
+    ]
+  },
+  "151": {
+    "id": 151,
+    "order": "23.00000000000000000000",
+    "title": "Responsum of Rav Ṣemaḥ bar Paltoy Gaon on Acquisition by Land",
+    "reference": "",
+    "author": [
+      {
+        "id": 211,
+        "value": "Rav Zemakh bar Paltoy Gaon",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__151",
+    "corpus": [],
+    "language": [
+      {
+        "id": 2,
+        "value": "Aramaic",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "genre": [],
+    "edition": [
+      {
+        "id": 146,
+        "value": "Teshuvot haGeonim",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "152": {
+    "id": 152,
+    "order": "24.00000000000000000000",
+    "title": "Responsum of Rav Naḥshon Gaon on the Four Cubits Clause",
+    "reference": "",
+    "author": [
+      {
+        "id": 212,
+        "value": "Rav Naḥshon Gaon",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__152",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 147,
+        "value": "Sheolot veTshuvot MaHaRam Rothenburg",
+        "order": "19.00000000000000000000"
+      }
+    ]
+  },
+  "153": {
+    "id": 153,
+    "order": "25.00000000000000000000",
+    "title": "Sefer ha-Pardes",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__153",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 148,
+        "value": "Sefer Ha-Pardes",
+        "order": "20.00000000000000000000"
+      }
+    ]
+  },
+  "186": {
+    "id": 186,
+    "order": "26.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on Conveyance upon the Share in the Land of Israel",
+    "reference": "https://www.sefaria.org/Teshuvot_HaGeonim_(Harkavy).200.1?ven=hebrew|Berlin,_1887&lang=bi&with=all&lang2=en",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__186",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 181,
+        "value": "Teshuvot ha-Geonim (Harkavy)",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "187": {
+    "id": 187,
+    "order": "27.00000000000000000000",
+    "title": "Geonic Responsum on the Four Cubits Clause",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__187",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 181,
+        "value": "Teshuvot ha-Geonim (Harkavy)",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "188": {
+    "id": 188,
+    "order": "28.00000000000000000000",
+    "title": "Geonic fragment on the four cubits clause",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__188",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 183,
+        "value": "Tshuvot haGeonim Haktzarot",
+        "order": "23.00000000000000000000"
+      }
+    ]
+  },
+  "221": {
+    "id": 221,
+    "order": "29.00000000000000000000",
+    "title": "Geonic ruling on writs of authorisation upon land in the Land of Israel",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__221",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 110,
+        "value": "Otzar Ha-Geonim Kiddushin",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "222": {
+    "id": 222,
+    "order": "30.00000000000000000000",
+    "title": "Responsum on conveyance upon the four cubits in the Land of Israel",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__222",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 146,
+        "value": "Teshuvot haGeonim",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "255": {
+    "id": 255,
+    "order": "31.00000000000000000000",
+    "title": "Sefer ha-Ittur",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__255",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 216,
+        "value": "Ha-Ittur (Warsaw)",
+        "order": "24.00000000000000000000"
+      }
+    ]
+  },
+  "256": {
+    "id": 256,
+    "order": "32.00000000000000000000",
+    "title": "Teshuvat Rabbenu Yo’el (Joel b. Isaac ha-Levi of Bonn)",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__256",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 217,
+        "value": "Sefer Ra’avyah",
+        "order": "25.00000000000000000000"
+      }
+    ]
+  },
+  "257": {
+    "id": 257,
+    "order": "33.00000000000000000000",
+    "title": "Tshuvot Maharam Rothenburg",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__257",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 218,
+        "value": "Sheolot uTshuvot MaHaRam Rothenburg",
+        "order": "26.00000000000000000000"
+      }
+    ]
+  },
+  "258": {
+    "id": 258,
+    "order": "34.00000000000000000000",
+    "title": "Mishneh Torah, Hilkhot Sheluḥin we-Shutafin 3,7",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__258",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": []
+  },
+  "259": {
+    "id": 259,
+    "order": "35.00000000000000000000",
+    "title": "Chiddushei ha-Ramban zu Bava Batra 44b",
+    "reference": "https://www.sefaria.org/Chiddushei_Ramban_on_Bava_Batra.44b.2?ven=hebrew|Chiddushei_HaRamban,_Jerusalem_1928-29&lang=bi",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__259",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": []
   }
 }

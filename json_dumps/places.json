@@ -74,6 +74,16 @@
         "id": 120,
         "value": "Teḥuman shel Yisra’el ʿad Nehar Perat",
         "order": "25.00000000000000000000"
+      },
+      {
+        "id": 158,
+        "value": "Arʿa de-Yisra’el",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 225,
+        "value": "Ḥeleq Yerushah be-Ereẓ Yisra’el",
+        "order": "34.00000000000000000000"
       }
     ],
     "edition": []
@@ -128,6 +138,31 @@
         "id": 76,
         "value": "Otzar HaGeonim Gittin",
         "order": "12.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "Sefer haEshkol",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "Teshuvot haGeonim miToch haGenizah",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "Teshuvot haGeonim",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 183,
+        "value": "Tshuvot haGeonim Haktzarot",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 217,
+        "value": "Sefer Ra’avyah",
+        "order": "25.00000000000000000000"
       }
     ]
   },
@@ -164,6 +199,11 @@
         "id": 124,
         "value": "Bat Bavel",
         "order": "29.00000000000000000000"
+      },
+      {
+        "id": 159,
+        "value": "Arʿa de-Ḥashokha",
+        "order": "32.00000000000000000000"
       }
     ],
     "edition": []
@@ -325,5 +365,66 @@
       }
     ],
     "edition": []
+  },
+  "142": {
+    "id": 142,
+    "order": "15.00000000000000000000",
+    "name": "New York",
+    "geonames": "",
+    "loi_id": "loi_place__142",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 109,
+        "value": "Genizah Studies Vol. II",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "143": {
+    "id": 143,
+    "order": "16.00000000000000000000",
+    "name": "Byzantine Empire",
+    "geonames": "",
+    "loi_id": "loi_place__143",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 157,
+        "value": "Edom",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "176": {
+    "id": 176,
+    "order": "17.00000000000000000000",
+    "name": "Budapest",
+    "geonames": "",
+    "loi_id": "loi_place__176",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 147,
+        "value": "Sheolot veTshuvot MaHaRam Rothenburg",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 148,
+        "value": "Sefer Ha-Pardes",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "Sheolot uTshuvot MaHaRam Rothenburg",
+        "order": "26.00000000000000000000"
+      }
+    ]
   }
 }

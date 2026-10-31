@@ -2078,7 +2078,7 @@
   "53": {
     "id": 53,
     "order": "24.00000000000000000000",
-    "title": "Pirkoi ben Baboi",
+    "title": "Customs of Persecution: Why the Land’s Practice Is Not Tradition",
     "text": "שמענו שבאו אצלכם תלמידים מישיבה ומהן שהיו קודם בארץ ישראל ונהגו\nמנהגי השמד שנהגו בהן בני ארץ ישראל. ועכשיו חמש מאות שנה שגזרו שמד\nעליהם שלא יתעסקו בתורה ונהגו מנהגי השמד ולא הניחו מנהג השמד עד היום.\nומקצת יש בידם פירושים של משנה ושל מקצת תלמוד נשים. וכל אחד ואחד מן\nהחכמים פירש לדעתו מה שעלה על לבו, מפני שלא השיגו מן החכמים הראשונים שילמדו\nאותם הלכה למעשה.\nשמנהג שמד הוא שגזר אדום הרשעה שמד על ארץ ישראל שלא יקראו בתורה,\nוגנזו כל ספרי תורות מפני שהיו שורפין אותם. וכשבאו ישמעאלים לא היו להם ספרי\nתורות ולא היו להם סופרים שהיה בידם הלכה למעשה כאיזה צד מעבדין את העורות וכאיזה\nצד כותבין ספרי תורות והיו לוקחין ריק מידי גוים שעושין לכתוב בהן ספר עבודה זרה\nוהיו כותבין בהן ספרי תורה, מפני שלא היה בידם הלכה למעשה. ועד עכשיו הם נוהגין כך.",
     "loi_id": "loi_passage__53",
     "translation": "",
@@ -2092,10 +2092,100 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "german_translation": "",
+    "german_translation": "Wir haben gehört, dass Schüler aus einer Jeschiwa zu euch gekommen sind, und manche von ihnen waren zuvor in Ereẓ Israel und haben die Bräuche der Verfolgung (minhagei ha-shemad) befolgt, die die Bewohner von Ereẓ Israel befolgt haben. Und nun sind es fünfhundert Jahre, dass man eine Verfolgung über sie verhängt hat, dass sie sich nicht mit der Tora befassen sollten, und sie befolgten die Bräuche der Verfolgung und haben den Brauch der Verfolgung bis heute nicht abgelegt.\n\nUnd bei einem Teil von ihnen gibt es Erklärungen zur Mischna und zu einem Teil der Lehre von [der Ordnung] Naschim. Und jeder einzelne der Weisen erklärte nach seinem Dafürhalten, was ihm in den Sinn kam, weil sie von den früheren Weisen nichts empfangen haben, das sie ihnen als Halacha zur praktischen Anwendung (halakhah le-maʿaseh) gelehrt hätten.\n\nDenn ein Brauch der Verfolgung ist es: Das ruchlose Edom verhängte eine Verfolgung über Ereẓ Israel, dass sie nicht in der Tora lesen sollten, und sie verbargen alle Torarollen, weil sie sie verbrannten. Und als die Ismaeliten kamen, hatten sie keine Torarollen und keine Schreiber, in deren Hand die Halacha zur praktischen Anwendung gewesen wäre, auf welche Weise man die Häute bearbeitet und auf welche Weise man Torarollen schreibt. Und sie nahmen riq aus der Hand von Nichtjuden, die es herstellen, um darauf ein Buch des Götzendienstes zu schreiben, und schrieben darauf Torarollen, weil die Halacha zur praktischen Anwendung nicht in ihrer Hand war. Und bis jetzt verfahren sie so.",
     "page": "96",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 105,
+        "value": "Babylonian primacy",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 157,
+        "value": "Edom",
+        "order": "30.00000000000000000000"
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "order": "25.00000000000000000000",
+    "title": "Custom Annuls Halakhah: The Palestinian Reply to Yehudai Gaon",
+    "text": "ואף הוא כתב לארץ ישראל בשביל סירכא ובשביל כל המצוות שנוהגין בהן\\\nשלא כהלכה אלא כמנהג שמד ולא קיבלו ממנו ושלחו לו: מנהג מבטל הלכה. וביקש\\\nלהתחזק עליהם והתחזק שלא יהיו אפיקורסין והניח אותן. תדע לך, מפני מה אוכלין\\\nסירכא בארץ ישראל, מפני שאין בידם הלכה אחת מתלמוד הלכות שחיטה ולא מסדר\\\nקדשים כולו, נשתכח מהם סדר קדשים כולו ותלמוד סדר טהרות כולו.\\\nובשביל שמולין ומשליכין דם בריתן על עפר ומבזין דם ברית שכרת הקב\"ה\\\nעם אברהם אבינו",
+    "loi_id": "loi_passage__54",
+    "translation": "",
+    "parallel_text": [],
+    "bibl_quotes": [
+      {
+        "id": 209,
+        "value": "yBava Metzia 7:1",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 210,
+        "value": "yYevamot 12:1",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "commentary": "",
+    "work": [
+      {
+        "id": 82,
+        "value": "Letter of Pirqoi ben Baboi",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und auch er [Yehudai Gaon?] schrieb nach Ereẓ Israel wegen der Sirka und wegen aller Gebote, die sie nicht nach der Halacha begehen, sondern nach dem Brauch der Verfolgung (minhag shemad); und sie nahmen es von ihm nicht an und sandten ihm: Der Brauch hebt die Halacha auf (yBava Meẓiʿa 7,1; yYevamot 12,1). Und er suchte sich gegen sie durchzusetzen, und [er hielt sich zurück?], damit sie nicht Häretiker würden, und ließ sie.\n\nDu sollst wissen, weshalb sie in Ereẓ Israel Sirka essen: weil nicht eine einzige Halacha aus der Lehre der Schlachtvorschriften in ihrer Hand ist und nichts aus der ganzen Ordnung Qodaschim; vergessen ist ihnen die ganze Ordnung Qodaschim und die Lehre der ganzen Ordnung Ṭohorot.\n\nUnd weil sie beschneiden und das Blut ihres Bundes auf den Staub werfen und das Blut des Bundes, den der Heilige, gepriesen sei er, mit Abraham, unserem Vater, geschlossen hat, verächtlich machen […]",
+    "page": "GS 560-562",
+    "keywords": [
+      {
+        "id": 105,
+        "value": "Babylonian primacy",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "transmission of Oral Torah",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "chain of tradition",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": [
       {
@@ -2105,329 +2195,1051 @@
       }
     ]
   },
-  "54": {
-    "id": 54,
-    "order": "25.00000000000000000000",
-    "title": "[Talmud] (untitled)",
-    "text": "ואף הוא כתב לארץ ישראל בשביל סירכא ובשביל כל המצוות שנוהגין בהן\\\nשלא כהלכה אלא כמנהג שמד ולא קיבלו ממנו ושלחו לו: מנהג מבטל הלכה. וביקש\\\nלהתחזק עליהם והתחזק שלא יהיו אפיקורסין והניח אותן. תדע לך, מפני מה אוכלין\\\nסירכא בארץ ישראל, מפני שאין בידם הלכה אחת מתלמוד הלכות שחיטה ולא מסדר\\\nקדשים כולו, נשתכח מהם סדר קדשים כולו ותלמוד סדר טהרות כולו.\\\nובשביל שמולין ומשליכין דם בריתן על עפר ומבזין דם ברית שכרת הקב\"ה\\\nעם אברהם אבינו",
-    "loi_id": "loi_passage__54",
-    "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
-  },
   "55": {
     "id": 55,
     "order": "26.00000000000000000000",
-    "title": "Otzar HaGeonim",
+    "title": "A Chain of Transmission Running out of the Land",
     "text": "הדא מסורתא דמסר דוסא ב\"ר אלעזר...דקביל מר' יהודה בבלאה דקבול\\\nמשמעון אבוהי והוא קיבל מרב אדא...ורב אדא מרב המנונא די אפיק מנהרדעא\\\nוהוא קביל מן נקיי די גלה מארעא דישראל לבבל דאיגלייה רופוס כי היכי דלא\\\nתהוא אורייתא בארעא דישראל.",
     "loi_id": "loi_passage__55",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 40,
+        "value": "bSanhedrin 23a",
+        "order": "8.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "commentary": "Naqiyyei is perhaps elliptical for the scrupulous ones of Jerusalem (so Schepansky), locating the chain’s origin in the city itself.",
+    "work": [
+      {
+        "id": 115,
+        "value": "Shalshelet ha-qabbalah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "german_translation": "Dies ist die Überlieferung (masoreta), die Dosa, der Sohn des R. Elazar, überliefert hat … die er von R. Jehudah dem Babylonier empfangen hat, der sie von Schimon, seinem Vater, empfangen hat; und dieser empfing sie von Rav Adda … und Rav Adda von Rav Hamnuna, der [sie?] aus Nehardea herausbrachte, und er empfing sie von den naqiyyei, die aus dem Lande Israel nach Bavel verbannt wurden, als Rufus sie verbannte, damit die Tora nicht im Lande Israel sei.",
+    "page": "קצג",
+    "keywords": [
+      {
+        "id": 105,
+        "value": "Babylonian primacy",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "transmission of Oral Torah",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "chain of tradition",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 158,
+        "value": "Arʿa de-Yisra’el",
+        "order": "31.00000000000000000000"
+      }
+    ]
   },
   "56": {
     "id": 56,
     "order": "27.00000000000000000000",
-    "title": "Answers of the Geonim, Book of Eshkol",
+    "title": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
     "text": "ונשאל רב האי...והשיב...כל מה שמצאנו בתלמוד ארץ ישראל ואין חולק\\\nעליו בתלמודנו, או שנותן טעם יפה לדבריו, נאחזנו ונסמוך עליו דלא גרע מפירושי\\\nהראשונים. אבל מה שמצינו שחולק על תלמודנו נעזבנו. והא דצם ר' זירא\\\nדלשתכח תלמודא דבבלאי מיניה, ור' ירמיה אמר: במחשכים הושיבני -- זֶה גמרא\\\nבבלי , ואמר נמי: בבלאי טפשאי דיתבי בארעא דחשוכא אמריתון' דמחשכי,\\\nבזמנם לא נהיר להו טעמי דמתניתין כחכמי ארץ ישראל דעדיין היו שם סנהדרין\\\nוגדולי החכמים היו בארץ ישראל וגזירות מרובות בבבל כדאמרינן בשחיטת חולין\\\nפולמסא אתא לפומבדיתא. ואגב שמדא נח נפשיה. ותו, והאי ארץ ישראל נתקדשה\\\nמכל הארצות כדברי ר' זירא שאמר: אוירא דארץ ישראל מחכים.\\\nאבל בימי רב אשי ורבינא היה שלום בבבל ונפיש שמדא בארץ ישראל ואימעטא\\\nהוראה תמן טובא ונחית מן דהוה תמן, כגון רבין ורב דימי וכולהו נחותי דנחתין הכא\\\nרובן חכימי דארעא דישראל ואמרו: מימות רבי עד רב אשי לא מצינו תורה וגדולה\\\nבמקום אחד, והתורה מתגברת והולכת בימיו. ודאי אוירא דארץ ישראל מחכים\\\nואמרו: ולציון יאמר איש ואיש יולד (שם) \\[בה\\] -- חד מינייהו עדיף כתרי מינן\\\nוהני נמי הוו התם ונפק מינייהו תלמודנו, לכך עדיפא מתלמוד ארץ ישראל. ותו,\\\nקמייהו הוה תלמוד ארץ ישראל וידעו טעמא דקדמאי והיכי דלא ניחא להו נאדו מן טעמי\\\nדקמייהו. וכללא הוא: הלכה כבתראי.",
     "loi_id": "loi_passage__56",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 211,
+        "value": "bPesachim 34b",
+        "order": "88.00000000000000000000"
+      },
+      {
+        "id": 212,
+        "value": "bBava Metzia 85a",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "Lamentations 3:6",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "bSanhedrin 24a",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 215,
+        "value": "bBava Batra 158b",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 216,
+        "value": "bGittin 59a",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 217,
+        "value": "Psalms 87:5",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "bKetubot 75a",
+        "order": "95.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 116,
+        "value": "Book of Eshkol",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und Rav Hai wurde gefragt … und er antwortete: Alles, was wir im Talmud von Ereẓ Israel finden und dem in unserem Talmud nichts widerspricht, oder wofür er eine gute Begründung gibt — daran halten wir uns und stützen uns darauf, denn es ist nicht geringer als die Erklärungen der Früheren. Was wir aber finden, dass es unserem Talmud widerspricht, das lassen wir.\n\nUnd dass R. Zeira fastete, damit ihm der Talmud der Babylonier entfalle (bBava Meẓiʿa 85a), und R. Jirmeja sagte: „In Finsternis hat er mich sitzen lassen“ (Klgl 3,6) — das ist der babylonische Gemara (bSanhedrin 24a), und er sagte auch: Ihr törichten Babylonier, die ihr in einem Lande der Finsternis sitzt, ihr redet Verfinstertes (bPesaḥim 34b) — [das war so], weil ihnen zu jener Zeit die Gründe der Mischna nicht so einleuchteten wie den Weisen von Ereẓ Israel, denn dort war noch das Sanhedrin, und die großen Weisen waren in Ereẓ Israel, und in Bavel waren der Verfolgungen viele, wie wir in [dem Traktat über] die profane Schlachtung sagen: Ein Krieg kam nach Pumbedita, und infolge der Verfolgung verschied er. Und ferner: Ereẓ Israel wurde vor allen Ländern geheiligt, wie R. Zeira sagte: Die Luft von Ereẓ Israel macht weise (bBava Batra 158b).\n\nIn den Tagen Rav Aschis und Ravinas aber war Friede in Bavel, und in Ereẓ Israel war der Verfolgung viel, und die Lehrentscheidung wurde dort sehr gering, und es kamen herab, die dort waren — wie Ravin und Rav Dimi und alle neḥutei, die hierher herabkamen, die meisten von ihnen Weise von Ereẓ Israel. Und sie sagten: Von den Tagen Rabbis bis zu Rav Aschi haben wir Tora und Größe nicht an einem Ort gefunden (bGiṭṭin 59a), und die Tora nahm in seinen Tagen immerfort zu. Gewiss macht die Luft von Ereẓ Israel weise, und sie sagten: „Und von Zion wird gesagt: Dieser und jener ist in ihr geboren“ (Ps 87,5) — einer von ihnen ist so viel wert wie zwei von uns (bKetubot 75a). Und auch diese waren dort, und aus ihnen ging unser Talmud hervor; darum ist er dem Talmud von Ereẓ Israel vorzuziehen.\n\nUnd ferner: Der Talmud von Ereẓ Israel lag ihnen vor, und sie kannten die Begründung der Früheren, und wo sie ihnen nicht einleuchtete, wichen sie von den Begründungen der Früheren ab. Und die Regel ist: Die Halacha ist wie die Späteren (hilkheta ke-vatra’ei).",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 105,
+        "value": "Babylonian primacy",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "transmission of Oral Torah",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "chain of tradition",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "talmudic authority",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 3,
+        "value": "Ẓiyyon",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 158,
+        "value": "Arʿa de-Yisra’el",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 159,
+        "value": "Arʿa de-Ḥashokha",
+        "order": "32.00000000000000000000"
+      }
+    ]
   },
   "57": {
     "id": 57,
     "order": "28.00000000000000000000",
-    "title": "answers from the Geonim of the Geniza",
+    "title": "Hora’ah Interrupted: Why the Palestinian Talmud Does Not Bind",
     "text": "ומילתא דפסיקא בתלמוד דילנא לא סמכינן בה על תלמודא דבני ארץ\nישראל, הואיל ושנים רבות איפסיקא הוראה מתמן בשמאדא והכא הוא דאיתבררי\nמסקני... אבל מילתא דלית עלה פלוגתא בתלמוד דילנא חזיננא מה דאיתמר התם\nאי נמי לגלויי טעמא דמילתא, כגון פירושא דארווח ביה מסברא התם והכא קוטא",
     "loi_id": "loi_passage__57",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 149,
+        "value": "Teshuvot Rav Hai Gaon",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und in einer Sache, die in unserem Talmud entschieden ist, stützen wir uns nicht auf den Talmud der Bewohner von Ereẓ Israel, da seit vielen Jahren die Lehrentscheidung (hora’ah) von dort aufgehört hat durch die Verfolgung, und hier sind die Schlussfolgerungen geklärt worden …\n\nAber eine Sache, über die es in unserem Talmud keine Erörterung gibt — da sehen wir, was dort gesagt wurde, oder auch, um die Begründung der Sache zu erschließen: etwa eine Erklärung, die dort aus der Überlegung ausführlich entwickelt wurde, während sie hier kurz ist.",
+    "page": "125-126",
+    "keywords": [
+      {
+        "id": 105,
+        "value": "Babylonian primacy",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "chain of tradition",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "58": {
     "id": 58,
     "order": "29.00000000000000000000",
-    "title": "Tschuvot haGeonim Leik",
+    "title": "We Rely on Our Own Talmud: Hai Gaon to Naḥshon b. Berakhyah",
     "text": "שאל רב נחשון בר ברכיה ז\"ל מרבינו האיי ז\"ל. הא דגרסינן: שלחו ליה\nלמר עוקבא זמרא מנא לן דאסור וכו' ובתלמוד ירושלמי? מצינו דאיבעיא להו מהו\nלכתוב תרין מילין מן פסוקא, ופשטו ממעשה דמר עוקבא ריש גלותא דכתב:\nישראל אל תשמח כעמים אל גיל-- על איזה מהן נסמוך. אם נאמר כי אלו מארץ\nישראל לא כתבו הפסוקים כמו שהן מפני שלא שירטטו, ולמה לא שירטטו וכתבו\nהפסוקים אלא הפכום ?...\nוהשיב: אנו על תלמוד שלנו סומכין. ומאי דפסיק הכא לא חיישינן למאי דאיתא\nהתם. ודאי לגלויי מילתא דמסתמא הכא או דלא מפרשא הכא ולא מכחשא נמי סמכינן\nעליה. אי נמי מילתא דפירושא. ולענין מאי דשנו התם פסוקי ואקדמו ואחרו, מחזיא\nמילתא דלאו משום שירטוט אלא משום שלא יכתבו פסוק כצורתו ויהיה משולח בידי גויים.\nוהרי מצינו שאף משם כתבו בלא שירטוט פסוקים כמות שהן דאמר רב יוסף. . . בני אדם\nהעולים משם לכאן וכו' ומאי נינהו זעירי ורבה בר בר חנה ז, וכתב ליה בלא שירטוט.",
     "loi_id": "loi_passage__58",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 249,
+        "value": "Hosea 9:1",
+        "order": "96.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 150,
+        "value": "Responsum of Rav Hai Gaon on the Authority of the Talmud of the Land of Israel",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "german_translation": "Rav Naḥschon bar Berakhja seligen Andenkens fragte unseren Lehrer Rav Hai seligen Andenkens: Zu dem, was wir lernen — „Man sandte an Mar Uqba: Woher [wissen wir], dass Gesang verboten ist?“ usw. —, und im Jerusalemer Talmud finden wir, dass man fragte: Wie ist es, zwei Worte aus einem Vers zu schreiben? Und man löste es aus dem Vorfall mit Mar Uqba, dem Exilarchen, der schrieb: „Israel, freue dich nicht, bis zum Jubel wie die Völker“ (Hos 9,1) — auf welches von beiden sollen wir uns stützen? Sollen wir sagen, dass jene aus Ereẓ Israel die Verse nicht schrieben, wie sie sind, weil sie nicht liniert hatten? Und warum haben sie dann nicht liniert und die Verse geschrieben, sondern sie umgestellt? …\n\nUnd er antwortete: Wir stützen uns auf unseren Talmud. Und was hier entschieden ist — dafür beachten wir nicht, was dort steht. Wohl aber, um eine Sache zu erschließen, die hier unbestimmt bleibt oder die hier nicht erklärt ist und [dort] auch nicht widerspricht: darauf stützen wir uns. Oder auch bei einer Sache der Auslegung.\n\nUnd was das betrifft, dass sie dort die Verse geändert und [Worte] vor- und nachgestellt haben, so erscheint die Sache nicht als wegen des Linierens, sondern deswegen, dass man einen Vers nicht in seiner Gestalt schreibe und er in die Hände von Nichtjuden gegeben werde. Und wir finden ja, dass man auch von dort ohne Linierung Verse schrieb, wie sie sind, denn Rav Josef sagte … Leute, die von dort hierher heraufkommen usw. — und wer sind das? Zeʿiri und Rabbah bar bar Ḥanah. Und er schrieb ihm ohne Linierung.",
+    "page": "Seite 38 (PDF); S 19, מו",
+    "keywords": [
+      {
+        "id": 105,
+        "value": "Babylonian primacy",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "transmission of Oral Torah",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "chain of tradition",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "talmudic authority",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "Galuyot",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "59": {
     "id": 59,
     "order": "30.00000000000000000000",
-    "title": "[property] (untitled)",
+    "title": "Four Cubits in the Land of Israel: A Clause for Those Who Own No Land",
     "text": "כתבינן... כך שנו חכמים... ואי לית ליה ארבע אמות ואית ליה אפילו אמה אחת\\\nמקנו עלה ושפיר דמי. ואפילו קרקע שהוא משהו דתניא: מעשה באדם אחד שחלה\\\nבירושלים כר' אליעזר, ואמרי לה שהיה בירושלים כרבנן, והיו לו מטלטלין הרבה וביקש\\\nליתנן מתנה, אמרו לו: אין להן תקנה עד שתקנם על גב קרקע. לקח בית רובע סמוך\\\nלירושלים. .. וקיימו חכמים את דבריו ז, ואי לית ליה קרקע ליזבין קרקע כל שהוא וליקני\\\nעלה, ואי לא, נהוג עלמא למיכתב: ואקניתי ליה ארבע אמות מחלק שיש לי בארץ ישראל.",
     "loi_id": "loi_passage__59",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 250,
+        "value": "bKiddushin 26b",
+        "order": "97.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 151,
+        "value": "Responsum of Rav Ṣemaḥ bar Paltoy Gaon on Acquisition by Land",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "german_translation": "Dies, dass man in Urkunden über Vollmachten und Darlehen „vier Ellen“ schreibt … wo er aber keine hat, weshalb schreiben wir es? … So lehrten die Weisen … Und wenn er keine vier Ellen hat, aber auch nur eine einzige Elle hat, so überträgt man [die beweglichen Güter] im Gefolge davon (qinyan agav), und es ist recht. Und sogar bei Boden, der ein Geringes ist, denn es ist gelehrt (bKid 26b): Es geschah mit einem Mann, der in Jerusalem erkrankte — nach R. Eliezer; und manche sagen, der in Jerusalem war — nach den Rabbanan; und er hatte viele bewegliche Güter und wollte sie als Geschenk geben. Man sagte ihm: Für sie gibt es keinen Behelf (taqqanah), es sei denn, du überträgst sie im Gefolge von Boden. Da erwarb er einen bet rovaʿ nahe bei Jerusalem … und die Weisen bestätigten seine Worte.\n\nUnd wenn er keinen Boden hat, so kaufe er Boden, wie gering auch immer, und übertrage im Gefolge davon. Und wenn nicht, so pflegt alle Welt zu schreiben: Und ich habe ihm vier Ellen übertragen von dem Anteil, den ich in Ereẓ Israel habe.",
+    "page": "70",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "qinyan agav",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "60": {
     "id": 60,
     "order": "31.00000000000000000000",
-    "title": "Tschuvat Rav Nachshon Gaon",
+    "title": "Land Cannot Be Stolen: Possession under Muslim Rule",
     "text": "וששאלת, הני שטרות דכתיב בהו אגב ארבע אַמות קרקע בחצירי, מי שאין לו\nקרקע כיצד הוא עושה, אם כן שטר זה פסול. ולדברי האומר של קבר, נמצא למחר זה\nמת ואין לו מקום קבורה... אלא הכי פירושא, דקים להו לרבנן דאין כל אחד מישראל\nשאין לו ארבע אמות בארץ ישראל. אם תאמר נטלוה ישמעאלים ואנן בגלות, קיימא להו\nלרבנן דקרקע אינה נגזלת ובחזקת ישראל היא וארץ ישראל נקראת על שם ישראל, דאפילו\nגומן שישראל שרויין על אדמתם אין להן רשות למכור שדותיהן לצמיתות שנאמר: והארץ\nלא תמכר לצמיתות וגו'. וכתיב: לד' הארץ ומלואה, ועתידין אנו לחזור ולירש אותה.",
     "loi_id": "loi_passage__60",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 251,
+        "value": "Leviticus 25:23",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 252,
+        "value": "Psalms 24:1",
+        "order": "99.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
+    "work": [
+      {
+        "id": 152,
+        "value": "Responsum of Rav Naḥshon Gaon on the Four Cubits Clause",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was du gefragt hast: jene Urkunden, in denen geschrieben steht „im Gefolge von vier Ellen Bodens in meinem Hof“ — wer keinen Boden hat, wie soll der verfahren? Wenn dem so ist, wäre diese Urkunde ungültig. Und nach den Worten dessen, der sagt, es sei vom Grab [die Rede], ergäbe sich: Morgen stirbt dieser und hat keinen Begräbnisplatz …\n\nVielmehr ist dies die Erklärung: Den Rabbanan stand fest, dass es keinen aus Israel gibt, der nicht vier Ellen in Ereẓ Israel hat. Und wenn du sagst: Die Ismaeliten haben es genommen, und wir sind im Exil — so steht den Rabbanan fest, dass Boden nicht geraubt werden kann und dass er in der Ḥazaqah Israels steht und dass Ereẓ Israel nach dem Namen Israels genannt wird. Denn selbst zu der Zeit [?], da Israel auf seinem Boden wohnt, haben sie keine Erlaubnis, ihre Felder auf Dauer zu verkaufen, wie es heißt: „Und das Land soll nicht auf Dauer verkauft werden“ usw. (Lev 25,23). Und es steht geschrieben: „Dem Herrn gehört die Erde und ihre Fülle“ (Ps 24,1). Und wir werden dereinst zurückkehren und es in Besitz nehmen.",
+    "page": "73",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "qinyan agav",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [
+      {
+        "id": 1,
+        "value": "solid",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 192,
+        "value": "Galut",
+        "order": "33.00000000000000000000"
+      }
+    ]
   },
   "61": {
     "id": 61,
     "order": "32.00000000000000000000",
-    "title": "Tschuvot haGeonim Sefer Pardess",
+    "title": "Geonic Responsum Cited: The Land Remains in Our Possession",
     "text": "מצאתי בתשובת הגאונים... מה שכותבין בשטרות ובמתנות: ונתתי לו ארבע\nאמות קרקע בחצירי... שאין לך כל אחד ואחד מישראל שאין לו קרקע בארץ ישראל,\nשהרי גויים שהחזיקו בה ולכדוה אין להם חזקה, דקיימא לן קרקע אינה נגזלת לעולם,\nוארץ ישראל בחזקתינו עומדת לעולם, ואע\"פ שאין אנו שולטין בה.",
     "loi_id": "loi_passage__61",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 253,
+        "value": "bSukkah 30b",
+        "order": "100.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 153,
+        "value": "Sefer ha-Pardes",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "german_translation": "Ich habe in einer Responsum der Geonim gefunden: Was man in Urkunden und Schenkungen schreibt — „und ich habe ihm vier Ellen Bodens in meinem Hof gegeben“ … denn es gibt keinen einzigen aus Israel, der nicht Boden in Ereẓ Israel hätte. Denn die Nichtjuden, die sich seiner bemächtigt und es erobert haben, haben daran keine Ḥazaqah, da für uns feststeht, dass Boden niemals geraubt wird (Sukkah 30b); und Ereẓ Israel steht für immer in unserer Ḥazaqah, auch wenn wir keine Herrschaft über es ausüben.",
+    "page": "102",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "62": {
     "id": 62,
     "order": "33.00000000000000000000",
-    "title": "Tschuvat Rav Hai Gaon (Harkavy 200)",
+    "title": "Who Today Knows Israel’s Genealogies?",
     "text": "ולענין מי שמקנה מטבע על גבי קרקע סתם שסומכין על מה שיש לו בארץ\nישראל, לא מצינו לא במשנה ולא בתלמוד דבר זה ולא כיוצא בו, דהא מרוני שהיה\nבירושלים דבעי לאקנויי דמים ולא סמכא דעתיה לאזכויי לא סמך על מה שגזלוהו גוים\nולא אמר קרקע אינה נגזלת אלא הלך ולקח בית סלע וזה בית רובע והקנה על גבה... ורב\nפפא כי הוה ליה תריסר אלפי זוזי בי חוזאיי: לא אקנינהו לרב שמואל בר אחא על גב\nקרקע סתם וסמך על חלק דארץ ישראל, אלא הכין אקני ליה, אגב אסיפא דביתיה...,\nומנהגא דמילתא במתיבתא דבבל, אקניאתא פסיקאתא לא סמכינן על חלק דמארץ ישראל\nדלא יאכיל מקבל מתנה למיגבייה אלא צריך קרקע ידיע דיאכיל למגבייה ולאחזוקי ביה.\nאבל בארשיאתא וארכאתא מקלין רבנן וסגיא להון בהדין שמא דאקניתא מן חלק\nדבארץ ישראל, דאמרינן שליחותא בעלמא היא ולבעלים הוא דקא גאבי... וכי אמר מר\nרב סעדיה גאון לדבריכם האוי קרקע דמן חלק בארץ ישראל, בארכאתא הוא דאמר ולא\nבאקנייתא גמירתא.\nואשר שאלתם, מרוני גר היה או ישראל היה, שיש מפרשין כך להעמיד ראיה\nויש שמפרשין כך להעמיד ראיה. כיון שסתם נאמר חזקתו מישראל ואין להוציאו מן\nישראל אלא בראיה. ועוד יוחסין של ישראל המצויין עכשיו מי מכירם, ומי יאמר שזה יש\nלו חלק, הלכך כמנהגנו ראוי לעשות, בארכאתא מקילינן ובאקניאתא מחמירינן.",
     "loi_id": "loi_passage__62",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 41,
+        "value": "bKiddushin 26b",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 186,
+        "value": "Responsum of Rav Hai Gaon on Conveyance upon the Share in the Land of Israel",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was den betrifft, der Münzgeld im Gefolge von Boden schlechthin überträgt, sodass man sich auf das stützt, was er in Ereẓ Israel hat: Wir haben für diese Sache weder in der Mischna noch im Talmud etwas gefunden und nichts dergleichen. Denn Maroni, der in Jerusalem war und Geld übereignen wollte und dessen Sinn nicht darauf stand, [es ihm] zuzueignen — der stützte sich nicht auf das, was die Nichtjuden ihm geraubt hatten, und sagte nicht, Boden werde nicht geraubt, sondern ging hin und kaufte einen bet selaʿ, und das ist ein bet rovaʿ, und übertrug im Gefolge davon …\n\nUnd Rav Pappa, als er zwölftausend Zuz in Bei Ḥozai hatte: Er übertrug sie Rav Schmuel bar Aḥa nicht im Gefolge von Boden schlechthin und stützte sich nicht auf den Anteil an Ereẓ Israel, sondern so übertrug er sie ihm: im Gefolge der Schwelle seines Hauses …\n\nUnd der Brauch der Sache in den Lehrhäusern (metivata) Bavels: Bei abschließenden Übereignungen (aqnayata pesiqata) stützen wir uns nicht auf den Anteil an Ereẓ Israel, weil [?] der Beschenkte nichts hat, um daran einzuziehen, sondern es bedarf eines bekannten Bodens, an dem er einziehen und Ḥazaqah erlangen kann.\n\nBei Vollmachten aber und Prozessvollmachten (harsha’ata we-orkhata) sind die Rabbanan nachsichtig, und ihnen genügt dieser Name, dass die Übertragung aus dem Anteil an Ereẓ Israel erfolge, denn wir sagen: Es ist bloße Bevollmächtigung, und für die Eigentümer wird eingezogen … Und als Mar Rav Saadia Gaon zu euren Worten vom Boden aus dem Anteil an Ereẓ Israel sprach — bei Prozessvollmachten sagte er es, nicht bei vollständigen Übereignungen.\n\nUnd was ihr gefragt habt, ob Maroni ein Proselyt war oder ein Israelit — es gibt solche, die es so auslegen, um einen Beweis zu stützen, und solche, die es so auslegen, um einen Beweis zu stützen: Da es unbestimmt gesagt ist, ist seine Vermutung die eines Israeliten, und man darf ihn nicht aus Israel herausnehmen außer durch Beweis. Und ferner: Die Abstammungen Israels, wie sie jetzt vorliegen — wer kennt sie? Und wer sagt, dass dieser einen Anteil hat? Darum ist es recht, nach unserem Brauch zu verfahren: Bei Prozessvollmachten sind wir nachsichtig, bei Übereignungen streng.",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "63": {
     "id": 63,
     "order": "34.00000000000000000000",
-    "title": "Tschuvat Rav Hai Gaon (Harkavy 199)",
+    "title": "Relied upon since the Early Days: The Four Cubits Tradition from Hilai Gaon",
     "text": "וסמכין מאותן הימים הראשונים ועד עתה על ארבע אמות קרקע שלכל אחד ואחד בארץ ישראל\nכמו שמצאו בתשובות הגאונים הראשונים ששאלו אבותיהם מן מר הילאי גאון נ\"ע.",
     "loi_id": "loi_passage__63",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 187,
+        "value": "Geonic Responsum on the Four Cubits Clause",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und man stützt sich seit jenen ersten Tagen bis jetzt auf die vier Ellen Bodens, die ein jeder in Ereẓ Israel hat, wie sie es in den Responsen der frühen Geonim gefunden haben, die ihre Väter von Mar Hilai Gaon, seine Ruhe sei in Eden, erfragt hatten.",
+    "page": "#199",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "qinyan agav",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "arba' ammot",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "64": {
     "id": 64,
     "order": "35.00000000000000000000",
-    "title": "from the short Tschuvot of the Geonim",
+    "title": "From the Portion of His Inheritance in the Land",
     "text": "ולכן נהגו לכתוב בשטרי הרשאות ארבע אמות קרקע בחצירי מחלק ירושה אשר לו בארץ ישראל",
     "loi_id": "loi_passage__64",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 188,
+        "value": "Geonic fragment on the four cubits clause",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und darum pflegte man in Vollmachtsurkunden (harsha’ot) zu schreiben: vier Ellen Bodens in meinem Hof, aus dem Erbteil, das er in Ereẓ Israel hat.",
+    "page": "61",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "arba' ammot",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 225,
+        "value": "Ḥeleq Yerushah be-Ereẓ Yisra’el",
+        "order": "34.00000000000000000000"
+      }
+    ]
   },
   "65": {
     "id": 65,
     "order": "36.00000000000000000000",
-    "title": "Otzar haGeonim",
+    "title": "Land Neither Known nor Possessable",
     "text": "הכותב הרשאה לחבירו על קרקע בארץ ישראל שאינו ידוע ואינו יכול להחזיק\\\nבו, נעשה שליח ואינו קונה לא קרקע ולא מטלטלין.",
     "loi_id": "loi_passage__65",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 221,
+        "value": "Geonic ruling on writs of authorisation upon land in the Land of Israel",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "german_translation": "Wer einem anderen eine Vollmacht ausstellt auf Boden in Ereẓ Israel, der nicht bekannt ist und an dem er keine Ḥazaqah erlangen kann, der wird zum Bevollmächtigten gemacht und erwirbt weder Boden noch bewegliche Güter.",
+    "page": "קסא",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "66": {
     "id": 66,
     "order": "37.00000000000000000000",
-    "title": "Tschuvot haGeonim",
+    "title": "And to Me, the Writer, It Seems: A Rishon’s Own Argument against the Clause",
     "text": "ונשאל תו, מי שאין לו קרקע... יש לו לסמוך על ד' אמות שבארץ ישראל\\\nאו לא? תשובה, המתנה אגב קרקע בחלקו שיש לו בארץ ישראל לא נראה כן נכון\\\nלבעלי הפי' אלא בהרשאות בלבד על דרך תקנה, כדי שלא ישתקע ממון בני אדם בידי\\\nהמופקד אצלם או ביד הלווין... ולי הכותב נראה דבעינן קרקע ממש, מדאמר\\\nבענין מכר לו פרה א, מכר לו טלית וליחוש דילמא אגב מקרקעי אקני ליה. ופרקינן,\\\nכגון דאמרי עדים דלא הויא ליה ארעא מעולם. ואי על ארץ ישראל או על קבורה סמכינן\\\nאיז לך אדם שאין לו בארץ ישראל ושאיז לו קבורה. ובשאלות לרבוואת... הלין ד'\\\nאמות היכא דלית ליה קרקע כלל קים להו לרבנן וכו'... והא שאילתא אזלא כדברי\\\nהגאון ר' יצחק ז\"ל דלא סמכינן על ד' אמות אלא בהרשאות בלבד, כדי שלא ישתקע...",
     "loi_id": "loi_passage__66",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 222,
+        "value": "Responsum on conveyance upon the four cubits in the Land of Israel",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und es wurde ferner gefragt: Wer keinen Boden hat … hat er sich auf die vier Ellen in Ereẓ Israel zu stützen oder nicht?\n\nAntwort: Die Schenkung im Gefolge von Boden aus dem Anteil, den er in Ereẓ Israel hat, erscheint den Kommentatoren (baʿalei ha-perush) so nicht als richtig, sondern nur bei Vollmachten (harsha’ot), auf dem Wege einer Taqqanah, damit das Geld der Leute nicht versinke in der Hand derer, bei denen es hinterlegt ist, oder in der Hand der Schuldner …\n\nUnd mir, dem Schreiber, scheint, dass wir wirklichen Boden brauchen, da er in der Sache sagt: „Er verkaufte ihm eine Kuh“, „er verkaufte ihm ein Gewand“ — und sollten wir nicht besorgen, er habe es ihm im Gefolge von Grundbesitz übereignet? Und wir lösen auf: etwa wenn Zeugen sagen, dass er niemals Boden hatte. Wenn wir uns aber auf Ereẓ Israel oder auf das Grab stützten, so gibt es keinen Menschen, der nicht [Anteil] in Ereẓ Israel hätte und der kein Grab hätte.\n\nUnd in den She’elot le-Rabbawata …: Diese vier Ellen — wo er überhaupt keinen Boden hat, stand es den Rabbanan fest usw. … Und diese Anfrage geht nach den Worten des Gaon R. Yiẓḥaq seligen Andenkens, dass wir uns auf die vier Ellen nur bei Vollmachten stützen, damit [das Geld] nicht versinke …",
+    "page": "100",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "arba' ammot",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "67": {
     "id": 67,
     "order": "38.00000000000000000000",
-    "title": "Ha-Ittur",
+    "title": "Only Where He Has Land: The Talmudic Objections Assembled",
     "text": "ובתשובות לרבינו אלפס, אין סומכין על קרקע ארץ ישראל אלא בהרשאות\\\nמשום תקנה שלא ישתקע ממון בני אדם אצל המופקד, ולא על דרך עיקר.\\\nתשובה לרבינו שמואל אבן חופני נהגו לכתוב בהרשאות ארבע אמות מחלק\\\nהמורשה שבארץ ישראל שלא יחזיק האפוטרופוס בו ולא יקנה כי אם מקומו ידוע ולא\\\nממוצר במצרים... ויש אומרים והוא שיש לו קרקע... מדגרסינן בפרק חזקת הבתים:\\\nכגון דאמר ידענא ביה דלא הוה ליה קרקע... וגרסינן נמי בפרק הזהב: וליקנינה אגב\\\nארעא, דלית ליה. שמעת מינה והוא דאית ליה. וקמאי מוקמי להו בגר. אי נמי בישראל\\\nשאביו קיים דלית ליה בארץ ישראל, וליתא.",
     "loi_id": "loi_passage__67",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 74,
+        "value": "bBava Batra 29b ff.",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "bBava Metzia 44a ff.",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 255,
+        "value": "Sefer ha-Ittur",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und in den Responsen unseres Lehrers Alfasi: Man stützt sich auf Boden in Ereẓ Israel nur bei Vollmachten (harsha’ot), aus einer Taqqanah, damit das Geld der Leute nicht versinke bei dem, bei dem es hinterlegt ist, und nicht auf dem Wege des Grundsätzlichen.\n\nResponsum an [oder: des] Rabbenu Schmuel ben Ḥofni: Man pflegt in Vollmachten zu schreiben „vier Ellen vom Anteil des Vollmachtgebers (morsheh) in Ereẓ Israel“, damit der Apotropos daran keine Ḥazaqah erlange und nichts erwerbe, es sei denn, sein Ort ist bekannt und nicht [?] nach Flurgrenzen abgegrenzt …\n\nUnd manche sagen: [es gilt nur,] wenn er Boden hat … da wir im Kapitel Ḥezqat ha-Battim lernen: etwa wenn er sagt, ich weiß von ihm, dass er keinen Boden hatte … Und wir lernen auch im Kapitel ha-Zahav (bBava Meẓiʿa IV, 44a ff.): Und er erwerbe es doch im Gefolge von Boden — [Antwort:] weil er keinen hat. Daraus hörst du: nur wenn er welchen hat.\n\nUnd die Früheren (qamma’ei) beziehen diese [Stellen] auf einen Proselyten, oder auch auf einen Israeliten, dessen Vater noch lebt und der darum nichts in Ereẓ Israel hat — und dem ist nicht so.",
+    "page": "ד",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "arba' ammot",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "68": {
     "id": 68,
     "order": "39.00000000000000000000",
-    "title": "Sefer Rabia Tshuvat Rabeinu Joel",
+    "title": "Presumed to Have Land until Witnesses Say Otherwise",
     "text": "משום הכי כתבינן ונתתי לו ארבע אמות בחצרי אע\"ג שאין לו קרקע דאמרינן\\\nדילמא אית ליה קרקע במקום אחר... ולהכי חתמי סהדי. וכל הנה ,קרקע אין לו'\"\\\nדאמרינן בתלמודא, כגון דקאמרי עדים ידעינן ביה דלא הוה ליה ארעא מעולם. ודקאמר\\\nרבא באיסור גיורא: קרקע לית ליה הכי קאמר, איכא סהדי דקרקע לית ליה... אבל\\\nכל כמה דלא אמרי, מחזקינן ליה דאית ליה. ועוד כיון דתקינו רבנן למיכתב ונתתי לו\\\nד' אמות וכו' כי מקנה הרי הוא כאומר ונתתי לו וכו' והרי מודה דאית ליה קרקע. והרב\\\nר' יצחק מריגנשבורג הקשה על פירושי דתנן בפרק מי שמת, לא שייר קרקע כל שהוא\\\nאין מתנתו מתנה... ומתרץ למתניתין באומר כל נכסי אלו הן, כלומר, אין לי נכסים\\\nאלא אלו. והקשה הרב, והרי יש לו בארץ ישראל לפי פירושי?... ואני אומר, איבעית\\\nאימא בישראל בבר ארץ ישראל מיירי וזבין כל נכסיו לו, ודרב נחמן מיתוקמא אפילו בבר\\\nחוץ לארץ. והא דקאמר חיישינן שמא יש לו נכסים במדינת הים ולא אמר יש לו חלק\\\nבארץ ישראל וא\"כא שיור, בהכי עסקינן, בידע דמכר מה שהיה לו בארץ ישראל. ואיבעית\\\nאימא, בגר שאין לו חלק בארץ ישראל מיתוקמא מתניתין... והא דתניא מעשה במירוני\\\nשהיה בירושלים וכו' מיתוקמא בין בישראל בין בגר, בישראל כגון שמכרו או הוא או\\\nאבותיו מה שהיה להם חלק בקרקע ארץ ישראל, ובזמן שאין היובל נוהג. ואיבעית אימא\\\nדמירוני גר, ולפיכך לא הוה ליה קרקע, וגם לא קנה קרקע.",
     "loi_id": "loi_passage__68",
     "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
+    "parallel_text": [
+      {
+        "id": 76,
+        "value": "bBava Batra 146b ff.",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 254,
+        "value": "bBava Batra 149a",
+        "order": "101.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 256,
+        "value": "Teshuvat Rabbenu Yo’el (Joel b. Isaac ha-Levi of Bonn)",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "german_translation": "Darum schreiben wir „und ich habe ihm vier Ellen in meinem Hof gegeben“, obwohl er keinen Boden hat, denn wir sagen: Vielleicht hat er Boden an einem anderen Ort … und darum unterschreiben die Zeugen.\n\nUnd alle jene [Stellen] „er hat keinen Boden“, die wir im Talmud sagen — etwa wenn Zeugen sagen: Wir wissen von ihm, dass er niemals Boden hatte. Und dass Rava bei Isur dem Proselyten (bBava Batra 149a) sagt „Boden hat er nicht“, so meint er dies: Es gibt Zeugen, dass er keinen Boden hat … Aber solange sie es nicht sagen, halten wir ihn [durch Ḥazaqah] dafür, dass er welchen hat.\n\nUnd ferner: Da die Rabbanan es eingerichtet haben, „und ich habe ihm vier Ellen“ usw. zu schreiben, so ist einer, der überträgt, wie einer, der sagt „und ich habe ihm“ usw. — und damit gesteht er zu, dass er Boden hat.\n\nUnd der Rav R. Yiẓḥaq aus Regensburg wandte gegen meine Auslegung ein, dass wir im Kapitel Mi she-Met (bBava Batra IX, 146b ff.) gelernt haben: Hat er nicht Boden zurückbehalten, wie gering auch immer, so ist seine Schenkung keine Schenkung … und er löst die Mischna auf als einen, der sagt: Alle meine Güter sind diese — das heißt: Ich habe keine Güter außer diesen. Und der Rav wandte ein: Nach meiner Auslegung hat er doch welche in Ereẓ Israel?\n\nUnd ich sage: Wenn du willst, sage ich — es handelt von einem Israeliten aus Ereẓ Israel, und er verkaufte ihm alle seine Güter; und das des Rav Naḥman lässt sich auch bei einem von außerhalb des Landes ansetzen. Und dass gesagt wird, wir besorgen, er habe vielleicht Güter in der Medinat ha-Yam, und nicht gesagt wird, er habe einen Anteil in Ereẓ Israel und das sei folglich ein Vorbehalt — damit befassen wir uns: wenn bekannt ist, dass er verkauft hat, was er in Ereẓ Israel hatte.\n\nUnd wenn du willst, sage ich: Bei einem Proselyten, der keinen Anteil in Ereẓ Israel hat, lässt sich die Mischna ansetzen … Und das, was gelehrt ist, „es geschah mit einem Mann aus Meron, der in Jerusalem war“ usw., lässt sich sowohl bei einem Israeliten als auch bei einem Proselyten ansetzen: bei einem Israeliten etwa, wenn er oder seine Väter verkauft haben, was sie an Anteil am Boden von Ereẓ Israel hatten, und zu einer Zeit, da das Jobeljahr nicht in Geltung ist. Und wenn du willst, sage ich: Jener aus Meron war ein Proselyt, und darum hatte er keinen Boden und erwarb auch keinen Boden.",
+    "page": "171",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "arba' ammot",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "Medinat ha-Yam",
+        "order": "35.00000000000000000000"
+      }
+    ]
   },
   "69": {
     "id": 69,
     "order": "40.00000000000000000000",
-    "title": "Tschuvot Maharam Rothenburg",
+    "title": "Four Cubits Already Given: The Problem of Multiple Deeds",
     "text": "והאי דכתיבנא ונתתי לו ד' אמות קרקע בחצרי ואע\"ג דלית ליה. יש לומר,\nהודאת בעל דין כמאה עדים דמי. .. ואית דמפרשי, יש לו ד' אמות בקבר או בארץ ישראל,\nוקשה התינח לשטר אחד או להרשאה אחת... אלא עשרה שטרות או יותר -- הלא כבר\nתקנה לראשון .",
     "loi_id": "loi_passage__69",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 257,
+        "value": "Tshuvot Maharam Rothenburg",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und dies, dass wir schreiben „und ich habe ihm vier Ellen Bodens in meinem Hof gegeben“, obwohl er keinen hat — dazu ist zu sagen: Das Zugeständnis einer Prozesspartei gilt wie hundert Zeugen (hoda’at baʿal din ke-me’ah ʿedim damya).\n\nUnd es gibt solche, die erklären: Er hat vier Ellen im Grab oder in Ereẓ Israel. Und das ist schwierig: Das geht an bei einer Urkunde oder bei einer Vollmacht … aber bei zehn Urkunden oder mehr — hat er sie denn nicht schon dem Ersten übereignet [?]",
+    "page": "108",
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "arba' ammot",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "70": {
     "id": 70,
     "order": "41.00000000000000000000",
-    "title": "Lashon haRamBam",
+    "title": "Exceedingly Weak and Unsound: Against the Geonic Taqqanah",
     "text": "אבל הגאונים תיקנו... שאם הרשהו ליטול מעות שיש לו ביד חבירו או לתבוע\nממנו הלואה ולא היתה למקנה קרקע, מקנהו ארבע אמות מחלקו שבארץ ישראל ומקנה לו\nהמעות על גבן. ודברים אלו דברים קלים הן עד מאוד ורעועים, שזה מי יאמר שיש לו חלק\nבארץ ישראל :, ואפילו הוא ראוי אינו ברשותו, והגאונים עצמן שתיקנו תקנה זו אמרו שאין\nאומרים יקוב הדין את ההר ואינה אלא כדי לאיים על הנתבע.",
     "loi_id": "loi_passage__70",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 255,
+        "value": "bSanhedrin 6b",
+        "order": "102.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 258,
+        "value": "Mishneh Torah, Hilkhot Sheluḥin we-Shutafin 3,7",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Geonim aber haben angeordnet …, dass, wenn einer einen anderen bevollmächtigt, Geld einzuziehen, das er bei seinem Nächsten hat, oder ein Darlehen von ihm einzufordern, und der Übertragende keinen Boden hatte, er ihm vier Ellen aus seinem Anteil in Ereẓ Israel überträgt und ihm das Geld im Gefolge davon überträgt.\n\nUnd diese Dinge sind überaus leichtfertig und brüchig. Denn wer sagt, dass dieser einen Anteil in Ereẓ Israel hat? Und selbst wenn er ihm zusteht (ra’ui), ist er nicht in seiner Verfügung. Und die Geonim selbst, die diese Taqqanah eingeführt haben, sagten, dass man hier nicht sage „das Recht durchbohre den Berg“ (bSanhedrin 6b), sondern dass sie nur dazu diene, den Beklagten zu schrecken.",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "arba' ammot",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "71": {
     "id": 71,
     "order": "42.00000000000000000000",
-    "title": "Chiddushei Rambam Bava Batra 44b:2",
+    "title": "Only Where He Actually Holds Land — and a Grave Is Not Acquired in Life",
     "text": "דלא מצי איניש לאקנויי מטלטלי אגב מקרקעי אלא היכא דאית ליה ארעא, ולא\\\nסמכינן אארבע אמות קרקע בארץ ישראל... אלא אם כן יש לו חלק בה בידוע... ואני\\\nאומר ודאי על ארץ ישראל אין לסמוך. ואע\"פ שאמר בספרי: ואפילו בגרים מכאן שניתנה\\\nקבורה לגרים בארץ ישראל, אין אדם זוכה בקבורה מחיים.",
     "loi_id": "loi_passage__71",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 259,
+        "value": "Chiddushei ha-Ramban zu Bava Batra 44b",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "german_translation": "Denn ein Mensch kann bewegliche Güter nur dann im Gefolge von Boden übertragen, wenn er Boden hat, und wir stützen uns nicht auf die vier Ellen Bodens in Ereẓ Israel … es sei denn, er hat dort einen Anteil, der bekannt ist … Und ich sage: Auf Ereẓ Israel ist gewiss nicht zu stützen. Und obwohl es im Sifre heißt „und sogar bei Proselyten“ — von hier, dass Proselyten Begräbnis in Ereẓ Israel gegeben ist —, so erwirbt doch kein Mensch ein Grab zu Lebzeiten.",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 138,
+        "value": "notional landholding",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "arba' ammot",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "72": {
     "id": 72,

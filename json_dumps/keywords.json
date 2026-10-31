@@ -370,6 +370,36 @@
         "id": 52,
         "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 53,
+        "value": "Customs of Persecution: Why the Land’s Practice Is Not Tradition",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "Custom Annuls Halakhah: The Palestinian Reply to Yehudai Gaon",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 55,
+        "value": "A Chain of Transmission Running out of the Land",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "Hora’ah Interrupted: Why the Palestinian Talmud Does Not Bind",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "We Rely on Our Own Talmud: Hai Gaon to Naḥshon b. Berakhyah",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -384,6 +414,26 @@
         "id": 52,
         "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "Custom Annuls Halakhah: The Palestinian Reply to Yehudai Gaon",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 55,
+        "value": "A Chain of Transmission Running out of the Land",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "We Rely on Our Own Talmud: Hai Gaon to Naḥshon b. Berakhyah",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -398,6 +448,31 @@
         "id": 52,
         "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "Custom Annuls Halakhah: The Palestinian Reply to Yehudai Gaon",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 55,
+        "value": "A Chain of Transmission Running out of the Land",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "Hora’ah Interrupted: Why the Palestinian Talmud Does Not Bind",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "We Rely on Our Own Talmud: Hai Gaon to Naḥshon b. Berakhyah",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -412,6 +487,163 @@
         "id": 52,
         "value": "Two Academies Never Conquered: Babylonia as the Seat of Oral Torah",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "We Rely on Our Own Talmud: Hai Gaon to Naḥshon b. Berakhyah",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "138": {
+    "id": 138,
+    "order": "15.00000000000000000000",
+    "label": "notional landholding",
+    "notes": "",
+    "loi_id": "loi_keyword__138",
+    "passages": [
+      {
+        "id": 59,
+        "value": "Four Cubits in the Land of Israel: A Clause for Those Who Own No Land",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "Land Cannot Be Stolen: Possession under Muslim Rule",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Geonic Responsum Cited: The Land Remains in Our Possession",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "Who Today Knows Israel’s Genealogies?",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "Relied upon since the Early Days: The Four Cubits Tradition from Hilai Gaon",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "From the Portion of His Inheritance in the Land",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "Land Neither Known nor Possessable",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "And to Me, the Writer, It Seems: A Rishon’s Own Argument against the Clause",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Only Where He Has Land: The Talmudic Objections Assembled",
+        "order": "38.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "Presumed to Have Land until Witnesses Say Otherwise",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "Four Cubits Already Given: The Problem of Multiple Deeds",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "Exceedingly Weak and Unsound: Against the Geonic Taqqanah",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "Only Where He Actually Holds Land — and a Grave Is Not Acquired in Life",
+        "order": "42.00000000000000000000"
+      }
+    ]
+  },
+  "139": {
+    "id": 139,
+    "order": "16.00000000000000000000",
+    "label": "qinyan agav",
+    "notes": "",
+    "loi_id": "loi_keyword__139",
+    "passages": [
+      {
+        "id": 59,
+        "value": "Four Cubits in the Land of Israel: A Clause for Those Who Own No Land",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "Land Cannot Be Stolen: Possession under Muslim Rule",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "Relied upon since the Early Days: The Four Cubits Tradition from Hilai Gaon",
+        "order": "34.00000000000000000000"
+      }
+    ]
+  },
+  "171": {
+    "id": 171,
+    "order": "17.00000000000000000000",
+    "label": "arba' ammot",
+    "notes": "",
+    "loi_id": "loi_keyword__171",
+    "passages": [
+      {
+        "id": 63,
+        "value": "Relied upon since the Early Days: The Four Cubits Tradition from Hilai Gaon",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "From the Portion of His Inheritance in the Land",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "And to Me, the Writer, It Seems: A Rishon’s Own Argument against the Clause",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Only Where He Has Land: The Talmudic Objections Assembled",
+        "order": "38.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "Presumed to Have Land until Witnesses Say Otherwise",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "Four Cubits Already Given: The Problem of Multiple Deeds",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "Exceedingly Weak and Unsound: Against the Geonic Taqqanah",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "Only Where He Actually Holds Land — and a Grave Is Not Acquired in Life",
+        "order": "42.00000000000000000000"
       }
     ]
   }
