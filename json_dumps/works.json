@@ -706,7 +706,13 @@
     "loi_id": "loi_work__81",
     "corpus": [],
     "language": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 2,
@@ -744,7 +750,13 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "genre": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Polemical circular letter",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 2,
@@ -852,7 +864,13 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 145,
@@ -879,7 +897,13 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 39,
@@ -912,7 +936,13 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 146,
@@ -939,7 +969,13 @@
     "loi_id": "loi_work__152",
     "corpus": [],
     "language": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 147,
@@ -960,7 +996,13 @@
     "loi_id": "loi_work__153",
     "corpus": [],
     "language": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 148,
@@ -987,7 +1029,13 @@
     "loi_id": "loi_work__186",
     "corpus": [],
     "language": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 181,
@@ -1014,7 +1062,13 @@
     "loi_id": "loi_work__187",
     "corpus": [],
     "language": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 181,
@@ -1077,7 +1131,13 @@
     "loi_id": "loi_work__222",
     "corpus": [],
     "language": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 146,
@@ -1119,7 +1179,13 @@
     "loi_id": "loi_work__256",
     "corpus": [],
     "language": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 217,
@@ -1140,7 +1206,13 @@
     "loi_id": "loi_work__257",
     "corpus": [],
     "language": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "edition": [
       {
         "id": 218,
@@ -1178,5 +1250,542 @@
     "language": [],
     "genre": [],
     "edition": []
+  },
+  "260": {
+    "id": 260,
+    "order": "36.00000000000000000000",
+    "title": "Geonic Responsum on the Slave Who Flees to the Land of Israel",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__260",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 219,
+        "value": "Sha’arei Ẓedeq, Teshuvot ha-Geonim",
+        "order": "27.00000000000000000000"
+      }
+    ]
+  },
+  "261": {
+    "id": 261,
+    "order": "37.00000000000000000000",
+    "title": "Geonic Responsum on a Testamentary Instruction to Bring Bones to the Land of Israel",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__261",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 76,
+        "value": "Otzar HaGeonim Gittin",
+        "order": "12.00000000000000000000"
+      }
+    ]
+  },
+  "263": {
+    "id": 263,
+    "order": "38.00000000000000000000",
+    "title": "Iggeret Rav Sherira Gaon",
+    "reference": "",
+    "author": [
+      {
+        "id": 43,
+        "value": "Sherira ben Ḥananyah Gaon",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "987 CE",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "place": [],
+    "loi_id": "loi_work__263",
+    "corpus": [],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 37,
+        "value": "Letter (iggeret)",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 221,
+        "value": "Iggeret Rav Sherira Gaon",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "264": {
+    "id": 264,
+    "order": "39.00000000000000000000",
+    "title": "Toratan shel Rishonim II",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__264",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 222,
+        "value": "Toratan shel Rishonim",
+        "order": "30.00000000000000000000"
+      }
+    ]
+  },
+  "265": {
+    "id": 265,
+    "order": "40.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on the Ten Gradations of Holiness",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__265",
+    "corpus": [],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [],
+    "edition": [
+      {
+        "id": 223,
+        "value": "Melekhet Shelomo on mKelim 1:6 (Mishnayot Gedolot)",
+        "order": "31.00000000000000000000"
+      }
+    ]
+  },
+  "266": {
+    "id": 266,
+    "order": "41.00000000000000000000",
+    "title": "Seder Rav Amram Gaon",
+    "reference": "",
+    "author": [
+      {
+        "id": 37,
+        "value": "Amram Gaon",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [
+      {
+        "id": 4,
+        "value": "ca. 858–875 CE",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "place": [],
+    "loi_id": "loi_work__266",
+    "corpus": [],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 38,
+        "value": "Prayer order (seder)",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 224,
+        "value": "Seder Rav Amram II",
+        "order": "32.00000000000000000000"
+      }
+    ]
+  },
+  "267": {
+    "id": 267,
+    "order": "42.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on Praying behind the Synagogue",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__267",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 225,
+        "value": "She’elot u-Teshuvot ha-Ra’avad (Abraham b. Isaac of Narbonne)",
+        "order": "33.00000000000000000000"
+      }
+    ]
+  },
+  "268": {
+    "id": 268,
+    "order": "43.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on Compelling Aliyah and the Ketubbah",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__268",
+    "corpus": [],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 226,
+        "value": "Otzar ha-Geonim Ketubbot",
+        "order": "34.00000000000000000000"
+      }
+    ]
+  },
+  "301": {
+    "id": 301,
+    "order": "44.00000000000000000000",
+    "title": "Responsum of Rav Paltoy Gaon on the Remission of Debts",
+    "reference": "",
+    "author": [
+      {
+        "id": 320,
+        "value": "Paltoy bar Abbaye Gaon",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 213,
+        "value": "Pumbedita",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__301",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 259,
+        "value": "Horev 12 (5717/1957)",
+        "order": "35.00000000000000000000"
+      }
+    ]
+  },
+  "302": {
+    "id": 302,
+    "order": "45.00000000000000000000",
+    "title": "Responsum of Rav Natronai Gaon on the Remission of Debts",
+    "reference": "",
+    "author": [
+      {
+        "id": 41,
+        "value": "Natronai bar Hilai",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 214,
+        "value": "Sura",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__302",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 260,
+        "value": "Temim Deʿim",
+        "order": "36.00000000000000000000"
+      }
+    ]
+  },
+  "303": {
+    "id": 303,
+    "order": "46.00000000000000000000",
+    "title": "Geonic/rishonic note on the prosbul in and outside the Land",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__303",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 76,
+        "value": "Otzar HaGeonim Gittin",
+        "order": "12.00000000000000000000"
+      }
+    ]
+  },
+  "304": {
+    "id": 304,
+    "order": "47.00000000000000000000",
+    "title": "Geonic responsum on the remission of debts outside the Land",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__304",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 216,
+        "value": "Ha-Ittur (Warsaw)",
+        "order": "24.00000000000000000000"
+      }
+    ]
+  },
+  "305": {
+    "id": 305,
+    "order": "48.00000000000000000000",
+    "title": "Geonic responsum on tithing vegetables",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__305",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 261,
+        "value": "Kaftor wa-Feraḥ",
+        "order": "37.00000000000000000000"
+      }
+    ]
+  },
+  "306": {
+    "id": 306,
+    "order": "49.00000000000000000000",
+    "title": "Geonic responsum on terumah in the present day",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__306",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "Sefer ha-Yovel le-Veit ha-Midrash le-Rabbanim",
+        "order": "38.00000000000000000000"
+      }
+    ]
+  },
+  "307": {
+    "id": 307,
+    "order": "50.00000000000000000000",
+    "title": "Responsum of Rav Ṣemaḥ bar Paltoy Gaon on terumah and ḥallah outside the Land",
+    "reference": "",
+    "author": [
+      {
+        "id": 211,
+        "value": "Rav Zemakh bar Paltoy Gaon",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 213,
+        "value": "Pumbedita",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__307",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 261,
+        "value": "Kaftor wa-Feraḥ",
+        "order": "37.00000000000000000000"
+      }
+    ]
+  },
+  "308": {
+    "id": 308,
+    "order": "51.00000000000000000000",
+    "title": "Responsum of Rav Paltoy Gaon on peʾah and shikheḥah outside the Land",
+    "reference": "",
+    "author": [
+      {
+        "id": 320,
+        "value": "Paltoy bar Abbaye Gaon",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 213,
+        "value": "Pumbedita",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__308",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 2,
+        "value": "Erets Yisrael be-sifrut ha-teshuvot: 'inyene Erets-Yisra'el - kerech rishon: tekufat he-geonim ve-ha-rishonim",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 259,
+        "value": "Horev 12 (5717/1957)",
+        "order": "35.00000000000000000000"
+      }
+    ]
   }
 }

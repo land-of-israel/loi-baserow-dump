@@ -205,6 +205,106 @@
         "id": 71,
         "value": "Only Where He Actually Holds Land — and a Grave Is Not Acquired in Life",
         "order": "42.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "For the Honour of the Land: The Runaway Slave Goes Free Only There",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Carrying His Bones to the Land: Executors and a Dying Man’s Instruction",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "The City That Cannot Become Unclean",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 77,
+        "value": "Held from the Moment of Death: The Land as Inherited Possession",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Holiness That Excludes: Why Ereẓ Israel Is Counted Differently",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "Seder Rav Amram",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 80,
+        "value": "Tshuvat Rav Hai Gaon",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "Only When the Roads Are Safe: Hai Gaon on Compelling Aliyah",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "A Year’s Rest for the Land, Every Seventh",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Neither in the Land nor outside It: Paltoy Gaon on the Remission of Debts",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Tmim Deim",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "In the Land but Not Outside It: A Dissenting View on the Prosbul",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "That the Law of Shemittah Not Be Forgotten",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Not for Terumah of the Diaspora: The Priest on the Threshing Floor",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "Vegetables Tithed by Rabbinic Word: A Fence around the Torah",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "No Torah Obligation outside the Land: Terumah in the Present Day",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "One in a Hundred, or One in Three: Terumah Inside and Outside the Land",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "The Harvest of Your Land: No Peʾah outside It",
+        "order": "65.00000000000000000000"
       }
     ]
   },
@@ -374,6 +474,46 @@
         "id": 64,
         "value": "From the Portion of His Inheritance in the Land",
         "order": "35.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Carrying His Bones to the Land: Executors and a Dying Man’s Instruction",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "Four Blessings, Four Stages of Possession",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "Seder Rav Amram",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 80,
+        "value": "Tshuvat Rav Hai Gaon",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "Only When the Roads Are Safe: Hai Gaon on Compelling Aliyah",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "A Year’s Rest for the Land, Every Seventh",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "That the Law of Shemittah Not Be Forgotten",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+        "order": "62.00000000000000000000"
       }
     ]
   },
@@ -463,6 +603,26 @@
         "id": 60,
         "value": "Land Cannot Be Stolen: Possession under Muslim Rule",
         "order": "31.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "For the Honour of the Land: The Runaway Slave Goes Free Only There",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Carrying His Bones to the Land: Executors and a Dying Man’s Instruction",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "Four Blessings, Four Stages of Possession",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "The City That Cannot Become Unclean",
+        "order": "47.00000000000000000000"
       }
     ]
   }

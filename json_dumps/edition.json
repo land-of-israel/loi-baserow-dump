@@ -99,6 +99,21 @@
         "id": 82,
         "value": "Letter of Pirqoi ben Baboi",
         "order": "18.00000000000000000000"
+      },
+      {
+        "id": 301,
+        "value": "Responsum of Rav Paltoy Gaon on the Remission of Debts",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 306,
+        "value": "Geonic responsum on terumah in the present day",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "Responsum of Rav Paltoy Gaon on peʾah and shikheḥah outside the Land",
+        "order": "51.00000000000000000000"
       }
     ],
     "publisher": null,
@@ -395,6 +410,16 @@
         "id": 82,
         "value": "Letter of Pirqoi ben Baboi",
         "order": "18.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "Geonic Responsum on a Testamentary Instruction to Bring Bones to the Land of Israel",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Geonic/rishonic note on the prosbul in and outside the Land",
+        "order": "46.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -732,6 +757,11 @@
         "id": 255,
         "value": "Sefer ha-Ittur",
         "order": "31.00000000000000000000"
+      },
+      {
+        "id": 304,
+        "value": "Geonic responsum on the remission of debts outside the Land",
+        "order": "47.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -805,5 +835,308 @@
       }
     ],
     "year": "1894"
+  },
+  "219": {
+    "id": 219,
+    "order": "27.00000000000000000000",
+    "label": "Sha’arei Ẓedeq, Teshuvot ha-Geonim",
+    "editor": [],
+    "loi_id": "loi_parallel__219",
+    "works": [
+      {
+        "id": 260,
+        "value": "Geonic Responsum on the Slave Who Flees to the Land of Israel",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "publisher": "Klal uFrat",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1966"
+  },
+  "220": {
+    "id": 220,
+    "order": "28.00000000000000000000",
+    "label": "Otzar Ha-Geonim Pessachim",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__220",
+    "works": [],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "221": {
+    "id": 221,
+    "order": "29.00000000000000000000",
+    "label": "Iggeret Rav Sherira Gaon",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__221",
+    "works": [
+      {
+        "id": 263,
+        "value": "Iggeret Rav Sherira Gaon",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "publisher": "Itzovski",
+    "place": [
+      {
+        "id": 106,
+        "value": "Haifa",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "year": "1921"
+  },
+  "222": {
+    "id": 222,
+    "order": "30.00000000000000000000",
+    "label": "Toratan shel Rishonim",
+    "editor": [
+      {
+        "id": 286,
+        "value": "Chaim Meir Josef ha-Levi Horovitz",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__222",
+    "works": [
+      {
+        "id": 264,
+        "value": "Toratan shel Rishonim II",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "publisher": "Zvi Hirsch Iztkowski",
+    "place": [
+      {
+        "id": 180,
+        "value": "Frankfurt am Main",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "year": "1881"
+  },
+  "223": {
+    "id": 223,
+    "order": "31.00000000000000000000",
+    "label": "Melekhet Shelomo on mKelim 1:6 (Mishnayot Gedolot)",
+    "editor": [],
+    "loi_id": "loi_parallel__223",
+    "works": [
+      {
+        "id": 265,
+        "value": "Responsum of Rav Hai Gaon on the Ten Gradations of Holiness",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "224": {
+    "id": 224,
+    "order": "32.00000000000000000000",
+    "label": "Seder Rav Amram II",
+    "editor": [
+      {
+        "id": 287,
+        "value": "Aryeh Leib Frumkin",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__224",
+    "works": [
+      {
+        "id": 266,
+        "value": "Seder Rav Amram Gaon",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "publisher": "S. Zuckerson",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1912"
+  },
+  "225": {
+    "id": 225,
+    "order": "33.00000000000000000000",
+    "label": "She’elot u-Teshuvot ha-Ra’avad (Abraham b. Isaac of Narbonne)",
+    "editor": [],
+    "loi_id": "loi_parallel__225",
+    "works": [
+      {
+        "id": 267,
+        "value": "Responsum of Rav Hai Gaon on Praying behind the Synagogue",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "publisher": "Mossad ha-Rav Kook",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1962"
+  },
+  "226": {
+    "id": 226,
+    "order": "34.00000000000000000000",
+    "label": "Otzar ha-Geonim Ketubbot",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__226",
+    "works": [
+      {
+        "id": 268,
+        "value": "Responsum of Rav Hai Gaon on Compelling Aliyah and the Ketubbah",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "259": {
+    "id": 259,
+    "order": "35.00000000000000000000",
+    "label": "Horev 12 (5717/1957)",
+    "editor": [],
+    "loi_id": "loi_parallel__259",
+    "works": [
+      {
+        "id": 301,
+        "value": "Responsum of Rav Paltoy Gaon on the Remission of Debts",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "Responsum of Rav Paltoy Gaon on peʾah and shikheḥah outside the Land",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": "1957"
+  },
+  "260": {
+    "id": 260,
+    "order": "36.00000000000000000000",
+    "label": "Temim Deʿim",
+    "editor": [
+      {
+        "id": 321,
+        "value": "Abraham ben David",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__260",
+    "works": [
+      {
+        "id": 302,
+        "value": "Responsum of Rav Natronai Gaon on the Remission of Debts",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1812"
+  },
+  "261": {
+    "id": 261,
+    "order": "37.00000000000000000000",
+    "label": "Kaftor wa-Feraḥ",
+    "editor": [
+      {
+        "id": 322,
+        "value": "Zvi Hirsch Edelmann",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 323,
+        "value": "Isaac HaKohen ben Moses",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__261",
+    "works": [
+      {
+        "id": 305,
+        "value": "Geonic responsum on tithing vegetables",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 307,
+        "value": "Responsum of Rav Ṣemaḥ bar Paltoy Gaon on terumah and ḥallah outside the Land",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "publisher": "Julius Sittenfeld",
+    "place": [
+      {
+        "id": 108,
+        "value": "Berlin",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "year": "1851"
+  },
+  "262": {
+    "id": 262,
+    "order": "38.00000000000000000000",
+    "label": "Sefer ha-Yovel le-Veit ha-Midrash le-Rabbanim",
+    "editor": [],
+    "loi_id": "loi_parallel__262",
+    "works": [
+      {
+        "id": 306,
+        "value": "Geonic responsum on terumah in the present day",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 176,
+        "value": "Budapest",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "year": "1928"
   }
 }

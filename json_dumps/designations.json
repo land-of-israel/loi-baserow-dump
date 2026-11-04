@@ -277,6 +277,16 @@
         "id": 62,
         "value": "Who Today Knows Israel’s Genealogies?",
         "order": "33.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "Four Blessings, Four Stages of Possession",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "The City That Cannot Become Unclean",
+        "order": "47.00000000000000000000"
       }
     ],
     "form_he": "ירושלים",
@@ -446,6 +456,56 @@
         "id": 71,
         "value": "Only Where He Actually Holds Land — and a Grave Is Not Acquired in Life",
         "order": "42.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "For the Honour of the Land: The Runaway Slave Goes Free Only There",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Carrying His Bones to the Land: Executors and a Dying Man’s Instruction",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 77,
+        "value": "Held from the Moment of Death: The Land as Inherited Possession",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Holiness That Excludes: Why Ereẓ Israel Is Counted Differently",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 80,
+        "value": "Tshuvat Rav Hai Gaon",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "In the Land but Not Outside It: A Dissenting View on the Prosbul",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Not for Terumah of the Diaspora: The Priest on the Threshing Floor",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "No Torah Obligation outside the Land: Terumah in the Present Day",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+        "order": "62.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -511,6 +571,61 @@
         "id": 68,
         "value": "Presumed to Have Land until Witnesses Say Otherwise",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "For the Honour of the Land: The Runaway Slave Goes Free Only There",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "Seder Rav Amram",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Neither in the Land nor outside It: Paltoy Gaon on the Remission of Debts",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Tmim Deim",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "In the Land but Not Outside It: A Dissenting View on the Prosbul",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "That the Law of Shemittah Not Be Forgotten",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Not for Terumah of the Diaspora: The Priest on the Threshing Floor",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "No Torah Obligation outside the Land: Terumah in the Present Day",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "One in a Hundred, or One in Three: Terumah Inside and Outside the Land",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "The Harvest of Your Land: No Peʾah outside It",
+        "order": "65.00000000000000000000"
       }
     ],
     "form_he": "חוצה לארץ",
@@ -599,6 +714,31 @@
         "id": 16,
         "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
         "order": "16.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "Four Blessings, Four Stages of Possession",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Neither in the Land nor outside It: Paltoy Gaon on the Remission of Debts",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Tmim Deim",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "One in a Hundred, or One in Three: Terumah Inside and Outside the Land",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "The Harvest of Your Land: No Peʾah outside It",
+        "order": "65.00000000000000000000"
       }
     ],
     "form_he": "הארץ",
@@ -1096,6 +1236,11 @@
         "id": 19,
         "value": "One Sanctity, Not a Diaspora Doubling: The Two Days of Rosh ha-Shanah",
         "order": "19.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Carrying His Bones to the Land: Executors and a Dying Man’s Instruction",
+        "order": "44.00000000000000000000"
       }
     ],
     "form_he": "מקדש / במקדש",
@@ -1304,12 +1449,167 @@
         "id": 68,
         "value": "Presumed to Have Land until Witnesses Say Otherwise",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
       }
     ],
     "form_he": "מדינת הים",
     "source": [],
     "gloss_en": "the overseas country (abroad)",
     "referent": [],
+    "commentary": ""
+  },
+  "259": {
+    "id": 259,
+    "order": "36.00000000000000000000",
+    "label": "Miẓrayim",
+    "loi_id": "loi_parallel__259",
+    "passages": [
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "form_he": "מצרים",
+    "source": [],
+    "gloss_en": "Egypt",
+    "referent": [
+      {
+        "id": 177,
+        "value": "Egypt",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "260": {
+    "id": 260,
+    "order": "37.00000000000000000000",
+    "label": "ʿAkko",
+    "loi_id": "loi_parallel__260",
+    "passages": [
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "form_he": "עכו",
+    "source": [],
+    "gloss_en": "Akko",
+    "referent": [
+      {
+        "id": 178,
+        "value": "",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "261": {
+    "id": 261,
+    "order": "38.00000000000000000000",
+    "label": "Ashqelon",
+    "loi_id": "loi_parallel__261",
+    "passages": [
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "form_he": "אשקלון",
+    "source": [],
+    "gloss_en": "Ashkelon",
+    "referent": [
+      {
+        "id": 179,
+        "value": "Ashkelon",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "262": {
+    "id": 262,
+    "order": "39.00000000000000000000",
+    "label": "Ha-Muvlaʿot bi-Teḥum Ereẓ Yisra’el",
+    "loi_id": "loi_parallel__262",
+    "passages": [
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "form_he": "המובלעות בתחום ארץ ישראל",
+    "source": [],
+    "gloss_en": "the places enclosed within the territory of the Land",
+    "referent": [],
+    "commentary": ""
+  },
+  "263": {
+    "id": 263,
+    "order": "40.00000000000000000000",
+    "label": "Ereẓ Aḥuzzatkhem",
+    "loi_id": "loi_parallel__263",
+    "passages": [
+      {
+        "id": 76,
+        "value": "The City That Cannot Become Unclean",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "form_he": "ארץ אחוזתכם",
+    "source": [
+      {
+        "id": 259,
+        "value": "Leviticus 14:34",
+        "order": "106.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the land of your possession",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "264": {
+    "id": 264,
+    "order": "41.00000000000000000000",
+    "label": "Morashah",
+    "loi_id": "loi_parallel__264",
+    "passages": [
+      {
+        "id": 77,
+        "value": "Held from the Moment of Death: The Land as Inherited Possession",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "form_he": "מורשה",
+    "source": [
+      {
+        "id": 260,
+        "value": "Exodus 6:8",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "gloss_en": "a possession by inheritance",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "commentary": ""
   }
 }

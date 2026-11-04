@@ -356,6 +356,11 @@
         "id": 16,
         "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
         "order": "16.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
       }
     ]
   },
@@ -644,6 +649,572 @@
         "id": 71,
         "value": "Only Where He Actually Holds Land — and a Grave Is Not Acquired in Life",
         "order": "42.00000000000000000000"
+      }
+    ]
+  },
+  "204": {
+    "id": 204,
+    "order": "18.00000000000000000000",
+    "label": "honour of the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__204",
+    "passages": [
+      {
+        "id": 72,
+        "value": "For the Honour of the Land: The Runaway Slave Goes Free Only There",
+        "order": "43.00000000000000000000"
+      }
+    ]
+  },
+  "205": {
+    "id": 205,
+    "order": "19.00000000000000000000",
+    "label": "territorial jurisdiction",
+    "notes": "",
+    "loi_id": "loi_keyword__205",
+    "passages": [
+      {
+        "id": 72,
+        "value": "For the Honour of the Land: The Runaway Slave Goes Free Only There",
+        "order": "43.00000000000000000000"
+      }
+    ]
+  },
+  "206": {
+    "id": 206,
+    "order": "20.00000000000000000000",
+    "label": "runaway slave",
+    "notes": "",
+    "loi_id": "loi_keyword__206",
+    "passages": [
+      {
+        "id": 72,
+        "value": "For the Honour of the Land: The Runaway Slave Goes Free Only There",
+        "order": "43.00000000000000000000"
+      }
+    ]
+  },
+  "207": {
+    "id": 207,
+    "order": "21.00000000000000000000",
+    "label": "burial in the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__207",
+    "passages": [
+      {
+        "id": 73,
+        "value": "Carrying His Bones to the Land: Executors and a Dying Man’s Instruction",
+        "order": "44.00000000000000000000"
+      }
+    ]
+  },
+  "208": {
+    "id": 208,
+    "order": "22.00000000000000000000",
+    "label": "borders of the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__208",
+    "passages": [
+      {
+        "id": 74,
+        "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
+        "order": "45.00000000000000000000"
+      }
+    ]
+  },
+  "209": {
+    "id": 209,
+    "order": "23.00000000000000000000",
+    "label": "absence of private title",
+    "notes": "",
+    "loi_id": "loi_keyword__209",
+    "passages": [
+      {
+        "id": 76,
+        "value": "The City That Cannot Become Unclean",
+        "order": "47.00000000000000000000"
+      }
+    ]
+  },
+  "210": {
+    "id": 210,
+    "order": "24.00000000000000000000",
+    "label": "ritual purity",
+    "notes": "",
+    "loi_id": "loi_keyword__210",
+    "passages": [
+      {
+        "id": 76,
+        "value": "The City That Cannot Become Unclean",
+        "order": "47.00000000000000000000"
+      }
+    ]
+  },
+  "211": {
+    "id": 211,
+    "order": "25.00000000000000000000",
+    "label": "Jerusalem's exemption",
+    "notes": "",
+    "loi_id": "loi_keyword__211",
+    "passages": [
+      {
+        "id": 76,
+        "value": "The City That Cannot Become Unclean",
+        "order": "47.00000000000000000000"
+      }
+    ]
+  },
+  "212": {
+    "id": 212,
+    "order": "26.00000000000000000000",
+    "label": "birkat ha-mazon",
+    "notes": "",
+    "loi_id": "loi_keyword__212",
+    "passages": [
+      {
+        "id": 75,
+        "value": "Four Blessings, Four Stages of Possession",
+        "order": "46.00000000000000000000"
+      }
+    ]
+  },
+  "213": {
+    "id": 213,
+    "order": "27.00000000000000000000",
+    "label": "blessing of the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__213",
+    "passages": [
+      {
+        "id": 75,
+        "value": "Four Blessings, Four Stages of Possession",
+        "order": "46.00000000000000000000"
+      }
+    ]
+  },
+  "214": {
+    "id": 214,
+    "order": "28.00000000000000000000",
+    "label": "Jerusalem in prayer",
+    "notes": "",
+    "loi_id": "loi_keyword__214",
+    "passages": [
+      {
+        "id": 75,
+        "value": "Four Blessings, Four Stages of Possession",
+        "order": "46.00000000000000000000"
+      }
+    ]
+  },
+  "215": {
+    "id": 215,
+    "order": "29.00000000000000000000",
+    "label": "inheritance",
+    "notes": "",
+    "loi_id": "loi_keyword__215",
+    "passages": [
+      {
+        "id": 77,
+        "value": "Held from the Moment of Death: The Land as Inherited Possession",
+        "order": "48.00000000000000000000"
+      }
+    ]
+  },
+  "216": {
+    "id": 216,
+    "order": "30.00000000000000000000",
+    "label": "the Land as possession",
+    "notes": "",
+    "loi_id": "loi_keyword__216",
+    "passages": [
+      {
+        "id": 77,
+        "value": "Held from the Moment of Death: The Land as Inherited Possession",
+        "order": "48.00000000000000000000"
+      }
+    ]
+  },
+  "217": {
+    "id": 217,
+    "order": "31.00000000000000000000",
+    "label": "miracles outside the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__217",
+    "passages": [
+      {
+        "id": 79,
+        "value": "Seder Rav Amram",
+        "order": "50.00000000000000000000"
+      }
+    ]
+  },
+  "218": {
+    "id": 218,
+    "order": "32.00000000000000000000",
+    "label": "Purim",
+    "notes": "",
+    "loi_id": "loi_keyword__218",
+    "passages": [
+      {
+        "id": 79,
+        "value": "Seder Rav Amram",
+        "order": "50.00000000000000000000"
+      }
+    ]
+  },
+  "219": {
+    "id": 219,
+    "order": "33.00000000000000000000",
+    "label": "the Land as frame",
+    "notes": "",
+    "loi_id": "loi_keyword__219",
+    "passages": [
+      {
+        "id": 78,
+        "value": "Holiness That Excludes: Why Ereẓ Israel Is Counted Differently",
+        "order": "49.00000000000000000000"
+      }
+    ]
+  },
+  "220": {
+    "id": 220,
+    "order": "34.00000000000000000000",
+    "label": "gradations of holiness",
+    "notes": "",
+    "loi_id": "loi_keyword__220",
+    "passages": [
+      {
+        "id": 78,
+        "value": "Holiness That Excludes: Why Ereẓ Israel Is Counted Differently",
+        "order": "49.00000000000000000000"
+      }
+    ]
+  },
+  "221": {
+    "id": 221,
+    "order": "35.00000000000000000000",
+    "label": "diaspora practice",
+    "notes": "",
+    "loi_id": "loi_keyword__221",
+    "passages": [
+      {
+        "id": 80,
+        "value": "Tshuvat Rav Hai Gaon",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+        "order": "62.00000000000000000000"
+      }
+    ]
+  },
+  "222": {
+    "id": 222,
+    "order": "36.00000000000000000000",
+    "label": "prayer orientation",
+    "notes": "",
+    "loi_id": "loi_keyword__222",
+    "passages": [
+      {
+        "id": 80,
+        "value": "Tshuvat Rav Hai Gaon",
+        "order": "51.00000000000000000000"
+      }
+    ]
+  },
+  "223": {
+    "id": 223,
+    "order": "37.00000000000000000000",
+    "label": "synagogue",
+    "notes": "",
+    "loi_id": "loi_keyword__223",
+    "passages": [
+      {
+        "id": 80,
+        "value": "Tshuvat Rav Hai Gaon",
+        "order": "51.00000000000000000000"
+      }
+    ]
+  },
+  "224": {
+    "id": 224,
+    "order": "38.00000000000000000000",
+    "label": "facing the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__224",
+    "passages": [
+      {
+        "id": 80,
+        "value": "Tshuvat Rav Hai Gaon",
+        "order": "51.00000000000000000000"
+      }
+    ]
+  },
+  "225": {
+    "id": 225,
+    "order": "39.00000000000000000000",
+    "label": "aliyah",
+    "notes": "",
+    "loi_id": "loi_keyword__225",
+    "passages": [
+      {
+        "id": 81,
+        "value": "Only When the Roads Are Safe: Hai Gaon on Compelling Aliyah",
+        "order": "52.00000000000000000000"
+      }
+    ]
+  },
+  "226": {
+    "id": 226,
+    "order": "40.00000000000000000000",
+    "label": "ketubbah",
+    "notes": "",
+    "loi_id": "loi_keyword__226",
+    "passages": [
+      {
+        "id": 81,
+        "value": "Only When the Roads Are Safe: Hai Gaon on Compelling Aliyah",
+        "order": "52.00000000000000000000"
+      }
+    ]
+  },
+  "227": {
+    "id": 227,
+    "order": "41.00000000000000000000",
+    "label": "travel conditions",
+    "notes": "",
+    "loi_id": "loi_keyword__227",
+    "passages": [
+      {
+        "id": 81,
+        "value": "Only When the Roads Are Safe: Hai Gaon on Compelling Aliyah",
+        "order": "52.00000000000000000000"
+      }
+    ]
+  },
+  "258": {
+    "id": 258,
+    "order": "42.00000000000000000000",
+    "label": "mitzvot ha-teluyot ba-areẓ",
+    "notes": "",
+    "loi_id": "loi_keyword__258",
+    "passages": [
+      {
+        "id": 83,
+        "value": "A Year’s Rest for the Land, Every Seventh",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Neither in the Land nor outside It: Paltoy Gaon on the Remission of Debts",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Tmim Deim",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "In the Land but Not Outside It: A Dissenting View on the Prosbul",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "That the Law of Shemittah Not Be Forgotten",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Not for Terumah of the Diaspora: The Priest on the Threshing Floor",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "Vegetables Tithed by Rabbinic Word: A Fence around the Torah",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "No Torah Obligation outside the Land: Terumah in the Present Day",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "One in a Hundred, or One in Three: Terumah Inside and Outside the Land",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "The Harvest of Your Land: No Peʾah outside It",
+        "order": "65.00000000000000000000"
+      }
+    ]
+  },
+  "259": {
+    "id": 259,
+    "order": "43.00000000000000000000",
+    "label": "shemittah",
+    "notes": "",
+    "loi_id": "loi_keyword__259",
+    "passages": [
+      {
+        "id": 83,
+        "value": "A Year’s Rest for the Land, Every Seventh",
+        "order": "54.00000000000000000000"
+      }
+    ]
+  },
+  "260": {
+    "id": 260,
+    "order": "44.00000000000000000000",
+    "label": "sabbatical year",
+    "notes": "",
+    "loi_id": "loi_keyword__260",
+    "passages": [
+      {
+        "id": 83,
+        "value": "A Year’s Rest for the Land, Every Seventh",
+        "order": "54.00000000000000000000"
+      }
+    ]
+  },
+  "261": {
+    "id": 261,
+    "order": "45.00000000000000000000",
+    "label": "shemittat kesafim",
+    "notes": "",
+    "loi_id": "loi_keyword__261",
+    "passages": [
+      {
+        "id": 84,
+        "value": "Neither in the Land nor outside It: Paltoy Gaon on the Remission of Debts",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Tmim Deim",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "In the Land but Not Outside It: A Dissenting View on the Prosbul",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "That the Law of Shemittah Not Be Forgotten",
+        "order": "58.00000000000000000000"
+      }
+    ]
+  },
+  "262": {
+    "id": 262,
+    "order": "46.00000000000000000000",
+    "label": "terumah",
+    "notes": "",
+    "loi_id": "loi_keyword__262",
+    "passages": [
+      {
+        "id": 88,
+        "value": "Not for Terumah of the Diaspora: The Priest on the Threshing Floor",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "No Torah Obligation outside the Land: Terumah in the Present Day",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "One in a Hundred, or One in Three: Terumah Inside and Outside the Land",
+        "order": "64.00000000000000000000"
+      }
+    ]
+  },
+  "263": {
+    "id": 263,
+    "order": "47.00000000000000000000",
+    "label": "tithes",
+    "notes": "",
+    "loi_id": "loi_keyword__263",
+    "passages": [
+      {
+        "id": 89,
+        "value": "Vegetables Tithed by Rabbinic Word: A Fence around the Torah",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "No Torah Obligation outside the Land: Terumah in the Present Day",
+        "order": "61.00000000000000000000"
+      }
+    ]
+  },
+  "264": {
+    "id": 264,
+    "order": "48.00000000000000000000",
+    "label": "ḥallah",
+    "notes": "",
+    "loi_id": "loi_keyword__264",
+    "passages": [
+      {
+        "id": 91,
+        "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+        "order": "62.00000000000000000000"
+      }
+    ]
+  },
+  "265": {
+    "id": 265,
+    "order": "49.00000000000000000000",
+    "label": "peʾah",
+    "notes": "",
+    "loi_id": "loi_keyword__265",
+    "passages": [
+      {
+        "id": 94,
+        "value": "The Harvest of Your Land: No Peʾah outside It",
+        "order": "65.00000000000000000000"
+      }
+    ]
+  },
+  "266": {
+    "id": 266,
+    "order": "50.00000000000000000000",
+    "label": "gifts to the poor",
+    "notes": "",
+    "loi_id": "loi_keyword__266",
+    "passages": [
+      {
+        "id": 94,
+        "value": "The Harvest of Your Land: No Peʾah outside It",
+        "order": "65.00000000000000000000"
+      }
+    ]
+  },
+  "267": {
+    "id": 267,
+    "order": "51.00000000000000000000",
+    "label": "shikheḥah",
+    "notes": "",
+    "loi_id": "loi_keyword__267",
+    "passages": [
+      {
+        "id": 94,
+        "value": "The Harvest of Your Land: No Peʾah outside It",
+        "order": "65.00000000000000000000"
       }
     ]
   }

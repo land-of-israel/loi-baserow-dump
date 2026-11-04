@@ -3244,128 +3244,463 @@
   "72": {
     "id": 72,
     "order": "43.00000000000000000000",
-    "title": "a slave who fled to Israel",
+    "title": "For the Honour of the Land: The Runaway Slave Goes Free Only There",
     "text": "וששאלתם הא דאמור רבנן עבד שברח מבית האסורין יצא לחירות לא לכמות זה\nאמרו יצא לחירות. . . אלא שברח מחוצה לארץ ובא לו לארץ ישראל, מפני כבודה של ארץ\nישראל יצא לחירות, אבל שברח לכל מקום שבעולם לא. הלכך עבד זה שברח מחוצה\nלארץ יחזור לרבו וכן הלכה.",
     "loi_id": "loi_passage__72",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 77,
+        "value": "bGittin 45a",
+        "order": "13.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 260,
+        "value": "Geonic Responsum on the Slave Who Flees to the Land of Israel",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt zu dem, was die Rabbanan gesagt haben: Ein Sklave, der aus dem Gefängnis geflohen ist, geht frei aus — nicht von einem solchen haben sie gesagt, er gehe frei aus … sondern von einem, der aus dem Ausland geflohen und nach Ereẓ Israel gekommen ist: Um der Ehre von Ereẓ Israel willen geht er frei aus. Wer aber an irgendeinen Ort der Welt flieht, nicht. Darum kehre dieser Sklave, der [im] Ausland geflohen ist, zu seinem Herrn zurück, und so ist die Halacha.",
+    "page": "III, Gate VI, no. 13, p. 56",
+    "keywords": [
+      {
+        "id": 204,
+        "value": "honour of the Land",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 205,
+        "value": "territorial jurisdiction",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 206,
+        "value": "runaway slave",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "73": {
     "id": 73,
     "order": "44.00000000000000000000",
-    "title": "Burial in Israel",
+    "title": "Carrying His Bones to the Land: Executors and a Dying Man’s Instruction",
     "text": "ששאלת, יעקב מינה בשעת מיתתו לשני בניו הגדולים אפוטרופין על כל ממון\nשהיה לו בעולם וציוה לשני בניו כדי שיוליכו עצמותיו לארץ ישראל, ויחזירו פקדונות\nשהן מופקדין אצלו לבני אדם…\nכך הוא דין תורה, שיקיימו בניו דבריו בכל מה שציוה, שכך אמרו חכמים מצוה\nלקיים דברי המת, שיוליכו עצמותיו לבית המקדש.",
     "loi_id": "loi_passage__73",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 256,
+        "value": "bTaanit 21a",
+        "order": "103.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 261,
+        "value": "Geonic Responsum on a Testamentary Instruction to Bring Bones to the Land of Israel",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "german_translation": "Was du gefragt hast: Jakob bestellte zur Zeit seines Todes seine beiden ältesten Söhne zu Verwaltern (apotropin) über all sein Vermögen, das er in der Welt hatte, und er befahl seinen beiden Söhnen, dass sie seine Gebeine nach Ereẓ Israel bringen und die Depositen, die bei ihm hinterlegt sind, den Leuten zurückgeben …\n\nSo ist das Recht der Tora, dass seine Söhne seine Worte erfüllen in allem, was er befohlen hat; denn so sagten die Weisen: Es ist Gebot, die Worte des Verstorbenen zu erfüllen (bTaanit 21a) — dass sie seine Gebeine zum Heiligtum bringen.",
+    "page": "25",
+    "keywords": [
+      {
+        "id": 207,
+        "value": "burial in the Land",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Miqdash",
+        "order": "27.00000000000000000000"
+      }
+    ]
   },
   "74": {
     "id": 74,
     "order": "45.00000000000000000000",
-    "title": "Rav Sherira Gaon",
+    "title": "Everything That Is Not the Land Is Called Medinat ha-Yam",
     "text": "וששאלת הא דתנן המביא גט ממדינת הים, מאי ניהו מדינת הים -- דאשכחן\nבפירוש דכל המדינות לגבי ארץ ישראל מדינת הים קארי לה...\nודאי איתיא, מי לאו קא יהיב מצרים לתחומי ארץ ישראל ואפילו עכו ואשקלון\nוהסמוכות לארץ ישראל והמובלעות בתחום ארץ ישראל, כל דליתיה מן ארץ ישראל --\nמדינת הים קארי ליה...",
     "loi_id": "loi_passage__74",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 257,
+        "value": "mGittin 1:1",
+        "order": "104.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 263,
+        "value": "Iggeret Rav Sherira Gaon",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was du gefragt hast zu dem, was wir gelernt haben (mGiṭṭin 1,1): „Wer einen Scheidebrief aus der Medinat ha-Yam bringt“ — was ist die Medinat ha-Yam? Denn wir finden ausdrücklich, dass alle Länder im Verhältnis zu Ereẓ Israel Medinat ha-Yam genannt werden …\n\nGewiss ist es so: Gibt man denn nicht Ägypten zu den Grenzen von Ereẓ Israel? Und sogar Akko und Aschkelon und die, die Ereẓ Israel benachbart sind, und die, die im Gebiet von Ereẓ Israel eingeschlossen sind (ha-muvlaʿot bi-teḥum Ereẓ Yisra’el) — alles, was nicht von Ereẓ Israel ist, wird Medinat ha-Yam genannt (vgl. bGiṭṭin 2a ff.).",
+    "page": "Appendix 17; p. 13",
+    "keywords": [
+      {
+        "id": 104,
+        "value": "Territory of the Land",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 208,
+        "value": "borders of the Land",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "Medinat ha-Yam",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 259,
+        "value": "Miẓrayim",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 260,
+        "value": "ʿAkko",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "Ashqelon",
+        "order": "38.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "Ha-Muvlaʿot bi-Teḥum Ereẓ Yisra’el",
+        "order": "39.00000000000000000000"
+      }
+    ]
   },
   "75": {
     "id": 75,
     "order": "46.00000000000000000000",
-    "title": "Sheiltot 51:3",
+    "title": "Four Blessings, Four Stages of Possession",
     "text": "סדר ברכת המזון כך הוא. ראשונה, ברכת הזן. שנייה, ברכת הארץ. שלישית,\nברכת בונה ירושלים. רביעית, ברכת הטוב והמטיב. אמר רב נחמן אמר שמואל, משה\nתיקן להם לישראל ברכת הזן, כשירד המן לישראל. יהושע תיקן להם ברכת הארץ, כשנכנסו\nלארץ. דוד ושלמה בנו תיקנו בונה ירושלים -- דוד תיקן ,,על ישראל עמך ועל ירושלים\nעירך\" ; שלמה תיקן ,ועל הבית הגדול והקדוש\". הטוב והמטיב ביבנה תיקנוה כשניתנו\n[חרוגי ביתר] לקבורה",
     "loi_id": "loi_passage__75",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 258,
+        "value": "bBerakhot 48b",
+        "order": "105.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Ordnung des Birkat ha-Mazon ist so: Erstens die Benediktion „der Ernährende“ (ha-Zan), zweitens die Benediktion des Landes (birkat ha-areẓ), drittens die Benediktion „der Jerusalem erbaut“, viertens die Benediktion „der Gute und Gutes Tuende“.\n\nRav Naḥman sagte im Namen Schmuels (bBerakhot 48b): Mose setzte Israel die Benediktion „der Ernährende“ ein, als das Manna für Israel herabkam. Josua setzte ihnen die Benediktion des Landes ein, als sie in das Land einzogen. David und Salomo, sein Sohn, setzten „der Jerusalem erbaut“ ein — David setzte ein „über Israel, dein Volk, und über Jerusalem, deine Stadt“, Salomo setzte ein „und über das große und heilige Haus“. „Der Gute und Gutes Tuende“ — in Jawne setzten sie ihn ein, als die [Erschlagenen von Betar] zur Bestattung gegeben wurden (vgl. bTaʿanit 31a).",
+    "page": "Sheilta 51:3",
+    "keywords": [
+      {
+        "id": 212,
+        "value": "birkat ha-mazon",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "blessing of the Land",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Jerusalem in prayer",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "76": {
     "id": 76,
     "order": "47.00000000000000000000",
-    "title": "Sheiltot 88:6",
+    "title": "The City That Cannot Become Unclean",
     "text": "וירושלים אינה מיטמאה בנגעים דתניא: בית ארץ אחוזתכם -- אחוזתכם\\\nמיטמאה בנגעים, ואין ירושלים מיטמאה בנגעים.",
     "loi_id": "loi_passage__76",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 259,
+        "value": "Leviticus 14:34",
+        "order": "106.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und Jerusalem wird nicht durch Plagen unrein, denn es ist gelehrt: „ein Haus im Lande eures Erbbesitzes“ (Lev 14,34) — euer Erbbesitz wird durch Plagen unrein, und Jerusalem wird nicht durch Plagen unrein.",
+    "page": "Sheilta 88:6",
+    "keywords": [
+      {
+        "id": 209,
+        "value": "absence of private title",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 210,
+        "value": "ritual purity",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "Jerusalem's exemption",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 263,
+        "value": "Ereẓ Aḥuzzatkhem",
+        "order": "40.00000000000000000000"
+      }
+    ]
   },
   "77": {
     "id": 77,
     "order": "48.00000000000000000000",
-    "title": "Toratan shel Rishonim",
+    "title": "Held from the Moment of Death: The Land as Inherited Possession",
     "text": "כל קרקע משעה שמת המוריש הרי זה מוחזק ליורש אע\"פ שלא בא לידו\nדתנן: בנות צלפחד נטלו ג' חלקים... ומסקינן בה: ארץ ישראל מוחזקת היא\nשנאמר : ונתתי אותה לכם מורשה אני ד' -- ירושה היא לכם מאבותיכם.",
     "loi_id": "loi_passage__77",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 260,
+        "value": "Exodus 6:8",
+        "order": "107.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "mBava Batra 8:3",
+        "order": "108.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 264,
+        "value": "Toratan shel Rishonim II",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "german_translation": "Jeder Boden gilt von der Stunde an, da der Erblasser gestorben ist, als muḥzaq für den Erben, auch wenn er noch nicht in seine Hand gekommen ist. Denn wir haben gelernt (mBava Batra 8,3): Die Töchter Zelophehads nahmen drei Anteile … und wir schließen daraus: Ereẓ Israel ist muḥzeqet, denn es heißt: „Und ich werde es euch geben als morashah, ich bin der Herr“ (Ex 6,8) — ein Erbe ist es für euch von euren Vätern her.",
+    "page": "33",
+    "keywords": [
+      {
+        "id": 215,
+        "value": "inheritance",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 216,
+        "value": "the Land as possession",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 264,
+        "value": "Morashah",
+        "order": "41.00000000000000000000"
+      }
+    ]
   },
   "78": {
     "id": 78,
     "order": "49.00000000000000000000",
-    "title": "Tshuvat Rav Hai Gaon",
+    "title": "Holiness That Excludes: Why Ereẓ Israel Is Counted Differently",
     "text": "שאלו מרב האיי גאון עשר קדושות ששנינו בראש כלים כשתחשוב אותן יבואו\nאחר עשר. והשיבם כך: ארץ ישראל אינה חשובה מן הקדושות, לפי שבשאר הקדושות\nיש בהם כיבוד למקום שמונעים ממנו מקצת טומאה או שמונעין מקצת בני אדם להכנס\nאליו ואין בסתם ארץ ישראל קדושה זו. והבאת ביכורים ועומר ושתי הלחם ולחם הפנים\nאינן בקדושות הללו, ועשר קדושות בארץ ישראל הן וסדר אחד הן כל אחת כתורתה.",
     "loi_id": "loi_passage__78",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 262,
+        "value": "mKelim 1:6",
+        "order": "109.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 265,
+        "value": "Responsum of Rav Hai Gaon on the Ten Gradations of Holiness",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "german_translation": "Man fragte Rav Hai Gaon wegen der zehn Heiligkeiten, die wir am Anfang von Kelim gelernt haben (mKelim 1,6): Wenn man sie zählt, kommen elf [?] heraus. Und er antwortete ihnen so: Ereẓ Israel ist nicht unter die Heiligkeiten gerechnet, denn bei den übrigen Heiligkeiten liegt in ihnen eine Ehrerbietung gegenüber dem Ort, indem man einen Teil der Unreinheit von ihm fernhält oder einem Teil der Menschen den Zutritt zu ihm verwehrt; und im Lande Israel schlechthin ist diese Heiligkeit nicht. Und das Bringen der Erstlingsfrüchte und des Omer und der zwei Brote und der Schaubrote gehört nicht zu diesen Heiligkeiten. Und die zehn Heiligkeiten sind in Ereẓ Israel, und sie sind eine einzige Ordnung, eine jede nach ihrer eigenen Vorschrift.",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 219,
+        "value": "the Land as frame",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "gradations of holiness",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -3377,13 +3712,47 @@
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 266,
+        "value": "Seder Rav Amram Gaon",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und man sagt an Purim kein Hallel. Was ist der Grund? Weil man kein Hallel sagt über ein Wunder, das außerhalb des Landes [geschah]. Darum fällt man an Purim auf sein Angesicht.",
+    "page": "184",
+    "keywords": [
+      {
+        "id": 217,
+        "value": "miracles outside the Land",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "Purim",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -3395,85 +3764,238 @@
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 267,
+        "value": "Responsum of Rav Hai Gaon on Praying behind the Synagogue",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und [zu] dem, der hinter der Synagoge betet: Es antwortete unser Lehrer Hai seligen Andenkens, dass, wenn er hinter der Synagoge steht und sein Gesicht der Synagoge und zugleich Ereẓ Israel zuwenden kann, es besser ist. Wenn er aber an einem Ort steht, wo er sein Gesicht der Synagoge nicht zuwenden kann, es sei denn, er wendet sein Gesicht [von] Ereẓ Israel ab — darin liegt nichts von „einem, der hinter der Synagoge betet“, da er weder in sie hineingehen noch sein Gesicht ihr zuwenden kann, es sei denn, er wendet sein Gesicht [von] Ereẓ Israel ab. So antwortete der Gaon, und gegen seine Worte ist nichts einzuwenden.",
+    "page": "no. 12",
+    "keywords": [
+      {
+        "id": 221,
+        "value": "diaspora practice",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 222,
+        "value": "prayer orientation",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 223,
+        "value": "synagogue",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 224,
+        "value": "facing the Land",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "81": {
     "id": 81,
     "order": "52.00000000000000000000",
-    "title": "Otzar Gaon",
-    "text": "אמר רבינו האיי ז\"ל ודברים אלו בזמן שהדרכים נכונים ואין בהן סכנת לסטים",
+    "title": "Only When the Roads Are Safe: Hai Gaon on Compelling Aliyah",
+    "text": "אמר רבינו האיי ז\"ל ודברים אלו בזמן שהדרכים נכונים ואין בהן סכנת לסטים וסכנת מלכות הוא שראוי לעלות, ואשר לא תעלה תצא בלא כתובה. אבל בזמן שיש שם סכנה אין אנו כופין לעלות, ואשר לא תעלה אין אנו מפסידיו אותה כתובתה.",
     "loi_id": "loi_passage__81",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 78,
+        "value": "mKetubot 13:11",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
-  },
-  "82": {
-    "id": 82,
-    "order": "53.00000000000000000000",
-    "title": "Alliyah to Israel",
-    "text": "וסכנת מלכות הוא שראוי לעלות, ואשר לא תעלה תצא בלא כתובה. אבל בזמן שיש שם\nסכנה אין אנו כופין לעלות, ואשר לא תעלה אין אנו מפסידיו אותה כתובתה.",
-    "loi_id": "loi_passage__82",
-    "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 268,
+        "value": "Responsum of Rav Hai Gaon on Compelling Aliyah and the Ketubbah",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es sagte unser Lehrer Hai seligen Andenkens: Diese Worte gelten in einer Zeit, da die Wege in Ordnung sind und keine Gefahr von Räubern und keine Gefahr von der Obrigkeit auf ihnen ist — dann ist es recht hinaufzuziehen, und die, die nicht hinaufzieht, geht ohne Ketubba hinaus. Aber in einer Zeit, da dort Gefahr ist, zwingen wir nicht hinaufzuziehen, und der, die nicht hinaufzieht, lassen wir ihre Ketubba nicht verlieren.",
+    "page": "no. 836",
+    "keywords": [
+      {
+        "id": 225,
+        "value": "aliyah",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 226,
+        "value": "ketubbah",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 227,
+        "value": "travel conditions",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
   },
   "83": {
     "id": 83,
     "order": "54.00000000000000000000",
-    "title": "Sheiltot 112:2",
+    "title": "A Year’s Rest for the Land, Every Seventh",
     "text": "שאילתא דמיחייבין דבית ישראל למינח נייח שמיטתא לארעא שתא חדא לשב\nשני... וכי אסירא חרישה בשביעית גופה אבל לפניה ולאחריה בזמן הזה לא אסיר.",
     "loi_id": "loi_passage__83",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Eine She’ilta darüber, dass die vom Hause Israel verpflichtet sind, dem Boden die Schemitta ruhen zu lassen, ein Jahr in sieben Jahren … Und zwar ist das Pflügen in der Schemitta selbst verboten, aber davor und danach ist es in dieser Zeit nicht verboten.",
+    "page": "Sheilta 112:2",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 259,
+        "value": "shemittah",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 260,
+        "value": "sabbatical year",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
   },
   "84": {
     "id": 84,
     "order": "55.00000000000000000000",
-    "title": "[mitzvot / commandments] (untitled)",
+    "title": "Neither in the Land nor outside It: Paltoy Gaon on the Remission of Debts",
     "text": "וכתב רב פלטוי, השמטת כספים בזמן הזה אינו נוהג לא בארץ ולא בחוצה לארץ.\nשאפילו בפני הבית, כשהייתה שביעית נוהגת, עשה הלל תקנה לעניים שלא תנעל דלת\nבפני הלווין להן, וכן שנינו: פרוזבול אינו משמט... ואע\"ג דמקשה: מי איכא מידי\nדמדאורייתא משמט שביעית ואתקן הלל דלא משמט? ואמר אביי, בשביעית בזמן הזה\nמדרבנן, ממש והשתא קאמר, דילמא מימר לאחר חורבן קאמר אביי ? לא איפשר, דהלל\nושמאי נהגו נשיאותן בפני הבית ק' שנה ומאי ,,בזמן הזה\", בבית שני, דלא הוה נהוג\nיובל ושביעית משום דגלו עשרת השבטים בימי חזקיה דבטלו, דקאמר: כי המוכר\nאל הממכר לא ישוב -- אפשר יובל לבטל ונביא מתנבא שמא יבטל, שמעת מינה\nדמבית שני בטלה להשמטת כספים ותיקנו רבנן דתשמט זכר לשביעית. . . מיהו מתבעי\nלמיעבד סייג למילתא זכר לשביעית כדתנן : המחזיר חוב לחבירו בשביעית צריך שיאמר\nלו משמט אני…",
     "loi_id": "loi_passage__84",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 295,
+        "value": "mSheviit 10:3",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 296,
+        "value": "bGittin 36a",
+        "order": "111.00000000000000000000"
+      },
+      {
+        "id": 297,
+        "value": "Ezekiel 7:13",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 298,
+        "value": "mSheviit 10:8",
+        "order": "113.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 301,
+        "value": "Responsum of Rav Paltoy Gaon on the Remission of Debts",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und Rav Paltoy schrieb: Die Schemittat Kesafim gilt in dieser Zeit nicht, weder im Lande noch außerhalb des Landes. Denn sogar zur Zeit des Tempels, als die Schemitta galt, machte Hillel eine Taqqanah für die Armen, dass die Tür vor den Darlehensnehmern nicht verschlossen werde; und so haben wir gelernt (mSchevi’it 10,3): Ein Prosbul wird nicht erlassen …\n\nUnd obwohl eingewandt wird: Gibt es denn etwas, das von der Tora her in der Schemitta erlassen wird, und Hillel ordnete an, dass es nicht erlassen werde? Und Abaje sagte (bGiṭṭin 36a–b): Die Schemitta ist in dieser Zeit rabbinisch — und spricht er von der Jetztzeit? Meint Abaje etwa die Zeit nach der Zerstörung? Das ist nicht möglich, denn Hillel und Schammai führten ihr Nasi-Amt hundert Jahre zur Zeit des Tempels. Und was ist „in dieser Zeit“? Im Zweiten Tempel, da Jobel und Schemitta nicht in Geltung waren, weil die zehn Stämme in den Tagen Hiskijas verbannt wurden und sie [damit] aufgehoben waren. Denn es heißt: „denn der Verkäufer wird zum Verkauften nicht zurückkehren“ (Ez 7,13) — kann das Jobeljahr aufgehoben werden, und ein Prophet weissagt, dass es aufgehoben werde? Daraus hörst du, dass seit dem Zweiten Tempel die Schemittat Kesafim aufgehoben war, und die Rabbanan ordneten an, dass erlassen werde zum Gedächtnis an die Schemitta …\n\nGleichwohl ist nötig, der Sache einen Zaun zu setzen, zum Gedächtnis an die Schemitta, wie wir gelernt haben (mSchevi’it 10,8): Wer seinem Nächsten in der Schemitta eine Schuld zurückgibt — er muss zu ihm sagen: Ich erlasse sie.",
+    "page": "no. 66 to verify; Schepansky 36",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "shemittat kesafim",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -3483,177 +4005,524 @@
     "loi_id": "loi_passage__85",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 296,
+        "value": "bGittin 36a",
+        "order": "111.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 302,
+        "value": "Responsum of Rav Natronai Gaon on the Remission of Debts",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es schrieb Rav Natronai Gaon, Friede über ihm … Die Schemittat Kesafim im siebten Jahr gilt in dieser Zeit nicht, nicht außerhalb des Landes und nicht im Lande. Denn sogar zur Zeit des Tempels, als die Schemitta galt, machte Hillel der Ältere eine Taqqanah für die Armen, dass die Tür vor den Darlehensnehmern nicht verschlossen werde, und er richtete dazu den Prosbul ein, dass der Gläubiger sein Geld im siebten Jahr nicht erlasse. Und wir sagen (bGiṭṭin 36a): Auch wenn er ihn nicht geschrieben hat, ist es, als hätte er ihn geschrieben.",
+    "page": "69",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "shemittat kesafim",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "86": {
     "id": 86,
     "order": "57.00000000000000000000",
-    "title": "Otzar",
+    "title": "In the Land but Not Outside It: A Dissenting View on the Prosbul",
     "text": "וכתב הרב המחבר, איכא מאן דאמר הני מילי בארץ ישראל ובזמן הזה, אבל בחוץ\nלארץ לא צריך פרוזבול ,,עולבנא דדייני הוא\" -- לאותן שדרין בארץ ישראל קאמר\nדלאחר חורבן הוה.",
     "loi_id": "loi_passage__86",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 299,
+        "value": "bGittin 36b",
+        "order": "114.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 303,
+        "value": "Geonic/rishonic note on the prosbul in and outside the Land",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und es schrieb der Verfasser: Es gibt, der sagt, diese Worte [gelten] in Ereẓ Israel und in dieser Zeit, aber außerhalb des Landes bedarf es keines Prosbul. „Eine Kränkung der Richter ist es“ (bGiṭṭin 36b) — von denen, die in Ereẓ Israel wohnen, sagt er es, und zwar [von der Zeit] nach der Zerstörung.",
+    "page": "no. 190",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "shemittat kesafim",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "87": {
     "id": 87,
     "order": "58.00000000000000000000",
-    "title": "Sefer HaIttur",
+    "title": "That the Law of Shemittah Not Be Forgotten",
     "text": "חזינא בתשובת הגאונים, השמטת כספים בזמן הזה בחוץ לארץ, צריך המלוה לומר\nללוה משמט אני, שלא תשתכח תורת השמיטה",
     "loi_id": "loi_passage__87",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 304,
+        "value": "Geonic responsum on the remission of debts outside the Land",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "german_translation": "Wir haben in einer Responsum der Geonim gesehen: Bei der Schemittat Kesafim in dieser Zeit, außerhalb des Landes, muss der Gläubiger zum Darlehensnehmer sagen: Ich erlasse — damit das Gesetz der Schemitta nicht vergessen werde.",
+    "page": "fol. 80 (פ)",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "shemittat kesafim",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "88": {
     "id": 88,
     "order": "59.00000000000000000000",
-    "title": "Sheiltot 123:5",
+    "title": "Not for Terumah of the Diaspora: The Priest on the Threshing Floor",
     "text": "...אסור לכהן לסיועי בבית הגרנות כי היכי דליתנון ליה תרומה ומעשרות...\nוהני מילי תרומת ארץ ישראל אבל תרומת חוצה לארץ לית לן בה.",
     "loi_id": "loi_passage__88",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es ist einem Priester verboten, auf der Tenne mitzuhelfen, damit man ihm Terumah und Maʿasrot gebe … Und diese Worte [gelten von] der Terumah von Ereẓ Israel, aber bei der Terumah von außerhalb des Landes haben wir damit nichts.",
+    "page": "Sheilta 123:5",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "terumah",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "89": {
     "id": 89,
     "order": "60.00000000000000000000",
-    "title": "Kaftor vaFerach",
+    "title": "Vegetables Tithed by Rabbinic Word: A Fence around the Torah",
     "text": "ומצאתי תשובה לגאון ז\"ל, הלוקח ירק מן השוק חייב לעשר, ולמה חייב לעשר,\nכשהזהיר הקב\"ה לעשר פעמים פירותיהם לא הזהיר אלא על התרומה ודוגמתה שכתוב:\nעשר תעשר את כל תבואת זרעך אבל ירק לא הזהיר לעשר אבל חכמים אמרו לו לעשר\nירק דתנן: כלל אמרו במעשר כל שהוא אוכל ונשמר וגידולו מן הארץ חייב במעשר.\nוירק אין צריך לעשר מדברי תורה אלא מדברי סופרים וזהו ששנינו: מעשרות סייג\nלתורה.",
     "loi_id": "loi_passage__89",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 300,
+        "value": "Deuteronomy 14:22",
+        "order": "115.00000000000000000000"
+      },
+      {
+        "id": 301,
+        "value": "mMaasrot 1:1",
+        "order": "116.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 305,
+        "value": "Geonic responsum on tithing vegetables",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und ich fand eine Responsum eines Gaons seligen Andenkens: Wer Gemüse vom Markt kauft, ist verpflichtet zu verzehnten. Und warum ist er verpflichtet zu verzehnten? Als der Heilige, gepriesen sei er, gebot zu verzehnten […] ihre Früchte, gebot er nur über die Terumah und ihresgleichen, wie geschrieben steht: „Verzehnten sollst du allen Ertrag deiner Saat“ (Dtn 14,22); über Gemüse aber gebot er nicht zu verzehnten. Doch die Weisen sagten ihm, Gemüse zu verzehnten, denn wir haben gelernt (mMaʿasrot 1,1): Eine allgemeine Regel sagten sie beim Zehnten — alles, was Speise ist und bewahrt wird und dessen Wachstum aus der Erde kommt, ist zehntpflichtig. Und Gemüse muss nicht nach Worten der Tora verzehntet werden, sondern nach Worten der Schriftgelehrten, und das ist es, was wir gelernt haben: Die Zehnten sind ein Zaun [um die Tora; vgl. mAvot 3,13, wo es heißt: um den Reichtum].",
+    "page": "5",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 263,
+        "value": "tithes",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
   },
   "90": {
     "id": 90,
     "order": "61.00000000000000000000",
-    "title": "Anniversary Budapest",
+    "title": "No Torah Obligation outside the Land: Terumah in the Present Day",
     "text": "ששאלתם תרומה בזמן הזה נהגא אי לא, כך ראינו שבודאי לא נהגא תרומה בזמן\nהוה וליכא מצות הפרשת תרומה בחוץ לארץ אלא רבנן הראשונים... היו מפרישין…\nתרומה ומעשרות כישראל ששרויין על אדמתן ביישובה של ארץ ישראל.",
     "loi_id": "loi_passage__90",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 306,
+        "value": "Geonic responsum on terumah in the present day",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "german_translation": "Was ihr gefragt habt, ob die Terumah in dieser Zeit in Geltung ist oder nicht: So haben wir gesehen, dass gewiss die Terumah in dieser Zeit nicht in Geltung ist, und es gibt kein Gebot der Absonderung von Terumah außerhalb des Landes; vielmehr sonderten die frühen Rabbanan … Terumah und Maʿasrot ab wie Israel, das auf seinem Boden wohnt, in der Besiedlung von Ereẓ Israel.",
+    "page": "to verify; Schepansky 39",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "terumah",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 263,
+        "value": "tithes",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "91": {
     "id": 91,
     "order": "62.00000000000000000000",
-    "title": "Kaftor vaFerach",
-    "text": "כך ראינו כי בודאי לא נהגא תרומה בזמן הזה וליכא מצות הפרשת תרומה בחוץ",
+    "title": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
+    "text": "כך ראינו כי בודאי לא נהגא תרומה בזמן הזה וליכא מצות הפרשת תרומה בחוץ\n\nלארץ אלא רבנן הראשונים... היו מחמירים על עצמם בכל דבריהם. ושאני דין חלה  \nשמפרישין מן העיסה.. . משום דחלה מילתא דשכיחא משום הכי גזרו בה רבנן בחוץ לארץ  \nונהגו הכל בה משום חלת ארץ ישראל שלא תשתכח... אבל תרומה לא שכיחא כי הכי  \nדנילפו מינה לתרומת ארץ ישראל ומשום הכי לא גזרו בה רבנן.",
     "loi_id": "loi_passage__91",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 307,
+        "value": "Responsum of Rav Ṣemaḥ bar Paltoy Gaon on terumah and ḥallah outside the Land",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "german_translation": "o haben wir gesehen, dass gewiss die Terumah in dieser Zeit nicht in Geltung ist und es kein Gebot der Absonderung von Terumah außerhalb des Landes gibt; vielmehr waren die frühen Rabbanan … streng gegen sich selbst in allen ihren Sachen. Und anders ist das Recht der Ḥallah, die man vom Teig absondert … weil die Ḥallah eine häufig vorkommende Sache ist; darum haben die Rabbanan sie außerhalb des Landes verordnet, und alle haben sie geübt, wegen der Ḥallah von Ereẓ Israel, damit sie nicht vergessen werde … Die Terumah aber ist nicht so häufig, dass man von ihr auf die Terumah von Ereẓ Israel schlösse, und darum haben die Rabbanan sie nicht verordnet.",
+    "page": "ch. 15, p. 179",
+    "keywords": [
+      {
+        "id": 221,
+        "value": "diaspora practice",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "terumah",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 264,
+        "value": "ḥallah",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
-  },
-  "92": {
-    "id": 92,
-    "order": "63.00000000000000000000",
-    "title": "Antwort des Rav Zemach bar mar Paltoi",
-    "text": "לארץ אלא רבנן הראשונים... היו מחמירים על עצמם בכל דבריהם. ושאני דין חלה\nשמפרישין מן העיסה.. . משום דחלה מילתא דשכיחא משום הכי גזרו בה רבנן בחוץ לארץ\nונהגו הכל בה משום חלת ארץ ישראל שלא תשתכח... אבל תרומה לא שכיחא כי הכי\nדנילפו מינה לתרומת ארץ ישראל ומשום הכי לא גזרו בה רבנן.",
-    "loi_id": "loi_passage__92",
-    "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "93": {
     "id": 93,
     "order": "64.00000000000000000000",
-    "title": "Sheiltot 108:1",
+    "title": "One in a Hundred, or One in Three: Terumah Inside and Outside the Land",
     "text": "תרומה דאיערב בחולין, אי איכא מאה חולין וחד תרומה שקיל חד גריוא מנהון\nואמר האי דתרומה והנך מישתרו לזרים ולטמאים. והני מילי בתרומת הארץ אבל בתרומת\nחוץ לארץ כי איכא תרי דחולי וחד דתרומה מיבטלא.. . ברם צריך לומר לענין טומאה מי\nאקילו רבנן בתרומת חוצה לארץ או לא. מי אמרינן לענין ביטול ברוב הוא דאקילו רבנן\nדתרומת ארץ ישראל נמי מדאורייתא בטלה ברוב אבל לענין טומאה לא... תא שמע דאמר\nשמואל אין תרומת חוצה לארץ אסורה אלא במי שהטומאה יוצאה עליו מגופו.",
     "loi_id": "loi_passage__93",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 302,
+        "value": "bBekhorot 27a",
+        "order": "117.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Terumah, die sich mit Ḥullin vermischt hat: Wenn hundert [Teile] Ḥullin da sind und einer Terumah, nimmt man ein Maß (gariwa) von ihnen und sagt: Dies ist die Terumah — und jene werden für Nichtpriester und für Unreine erlaubt. Und diese Worte [gelten] bei der Terumah des Landes; bei der Terumah von außerhalb des Landes aber, wenn zwei Ḥullin da sind und einer Terumah, ist sie aufgehoben …\n\nDoch ist zu fragen bezüglich der Unreinheit: Haben die Rabbanan bei der Terumah von außerhalb des Landes erleichtert oder nicht? Sagen wir etwa, nur hinsichtlich der Aufhebung in der Mehrheit haben die Rabbanan erleichtert — denn auch die Terumah von Ereẓ Israel wird von der Tora her in der Mehrheit aufgehoben —, hinsichtlich der Unreinheit aber nicht? Komm und höre, denn Schmuel sagte (bBekhorot 27a): Die Terumah von außerhalb des Landes ist nur dem verboten, bei dem die Unreinheit aus seinem eigenen Leibe hervorgeht.",
+    "page": "Sheilta 108:1",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "terumah",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "94": {
     "id": 94,
     "order": "65.00000000000000000000",
-    "title": "Tshuvat Rav Paltoi",
+    "title": "The Harvest of Your Land: No Peʾah outside It",
     "text": "וששאלת שכחה ופאה נוהג בזמן הזה בחוצה לארץ או לא. -- אינו נוהג. דכתיב:\nובקוצרכם את קציר ארצכם. ואי קשיא דאמרינן: רב ושמואל דאמרי תרווייהו ראשית\nהגז בשישים. תרומה בשישים. פאה בשישים. ומקשינן, פאה בשישים, הא תנן: אלו\nדברים שאין להם שיעור הפאה כו' ומפר' לא קשיא כאן בארץ כאן בחוצה לארץ, אלמא\nבחוצה לארץ אין לה שיעור הרי לך דנהגא פאה בחוצה לארץ, הכי קאמר, בזמן שישראל\nשרויין בארצם מי שיש לו שדה בארץ נותן אחד משישים, ומי שאין לו בארץ נותן פאה\nלפי דעתו ואין לה שיעור אבל בזמן הזה בחוצה לארץ אין חייב בפאה כל עיקר.",
     "loi_id": "loi_passage__94",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 303,
+        "value": "Leviticus 23:22",
+        "order": "118.00000000000000000000"
+      },
+      {
+        "id": 304,
+        "value": "mPeah 1:1",
+        "order": "119.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 308,
+        "value": "Responsum of Rav Paltoy Gaon on peʾah and shikheḥah outside the Land",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was du gefragt hast, ob Schikhcha und Peʾah in dieser Zeit außerhalb des Landes in Geltung sind oder nicht — sie sind nicht in Geltung, denn es steht geschrieben: „Und wenn ihr die Ernte eures Landes erntet“ (Lev 23,22).\n\nUnd wenn du einwendest: Wir sagen doch, Rav und Schmuel sagten beide, die Erstlingsschur sei ein Sechzigstel, die Terumah ein Sechzigstel, die Peʾah ein Sechzigstel — und wir wenden ein: Die Peʾah ein Sechzigstel? Haben wir nicht gelernt (mPeʾah 1,1): Dies sind die Dinge, die kein Maß haben: die Peʾah usw.? Und es wird erklärt: Kein Widerspruch — hier im Lande, dort außerhalb des Landes. Demnach hat sie außerhalb des Landes kein Maß, und siehe, die Peʾah gilt außerhalb des Landes.\n\nSo ist es gemeint: Zu der Zeit, da Israel in seinem Lande wohnte, gab, wer ein Feld im Lande hatte, ein Sechzigstel; und wer keines im Lande hatte, gab Peʾah nach seinem Gutdünken, und sie hatte kein Maß. In dieser Zeit aber, außerhalb des Landes, ist er zur Peʾah überhaupt nicht verpflichtet.",
+    "page": "no. 27; Schepansks p 39-40",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 265,
+        "value": "peʾah",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 266,
+        "value": "gifts to the poor",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 267,
+        "value": "shikheḥah",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "95": {
     "id": 95,

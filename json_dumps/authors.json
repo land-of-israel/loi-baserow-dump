@@ -67,6 +67,21 @@
         "id": 110,
         "value": "Otzar Ha-Geonim Kiddushin",
         "order": "14.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Otzar Ha-Geonim Pessachim",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 221,
+        "value": "Iggeret Rav Sherira Gaon",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 226,
+        "value": "Otzar ha-Geonim Ketubbot",
+        "order": "34.00000000000000000000"
       }
     ]
   },
@@ -150,7 +165,7 @@
   "43": {
     "id": 43,
     "order": "12.00000000000000000000",
-    "name": "Sherira Gaon",
+    "name": "Sherira ben Ḥananyah Gaon",
     "gnd": "",
     "wikidata": "",
     "loi_id": "loi_author__43",
@@ -603,6 +618,102 @@
         "id": 217,
         "value": "Sefer Ra’avyah",
         "order": "25.00000000000000000000"
+      }
+    ]
+  },
+  "286": {
+    "id": 286,
+    "order": "41.00000000000000000000",
+    "name": "Chaim Meir Josef ha-Levi Horovitz",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__286",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 222,
+        "value": "Toratan shel Rishonim",
+        "order": "30.00000000000000000000"
+      }
+    ]
+  },
+  "287": {
+    "id": 287,
+    "order": "42.00000000000000000000",
+    "name": "Aryeh Leib Frumkin",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__287",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 224,
+        "value": "Seder Rav Amram II",
+        "order": "32.00000000000000000000"
+      }
+    ]
+  },
+  "320": {
+    "id": 320,
+    "order": "43.00000000000000000000",
+    "name": "Paltoy bar Abbaye Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__320",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "321": {
+    "id": 321,
+    "order": "44.00000000000000000000",
+    "name": "Abraham ben David",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__321",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 260,
+        "value": "Temim Deʿim",
+        "order": "36.00000000000000000000"
+      }
+    ]
+  },
+  "322": {
+    "id": 322,
+    "order": "45.00000000000000000000",
+    "name": "Zvi Hirsch Edelmann",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__322",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 261,
+        "value": "Kaftor wa-Feraḥ",
+        "order": "37.00000000000000000000"
+      }
+    ]
+  },
+  "323": {
+    "id": 323,
+    "order": "46.00000000000000000000",
+    "name": "Isaac HaKohen ben Moses",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__323",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 261,
+        "value": "Kaftor wa-Feraḥ",
+        "order": "37.00000000000000000000"
       }
     ]
   }

@@ -14,5 +14,21 @@
     "tpq": "705",
     "taq": "745",
     "loi_id": "loi_date__2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "987 CE",
+    "tpq": null,
+    "taq": null,
+    "loi_id": "loi_date__3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": "ca. 858–875 CE",
+    "tpq": "858",
+    "taq": "875",
+    "loi_id": "loi_date__4"
   }
 }

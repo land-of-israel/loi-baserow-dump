@@ -84,6 +84,16 @@
         "id": 225,
         "value": "Ḥeleq Yerushah be-Ereẓ Yisra’el",
         "order": "34.00000000000000000000"
+      },
+      {
+        "id": 263,
+        "value": "Ereẓ Aḥuzzatkhem",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 264,
+        "value": "Morashah",
+        "order": "41.00000000000000000000"
       }
     ],
     "edition": []
@@ -163,6 +173,26 @@
         "id": 217,
         "value": "Sefer Ra’avyah",
         "order": "25.00000000000000000000"
+      },
+      {
+        "id": 219,
+        "value": "Sha’arei Ẓedeq, Teshuvot ha-Geonim",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 224,
+        "value": "Seder Rav Amram II",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 225,
+        "value": "She’elot u-Teshuvot ha-Ra’avad (Abraham b. Isaac of Narbonne)",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 260,
+        "value": "Temim Deʿim",
+        "order": "36.00000000000000000000"
       }
     ]
   },
@@ -312,6 +342,11 @@
         "id": 72,
         "value": "Ginze Kedem IV",
         "order": "8.00000000000000000000"
+      },
+      {
+        "id": 221,
+        "value": "Iggeret Rav Sherira Gaon",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -346,6 +381,11 @@
         "id": 75,
         "value": "Ma'aseh ha-Geonim",
         "order": "11.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "Kaftor wa-Feraḥ",
+        "order": "37.00000000000000000000"
       }
     ]
   },
@@ -424,7 +464,102 @@
         "id": 218,
         "value": "Sheolot uTshuvot MaHaRam Rothenburg",
         "order": "26.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "Sefer ha-Yovel le-Veit ha-Midrash le-Rabbanim",
+        "order": "38.00000000000000000000"
       }
     ]
+  },
+  "177": {
+    "id": 177,
+    "order": "18.00000000000000000000",
+    "name": "Egypt",
+    "geonames": "",
+    "loi_id": "loi_place__177",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 259,
+        "value": "Miẓrayim",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "178": {
+    "id": 178,
+    "order": "19.00000000000000000000",
+    "name": "",
+    "geonames": "",
+    "loi_id": "loi_place__178",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 260,
+        "value": "ʿAkko",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "179": {
+    "id": 179,
+    "order": "20.00000000000000000000",
+    "name": "Ashkelon",
+    "geonames": "",
+    "loi_id": "loi_place__179",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 261,
+        "value": "Ashqelon",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "180": {
+    "id": 180,
+    "order": "21.00000000000000000000",
+    "name": "Frankfurt am Main",
+    "geonames": "",
+    "loi_id": "loi_place__180",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 222,
+        "value": "Toratan shel Rishonim",
+        "order": "30.00000000000000000000"
+      }
+    ]
+  },
+  "213": {
+    "id": 213,
+    "order": "22.00000000000000000000",
+    "name": "Pumbedita",
+    "geonames": "",
+    "loi_id": "loi_place__213",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": []
+  },
+  "214": {
+    "id": 214,
+    "order": "23.00000000000000000000",
+    "name": "Sura",
+    "geonames": "",
+    "loi_id": "loi_place__214",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": []
   }
 }

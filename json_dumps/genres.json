@@ -42,5 +42,23 @@
     "reference": "",
     "loi_id": "loi_genre__4",
     "main_genre": null
+  },
+  "37": {
+    "id": 37,
+    "order": "5.00000000000000000000",
+    "name": "Letter (iggeret)",
+    "note": "",
+    "reference": "",
+    "loi_id": "loi_genre__37",
+    "main_genre": null
+  },
+  "38": {
+    "id": 38,
+    "order": "6.00000000000000000000",
+    "name": "Prayer order (seder)",
+    "note": "",
+    "reference": "",
+    "loi_id": "loi_genre__38",
+    "main_genre": null
   }
 }
