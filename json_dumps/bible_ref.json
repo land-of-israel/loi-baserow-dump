@@ -1397,5 +1397,35 @@
     "loi_id": "loi_biblref__304",
     "text_he": "אֵלּוּ דְבָרִים שֶׁאֵין לָהֶם שִׁעוּר. הַפֵּאָה, וְהַבִּכּוּרִים, וְהָרֵאָיוֹן, וּגְמִילוּת חֲסָדִים, וְתַלְמוּד תּוֹרָה. אֵלּוּ דְבָרִים שֶׁאָדָם אוֹכֵל פֵּרוֹתֵיהֶן בָּעוֹלָם הַזֶּה וְהַקֶּרֶן קַיֶּמֶת לוֹ לָעוֹלָם הַבָּא. כִּבּוּד אָב וָאֵם, וּגְמִילוּת חֲסָדִים, וַהֲבָאַת שָׁלוֹם בֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם",
     "designations": []
+  },
+  "305": {
+    "id": 305,
+    "order": "120.00000000000000000000",
+    "bible": "Leviticus 19:19",
+    "text": "You shall observe My laws.\nYou shall not let your cattle mate with a different kind; you shall not sow your field with two kinds of seed; you shall not put on cloth from a mixture of two kinds of material.",
+    "url": "https://www.sefaria.org/Leviticus.19.19?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__305",
+    "text_he": "אֶת־חֻקֹּתַי תִּשְׁמֹרוּ בְּהֶמְתְּךָ לֹא־תַרְבִּיעַ כִּלְאַיִם שָׂדְךָ לֹא־תִזְרַע כִּלְאָיִם וּבֶגֶד כִּלְאַיִם שַׁעַטְנֵז לֹא יַעֲלֶה עָלֶיךָ",
+    "designations": []
+  },
+  "306": {
+    "id": 306,
+    "order": "121.00000000000000000000",
+    "bible": "bSanhedrin 56b",
+    "text": "Rabbi Elazar says: The descendants of Noah were also commanded concerning the prohibition of diverse kinds. Nevertheless, it is permitted for the descendants of Noah to wear diverse kinds of wool and linen and to sow diverse kinds of seeds together, and they are prohibited only with regard to breeding diverse species of animals and grafting diverse species of trees.",
+    "url": "https://www.sefaria.org/Sanhedrin.56b.3?lang=bi",
+    "loi_id": "loi_biblref__306",
+    "text_he": "רַבִּי אֶלְעָזָר אוֹמֵר: אַף עַל הַכִּלְאַיִם. מוּתָּרִין בְּנֵי נֹחַ לִלְבּוֹשׁ כִּלְאַיִם וְלִזְרוֹעַ כִּלְאַיִם, וְאֵין אֲסוּרִין אֶלָּא בְּהַרְבָּעַת בְּהֵמָה וּבְהַרְכָּבַת הָאִילָן.",
+    "designations": []
+  },
+  "307": {
+    "id": 307,
+    "order": "122.00000000000000000000",
+    "bible": "mMaaser Sheni 5:2",
+    "text": "[The produce of] a vineyard in its fourth year was brought up to Jerusalem within a distance of one day’s journey on each side. And what is the border [of a day’s journey on each side]? Eilat to the south, Akrabat on the north, Lod to the west, and the Jordan [river] to the east. When produce increased, it was decreed that it can be redeemed even if the vineyard was close to the wall. And there was a stipulation on this matter, that whenever it was so desired, the arrangement would be restored as it had been before. Rabbi Yose says: this was the stipulation after the Temple was destroyed, and the stipulation was that when the Temple should be rebuilt the arrangement would be restored as it had been before.",
+    "url": "https://www.sefaria.org/Mishnah_Maaser_Sheni.5.2?lang=bi",
+    "loi_id": "loi_biblref__307",
+    "text_he": "כֶּרֶם רְבָעִי הָיָה עוֹלֶה לִירוּשָׁלַיִם מַהֲלַךְ יוֹם אֶחָד לְכָל צָד. וְאֵיזוֹ הִיא תְחוּמָהּ, אֵילַת מִן הַדָּרוֹם וְעַקְרַבַּת מִן הַצָּפוֹן, לוֹד מִן הַמַּעֲרָב וְהַיַּרְדֵּן מִן הַמִּזְרָח. וּמִשֶּׁרַבּוּ הַפֵּרוֹת, הִתְקִינוּ שֶׁיְּהֵא נִפְדֶּה סָמוּךְ לַחוֹמָה. וּתְנַאי הָיָה הַדָּבָר, שֶׁאֵימָתַי שֶׁיִּרְצוּ, יַחֲזֹר הַדָּבָר לִכְמוֹת שֶׁהָיָה. רַבִּי יוֹסֵי אוֹמֵר, מִשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ, הָיָה הַתְּנַאי הַזֶּה. וּתְנַאי הָיָה, אֵימָתַי שֶׁיִּבָּנֶה בֵּית הַמִּקְדָּשׁ, יַחֲזֹר הַדָּבָר לִכְמוֹת שֶׁהָיָה",
+    "designations": []
   }
 }

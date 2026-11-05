@@ -352,6 +352,11 @@
         "id": 8,
         "value": "Tshuvot Rav Natronai Gaon",
         "order": "8.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "Responsum of Rav Natronai Gaon on the redemption of fourth-year produce",
+        "order": "54.00000000000000000000"
       }
     ],
     "publisher": "Ofeq Institute",
@@ -483,6 +488,11 @@
         "id": 221,
         "value": "Geonic ruling on writs of authorisation upon land in the Land of Israel",
         "order": "29.00000000000000000000"
+      },
+      {
+        "id": 309,
+        "value": "Geonic ruling on orlah in the Land and outside it",
+        "order": "52.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -1065,6 +1075,11 @@
         "id": 302,
         "value": "Responsum of Rav Natronai Gaon on the Remission of Debts",
         "order": "45.00000000000000000000"
+      },
+      {
+        "id": 310,
+        "value": "Responsum of Rav Natronai Gaon on orlah",
+        "order": "53.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -1138,5 +1153,22 @@
       }
     ],
     "year": "1928"
+  },
+  "263": {
+    "id": 263,
+    "order": "39.00000000000000000000",
+    "label": "Ginzei Schechter II",
+    "editor": [
+      {
+        "id": 104,
+        "value": "Solomon Schechter",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__263",
+    "works": [],
+    "publisher": "",
+    "place": [],
+    "year": null
   }
 }

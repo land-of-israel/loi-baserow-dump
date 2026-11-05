@@ -305,6 +305,36 @@
         "id": 94,
         "value": "The Harvest of Your Land: No Peʾah outside It",
         "order": "65.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "The Noahides Are Not of the Land: Kilayim Bound to the Soil",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "Thirty-Six Months: Orlah in the Land and outside It",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Forbidden in the Land, Permitted in Syria, Bought outside: Doubtful Orlah",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "The Caper of Orlah: Permitted outside the Land, Forbidden within",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Only the Vineyard Requires Redemption: Natronai Gaon",
+        "order": "71.00000000000000000000"
       }
     ]
   },
@@ -514,6 +544,11 @@
         "id": 91,
         "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
         "order": "62.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
       }
     ]
   },

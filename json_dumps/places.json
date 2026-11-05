@@ -561,5 +561,22 @@
     "note": "",
     "designations": [],
     "edition": []
+  },
+  "215": {
+    "id": 215,
+    "order": "24.00000000000000000000",
+    "name": "Syria",
+    "geonames": "",
+    "loi_id": "loi_place__215",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 297,
+        "value": "Surya",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "edition": []
   }
 }

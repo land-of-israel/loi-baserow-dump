@@ -287,6 +287,11 @@
         "id": 76,
         "value": "The City That Cannot Become Unclean",
         "order": "47.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
       }
     ],
     "form_he": "ירושלים",
@@ -506,6 +511,16 @@
         "id": 91,
         "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
         "order": "62.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Forbidden in the Land, Permitted in Syria, Bought outside: Doubtful Orlah",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -626,6 +641,31 @@
         "id": 94,
         "value": "The Harvest of Your Land: No Peʾah outside It",
         "order": "65.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "The Noahides Are Not of the Land: Kilayim Bound to the Soil",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "Thirty-Six Months: Orlah in the Land and outside It",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Forbidden in the Land, Permitted in Syria, Bought outside: Doubtful Orlah",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "The Caper of Orlah: Permitted outside the Land, Forbidden within",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
       }
     ],
     "form_he": "חוצה לארץ",
@@ -739,6 +779,21 @@
         "id": 94,
         "value": "The Harvest of Your Land: No Peʾah outside It",
         "order": "65.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "The Noahides Are Not of the Land: Kilayim Bound to the Soil",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "Thirty-Six Months: Orlah in the Land and outside It",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "The Caper of Orlah: Permitted outside the Land, Forbidden within",
+        "order": "69.00000000000000000000"
       }
     ],
     "form_he": "הארץ",
@@ -1241,6 +1296,11 @@
         "id": 73,
         "value": "Carrying His Bones to the Land: Executors and a Dying Man’s Instruction",
         "order": "44.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
       }
     ],
     "form_he": "מקדש / במקדש",
@@ -1608,6 +1668,30 @@
         "id": 3,
         "value": "Eretz Israel/Palestine",
         "order": "3.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "297": {
+    "id": 297,
+    "order": "42.00000000000000000000",
+    "label": "Surya",
+    "loi_id": "loi_parallel__297",
+    "passages": [
+      {
+        "id": 97,
+        "value": "Forbidden in the Land, Permitted in Syria, Bought outside: Doubtful Orlah",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "form_he": "סוריא",
+    "source": [],
+    "gloss_en": "Syria",
+    "referent": [
+      {
+        "id": 215,
+        "value": "Syria",
+        "order": "24.00000000000000000000"
       }
     ],
     "commentary": ""

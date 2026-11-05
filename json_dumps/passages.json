@@ -4527,124 +4527,370 @@
   "95": {
     "id": 95,
     "order": "66.00000000000000000000",
-    "title": "Sheiltot 99:1",
+    "title": "The Noahides Are Not of the Land: Kilayim Bound to the Soil",
     "text": "ואסור למימר לאינו יהודי לארבועי כלאים דתניא: רבי אליעזר אומר אף על\nכלאים נצטוו בני נח... ואינם אסורים אלא בהרבעת בהמה ובהרכבת אילן... אבל זריעה\nשדך כתיב, בארץ אין בחוצה לארץ לא, ובני נח לאו בני ארץ נינהו",
     "loi_id": "loi_passage__95",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 305,
+        "value": "Leviticus 19:19",
+        "order": "120.00000000000000000000"
+      },
+      {
+        "id": 306,
+        "value": "bSanhedrin 56b",
+        "order": "121.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und es ist verboten, einem Nichtjuden zu sagen, Kilayim zu paaren, denn es ist gelehrt: R. Eliezer sagt, auch über Kilayim wurden die Noachiden geboten (bSanhedrin 56b) … Und sie sind nur verboten in der Paarung von Vieh und in der Pfropfung von Bäumen … Bei der Aussaat aber steht „dein Feld“ geschrieben (Lev 19,19): im Lande ja, außerhalb des Landes nicht — und die Noachiden sind nicht Söhne des Landes.",
+    "page": "Sheilta 99:1",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 268,
+        "value": "kilayim",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "96": {
     "id": 96,
     "order": "67.00000000000000000000",
-    "title": "Otzar haGeonim",
+    "title": "Thirty-Six Months: Orlah in the Land and outside It",
     "text": "ואשכחן בדברי זכרונות של ראשונים... והלכתא מונה אדם ל\"ו חדשים משעת\nנטיעת אילן לערלה, ונוהגת בזמן הזה בארץ ובחוצה לארץ.",
     "loi_id": "loi_passage__96",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 309,
+        "value": "Geonic ruling on orlah in the Land and outside it",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und wir haben gefunden in den Aufzeichnungen der Früheren … Und die Halacha ist: Man zählt sechsunddreißig Monate von der Stunde der Pflanzung eines Baumes für die Orlah, und sie gilt in dieser Zeit im Lande und außerhalb des Landes.",
+    "page": "no. 233 (רל\"ג)",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 269,
+        "value": "orlah",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "97": {
     "id": 97,
     "order": "68.00000000000000000000",
-    "title": "Tamim Deim",
+    "title": "Forbidden in the Land, Permitted in Syria, Bought outside: Doubtful Orlah",
     "text": "כתב רב נטרונאי גאון ע\"ה... ואסור ליהנות מפירות ערלה ולא מן הטפל להם כל\nעיקר. ספק ערלה בארץ ישראל אסור ובסוריא מותר, ובחוצה לארץ יורד ולוקח ובלבד שלא\nיראנו לוקט, וכן הלכה.",
     "loi_id": "loi_passage__97",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 310,
+        "value": "Responsum of Rav Natronai Gaon on orlah",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es schrieb Rav Natronai Gaon, Friede über ihm … Und es ist verboten, von Orlah-Früchten Nutzen zu ziehen und von dem, was ihnen beigeordnet ist, überhaupt. Zweifelhafte Orlah ist in Ereẓ Israel verboten, in Surya erlaubt, und außerhalb des Landes steigt er hinab und kauft — sofern er ihn nicht pflücken sieht. Und so ist die Halacha.",
+    "page": "p. 69, no. 133",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 269,
+        "value": "orlah",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 297,
+        "value": "Surya",
+        "order": "42.00000000000000000000"
+      }
+    ]
   },
   "98": {
     "id": 98,
     "order": "69.00000000000000000000",
-    "title": "Sheiltot 100:2",
+    "title": "The Caper of Orlah: Permitted outside the Land, Forbidden within",
     "text": "צלף של ערלה בחוצה לארץ זורק את האביונות ואוכל את הקפריסין.. . ובחוצה\nלארץ שרו בארץ אסירן. וכן הלכתא.",
     "loi_id": "loi_passage__98",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Ein Kapernstrauch (ẓelaf) von Orlah außerhalb des Landes: Man wirft die evyonot weg und isst die qaprisin … Und außerhalb des Landes sind sie erlaubt, im Lande sind sie verboten. Und so ist die Halacha.",
+    "page": "Sheilta 100:2",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 269,
+        "value": "orlah",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "99": {
     "id": 99,
     "order": "70.00000000000000000000",
-    "title": "Sheiltot 100:3",
+    "title": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
     "text": "ופירי דפרדיסא פריק להו בשתא רביעתא ואכיל להו, כד הוה בית המקדש\nקיים הוי פריק להו ומוסיף עלייהו חומש ומסיק להו ואכיל להו בירושלים כדתנן:\nנטע רבעי מוסיף עליו חומש, ותנן: כרם רבעי עולה לירושלים מהלך יום לכל רוח. והאידנא\nבחוצה לארץ, פריק להו וקלי ליה לדמיה והדר משתרי ליה למיכל .. . וכמה שיעור פורקניה,\nאפילו פירי דשוו\" מאה זוזי פריק להו בשוה פרוטה ושפיר דמי, דאמר שמואל שוה מנה\nשחיללו על שוה פרוטה מחולל..., ואע\"ג דכי אמר שמואל דיעבד אין לכתחילה לא,\nהני מילי בזמן שבית המקדש קיים אבל האידנא אפילו לכתחילה א...\nוהיכי פריק להו ?, מייתי חמשה אשכולות מאותו הכרם מארבע פינותיו ואחד\nמאמצעיתו, ומביא חטים או שעורים זה כנגד זה, ומברך על פדיון הכרם, ואומר תחול\nקדושתיה דהאי פרדיסא על הלין חטי או שערי, ושדי להו דפרדיסא כי היכי דמברך. וכי\nקאמרינן דכרם רבעי מיחייב למיפיק, הני מילי בחוצה לארץ אבל בארץ ישראל לא שנא\nכרם רבעי ולא שנא נטע רבעי כולהו בעי למיפרקינהו.",
     "loi_id": "loi_passage__99",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 307,
+        "value": "mMaaser Sheni 5:2",
+        "order": "122.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und die Früchte des Obstgartens löst er im vierten Jahr aus und isst sie. Als der Tempel bestand, löste er sie aus und fügte ihnen ein Fünftel hinzu und brachte sie hinauf und aß sie in Jerusalem, wie wir gelernt haben: Beim Vierjahrespflanzgut fügt man ein Fünftel hinzu; und wir haben gelernt (mMaʿaser Scheni 5,2): Der Vierjahresweinberg geht hinauf nach Jerusalem, einen Tagesmarsch nach jeder Richtung.\n\nHeutzutage aber, außerhalb des Landes, löst er sie aus und verbrennt ihr Geld, und danach wird es ihm erlaubt zu essen … Und wie groß ist das Maß seiner Auslösung? Sogar Früchte im Wert von hundert Zuz löst er für den Wert einer Peruta aus, und es ist recht; denn Schmuel sagte: Was einen Maneh wert ist und auf den Wert einer Peruta ausgelöst wurde, ist ausgelöst … Und obwohl, wenn Schmuel es sagte, [es gilt] im Nachhinein ja, von vornherein nicht — diese Worte [gelten] in der Zeit, da der Tempel bestand; heutzutage aber sogar von vornherein.\n\nUnd wie löst er sie aus? Er bringt fünf Trauben von jenem Weinberg, von seinen vier Ecken und eine aus seiner Mitte, und bringt Weizen oder Gerste, diese jenen gegenüber, und spricht den Segen über die Auslösung des Weinbergs und sagt: Es gehe die Heiligkeit dieses Obstgartens über auf diesen Weizen oder diese Gerste — und er wirft die des Obstgartens, so wie er segnet [?].\n\nUnd wenn wir sagen, dass der Vierjahresweinberg auszulösen ist, [gelten] diese Worte außerhalb des Landes; aber in Ereẓ Israel ist kein Unterschied zwischen Vierjahresweinberg und Vierjahrespflanzgut — alle bedürfen der Auslösung.",
+    "page": "Sheilta 100:3",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 270,
+        "value": "neta revaʿi",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 271,
+        "value": "kerem revaʿi",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Miqdash",
+        "order": "27.00000000000000000000"
+      }
+    ]
   },
   "100": {
     "id": 100,
     "order": "71.00000000000000000000",
-    "title": "Tshuvat haGeonim",
+    "title": "Only the Vineyard Requires Redemption: Natronai Gaon",
     "text": "מצאתי בשם רב נטרונאי זצ\"ל: וששאלתם אם יש לחלק בין פדיית כרם רבעי\nלנטיעת רבעי -- כך תשובה שכך שמענו מרבותינו שאין טעון פדייה אלא כרם רבעי\nבלבד.",
     "loi_id": "loi_passage__100",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 311,
+        "value": "Responsum of Rav Natronai Gaon on the redemption of fourth-year produce",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "german_translation": "Ich fand im Namen des Rav Natronai, das Andenken des Gerechten sei zum Segen: Und was ihr gefragt habt, ob zu unterscheiden ist zwischen der Auslösung des Vierjahresweinbergs und des Vierjahrespflanzguts — so ist die Antwort: dass wir so von unseren Lehrern gehört haben, dass nur der Vierjahresweinberg allein der Auslösung bedarf.",
+    "page": "Yoreh Deʿah no. 270",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 270,
+        "value": "neta revaʿi",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 271,
+        "value": "kerem revaʿi",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
   },
   "101": {
     "id": 101,
     "order": "72.00000000000000000000",
-    "title": "[kedushah / holiness] (untitled)",
-    "text": "בלמה בשחרית בלבד, חוץ מירושלים ובכל מדינה שיש בה בבלאיין, שעשו מריבה ומחלוקת\nעד שקיבלו עליהם לומר קדושה בכל יום. אבל בשאר מדינות ועיירות שבארץ ישראל שאין\nבה בבלאיין אין אומרים קדוש אלא בשבת ובימים טובים בלבד.\nאמר מר יהודאי ז\"ל, שגזרו שמד על בני ארץ ישראל שלא יקראו קריית שמע,\nולא יתפללו. והיו מניחין אותן ליכנס שחרית בשבת לומר ולזמר מעמדות. והיו אומרים\nבשחרית בשבת מעמד וקדוש ושמע בגניבה והיו עושין דברים הללו באונס. ועכשיו שכילה\nהקב'יה מלכות אדום ובטלו גזירותיה ובאו ישמעאלים והניחום לעסוק בתורה ולקרוא\nקריית שמע ולהתפלל, ועכשיו אסור לומר דבר אלא כתיקון חכמים ובזמנו.",
+    "title": "Said under Duress: Pirqoi on the Palestinian Qedushah",
+    "text": "עד עכשיו אין אומרים בארץ ישראל קדוש ושמע אלא בשבת או בימים טובים\n\nבלמה בשחרית בלבד, חוץ מירושלים ובכל מדינה שיש בה\n\n בבלאיין, שעשו מריבה ומחלוקת  \nעד שקיבלו עליהם לומר קדושה בכל יום. אבל בשאר מדינות ועיירות שבארץ ישראל שאין  \nבה בבלאיין אין אומרים קדוש אלא בשבת ובימים טובים בלבד.  \nאמר מר יהודאי ז\"ל, שגזרו שמד על בני ארץ ישראל שלא יקראו קריית שמע,  \nולא יתפללו. והיו מניחין אותן ליכנס שחרית בשבת לומר ולזמר מעמדות. והיו אומרים  \nבשחרית בשבת מעמד וקדוש ושמע בגניבה והיו עושין דברים הללו באונס. ועכשיו שכילה  \nהקב'יה מלכות אדום ובטלו גזירותיה ובאו ישמעאלים והניחום לעסוק בתורה ולקרוא  \nקריית שמע ולהתפלל, ועכשיו אסור לומר דבר אלא כתיקון חכמים ובזמנו.",
     "loi_id": "loi_passage__101",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
+    "work": [
+      {
+        "id": 82,
+        "value": "Letter of Pirqoi ben Baboi",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "german_translation": "… [nur?] im Morgengebet allein, ausgenommen Jerusalem und jede Stadt, in der Bavla’in sind, die Streit und Zwietracht machten, bis man es auf sich nahm, an jedem Tag die Qedushah zu sagen. Aber in den übrigen Bezirken und Städten von Ereẓ Israel, in denen keine Bavla’in sind, sagt man Qadosch nur am Schabbat und an Festtagen allein.\n\nEs sagte Mar Yehudai seligen Andenkens, dass man über die Bewohner von Ereẓ Israel eine Verfolgung verhängte, dass sie das Schemaʿ nicht lesen und nicht beten sollten. Und man ließ sie am Schabbatmorgen eintreten, um Maʿamadot zu sagen und zu singen. Und sie sagten am Schabbatmorgen Maʿamad und Qedushah und Schemaʿ im Verborgenen, und sie taten diese Dinge unter Zwang.\n\nUnd jetzt, da der Heilige, gepriesen sei er, das Reich Edom vernichtet hat und seine Verordnungen aufgehoben sind und die Ismaeliten gekommen sind und sie haben sie Tora treiben und das Schemaʿ lesen und beten lassen — jetzt ist es verboten, etwas anderes zu sagen als nach der Ordnung der Weisen und zu seiner Zeit.",
+    "page": "555",
     "keywords": [],
     "spatial_coding": [],
     "diaspora_type_cohen": [],

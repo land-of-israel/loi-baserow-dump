@@ -1054,6 +1054,36 @@
         "id": 94,
         "value": "The Harvest of Your Land: No Peʾah outside It",
         "order": "65.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "The Noahides Are Not of the Land: Kilayim Bound to the Soil",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "Thirty-Six Months: Orlah in the Land and outside It",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Forbidden in the Land, Permitted in Syria, Bought outside: Doubtful Orlah",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "The Caper of Orlah: Permitted outside the Land, Forbidden within",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Only the Vineyard Requires Redemption: Natronai Gaon",
+        "order": "71.00000000000000000000"
       }
     ]
   },
@@ -1215,6 +1245,82 @@
         "id": 94,
         "value": "The Harvest of Your Land: No Peʾah outside It",
         "order": "65.00000000000000000000"
+      }
+    ]
+  },
+  "268": {
+    "id": 268,
+    "order": "52.00000000000000000000",
+    "label": "kilayim",
+    "notes": "",
+    "loi_id": "loi_keyword__268",
+    "passages": [
+      {
+        "id": 95,
+        "value": "The Noahides Are Not of the Land: Kilayim Bound to the Soil",
+        "order": "66.00000000000000000000"
+      }
+    ]
+  },
+  "269": {
+    "id": 269,
+    "order": "53.00000000000000000000",
+    "label": "orlah",
+    "notes": "",
+    "loi_id": "loi_keyword__269",
+    "passages": [
+      {
+        "id": 96,
+        "value": "Thirty-Six Months: Orlah in the Land and outside It",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Forbidden in the Land, Permitted in Syria, Bought outside: Doubtful Orlah",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "The Caper of Orlah: Permitted outside the Land, Forbidden within",
+        "order": "69.00000000000000000000"
+      }
+    ]
+  },
+  "270": {
+    "id": 270,
+    "order": "54.00000000000000000000",
+    "label": "neta revaʿi",
+    "notes": "",
+    "loi_id": "loi_keyword__270",
+    "passages": [
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Only the Vineyard Requires Redemption: Natronai Gaon",
+        "order": "71.00000000000000000000"
+      }
+    ]
+  },
+  "271": {
+    "id": 271,
+    "order": "55.00000000000000000000",
+    "label": "kerem revaʿi",
+    "notes": "",
+    "loi_id": "loi_keyword__271",
+    "passages": [
+      {
+        "id": 99,
+        "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Only the Vineyard Requires Redemption: Natronai Gaon",
+        "order": "71.00000000000000000000"
       }
     ]
   }

@@ -1787,5 +1787,110 @@
         "order": "35.00000000000000000000"
       }
     ]
+  },
+  "309": {
+    "id": 309,
+    "order": "52.00000000000000000000",
+    "title": "Geonic ruling on orlah in the Land and outside it",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__309",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 110,
+        "value": "Otzar Ha-Geonim Kiddushin",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "310": {
+    "id": 310,
+    "order": "53.00000000000000000000",
+    "title": "Responsum of Rav Natronai Gaon on orlah",
+    "reference": "",
+    "author": [
+      {
+        "id": 41,
+        "value": "Natronai bar Hilai",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 214,
+        "value": "Sura",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__310",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 260,
+        "value": "Temim Deʿim",
+        "order": "36.00000000000000000000"
+      }
+    ]
+  },
+  "311": {
+    "id": 311,
+    "order": "54.00000000000000000000",
+    "title": "Responsum of Rav Natronai Gaon on the redemption of fourth-year produce",
+    "reference": "",
+    "author": [
+      {
+        "id": 41,
+        "value": "Natronai bar Hilai",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 214,
+        "value": "Sura",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__311",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 74,
+        "value": "Teshuvot Rav Natronai bar Hilai Gaon",
+        "order": "10.00000000000000000000"
+      }
+    ]
   }
 }
