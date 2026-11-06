@@ -219,6 +219,11 @@
         "id": 45,
         "value": "Bavel",
         "order": "13.00000000000000000000"
+      },
+      {
+        "id": 299,
+        "value": "Ereẓ Shinʿar",
+        "order": "44.00000000000000000000"
       }
     ]
   },
@@ -1426,6 +1431,66 @@
     "url": "https://www.sefaria.org/Mishnah_Maaser_Sheni.5.2?lang=bi",
     "loi_id": "loi_biblref__307",
     "text_he": "כֶּרֶם רְבָעִי הָיָה עוֹלֶה לִירוּשָׁלַיִם מַהֲלַךְ יוֹם אֶחָד לְכָל צָד. וְאֵיזוֹ הִיא תְחוּמָהּ, אֵילַת מִן הַדָּרוֹם וְעַקְרַבַּת מִן הַצָּפוֹן, לוֹד מִן הַמַּעֲרָב וְהַיַּרְדֵּן מִן הַמִּזְרָח. וּמִשֶּׁרַבּוּ הַפֵּרוֹת, הִתְקִינוּ שֶׁיְּהֵא נִפְדֶּה סָמוּךְ לַחוֹמָה. וּתְנַאי הָיָה הַדָּבָר, שֶׁאֵימָתַי שֶׁיִּרְצוּ, יַחֲזֹר הַדָּבָר לִכְמוֹת שֶׁהָיָה. רַבִּי יוֹסֵי אוֹמֵר, מִשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ, הָיָה הַתְּנַאי הַזֶּה. וּתְנַאי הָיָה, אֵימָתַי שֶׁיִּבָּנֶה בֵּית הַמִּקְדָּשׁ, יַחֲזֹר הַדָּבָר לִכְמוֹת שֶׁהָיָה",
+    "designations": []
+  },
+  "308": {
+    "id": 308,
+    "order": "123.00000000000000000000",
+    "bible": "Genesis 2:3",
+    "text": "And God blessed the seventh day and declared it holy—having ceased on it from all the work of creation that God had done.",
+    "url": "https://www.sefaria.org/Genesis.2.3?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__308",
+    "text_he": "וַיְבָרֶךְ אֱלֹהִים אֶת־יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ כִּי בוֹ שָׁבַת מִכׇּל־מְלַאכְתּוֹ אֲשֶׁר־בָּרָא אֱלֹהִים לַעֲשׂוֹת",
+    "designations": []
+  },
+  "309": {
+    "id": 309,
+    "order": "124.00000000000000000000",
+    "bible": "yBerakhot 3:2",
+    "text": "Rebbi Samuel ben Eudaimon said: He who enters the synagogue and finds them standing and praying, if he knows that he could start and finish before the reader starts, so that he may answer “Amen”, he may pray, otherwise he should not pray. About which “Amen” did they talk? Two Amoraïm, one says the Amen of “the holy King” and the other says the Amen of “He Who listens to prayer”. Rebbi Phineas said, they do not disagree. He who said: the Amen of “the holy King”, on the Sabbath, and he who said: the Amen of “He Who listens to prayer” on weekdays.",
+    "url": "https://www.sefaria.org/Jerusalem_Talmud_Berakhot.3.2.4?lang=bi",
+    "loi_id": "loi_biblref__309",
+    "text_he": "אָמַר רִבִּי שְׁמוּאֵל בַּר אֶבְדּוּמָא זֶה שֶׁהוּא נִכְנַס לְבֵית הַכְּנֶסֶת וּמָצְאָן עוֹמְדִין וּמִתְפַּלְלִין. אִם יוֹדֵעַ הוּא מַתְחִיל וְגוֹמֵר עַד שֶׁלֹּא יַתְחִיל שְׁלִיחַ צִיבּוּר כְּדֵי לַעֲנוֹת אַחֲרָיו אָמֵן יִתְפַּלֵּל וְאִם לָאו אַל יִתְפַּלֵּל. בְּאֵי זֶה אָמֵן אָמְרוּ תְּרֵין אֲמוֹרָאִין חַד אָמַר בְּאָמֵן שֶׁל הָאֵל הַקָּדוֹשׁ. וְחַד אָמַר בְּאָמֵן שֶׁל שׁוֹמֵעַ תְּפִילָּה. אָמַר רִבִּי פִּינְחָס וְלֹא פְלִיגֵי. מַאן דָּמַר בְּאָמֵן שֶׁל הָאֵל הַקָּדוֹשׁ בְּשַׁבָּת. וּמַאן דָּמַר בְּשׁוֹמֵעַ תְּפִילָּה בְּחוֹל.",
+    "designations": []
+  },
+  "310": {
+    "id": 310,
+    "order": "125.00000000000000000000",
+    "bible": "Isaiah 6:2",
+    "text": "Seraphs stood in attendance, each with six wings—two covering the face, two covering the body, and two to fly with.",
+    "url": "https://www.sefaria.org/Isaiah.6.2?lang=bi",
+    "loi_id": "loi_biblref__310",
+    "text_he": "שְׂרָפִים עֹמְדִים  מִמַּעַל לוֹ שֵׁשׁ כְּנָפַיִם שֵׁשׁ כְּנָפַיִם לְאֶחָד בִּשְׁתַּיִם  יְכַסֶּה פָנָיו וּבִשְׁתַּיִם יְכַסֶּה רַגְלָיו וּבִשְׁתַּיִם יְעוֹפֵף",
+    "designations": []
+  },
+  "311": {
+    "id": 311,
+    "order": "126.00000000000000000000",
+    "bible": "Isaiah 24:16",
+    "text": "From the end of the earth\nWe hear singing:\nGlory to the righteous!\nAnd I said: \nI waste away! I waste away! Woe is me!\nThe faithless have acted faithlessly;\nThe faithless have broken faith!",
+    "url": "https://www.sefaria.org/Isaiah.24.16?lang=bi",
+    "loi_id": "loi_biblref__311",
+    "text_he": "מִכְּנַף הָאָרֶץ זְמִרֹת שָׁמַעְנוּ צְבִי לַצַּדִּיק וָאֹמַר רָזִי־לִי רָזִי־לִי אוֹי לִי בֹּגְדִים בָּגָדוּ וּבֶגֶד בּוֹגְדִים בָּגָדוּ",
+    "designations": []
+  },
+  "312": {
+    "id": 312,
+    "order": "127.00000000000000000000",
+    "bible": "mKetubot 6:1",
+    "text": "A lost object found by a wife and the wife’s earnings belong to her husband. And with regard to her inheritance, the husband enjoys the profits of this property in her lifetime. If she is humiliated or injured, the perpetrator is liable to pay compensation for her humiliation and her degradation, as relevant. This payment belongs to her. Rabbi Yehuda ben Beteira says: When it is an injury that is in a concealed part of the woman’s body, she receives two parts, i.e., two-thirds, of the payment for humiliation and degradation, and the husband receives one part, i.e., one-third, as the injury affects him as well. And when it is an injury that is in an exposed part of her body, he receives two parts, as he suffers public humiliation due to her condition, and she receives one part. His payment should be given to him immediately. And with her portion, land should be purchased with it, and he enjoys the profits of that property.",
+    "url": "https://www.sefaria.org/Mishnah_Ketubot.6.1?lang=bi",
+    "loi_id": "loi_biblref__312",
+    "text_he": "מְצִיאַת הָאִשָּׁה וּמַעֲשֵׂה יָדֶיהָ, לְבַעְלָהּ. וִירֻשָּׁתָהּ, הוּא אוֹכֵל פֵּרוֹת בְּחַיֶּיהָ. בָּשְׁתָּהּ וּפְגָמָהּ, שֶׁלָּהּ. רַבִּי יְהוּדָה בֶן בְּתֵירָא אוֹמֵר, בִּזְמַן שֶׁבַּסֵּתֶר, לָהּ שְׁנֵי חֲלָקִים, וְלוֹ אֶחָד. וּבִזְמַן שֶׁבַּגָּלוּי, לוֹ שְׁנֵי חֲלָקִים, וְלָהּ אֶחָד. שֶׁלּוֹ, יִנָּתֵן מִיָּד. וְשֶׁלָּהּ, יִלָּקַח בָּהֶן קַרְקַע, וְהוּא אוֹכֵל פֵּרוֹת:",
+    "designations": []
+  },
+  "313": {
+    "id": 313,
+    "order": "128.00000000000000000000",
+    "bible": "bBava Metzia 59b",
+    "text": "What did Rabbi Akiva do? He wore black and wrapped himself in black, as an expression of mourning and pain, and sat before Rabbi Eliezer at a distance of four cubits, which is the distance that one must maintain from an ostracized individual. Rabbi Eliezer said to him: Akiva, what is different about today from other days, that you comport yourself in this manner? Rabbi Akiva said to him: My teacher, it appears to me that your colleagues are distancing themselves from you. He employed euphemism, as actually they distanced Rabbi Eliezer from them. Rabbi Eliezer too, rent his garments and removed his shoes, as is the custom of an ostracized person, and he dropped from his seat and sat upon the ground.",
+    "url": "https://www.sefaria.org/Bava_Metzia.59b.7?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__313",
+    "text_he": "מָה עָשָׂה רַבִּי עֲקִיבָא? לָבַשׁ שְׁחוֹרִים וְנִתְעַטֵּף שְׁחוֹרִים, וְיָשַׁב לְפָנָיו בְּרִיחוּק אַרְבַּע אַמּוֹת. אָמַר לוֹ רַבִּי אֱלִיעֶזֶר: עֲקִיבָא, מָה יוֹם מִיָּמִים? אָמַר לוֹ: רַבִּי, כִּמְדוּמֶּה לִי שֶׁחֲבֵירִים בְּדֵילִים מִמֶּךָ. אַף הוּא קָרַע בְּגָדָיו וְחָלַץ מִנְעָלָיו, וְנִשְׁמַט וְיָשַׁב עַל גַּבֵּי קַרְקַע.",
     "designations": []
   }
 }

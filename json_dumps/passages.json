@@ -4889,318 +4889,944 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "german_translation": "… [nur?] im Morgengebet allein, ausgenommen Jerusalem und jede Stadt, in der Bavla’in sind, die Streit und Zwietracht machten, bis man es auf sich nahm, an jedem Tag die Qedushah zu sagen. Aber in den übrigen Bezirken und Städten von Ereẓ Israel, in denen keine Bavla’in sind, sagt man Qadosch nur am Schabbat und an Festtagen allein.\n\nEs sagte Mar Yehudai seligen Andenkens, dass man über die Bewohner von Ereẓ Israel eine Verfolgung verhängte, dass sie das Schemaʿ nicht lesen und nicht beten sollten. Und man ließ sie am Schabbatmorgen eintreten, um Maʿamadot zu sagen und zu singen. Und sie sagten am Schabbatmorgen Maʿamad und Qedushah und Schemaʿ im Verborgenen, und sie taten diese Dinge unter Zwang.\n\nUnd jetzt, da der Heilige, gepriesen sei er, das Reich Edom vernichtet hat und seine Verordnungen aufgehoben sind und die Ismaeliten gekommen sind und sie haben sie Tora treiben und das Schemaʿ lesen und beten lassen — jetzt ist es verboten, etwas anderes zu sagen als nach der Ordnung der Weisen und zu seiner Zeit.",
+    "german_translation": "Bis jetzt sagt man in Ereẓ Israel Qadosch und Schemaʿ nur am Schabbat oder an Festtagen, [und nur?] im Morgengebet allein — ausgenommen Jerusalem und jede Stadt, in der Bavla’in sind, die Streit und Zwietracht machten, bis man es auf sich nahm, an jedem Tag die Qedushah zu sagen. Aber in den übrigen Bezirken und Städten von Ereẓ Israel, in denen keine Bavla’in sind, sagt man Qadosch nur am Schabbat und an Festtagen allein.\n\nEs sagte Mar Yehudai seligen Andenkens, dass man über die Bewohner von Ereẓ Israel eine Verfolgung verhängte, dass sie das Schemaʿ nicht lesen und nicht beten sollten. Und man ließ sie am Schabbatmorgen eintreten, um Maʿamadot zu sagen und zu singen. Und sie sagten am Schabbatmorgen Maʿamad und Qedushah und Schemaʿ im Verborgenen, und sie taten diese Dinge unter Zwang.\n\nUnd jetzt, da der Heilige, gepriesen sei er, das Reich Edom vernichtet hat und seine Verordnungen aufgehoben sind und die Ismaeliten gekommen sind und sie haben sie Tora treiben und das Schemaʿ lesen und beten lassen — jetzt ist es verboten, etwas anderes zu sagen als nach der Ordnung der Weisen und zu seiner Zeit.",
     "page": "555",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 272,
+        "value": "minhagei ha-shemad",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 273,
+        "value": "qedushah",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 274,
+        "value": "shemaʿ",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "Babylonian settlers in the Land",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 276,
+        "value": "Byzantine persecution",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 277,
+        "value": "Muslim conquest",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 157,
+        "value": "Edom",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 298,
+        "value": "Bavla’ei",
+        "order": "43.00000000000000000000"
+      }
+    ]
   },
   "102": {
     "id": 102,
     "order": "73.00000000000000000000",
-    "title": "Tshuvat Goanei Eretz Israel uBabli",
-    "text": "שלחו בני ארץ ישראל לראש ישיבת ארץ שנער: כתבנו בשביל קדושה שכתבת",
+    "title": "From Scripture, Mishnah and Talmud: The Palestinians Defend the Sabbath Qedushah",
+    "text": "שלחו בני ארץ ישראל לראש ישיבת ארץ שנער: כתבנו \n\nבשביל קדושה שכתבת\n\nלפנינו \\[על\\] שאין \\[אנו\\] אומרים קדושה אלא משבת לשבת וכך למדונו רבותינו ז\"ל:  \nלמה אנו אומרים קדושה בשבת ולא בחול, שאין כתוב בששת ימי בראשית קדושה ובשבת  \nכתוב קדושה שנאמר: ויברך אלקים את יום השביעי ויקדש אותו... ולמה אומרים  \nבראשי חדשים ובמועדים, כמו שנאמר אחרי כן: עולת תמיד לחודש וגו', הרי מן המקרא.  \nמן המשנה מניין: תני ר' חייא, כל יום שיש בו מוסף יש בו קדושה ושאין בו מוסף אין  \nבו קדושה, חוץ מחנוכה שאע\"פ שאין בו מוסף יש בו קדושה מפני שיש בו הלל. מן  \nהתלמוד מניין: אמר רבי שמואל בר אבו דימי , והוא שנכנס לבית הכנסת ומצאן עומדים  \nומתפללים אם יודע גורס בברכות, עד ת' בחול, הא למדנו שאין קדושה בחול.",
     "loi_id": "loi_passage__102",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 308,
+        "value": "Genesis 2:3",
+        "order": "123.00000000000000000000"
+      },
+      {
+        "id": 309,
+        "value": "yBerakhot 3:2",
+        "order": "124.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 312,
+        "value": "Letter of the people of the Land of Israel to the head of the academy of Shinar",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es sandten die Bewohner von Ereẓ Israel an das Haupt der Jeschiwa des Landes Schinʿar: Wir haben geschrieben wegen der Qedushah, über die du uns geschrieben hast, [darüber] dass wir die Qedushah nur von Schabbat zu Schabbat sagen. Und so haben uns unsere Lehrer seligen Andenkens gelehrt:\n\nWarum sagen wir die Qedushah am Schabbat und nicht am Werktag? Weil an den sechs Tagen des Anfangs keine Heiligkeit geschrieben steht und am Schabbat Heiligkeit geschrieben steht, wie es heißt: „Und Gott segnete den siebten Tag und heiligte ihn“ (Gen 2,3) … Und warum sagt man sie an Neumonden und an Festzeiten? Wie danach gesagt wird: „das Brandopfer [...] Monat für Monat“ usw. (vgl. Num 28,14) — das ist aus der Schrift.\n\nWoher aus der Mischna? Es lehrte R. Ḥiyya: Jeder Tag, an dem ein Musaf ist, an dem ist eine Qedushah, und an dem kein Musaf ist, an dem ist keine Qedushah — ausgenommen Chanukka, an dem, obwohl kein Musaf ist, eine Qedushah ist, weil an ihm Hallel ist.\n\nWoher aus dem Talmud? Es sagte R. Schmuel bar Abudimi (jBerachot 3,2): Und das [gilt von dem], der in die Synagoge eintritt und sie stehend und betend findet — wenn er weiß, spricht er die Benediktionen bis „[Du bist heilig]“ am Werktag. Daraus haben wir gelernt, dass es am Werktag keine Qedushah gibt.",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 273,
+        "value": "qedushah",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "Palestinian custom",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
-  },
-  "103": {
-    "id": 103,
-    "order": "74.00000000000000000000",
-    "title": "Tshuvat Bavel",
-    "text": "לפנינו [על] שאין [אנו] אומרים קדושה אלא משבת לשבת וכך למדונו רבותינו ז\"ל:\nלמה אנו אומרים קדושה בשבת ולא בחול, שאין כתוב בששת ימי בראשית קדושה ובשבת\nכתוב קדושה שנאמר: ויברך אלקים את יום השביעי ויקדש אותו... ולמה אומרים\nבראשי חדשים ובמועדים, כמו שנאמר אחרי כן: עולת תמיד לחודש וגו', הרי מן המקרא.\nמן המשנה מניין: תני ר' חייא, כל יום שיש בו מוסף יש בו קדושה ושאין בו מוסף אין\nבו קדושה, חוץ מחנוכה שאע\"פ שאין בו מוסף יש בו קדושה מפני שיש בו הלל. מן\nהתלמוד מניין: אמר רבי שמואל בר אבו דימי , והוא שנכנס לבית הכנסת ומצאן עומדים\nומתפללים אם יודע גורס בברכות, עד ת' בחול, הא למדנו שאין קדושה בחול.",
-    "loi_id": "loi_passage__103",
-    "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 299,
+        "value": "Ereẓ Shinʿar",
+        "order": "44.00000000000000000000"
+      }
+    ]
   },
   "104": {
     "id": 104,
     "order": "75.00000000000000000000",
-    "title": "min haTosafot",
-    "text": "כתוב בתשובות הגאונים שאין בני ארץ ישראל אומרים קדושה אלא בשבת דכתיב",
+    "title": "The Sixth Wing: Why the Land Sings on the Sabbath Tosafot Sanhedrin 37b:11",
+    "text": "כתוב בתשובות הגאונים שאין בני ארץ ישראל אומרים \n\nקדושה אלא בשבת דכתיב\n\nגבי חיות: שש כנפים לאחד. וכל כנף הוא אומר שירה אחת ביום בששת ימי החול וכשיגיע  \nשבת אומרים החיות לפני המקום: רבש\"ע, אין לנו עוד כנף ! והקב\"ה משיב להם: יש לי  \nעוד כנף אחד שאומר לפני שירה שנאמר: מכנף הארץ זמירות שמענו.",
     "loi_id": "loi_passage__104",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 310,
+        "value": "Isaiah 6:2",
+        "order": "125.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "Isaiah 24:16",
+        "order": "126.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 313,
+        "value": "Geonic responsum on the Palestinian Sabbath qedushah",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es steht geschrieben in den Responsen der Geonim, dass die Bewohner von Ereẓ Israel die Qedushah nur am Schabbat sagen, denn es steht bei den Chajot geschrieben: „sechs Flügel hat ein jeder“ (Jes 6,2). Und jeder Flügel sagt ein Lied an einem Tag an den sechs Werktagen. Und wenn der Schabbat kommt, sagen die Chajot vor ha-Maqom: Herr der Welt, wir haben keinen Flügel mehr! Und der Heilige, gepriesen sei er, antwortet ihnen: Ich habe noch einen Flügel, der vor mir ein Lied sagt, wie es heißt: „Vom Flügel der Erde haben wir Gesänge gehört“ (Jes 24,16).",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 273,
+        "value": "qedushah",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "Palestinian custom",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
-  },
-  "105": {
-    "id": 105,
-    "order": "76.00000000000000000000",
-    "title": "Tosafot Sanhedrin 37b:11",
-    "text": "גבי חיות: שש כנפים לאחד. וכל כנף הוא אומר שירה אחת ביום בששת ימי החול וכשיגיע\nשבת אומרים החיות לפני המקום: רבש\"ע, אין לנו עוד כנף ! והקב\"ה משיב להם: יש לי\nעוד כנף אחד שאומר לפני שירה שנאמר: מכנף הארץ זמירות שמענו.",
-    "loi_id": "loi_passage__105",
-    "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "106": {
     "id": 106,
     "order": "77.00000000000000000000",
-    "title": "[punishments / fines] (untitled)",
-    "text": "במדבר מירושלים והיה אחד בהן שהיה חייב לערבים ק' זהובים. וגם היה בהם אחד שקלל\nהמלך, ובהרגיש היהודי בעל החוב של הערבי קול נושיהו ברח ונשאר ממונו ביד היהודים,\nוהיהודי שקלל המלך נשאר. כיון שהאיר הבוקר פגעו באותן הישמעאלים והכירום, אמר\nלהן הערבי: תנו לי ממון פלוני שעמכם או השבעו לי שאינו אצלכם והיפטרו, ואי לאו\nניקח כל אשר לכם. ועל יראת השבועה בקשו להתפטר ולא יוכלו, ונתנו לו הממון בחובו\nונפטרו. אחר כך אמר סרדיוט המלך שהוא מושכר תמיד לישמעאלים: יש אחד ביניכם\nשקילל המלך תנוהו לי ואוליכנו לפניו. אמרו: אין בינינו אדם שקילל המלך ומזה נשבע\nלך. אמר להן: דבר זה היתר אצליכם להציל נפש, ואף-על-פי-כן אוליך אתכם לפני המלך\nואקח את כל ממוניכם. ורצו ליתן ממון גדול ולא קיבל והתחיל לתופסן ולאוסרן, מיד, וקפץ\nאחד מהם והפריש שם אותו יהודי, מיד תפסו והוליכו אצל המלך ודנו המלך בייסורין עד\nמותו ונפטרו כולם, כיון שהגיעו ליישוב בא היהודי ובקש ממונו מחביריו. ואמרו: כבר\nנתנוהו לבעל חובך, השיב: שלא ברשותי עשיתם לכן תחזירו לי. גם קרובי מקלל המלך\nרוצים להשמיד כל בני השיירא ותפסו היהודי שפירש שם המקלל ורוצים להרגו. וכן באר\nלנו אם יש להחזיר הממון ליהודי, ואותו שמסר חבירו לסרדיוט אם חייב מיתה או גלות,\nוסלקנו ממכשול.\n[תשובה] כן הראוני מן השמים שאינכם חייבים לשלם ליהודי אפילו פרוטה...\nועל היהודי שקלל המלך... כיון שלא יכלו להציל לפי שייחד להם סימן ואומר\nתנו לי איש פלוני שחייב מיתה בבירור נקיים הם מעון כדאיתא בירושלמי פ\"ח דתרומות\n[ה'\"י]... וזה שקפץ ומסרו חייב גלות ומלקות וחייב ליתן ממונו לעניים",
+    "title": "The Great Court in Jerusalem Rules on a Caravan",
+    "text": "נשאל למר רב שלום בבית דין הגדול שבירושלים על שיירא שהיתה מהלכת\n\nבמדבר מירושלים והיה אחד בהן שהיה חייב לערבים ק' זהובים. וגם היה בהם אחד שקלל  \nהמלך, ובהרגיש היהודי בעל החוב של הערבי קול נושיהו ברח ונשאר ממונו ביד היהודים,  \nוהיהודי שקלל המלך נשאר. כיון שהאיר הבוקר פגעו באותן הישמעאלים והכירום, אמר  \nלהן הערבי: תנו לי ממון פלוני שעמכם או השבעו לי שאינו אצלכם והיפטרו, ואי לאו  \nניקח כל אשר לכם. ועל יראת השבועה בקשו להתפטר ולא יוכלו, ונתנו לו הממון בחובו  \nונפטרו. אחר כך אמר סרדיוט המלך שהוא מושכר תמיד לישמעאלים: יש אחד ביניכם  \nשקילל המלך תנוהו לי ואוליכנו לפניו. אמרו: אין בינינו אדם שקילל המלך ומזה נשבע  \nלך. אמר להן: דבר זה היתר אצליכם להציל נפש, ואף-על-פי-כן אוליך אתכם לפני המלך  \nואקח את כל ממוניכם. ורצו ליתן ממון גדול ולא קיבל והתחיל לתופסן ולאוסרן, מיד, וקפץ  \nאחד מהם והפריש שם אותו יהודי, מיד תפסו והוליכו אצל המלך ודנו המלך בייסורין עד  \nמותו ונפטרו כולם, כיון שהגיעו ליישוב בא היהודי ובקש ממונו מחביריו. ואמרו: כבר  \nנתנוהו לבעל חובך, השיב: שלא ברשותי עשיתם לכן תחזירו לי. גם קרובי מקלל המלך  \nרוצים להשמיד כל בני השיירא ותפסו היהודי שפירש שם המקלל ורוצים להרגו. וכן באר  \nלנו אם יש להחזיר הממון ליהודי, ואותו שמסר חבירו לסרדיוט אם חייב מיתה או גלות,  \nוסלקנו ממכשול.  \n\\[תשובה\\] כן הראוני מן השמים שאינכם חייבים לשלם ליהודי אפילו פרוטה...  \nועל היהודי שקלל המלך... כיון שלא יכלו להציל לפי שייחד להם סימן ואומר  \nתנו לי איש פלוני שחייב מיתה בבירור נקיים הם מעון כדאיתא בירושלמי פ\"ח דתרומות  \n\\[ה'\"י\\]... וזה שקפץ ומסרו חייב גלות ומלקות וחייב ליתן ממונו לעניים",
     "loi_id": "loi_passage__106",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 111,
+        "value": "yTerumot 8",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 315,
+        "value": "Responsum of Mar Rav Shalom of the Great Court in Jerusalem",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es wurde Mar Rav Schalom im Großen Bet Din zu Jerusalem angefragt wegen einer Karawane, die in der Wüste von Jerusalem her zog. Und es war einer unter ihnen, der den Arabern hundert Goldstücke schuldete. Und es war auch einer unter ihnen, der dem König geflucht hatte. Und als der Jude, der Schuldner des Arabers, die Stimme seines Gläubigers wahrnahm, floh er, und sein Geld blieb in der Hand der Juden; der Jude aber, der dem König geflucht hatte, blieb.\n\nAls der Morgen anbrach, stießen sie auf jene Ismaeliten, und diese erkannten sie. Da sagte der Araber zu ihnen: Gebt mir das Geld des Soundso, das bei euch ist, oder schwört mir, dass es nicht bei euch ist, und seid frei; und wenn nicht, nehmen wir alles, was ihr habt. Und aus Furcht vor dem Schwur suchten sie freizukommen und konnten es nicht, und sie gaben ihm das Geld für seine Schuld, und sie wurden entlassen.\n\nDanach sagte ein Sardiyot des Königs, der beständig an die Ismaeliten verdingt ist: Es ist einer unter euch, der dem König geflucht hat — gebt ihn mir, und ich bringe ihn vor ihn. Sie sagten: Es ist unter uns kein Mensch, der dem König geflucht hat, und darauf schwört man dir. Er sagte zu ihnen: Diese Sache ist euch erlaubt, um ein Leben zu retten — und dennoch bringe ich euch vor den König und nehme euer ganzes Geld. Und sie wollten ihm viel Geld geben, und er nahm es nicht an und begann sie zu ergreifen und zu fesseln. Sogleich sprang einer von ihnen hervor und nannte dort den Namen jenes Juden. Sogleich ergriffen sie ihn und brachten ihn zum König, und der König verurteilte ihn zu Qualen bis zu seinem Tod, und alle wurden entlassen.\n\nAls sie zur Siedlung kamen, kam der Jude und forderte sein Geld von seinen Gefährten. Sie sagten: Wir haben es bereits deinem Gläubiger gegeben. Er entgegnete: Ohne meine Erlaubnis habt ihr es getan, darum gebt es mir zurück. Auch die Verwandten dessen, der dem König geflucht hatte, wollen alle Leute der Karawane vernichten, und sie haben den Juden ergriffen, der dort den Namen des Fluchenden nannte, und wollen ihn töten. Und so erkläre uns, ob das Geld dem Juden zurückzugeben ist, und ob der, der seinen Gefährten dem Sardiyot ausgeliefert hat, des Todes oder der Verbannung schuldig ist, und nimm uns den Anstoß hinweg.\n\n[Antwort] So haben sie es mir vom Himmel gezeigt: dass ihr dem Juden nicht einmal eine Peruta zu zahlen habt …\n\nUnd wegen des Juden, der dem König geflucht hat … da sie ihn nicht retten konnten, weil er ihnen ein Kennzeichen bestimmt hatte und sagte: Gebt mir den Soundso, der zweifelsfrei des Todes schuldig ist — sind sie frei von Schuld, wie es im Jeruschalmi, Kap. 8 von Terumot [Hal. 10], steht … Und der, der hervorsprang und ihn auslieferte, ist der Verbannung und der Geißelung schuldig und muss sein Geld den Armen geben.",
+    "page": "23",
+    "keywords": [
+      {
+        "id": 279,
+        "value": "Great Court of Jerusalem",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 280,
+        "value": "Palestinian geonim",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 281,
+        "value": "Yerushalmi as authority",
+        "order": "65.00000000000000000000"
+      },
+      {
+        "id": 282,
+        "value": "mesirah",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      }
+    ]
   },
   "107": {
     "id": 107,
     "order": "78.00000000000000000000",
-    "title": "Tshuvat Eretz Jisrael",
+    "title": "Lest the Common Say There Are No Fines Nowadays",
     "text": "וששאלתם על עסק קנסות החובל בחבירו שמן הדין לשום שמאין ויהיו שמין\nחבורתו והוא משלם קנסו. ואם תמצא לומר שאין קנס בזמן הזה יעמדו אנשים הדיוטים\nויזלזלו באנשים מכובדים ואומרים: אין קנס בזמן הזה.",
     "loi_id": "loi_passage__107",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 316,
+        "value": "Geonic responsum on fines for personal injury",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt in der Sache der Bußen bei dem, der seinen Nächsten verletzt: Von Rechts wegen sind Schätzer einzusetzen, und sie schätzen seine Wunde, und er zahlt seine Buße. Und wollte man sagen, dass es in dieser Zeit keine Buße gibt, so würden sich Laien (hedyoṭot) erheben und angesehene Menschen geringschätzen und sagen: In dieser Zeit gibt es keine Buße.",
+    "page": "IV, Gate 1, no. 7",
+    "keywords": [
+      {
+        "id": 280,
+        "value": "Palestinian geonim",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "jurisdiction",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
   },
   "108": {
     "id": 108,
     "order": "79.00000000000000000000",
-    "title": "Tschuvat Erets Israel",
+    "title": "A Palestinian Ruling on the Kenas for Injury",
     "text": "אדם שהוא חובל בחבירו ועושה בו חבורה בן [=בין] מתכוון ובין אינו מתכוון\nיהי נותן קינסון [=קנס].",
     "loi_id": "loi_passage__108",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 317,
+        "value": "Palestinian responsum on the fine for wounding",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "german_translation": "Ein Mensch, der seinen Nächsten verletzt und ihm eine Wunde zufügt, sei es mit Absicht, sei es ohne Absicht — der gibt Buße (qenas).",
+    "page": "117",
+    "keywords": [
+      {
+        "id": 280,
+        "value": "Palestinian geonim",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 285,
+        "value": "Palestinian jurisdiction",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
   },
   "109": {
     "id": 109,
     "order": "80.00000000000000000000",
-    "title": "Tschuvat Rav Natronai Gaon",
+    "title": "Natronai Gaon on Fines and Injuries outside the Land",
     "text": "וששאלתם דיני קנסות וחבלות דנין בחוץ לארץ או לאו. כך ראינו שאין דיני קנסות\nבבבל... וכל שכן בשאר ארצות.",
     "loi_id": "loi_passage__109",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 318,
+        "value": "Responsum of Rav Natronai Gaon on fines and injuries outside the Land",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt, ob man Rechtsfälle von Bußen und Körperverletzungen außerhalb des Landes richtet oder nicht: So haben wir gesehen, dass es kein Bußenrecht in Bavel gibt … und erst recht nicht in den übrigen Ländern.",
+    "page": "IV, Gate 1, no. 2",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "jurisdiction",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 300,
+        "value": "She’ar Araẓot",
+        "order": "45.00000000000000000000"
+      }
+    ]
   },
   "110": {
     "id": 110,
     "order": "81.00000000000000000000",
-    "title": "Chemda Gnusa",
+    "title": "Send Him with Me to the Land: The Injured Party’s Right of Venue",
     "text": "ושפירשתם... אין דנין דיני קנסות בבבל... ואם טוען אותו נחבל שלחוהו עמי\nלזה שחבל בי לארץ ישראל שדנין דיני קנסות וחבלות, משלחין אותו לארץ ישראל. ואם\nאינו הולך עמו מנדין אותו ועושין בו דין שכך אמרו חכמים …",
     "loi_id": "loi_passage__110",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 319,
+        "value": "Geonic responsum on referring cases of fines to the Land of Israel",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr dargelegt habt … man richtet keine Bußenfälle in Bavel … Und wenn jener Verletzte vorbringt: Schickt ihn mit mir, den, der mich verletzt hat, nach Ereẓ Israel, wo man Rechtsfälle von Bußen und Körperverletzungen richtet — so schickt man ihn nach Ereẓ Israel. Und wenn er nicht mit ihm geht, belegt man ihn mit dem Niddui und verfährt mit ihm nach Recht, denn so sagten die Weisen […]",
+    "page": "49",
+    "keywords": [
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 285,
+        "value": "Palestinian jurisdiction",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 286,
+        "value": "niddui",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "111": {
     "id": 111,
     "order": "82.00000000000000000000",
-    "title": "Tshuvat an Rav Matityahu Gaon",
+    "title": "Lashes and Ban in Babylonia, Four Hundred Zuz in the Land",
     "text": "ראובן שרקק בפני אשה אבל אין העדים יודעים אם נגע בה הרוק אם לא... כיון\nשלא הכה הרוק, בושת קל הוא. שאם הגיע בה הרוק מלקין ומנדין אותו בבבל, ובארץ\nישראל היינו גובין ארבע מאות זוז.",
     "loi_id": "loi_passage__111",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 112,
+        "value": "mBava Qamma 8:6",
+        "order": "16.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 320,
+        "value": "Responsum of Rav Mattityahu Gaon on humiliation by spitting",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "german_translation": "Reuben, der vor einer Frau spie, aber die Zeugen wissen nicht, ob der Speichel sie berührt hat oder nicht … Da der Speichel sie nicht [getroffen?] hat, ist es eine geringe Beschämung (boshet). Denn wenn der Speichel sie erreicht hätte, geißelt man ihn und belegt ihn mit dem Bann in Bavel, und in Ereẓ Israel zögen wir vierhundert Zuz ein (vgl. mBava Qamma 8,6).",
+    "page": "kelal 5, no. 48 [29]",
+    "keywords": [
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "jurisdiction",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "112": {
     "id": 112,
     "order": "83.00000000000000000000",
-    "title": "Shaala von Rav Chaninya Gaon",
+    "title": "What Profit Has She in Her Fine? Kenas between Spouses",
     "text": "האיש שרב את אשתו ואחז בשערה ונשמט משערה בידו יש לה קנס במה שעשה\nלה בעלה...? תשובה... קנס יש לה... אבל היום אין אנו דנין דיני קנסות ולא\nמגבין בבבל... ובמקום נמי שמגנין קנסות בארץ ישראל קנס דא\"א [=דאשת איש]\nהלא של בעל היא לפי שכל מה שקנתה אשה קנה בעלה. וכיון שהדבר כן מה יתרון לה\nבקנסה.",
     "loi_id": "loi_passage__112",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 312,
+        "value": "mKetubot 6:1",
+        "order": "127.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 321,
+        "value": "Query to Rav Ḥananyah Gaon on the fine between spouses",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "german_translation": "Der Mann, der mit seiner Frau stritt und sie an ihrem Haar packte, und es löste sich von ihrem Haar in seiner Hand — steht ihr eine Buße zu für das, was ihr Mann ihr angetan hat …?\n\nAntwort: … Eine Buße steht ihr zu … Aber heute richten wir keine Bußenfälle und ziehen [sie] in Bavel nicht ein … Und auch an dem Ort, wo man Bußen einzieht, in Ereẓ Israel: Die Buße einer Ehefrau — gehört sie nicht dem Mann? Denn alles, was eine Frau erwirbt, hat ihr Mann erworben (mKetubbot 6,1). Und da die Sache so steht, was ist ihr Gewinn an ihrer Buße?",
+    "page": "II, p. 34",
+    "keywords": [
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "jurisdiction",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 287,
+        "value": "boshet",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "113": {
     "id": 113,
     "order": "84.00000000000000000000",
-    "title": "Tschuvat hageonim aus dem Buch Adam und Eva",
+    "title": "A Hundredfold, but Not outside the Land: Selling Cattle to a Gentile",
     "text": "ואם מכר בהמה גסה לגוי קונסין אותו בכדי מאה בדמיו... וכתב גאון כי זהו\nקנס ואין דנין אותו בחוצה לארץ.",
     "loi_id": "loi_passage__113",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 322,
+        "value": "Geonic ruling on the penalty for selling cattle to gentiles",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und wenn er Großvieh an einen Nichtjuden verkauft hat, bestraft man ihn bis zum Hundertfachen seines Wertes … Und ein Gaon schrieb, dass dies eine Buße (qenas) ist und man sie außerhalb des Landes nicht richtet.",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "jurisdiction",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 288,
+        "value": "selling cattle to gentiles",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "114": {
     "id": 114,
     "order": "85.00000000000000000000",
-    "title": "Otzar Gaon",
+    "title": "Collected Everywhere: The Fine for Shaming a Scholar",
     "text": "כבר נפסק הדין, שכל המבייש תלמיד חכם אפילו בדברים, קונסין אותו וגובין ממנו\nמשקל ל\"ה דינר מן הזהב... וקבלה היא בידינו שגובין קנס זה בכל מקום בין בארץ בין\nבחוצה לארץ.",
     "loi_id": "loi_passage__114",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 323,
+        "value": "Geonic ruling on the fine for shaming a scholar",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es ist bereits entschieden, dass jeder, der einen Gelehrten beschämt, sei es auch nur mit Worten, mit einer Buße belegt wird und man von ihm das Gewicht von 35 Golddinaren einzieht … Und Qabbalah ist in unserer Hand, dass man diese Buße an jedem Ort einzieht, sei es im Lande, sei es außerhalb des Landes.",
+    "page": "no. 214",
+    "keywords": [
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "jurisdiction",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 289,
+        "value": "shaming a scholar",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Ha-Areẓ",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "115": {
     "id": 115,
     "order": "86.00000000000000000000",
-    "title": "Toraton shel Rishonim",
+    "title": "In Bavel the Ketubbah Is Paid in Full",
     "text": "מורדת הפסידה כתובתה בלאיתיה קיימין ולא שנא דידה ולא שנא דידיה. והני\nמילי בארץ ישראל דאית להון רשות למיקנס, אבל בבבל דלא קנסינן, אי תפיש ואי\nיהב גיטא משלם כתובתא עד גמירא .",
     "loi_id": "loi_passage__115",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 324,
+        "value": "Geonic ruling on the rebellious wife and the ketubbah",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "german_translation": "Eine Moredet hat ihre Ketubba verwirkt; ihre belaʾot bleiben bestehen, und es macht keinen Unterschied, ob es die ihren sind oder die seinen. Und diese Worte [gelten] in Ereẓ Israel, wo sie die Befugnis haben zu strafen; aber in Bavel, wo wir nicht strafen, zahlt er, ob er [etwas] an sich genommen hat oder ob er den Scheidebrief gegeben hat, die Ketubba vollständig.",
+    "page": "II, p. 16",
+    "keywords": [
+      {
+        "id": 226,
+        "value": "ketubbah",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "jurisdiction",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 290,
+        "value": "moredet",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "116": {
     "id": 116,
     "order": "87.00000000000000000000",
-    "title": "Tshuvat Rav Zemach Gaon",
+    "title": "They Fine Him from the Gifts: Palestinian Practice against an Offending Priest",
     "text": "כהן דעבר ונסיב גרושה... כהן פושע הוא... ומתבעי לשמותיה עד דפריש\nמינה... ובני ארץ ישראל קנסין ליה להאי מן מתנות. ואי הוו חיישין דאזיל לדוכתא\nאחריתא ופריס ידיה, הוו קצין ליה לראש אצבעתיה וקבעין ביה מומא דלא ליפרוס ידיה.\nודווקא דלא הדר ביה.",
     "loi_id": "loi_passage__116",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 325,
+        "value": "Responsum of Rav Ṣemaḥ Gaon on a priest married to a divorcée",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "german_translation": "Ein Priester, der übertrat und eine Geschiedene heiratete … ist ein vorsätzlicher Übertreter … und man muss ihn mit der Schamta belegen, bis er sich von ihr trennt … Und die Bewohner von Ereẓ Israel strafen ihn bei den Gaben. Und wenn sie besorgten, dass er an einen anderen Ort ginge und dort seine Hände ausbreitete, schnitten sie ihm die Spitze seines Fingers ab und setzten an ihm einen Makel, damit er seine Hände nicht ausbreite. Und zwar [nur], wenn er nicht davon abgeht.",
+    "page": "49",
+    "keywords": [
+      {
+        "id": 283,
+        "value": "kenasot",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 285,
+        "value": "Palestinian jurisdiction",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "117": {
     "id": 117,
     "order": "88.00000000000000000000",
-    "title": "Rav Hai Gaon",
+    "title": "No Power to Release an Oath in the Latter Generations",
     "text": "וששאלתם... מי שיצרו מתגבר עליו וקפץ ונשבע בתורה... שאשה פקלונית לא\nתהיה אשתו לעולם ואחר כך מתחרט על שבועתו... כך ראינו, שבדורות האחרונים אין\nכוח באדם לעולם להתיר שבועה ולהפר כלל, לא בארץ ישראל ולא בחוצה לארץ וכך\nהשיב מר רב האי בר מר רב נחשון גאון ז'יל לבני מערב.",
     "loi_id": "loi_passage__117",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 326,
+        "value": "Geonic responsum on the release of oaths",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt … einer, dessen Trieb ihn übermannte und der hinsprang und bei der Tora schwor …, dass die Frau N.N. niemals seine Frau sein werde, und danach seinen Schwur bereut … So haben wir gesehen, dass in den letzten Generationen kein Mensch jemals die Kraft hat, einen Schwur zu lösen oder [ihn] aufzuheben, überhaupt nicht — weder in Ereẓ Israel noch außerhalb des Landes. Und so antwortete Mar Rav Hai bar Mar Rav Naḥschon Gaon seligen Andenkens den Leuten des Westens.",
+    "page": "ot gimel, no. 59 (geṭ)",
+    "keywords": [
+      {
+        "id": 291,
+        "value": "oaths",
+        "order": "75.00000000000000000000"
+      },
+      {
+        "id": 292,
+        "value": "authority of the sages",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "118": {
     "id": 118,
     "order": "89.00000000000000000000",
-    "title": "Kahal Tiberia",
+    "title": "A Release without a Torah Scroll: The Community of Tiberias",
     "text": "מצאתי בשם גאונים על קהל טבריה שנדו והחרימו את ראובן ושמעון בספרי\\\nתורה ואותו היום יום טוב היה והיו כל ספרי תורה מוצאין, כי כן נהגו להוציא בו ביום,\\\nלימים נתחרטו הקהל על אשר עשו והסכימו, והתירו הנדוי והחרם. והיום שהתירו חול היה.\\\nונשאל לגאון אם אותו היתר שנעשה בלא ספר תורה מועיל להתיר הגזירה הנעשה בספר\\\nתורה.\\\nוהשיב, כה דעתי נוטה. שאותו היתר, היתר גמור הוא... שכך מצינו כשברכו רז\"ל\\\nאת רבי אליעזר הגדול אותו היום חול היה. ומנין שחול היה ? שנינו: אף הוא קרע\\\nאת בגדיו, אלמא חול היה, וכיון דחול היה אי אפשר להם לחכמי ישראל שלא היו להם\\\nתפילין בראשיהם ובזרועותיהם, והוי להו כספרי תורה, שאין תלמידי חכמים בלא תפילין\\\nלכתחילה. וכשהתירוהו, אותו היום ערב שבת היה עם חשיכה וכבר קדש היום, וכיון\\\nדקדש היום לאו זמן תפילין הוא, עמד רבי יהושע על רגליו ואמר: הותר הנדר... שמע\\\nמינה התיר בלא ספר תורה היתר גמור הוא.",
     "loi_id": "loi_passage__118",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 313,
+        "value": "bBava Metzia 59b",
+        "order": "128.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
+    "work": [
+      {
+        "id": 327,
+        "value": "Geonic responsum on releasing a ban without a Torah scroll",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "german_translation": "Ich fand im Namen der Geonim über die Gemeinde von Ṭeveryah, die Reuben und Schimon mit Bann und Ḥerem belegten bei Torarollen, und jener Tag war ein Festtag, und alle Torarollen waren herausgebracht, denn so war ihr Brauch, an jenem Tag herauszubringen. Nach einiger Zeit bereute die Gemeinde, was sie getan hatte, und sie kamen überein und lösten den Bann und den Ḥerem. Und der Tag, an dem sie lösten, war ein Werktag. Und man fragte den Gaon, ob jene Lösung, die ohne Torarolle geschah, wirksam sei, die Verfügung zu lösen, die bei einer Torarolle geschehen war.\n\nUnd er antwortete: So neigt meine Meinung, dass jene Lösung eine vollgültige Lösung ist … Denn so finden wir: Als unsere Lehrer seligen Andenkens R. Eliezer den Großen [mit dem Bann belegten], war jener Tag ein Werktag. Und woher, dass es ein Werktag war? Wir haben gelernt (bBava Meẓiʿa 59b): Auch er zerriss seine Kleider — also war es ein Werktag. Und da es ein Werktag war, ist es unmöglich, dass die Weisen Israels nicht Tefillin an ihren Häuptern und an ihren Armen hatten, und sie sind ihnen wie Torarollen, denn Gelehrte sind von vornherein nicht ohne Tefillin. Und als sie ihn lösten, war jener Tag ein Schabbatvorabend bei Einbruch der Dunkelheit, und der Tag war bereits geheiligt; und da der Tag geheiligt war, ist es nicht die Zeit der Tefillin. Da erhob sich R. Jehoschua auf seine Füße und sagte: Das Gelübde ist gelöst … Daraus hörst du: Eine Lösung ohne Torarolle ist eine vollgültige Lösung.",
     "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "keywords": [
+      {
+        "id": 286,
+        "value": "niddui",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 293,
+        "value": "ḥerem",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 294,
+        "value": "release of bans",
+        "order": "78.00000000000000000000"
+      },
+      {
+        "id": 295,
+        "value": "Tiberias",
+        "order": "79.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 301,
+        "value": "Qehal Ṭeveryah",
+        "order": "46.00000000000000000000"
+      }
+    ]
   },
   "119": {
     "id": 119,

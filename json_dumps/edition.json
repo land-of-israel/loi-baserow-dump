@@ -596,6 +596,11 @@
         "id": 222,
         "value": "Responsum on conveyance upon the four cubits in the Land of Israel",
         "order": "30.00000000000000000000"
+      },
+      {
+        "id": 317,
+        "value": "Palestinian responsum on the fine for wounding",
+        "order": "60.00000000000000000000"
       }
     ],
     "publisher": "HaMedafis",
@@ -857,6 +862,16 @@
         "id": 260,
         "value": "Geonic Responsum on the Slave Who Flees to the Land of Israel",
         "order": "36.00000000000000000000"
+      },
+      {
+        "id": 316,
+        "value": "Geonic responsum on fines for personal injury",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 318,
+        "value": "Responsum of Rav Natronai Gaon on fines and injuries outside the Land",
+        "order": "61.00000000000000000000"
       }
     ],
     "publisher": "Klal uFrat",
@@ -932,6 +947,16 @@
         "id": 264,
         "value": "Toratan shel Rishonim II",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 321,
+        "value": "Query to Rav Ḥananyah Gaon on the fine between spouses",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 324,
+        "value": "Geonic ruling on the rebellious wife and the ketubbah",
+        "order": "67.00000000000000000000"
       }
     ],
     "publisher": "Zvi Hirsch Iztkowski",
@@ -1052,6 +1077,11 @@
         "id": 308,
         "value": "Responsum of Rav Paltoy Gaon on peʾah and shikheḥah outside the Land",
         "order": "51.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "Letter of the people of the Land of Israel to the head of the academy of Shinar",
+        "order": "55.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -1167,6 +1197,217 @@
     ],
     "loi_id": "loi_parallel__263",
     "works": [],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "264": {
+    "id": 264,
+    "order": "40.00000000000000000000",
+    "label": "Tosafot Sanhedrin 37b",
+    "editor": [],
+    "loi_id": "loi_parallel__264",
+    "works": [
+      {
+        "id": 313,
+        "value": "Geonic responsum on the Palestinian Sabbath qedushah",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "265": {
+    "id": 265,
+    "order": "41.00000000000000000000",
+    "label": "Sura I",
+    "editor": [],
+    "loi_id": "loi_parallel__265",
+    "works": [
+      {
+        "id": 314,
+        "value": "Responsum of Mar Rav Shalom of the Great Court in Jerusalem",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 315,
+        "value": "Responsum of Mar Rav Shalom of the Great Court in Jerusalem",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "publisher": "Sura Yerushalayim",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1954"
+  },
+  "266": {
+    "id": 266,
+    "order": "42.00000000000000000000",
+    "label": "Hemdah Genuzah",
+    "editor": [],
+    "loi_id": "loi_parallel__266",
+    "works": [
+      {
+        "id": 319,
+        "value": "Geonic responsum on referring cases of fines to the Land of Israel",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1863"
+  },
+  "267": {
+    "id": 267,
+    "order": "43.00000000000000000000",
+    "label": "She’elot u-Teshuvot Maharibal",
+    "editor": [
+      {
+        "id": 327,
+        "value": "Joseph ibn Lev",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__267",
+    "works": [
+      {
+        "id": 320,
+        "value": "Responsum of Rav Mattityahu Gaon on humiliation by spitting",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "268": {
+    "id": 268,
+    "order": "44.00000000000000000000",
+    "label": "Qoveẓ Shiṭṭot Qamma’ei, Giṭṭin IV (ha-Sholeaḥ), fol. 44a",
+    "editor": [
+      {
+        "id": 329,
+        "value": "Rabbenu Yehudah Almadari",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__268",
+    "works": [
+      {
+        "id": 322,
+        "value": "Geonic ruling on the penalty for selling cattle to gentiles",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "269": {
+    "id": 269,
+    "order": "45.00000000000000000000",
+    "label": "Otzar Ha-Geonim, Bava Qamma",
+    "editor": [],
+    "loi_id": "loi_parallel__269",
+    "works": [
+      {
+        "id": 323,
+        "value": "Geonic ruling on the fine for shaming a scholar",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "270": {
+    "id": 270,
+    "order": "46.00000000000000000000",
+    "label": "Halakhot Pesuqot min ha-Geonim",
+    "editor": [
+      {
+        "id": 331,
+        "value": "Joel Müller",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__270",
+    "works": [
+      {
+        "id": 325,
+        "value": "Responsum of Rav Ṣemaḥ Gaon on a priest married to a divorcée",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 216,
+        "value": "Krakow",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "year": "1893"
+  },
+  "271": {
+    "id": 271,
+    "order": "47.00000000000000000000",
+    "label": "Mishkenot ha-Roʿim",
+    "editor": [],
+    "loi_id": "loi_parallel__271",
+    "works": [
+      {
+        "id": 326,
+        "value": "Geonic responsum on the release of oaths",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "272": {
+    "id": 272,
+    "order": "48.00000000000000000000",
+    "label": "Qoveẓ Shiṭṭot Qamma’ei, Sanhedrin VII, fol. 68a",
+    "editor": [],
+    "loi_id": "loi_parallel__272",
+    "works": [
+      {
+        "id": 327,
+        "value": "Geonic responsum on releasing a ban without a Torah scroll",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "273": {
+    "id": 273,
+    "order": "49.00000000000000000000",
+    "label": "Shibbolei ha-Leqeṭ, din ḥerem we-taqqanat qahal no. 49",
+    "editor": [],
+    "loi_id": "loi_parallel__273",
+    "works": [
+      {
+        "id": 327,
+        "value": "Geonic responsum on releasing a ban without a Torah scroll",
+        "order": "70.00000000000000000000"
+      }
+    ],
     "publisher": "",
     "place": [],
     "year": null

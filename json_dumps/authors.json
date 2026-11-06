@@ -721,5 +721,111 @@
         "order": "37.00000000000000000000"
       }
     ]
+  },
+  "324": {
+    "id": 324,
+    "order": "47.00000000000000000000",
+    "name": "anonymous (Palestinian)",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__324",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "325": {
+    "id": 325,
+    "order": "48.00000000000000000000",
+    "name": "Rav Shalom",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__325",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "326": {
+    "id": 326,
+    "order": "49.00000000000000000000",
+    "name": "Mattityahu Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__326",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "327": {
+    "id": 327,
+    "order": "50.00000000000000000000",
+    "name": "Joseph ibn Lev",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__327",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 267,
+        "value": "She’elot u-Teshuvot Maharibal",
+        "order": "43.00000000000000000000"
+      }
+    ]
+  },
+  "328": {
+    "id": 328,
+    "order": "51.00000000000000000000",
+    "name": "Ḥananyah Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__328",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "329": {
+    "id": 329,
+    "order": "52.00000000000000000000",
+    "name": "Rabbenu Yehudah Almadari",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__329",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 268,
+        "value": "Qoveẓ Shiṭṭot Qamma’ei, Giṭṭin IV (ha-Sholeaḥ), fol. 44a",
+        "order": "44.00000000000000000000"
+      }
+    ]
+  },
+  "330": {
+    "id": 330,
+    "order": "53.00000000000000000000",
+    "name": "Zermakh Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__330",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "331": {
+    "id": 331,
+    "order": "54.00000000000000000000",
+    "name": "Joel Müller",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__331",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 270,
+        "value": "Halakhot Pesuqot min ha-Geonim",
+        "order": "46.00000000000000000000"
+      }
+    ]
   }
 }

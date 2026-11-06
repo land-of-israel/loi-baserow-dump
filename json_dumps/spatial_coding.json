@@ -335,6 +335,81 @@
         "id": 100,
         "value": "Only the Vineyard Requires Redemption: Natronai Gaon",
         "order": "71.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "From Scripture, Mishnah and Talmud: The Palestinians Defend the Sabbath Qedushah",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "The Great Court in Jerusalem Rules on a Caravan",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "Lest the Common Say There Are No Fines Nowadays",
+        "order": "78.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "A Palestinian Ruling on the Kenas for Injury",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "Natronai Gaon on Fines and Injuries outside the Land",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "Send Him with Me to the Land: The Injured Party’s Right of Venue",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "Lashes and Ban in Babylonia, Four Hundred Zuz in the Land",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "What Profit Has She in Her Fine? Kenas between Spouses",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "A Hundredfold, but Not outside the Land: Selling Cattle to a Gentile",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "Collected Everywhere: The Fine for Shaming a Scholar",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "In Bavel the Ketubbah Is Paid in Full",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "They Fine Him from the Gifts: Palestinian Practice against an Offending Priest",
+        "order": "87.00000000000000000000"
+      },
+      {
+        "id": 117,
+        "value": "No Power to Release an Oath in the Latter Generations",
+        "order": "88.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "A Release without a Torah Scroll: The Community of Tiberias",
+        "order": "89.00000000000000000000"
       }
     ]
   },
@@ -549,6 +624,31 @@
         "id": 99,
         "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
         "order": "70.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "From Scripture, Mishnah and Talmud: The Palestinians Defend the Sabbath Qedushah",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "The Sixth Wing: Why the Land Sings on the Sabbath Tosafot Sanhedrin 37b:11",
+        "order": "75.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "The Great Court in Jerusalem Rules on a Caravan",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "A Release without a Torah Scroll: The Community of Tiberias",
+        "order": "89.00000000000000000000"
       }
     ]
   },
@@ -658,6 +758,11 @@
         "id": 76,
         "value": "The City That Cannot Become Unclean",
         "order": "47.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "The Sixth Wing: Why the Land Sings on the Sabbath Tosafot Sanhedrin 37b:11",
+        "order": "75.00000000000000000000"
       }
     ]
   }

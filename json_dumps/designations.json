@@ -292,6 +292,16 @@
         "id": 99,
         "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
         "order": "70.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "The Great Court in Jerusalem Rules on a Caravan",
+        "order": "77.00000000000000000000"
       }
     ],
     "form_he": "ירושלים",
@@ -521,6 +531,51 @@
         "id": 99,
         "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
         "order": "70.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "From Scripture, Mishnah and Talmud: The Palestinians Defend the Sabbath Qedushah",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "The Sixth Wing: Why the Land Sings on the Sabbath Tosafot Sanhedrin 37b:11",
+        "order": "75.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "Send Him with Me to the Land: The Injured Party’s Right of Venue",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "Lashes and Ban in Babylonia, Four Hundred Zuz in the Land",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "What Profit Has She in Her Fine? Kenas between Spouses",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "In Bavel the Ketubbah Is Paid in Full",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "They Fine Him from the Gifts: Palestinian Practice against an Offending Priest",
+        "order": "87.00000000000000000000"
+      },
+      {
+        "id": 117,
+        "value": "No Power to Release an Oath in the Latter Generations",
+        "order": "88.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -666,6 +721,26 @@
         "id": 99,
         "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
         "order": "70.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "Natronai Gaon on Fines and Injuries outside the Land",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "A Hundredfold, but Not outside the Land: Selling Cattle to a Gentile",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "Collected Everywhere: The Fine for Shaming a Scholar",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 117,
+        "value": "No Power to Release an Oath in the Latter Generations",
+        "order": "88.00000000000000000000"
       }
     ],
     "form_he": "חוצה לארץ",
@@ -794,6 +869,11 @@
         "id": 98,
         "value": "The Caper of Orlah: Permitted outside the Land, Forbidden within",
         "order": "69.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "Collected Everywhere: The Fine for Shaming a Scholar",
+        "order": "85.00000000000000000000"
       }
     ],
     "form_he": "הארץ",
@@ -858,6 +938,31 @@
         "id": 62,
         "value": "Who Today Knows Israel’s Genealogies?",
         "order": "33.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "Natronai Gaon on Fines and Injuries outside the Land",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "Send Him with Me to the Land: The Injured Party’s Right of Venue",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "Lashes and Ban in Babylonia, Four Hundred Zuz in the Land",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "What Profit Has She in Her Fine? Kenas between Spouses",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "In Bavel the Ketubbah Is Paid in Full",
+        "order": "86.00000000000000000000"
       }
     ],
     "form_he": "בבל",
@@ -1384,6 +1489,11 @@
         "id": 53,
         "value": "Customs of Persecution: Why the Land’s Practice Is Not Tradition",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
+        "order": "72.00000000000000000000"
       }
     ],
     "form_he": "אדום",
@@ -1692,6 +1802,102 @@
         "id": 215,
         "value": "Syria",
         "order": "24.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "298": {
+    "id": 298,
+    "order": "43.00000000000000000000",
+    "label": "Bavla’ei",
+    "loi_id": "loi_parallel__298",
+    "passages": [
+      {
+        "id": 101,
+        "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "form_he": "בבלאיין",
+    "source": [],
+    "gloss_en": "Babylonians (resident in the Land)",
+    "referent": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "299": {
+    "id": 299,
+    "order": "44.00000000000000000000",
+    "label": "Ereẓ Shinʿar",
+    "loi_id": "loi_parallel__299",
+    "passages": [
+      {
+        "id": 102,
+        "value": "From Scripture, Mishnah and Talmud: The Palestinians Defend the Sabbath Qedushah",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "form_he": "ארץ שנער",
+    "source": [
+      {
+        "id": 20,
+        "value": "Genesis 10:10",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the land of Shinar (Babylonia)",
+    "referent": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "300": {
+    "id": 300,
+    "order": "45.00000000000000000000",
+    "label": "She’ar Araẓot",
+    "loi_id": "loi_parallel__300",
+    "passages": [
+      {
+        "id": 109,
+        "value": "Natronai Gaon on Fines and Injuries outside the Land",
+        "order": "80.00000000000000000000"
+      }
+    ],
+    "form_he": "שאר ארצות",
+    "source": [],
+    "gloss_en": "the other lands",
+    "referent": [],
+    "commentary": ""
+  },
+  "301": {
+    "id": 301,
+    "order": "46.00000000000000000000",
+    "label": "Qehal Ṭeveryah",
+    "loi_id": "loi_parallel__301",
+    "passages": [
+      {
+        "id": 118,
+        "value": "A Release without a Torah Scroll: The Community of Tiberias",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "form_he": "קהל טבריה",
+    "source": [],
+    "gloss_en": "the community of Tiberias",
+    "referent": [
+      {
+        "id": 217,
+        "value": "Tiberias",
+        "order": "26.00000000000000000000"
       }
     ],
     "commentary": ""

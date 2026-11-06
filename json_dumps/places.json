@@ -193,6 +193,16 @@
         "id": 260,
         "value": "Temim Deʿim",
         "order": "36.00000000000000000000"
+      },
+      {
+        "id": 265,
+        "value": "Sura I",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 266,
+        "value": "Hemdah Genuzah",
+        "order": "42.00000000000000000000"
       }
     ]
   },
@@ -234,6 +244,16 @@
         "id": 159,
         "value": "Arʿa de-Ḥashokha",
         "order": "32.00000000000000000000"
+      },
+      {
+        "id": 298,
+        "value": "Bavla’ei",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 299,
+        "value": "Ereẓ Shinʿar",
+        "order": "44.00000000000000000000"
       }
     ],
     "edition": []
@@ -575,6 +595,40 @@
         "id": 297,
         "value": "Surya",
         "order": "42.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "216": {
+    "id": 216,
+    "order": "25.00000000000000000000",
+    "name": "Krakow",
+    "geonames": "",
+    "loi_id": "loi_place__216",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 270,
+        "value": "Halakhot Pesuqot min ha-Geonim",
+        "order": "46.00000000000000000000"
+      }
+    ]
+  },
+  "217": {
+    "id": 217,
+    "order": "26.00000000000000000000",
+    "name": "Tiberias",
+    "geonames": "",
+    "loi_id": "loi_place__217",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 301,
+        "value": "Qehal Ṭeveryah",
+        "order": "46.00000000000000000000"
       }
     ],
     "edition": []
