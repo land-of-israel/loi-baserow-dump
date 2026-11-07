@@ -60,5 +60,14 @@
     "reference": "",
     "loi_id": "loi_genre__38",
     "main_genre": null
+  },
+  "71": {
+    "id": 71,
+    "order": "7.00000000000000000000",
+    "name": "List of customary differences (ḥilluqim)",
+    "note": "",
+    "reference": "",
+    "loi_id": "loi_genre__71",
+    "main_genre": null
   }
 }

@@ -957,6 +957,11 @@
         "id": 324,
         "value": "Geonic ruling on the rebellious wife and the ketubbah",
         "order": "67.00000000000000000000"
+      },
+      {
+        "id": 330,
+        "value": "Geonic responsum on reciting the shemaʿ before nightfall",
+        "order": "73.00000000000000000000"
       }
     ],
     "publisher": "Zvi Hirsch Iztkowski",
@@ -1406,6 +1411,207 @@
         "id": 327,
         "value": "Geonic responsum on releasing a ban without a Torah scroll",
         "order": "70.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "274": {
+    "id": 274,
+    "order": "50.00000000000000000000",
+    "label": "Otzar Ha-Geonim Berakhot",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__274",
+    "works": [
+      {
+        "id": 328,
+        "value": "Note on the difference of custom in reciting the shemaʿ",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "275": {
+    "id": 275,
+    "order": "51.00000000000000000000",
+    "label": "Halakhot Gedolot (Traub)",
+    "editor": [
+      {
+        "id": 333,
+        "value": "Avraham Shimon ben Yitzhak Traubak",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__275",
+    "works": [
+      {
+        "id": 329,
+        "value": "Halakhot Gedolot",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 70,
+        "value": "Warsaw",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "year": "1875"
+  },
+  "276": {
+    "id": 276,
+    "order": "52.00000000000000000000",
+    "label": "Ḥilluf Minhagim",
+    "editor": [
+      {
+        "id": 331,
+        "value": "Joel Müller",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__276",
+    "works": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 218,
+        "value": "",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "year": "1878"
+  },
+  "277": {
+    "id": 277,
+    "order": "53.00000000000000000000",
+    "label": "Otzar Ha-Geonim Beizah",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__277",
+    "works": [
+      {
+        "id": 331,
+        "value": "Geonic responsum on the Palestinian Sabbath qedushah",
+        "order": "74.00000000000000000000"
+      },
+      {
+        "id": 332,
+        "value": "Note on the differing Sabbath benediction formula",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "278": {
+    "id": 278,
+    "order": "54.00000000000000000000",
+    "label": "Sefer ha-Yishuv II",
+    "editor": [
+      {
+        "id": 210,
+        "value": "Simcha Assaf",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__278",
+    "works": [
+      {
+        "id": 333,
+        "value": "Responsum of Elijah ha-Kohen and Evyatar ha-Kohen, Palestinian geonim",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "279": {
+    "id": 279,
+    "order": "55.00000000000000000000",
+    "label": "Machsor Vitri",
+    "editor": [
+      {
+        "id": 337,
+        "value": "Simon ha-Levi Horovitz",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__279",
+    "works": [
+      {
+        "id": 334,
+        "value": "Maḥzor Vitry",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "280": {
+    "id": 280,
+    "order": "56.00000000000000000000",
+    "label": "Ereẓ Yisra’el bi-Teshuvot ha-Geonim",
+    "editor": [],
+    "loi_id": "loi_parallel__280",
+    "works": [
+      {
+        "id": 335,
+        "value": "Geonic notice on the liturgy of the Ninth of Av",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1926"
+  },
+  "281": {
+    "id": 281,
+    "order": "57.00000000000000000000",
+    "label": "Mafteaḥ le-Teshuvot ha-Geonim",
+    "editor": [
+      {
+        "id": 331,
+        "value": "Joel Müller",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__281",
+    "works": [
+      {
+        "id": 336,
+        "value": "Geonic responsum on the months of Nisan, Tishri and Sivan",
+        "order": "79.00000000000000000000"
       }
     ],
     "publisher": "",

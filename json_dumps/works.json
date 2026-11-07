@@ -334,6 +334,11 @@
         "id": 73,
         "value": "Jam Schel Schlomo",
         "order": "9.00000000000000000000"
+      },
+      {
+        "id": 276,
+        "value": "Ḥilluf Minhagim",
+        "order": "52.00000000000000000000"
       }
     ]
   },
@@ -2459,6 +2464,278 @@
         "id": 273,
         "value": "Shibbolei ha-Leqeṭ, din ḥerem we-taqqanat qahal no. 49",
         "order": "49.00000000000000000000"
+      }
+    ]
+  },
+  "328": {
+    "id": 328,
+    "order": "71.00000000000000000000",
+    "title": "Note on the difference of custom in reciting the shemaʿ",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__328",
+    "corpus": [],
+    "language": [
+      {
+        "id": 1,
+        "value": "Hebrew",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [],
+    "edition": [
+      {
+        "id": 274,
+        "value": "Otzar Ha-Geonim Berakhot",
+        "order": "50.00000000000000000000"
+      }
+    ]
+  },
+  "329": {
+    "id": 329,
+    "order": "72.00000000000000000000",
+    "title": "Halakhot Gedolot",
+    "reference": "",
+    "author": [
+      {
+        "id": 332,
+        "value": "Simeon Qayyara (attrib.)",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__329",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 275,
+        "value": "Halakhot Gedolot (Traub)",
+        "order": "51.00000000000000000000"
+      }
+    ]
+  },
+  "330": {
+    "id": 330,
+    "order": "73.00000000000000000000",
+    "title": "Geonic responsum on reciting the shemaʿ before nightfall",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__330",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 222,
+        "value": "Toratan shel Rishonim",
+        "order": "30.00000000000000000000"
+      }
+    ]
+  },
+  "331": {
+    "id": 331,
+    "order": "74.00000000000000000000",
+    "title": "Geonic responsum on the Palestinian Sabbath qedushah",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__331",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 71,
+        "value": "List of customary differences (ḥilluqim)",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 277,
+        "value": "Otzar Ha-Geonim Beizah",
+        "order": "53.00000000000000000000"
+      }
+    ]
+  },
+  "332": {
+    "id": 332,
+    "order": "75.00000000000000000000",
+    "title": "Note on the differing Sabbath benediction formula",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__332",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 71,
+        "value": "List of customary differences (ḥilluqim)",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 277,
+        "value": "Otzar Ha-Geonim Beizah",
+        "order": "53.00000000000000000000"
+      }
+    ]
+  },
+  "333": {
+    "id": 333,
+    "order": "76.00000000000000000000",
+    "title": "Responsum of Elijah ha-Kohen and Evyatar ha-Kohen, Palestinian geonim",
+    "reference": "",
+    "author": [
+      {
+        "id": 334,
+        "value": "Elijah ha-Kohen Gaon",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 335,
+        "value": "Evyatar ha-Kohen",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__333",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 278,
+        "value": "Sefer ha-Yishuv II",
+        "order": "54.00000000000000000000"
+      }
+    ]
+  },
+  "334": {
+    "id": 334,
+    "order": "77.00000000000000000000",
+    "title": "Maḥzor Vitry",
+    "reference": "",
+    "author": [
+      {
+        "id": 336,
+        "value": "Simḥah of Vitry",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__334",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 279,
+        "value": "Machsor Vitri",
+        "order": "55.00000000000000000000"
+      }
+    ]
+  },
+  "335": {
+    "id": 335,
+    "order": "78.00000000000000000000",
+    "title": "Geonic notice on the liturgy of the Ninth of Av",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__335",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 280,
+        "value": "Ereẓ Yisra’el bi-Teshuvot ha-Geonim",
+        "order": "56.00000000000000000000"
+      }
+    ]
+  },
+  "336": {
+    "id": 336,
+    "order": "79.00000000000000000000",
+    "title": "Geonic responsum on the months of Nisan, Tishri and Sivan",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__336",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 281,
+        "value": "Mafteaḥ le-Teshuvot ha-Geonim",
+        "order": "57.00000000000000000000"
       }
     ]
   }

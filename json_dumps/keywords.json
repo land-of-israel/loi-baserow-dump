@@ -1369,6 +1369,11 @@
         "id": 104,
         "value": "The Sixth Wing: Why the Land Sings on the Sabbath Tosafot Sanhedrin 37b:11",
         "order": "75.00000000000000000000"
+      },
+      {
+        "id": 125,
+        "value": "The Qedushah Only on the Sabbath: A Geonic Notice",
+        "order": "96.00000000000000000000"
       }
     ]
   },
@@ -1383,6 +1388,26 @@
         "id": 101,
         "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
         "order": "72.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Standing in the Land, Seated in Bavel: The Posture of the Shemaʿ",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Error, Ignorance and Folly: Amram Gaon against Standing for the Shemaʿ",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Several Provinces in the Land Still Say It So",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Toraton schel Rischonim",
+        "order": "93.00000000000000000000"
       }
     ]
   },
@@ -1444,6 +1469,31 @@
         "id": 104,
         "value": "The Sixth Wing: Why the Land Sings on the Sabbath Tosafot Sanhedrin 37b:11",
         "order": "75.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Error, Ignorance and Folly: Amram Gaon against Standing for the Shemaʿ",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Several Provinces in the Land Still Say It So",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 125,
+        "value": "The Qedushah Only on the Sabbath: A Geonic Notice",
+        "order": "96.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 129,
+        "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
+        "order": "100.00000000000000000000"
       }
     ]
   },
@@ -1496,6 +1546,11 @@
         "id": 106,
         "value": "The Great Court in Jerusalem Rules on a Caravan",
         "order": "77.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Error, Ignorance and Folly: Amram Gaon against Standing for the Shemaʿ",
+        "order": "91.00000000000000000000"
       }
     ]
   },
@@ -1782,6 +1837,292 @@
         "id": 118,
         "value": "A Release without a Torah Scroll: The Community of Tiberias",
         "order": "89.00000000000000000000"
+      }
+    ]
+  },
+  "296": {
+    "id": 296,
+    "order": "80.00000000000000000000",
+    "label": "posture in prayer",
+    "notes": "",
+    "loi_id": "loi_keyword__296",
+    "passages": [
+      {
+        "id": 119,
+        "value": "Standing in the Land, Seated in Bavel: The Posture of the Shemaʿ",
+        "order": "90.00000000000000000000"
+      }
+    ]
+  },
+  "297": {
+    "id": 297,
+    "order": "81.00000000000000000000",
+    "label": "ḥilluqim",
+    "notes": "",
+    "loi_id": "loi_keyword__297",
+    "passages": [
+      {
+        "id": 119,
+        "value": "Standing in the Land, Seated in Bavel: The Posture of the Shemaʿ",
+        "order": "90.00000000000000000000"
+      }
+    ]
+  },
+  "298": {
+    "id": 298,
+    "order": "82.00000000000000000000",
+    "label": "Palestinian and Babylonian custom",
+    "notes": "",
+    "loi_id": "loi_keyword__298",
+    "passages": [
+      {
+        "id": 119,
+        "value": "Standing in the Land, Seated in Bavel: The Posture of the Shemaʿ",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "Silently in the East, Aloud in the Land",
+        "order": "95.00000000000000000000"
+      }
+    ]
+  },
+  "299": {
+    "id": 299,
+    "order": "83.00000000000000000000",
+    "label": "Bet Hillel",
+    "notes": "",
+    "loi_id": "loi_keyword__299",
+    "passages": [
+      {
+        "id": 120,
+        "value": "Error, Ignorance and Folly: Amram Gaon against Standing for the Shemaʿ",
+        "order": "91.00000000000000000000"
+      }
+    ]
+  },
+  "300": {
+    "id": 300,
+    "order": "84.00000000000000000000",
+    "label": "Palestinian custom as precedent",
+    "notes": "",
+    "loi_id": "loi_keyword__300",
+    "passages": [
+      {
+        "id": 122,
+        "value": "Toraton schel Rischonim",
+        "order": "93.00000000000000000000"
+      }
+    ]
+  },
+  "301": {
+    "id": 301,
+    "order": "85.00000000000000000000",
+    "label": "amidah",
+    "notes": "",
+    "loi_id": "loi_keyword__301",
+    "passages": [
+      {
+        "id": 124,
+        "value": "Silently in the East, Aloud in the Land",
+        "order": "95.00000000000000000000"
+      }
+    ]
+  },
+  "302": {
+    "id": 302,
+    "order": "86.00000000000000000000",
+    "label": "ḥilluf minhagim",
+    "notes": "",
+    "loi_id": "loi_keyword__302",
+    "passages": [
+      {
+        "id": 124,
+        "value": "Silently in the East, Aloud in the Land",
+        "order": "95.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "Who Sanctifies the Sabbath, or Israel and the Sabbath",
+        "order": "97.00000000000000000000"
+      }
+    ]
+  },
+  "303": {
+    "id": 303,
+    "order": "87.00000000000000000000",
+    "label": "prayer aloud",
+    "notes": "",
+    "loi_id": "loi_keyword__303",
+    "passages": [
+      {
+        "id": 124,
+        "value": "Silently in the East, Aloud in the Land",
+        "order": "95.00000000000000000000"
+      }
+    ]
+  },
+  "304": {
+    "id": 304,
+    "order": "88.00000000000000000000",
+    "label": "benediction formula",
+    "notes": "",
+    "loi_id": "loi_keyword__304",
+    "passages": [
+      {
+        "id": 126,
+        "value": "Who Sanctifies the Sabbath, or Israel and the Sabbath",
+        "order": "97.00000000000000000000"
+      }
+    ]
+  },
+  "305": {
+    "id": 305,
+    "order": "89.00000000000000000000",
+    "label": "we-hassi'enu",
+    "notes": "",
+    "loi_id": "loi_keyword__305",
+    "passages": [
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
+      }
+    ]
+  },
+  "306": {
+    "id": 306,
+    "order": "90.00000000000000000000",
+    "label": "unity of custom",
+    "notes": "",
+    "loi_id": "loi_keyword__306",
+    "passages": [
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
+      }
+    ]
+  },
+  "307": {
+    "id": 307,
+    "order": "91.00000000000000000000",
+    "label": "Mainz",
+    "notes": "",
+    "loi_id": "loi_keyword__307",
+    "passages": [
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
+      }
+    ]
+  },
+  "308": {
+    "id": 308,
+    "order": "92.00000000000000000000",
+    "label": "Worms",
+    "notes": "",
+    "loi_id": "loi_keyword__308",
+    "passages": [
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
+      }
+    ]
+  },
+  "309": {
+    "id": 309,
+    "order": "93.00000000000000000000",
+    "label": "minhag",
+    "notes": "",
+    "loi_id": "loi_keyword__309",
+    "passages": [
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
+      }
+    ]
+  },
+  "310": {
+    "id": 310,
+    "order": "94.00000000000000000000",
+    "label": "Ninth of Av",
+    "notes": "",
+    "loi_id": "loi_keyword__310",
+    "passages": [
+      {
+        "id": 129,
+        "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
+        "order": "100.00000000000000000000"
+      }
+    ]
+  },
+  "311": {
+    "id": 311,
+    "order": "95.00000000000000000000",
+    "label": "seliḥot",
+    "notes": "",
+    "loi_id": "loi_keyword__311",
+    "passages": [
+      {
+        "id": 129,
+        "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
+        "order": "100.00000000000000000000"
+      }
+    ]
+  },
+  "312": {
+    "id": 312,
+    "order": "96.00000000000000000000",
+    "label": "qinot",
+    "notes": "",
+    "loi_id": "loi_keyword__312",
+    "passages": [
+      {
+        "id": 129,
+        "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
+        "order": "100.00000000000000000000"
+      }
+    ]
+  },
+  "313": {
+    "id": 313,
+    "order": "97.00000000000000000000",
+    "label": "Sivan",
+    "notes": "",
+    "loi_id": "loi_keyword__313",
+    "passages": [
+      {
+        "id": 130,
+        "value": "Sivan Borders on Tammuz: Why the Custom Is Not Kept",
+        "order": "101.00000000000000000000"
+      }
+    ]
+  },
+  "314": {
+    "id": 314,
+    "order": "98.00000000000000000000",
+    "label": "tradition from Jerusalem",
+    "notes": "",
+    "loi_id": "loi_keyword__314",
+    "passages": [
+      {
+        "id": 130,
+        "value": "Sivan Borders on Tammuz: Why the Custom Is Not Kept",
+        "order": "101.00000000000000000000"
       }
     ]
   }

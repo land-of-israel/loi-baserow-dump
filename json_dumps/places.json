@@ -94,6 +94,11 @@
         "id": 264,
         "value": "Morashah",
         "order": "41.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "Medinot be-Ereẓ Yisra’el",
+        "order": "47.00000000000000000000"
       }
     ],
     "edition": []
@@ -203,6 +208,11 @@
         "id": 266,
         "value": "Hemdah Genuzah",
         "order": "42.00000000000000000000"
+      },
+      {
+        "id": 280,
+        "value": "Ereẓ Yisra’el bi-Teshuvot ha-Geonim",
+        "order": "56.00000000000000000000"
       }
     ]
   },
@@ -254,6 +264,11 @@
         "id": 299,
         "value": "Ereẓ Shinʿar",
         "order": "44.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
       }
     ],
     "edition": []
@@ -289,6 +304,11 @@
         "id": 3,
         "value": "Mekhaleket Rav Sadya ve Gaon ben Meir",
         "order": "3.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "Halakhot Gedolot (Traub)",
+        "order": "51.00000000000000000000"
       }
     ]
   },
@@ -629,6 +649,57 @@
         "id": 301,
         "value": "Qehal Ṭeveryah",
         "order": "46.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "218": {
+    "id": 218,
+    "order": "27.00000000000000000000",
+    "name": "",
+    "geonames": "",
+    "loi_id": "loi_place__218",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 276,
+        "value": "Ḥilluf Minhagim",
+        "order": "52.00000000000000000000"
+      }
+    ]
+  },
+  "219": {
+    "id": 219,
+    "order": "28.00000000000000000000",
+    "name": "Nehardea",
+    "geonames": "",
+    "loi_id": "loi_place__219",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 304,
+        "value": "Nehardeʿa",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "220": {
+    "id": 220,
+    "order": "29.00000000000000000000",
+    "name": "Worms",
+    "geonames": "",
+    "loi_id": "loi_place__220",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 306,
+        "value": "Germaiza",
+        "order": "51.00000000000000000000"
       }
     ],
     "edition": []

@@ -142,5 +142,41 @@
     "loi_id": "loi_parallel__112",
     "excerpt_he": "",
     "url": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "17.00000000000000000000",
+    "label": "bBerakhot 4b",
+    "excerpt": "",
+    "loi_id": "loi_parallel__113",
+    "excerpt_he": "",
+    "url": ""
+  },
+  "114": {
+    "id": 114,
+    "order": "18.00000000000000000000",
+    "label": "Tosafot Sanhedrin 37b",
+    "excerpt": "",
+    "loi_id": "loi_parallel__114",
+    "excerpt_he": "",
+    "url": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "19.00000000000000000000",
+    "label": "bBerakhot 49a",
+    "excerpt": "",
+    "loi_id": "loi_parallel__115",
+    "excerpt_he": "",
+    "url": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "20.00000000000000000000",
+    "label": "bPesaḥim 117b",
+    "excerpt": "",
+    "loi_id": "loi_parallel__116",
+    "excerpt_he": "",
+    "url": ""
   }
 }

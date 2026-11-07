@@ -5831,218 +5831,733 @@
   "119": {
     "id": 119,
     "order": "90.00000000000000000000",
-    "title": "Otzar Geonim Berakhot",
+    "title": "Standing in the Land, Seated in Bavel: The Posture of the Shemaʿ",
     "text": "בני ארץ ישראל עומדין בקריאת שמע בני בבל יושבי, הדא טעמא: בשבתך\nבביתך.",
     "loi_id": "loi_passage__119",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 314,
+        "value": "Deuteronomy 6:7",
+        "order": "129.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 328,
+        "value": "Note on the difference of custom in reciting the shemaʿ",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel stehen beim Lesen des Schemaʿ, die Benei Bavel sitzen. Dies ist der Grund: „wenn du in deinem Hause sitzt“ (Dtn 6,7).",
+    "page": "47",
+    "keywords": [
+      {
+        "id": 274,
+        "value": "shemaʿ",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 296,
+        "value": "posture in prayer",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 297,
+        "value": "ḥilluqim",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 298,
+        "value": "Palestinian and Babylonian custom",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "120": {
     "id": 120,
     "order": "91.00000000000000000000",
-    "title": "Seder Rav Amram haSchalem",
+    "title": "Error, Ignorance and Folly: Amram Gaon against Standing for the Shemaʿ",
     "text": "מבעי למקרי קריאת שמע כי יתבי... והני מתחזי מחמרין אנפשייהו למימרא\nדמקבלי מלכות שמים בעמידה, טעות הוא בידם והדיוטות ובורות ושטות למה להו\nאישתבושי כולי האי... ואותן האנשים שאומרים כמנהג בני ארץ ישראל אנו עושים, הלא\nכך גורסים בתלמוד ארץ ישראל תני יצתה בת קול ואמרה... הלכה כבית הלל לעולם\nוכל העובר על דברי ב\"ה חייב מיתה... ותו קא גרסי רבנן בגמרא דארץ ישראל: רב\nהונא בשם רב אידי... בשם רב שמואל אומר צריך לקבל עליו מלכות שמים מעומד, לא\nאם היה יושב עומד אלא אם היה מהלך עומד.",
     "loi_id": "loi_passage__120",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 315,
+        "value": "yYevamot 1:6",
+        "order": "130.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 266,
+        "value": "Seder Rav Amram Gaon",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "german_translation": "Man muss das Schemaʿ lesen, während man sitzt … Und diese erscheinen, als erschwerten sie es sich selbst, indem sie sagen, dass man das Joch der Himmelsherrschaft im Stehen auf sich nimmt. Ein Irrtum ist es in ihrer Hand, und Unkundigkeit und Unwissenheit und Torheit — wozu sollten sie sich so sehr irren? …\n\nUnd jene Leute, die sagen: Nach dem Brauch der Benei Ereẓ Israel tun wir — siehe, so lesen sie doch im Talmud von Ereẓ Israel (yYev 1,6): Es ist gelehrt, es ging eine Bat Qol aus und sprach … die Halacha ist für immer wie Bet Hillel, und jeder, der die Worte von Bet Hillel übertritt, ist des Todes schuldig … Und ferner lesen die Rabbanan in der Gemara von Ereẓ Israel: Rav Huna im Namen des Rav Idi … im Namen des Rav Schmuel sagt: Man muss das Joch der Himmelsherrschaft im Stehen auf sich nehmen — nicht, dass einer, der saß, aufstehe, sondern dass einer, der ging, stehen bleibe.",
+    "page": "101 (קא)",
+    "keywords": [
+      {
+        "id": 274,
+        "value": "shemaʿ",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "Palestinian custom",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 281,
+        "value": "Yerushalmi as authority",
+        "order": "65.00000000000000000000"
+      },
+      {
+        "id": 299,
+        "value": "Bet Hillel",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "121": {
     "id": 121,
     "order": "92.00000000000000000000",
-    "title": "Halakhot Gdolot Berakhot",
+    "title": "Several Provinces in the Land Still Say It So",
     "text": "ועד השתא כמה מדינות בארץ ישראל הכי נהיגין למימר באורתא: ,,דבר אל בני\nישראל ואמרת אליהם אני ד' אלקיכם אמת\", וקא סברי ,,שמע\" ,,והיה אם שמוע\" נהיגן\nביום ובלילה ,,ויאמר\" אינו נוהג אלא ביום.",
     "loi_id": "loi_passage__121",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 316,
+        "value": "Numbers 15:38",
+        "order": "131.00000000000000000000"
+      },
+      {
+        "id": 317,
+        "value": "Deuteronomy 11:13",
+        "order": "132.00000000000000000000"
+      },
+      {
+        "id": 318,
+        "value": "Deuteronomy 6:4",
+        "order": "133.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 329,
+        "value": "Halakhot Gedolot",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und bis jetzt halten es mehrere Provinzen in Ereẓ Israel so, am Abend zu sagen: „Rede zu den Kindern Israel und sprich zu ihnen: Ich bin der Herr, euer Gott“ (Num 15,37–41) — „Wahrheit“; und sie meinen, dass Schemaʿ (Dtn 6,4–9) und We-hayah im schamoaʿ (Dtn 11,13–21) bei Tag und bei Nacht gelten, Wa-yomer (Num 15,37–41) aber nur bei Tag gilt.",
+    "page": "(Traub) 2",
+    "keywords": [
+      {
+        "id": 274,
+        "value": "shemaʿ",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "Palestinian custom",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "Medinot be-Ereẓ Yisra’el",
+        "order": "47.00000000000000000000"
+      }
+    ]
   },
   "122": {
     "id": 122,
     "order": "93.00000000000000000000",
     "title": "Toraton schel Rischonim",
-    "text": "וששאלתם, ציבור דמצלו תפילת ערבית וקרו קרית שמע קודם צאת הכוכבים ולא",
+    "text": "וששאלתם, ציבור דמצלו תפילת ערבית וקרו קרית שמע \n\nקודם צאת הכוכבים ולא\n\nיכול איניש לעכובינהו, דבעוונות כמה קהילות הקילו על נפשייהו בכך... רבנן דבארץ  \nישראל הכין עבדין: מצלו של ערבית ובתר הכי קרו קריאת שמע בזמנה, ולא איכפת להו  \nלמיסמך גאולה לתפילה בערבית.",
     "loi_id": "loi_passage__122",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 113,
+        "value": "bBerakhot 4b",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 330,
+        "value": "Geonic responsum on reciting the shemaʿ before nightfall",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt: eine Gemeinde, die das Abendgebet betet und das Schemaʿ vor dem Hervortreten der Sterne liest, und niemand vermag sie daran zu hindern, denn ob unserer Sünden haben es sich mehrere Gemeinden darin leicht gemacht … Die Rabbanan in Ereẓ Israel tun so: Sie beten das Abendgebet, und danach lesen sie das Schemaʿ zu seiner Zeit, und es kümmert sie nicht, am Abend die Erlösung an das Gebet anzuschließen (semikhat ge’ulah li-tefillah; vgl. bBerakhot 4b).",
+    "page": "51",
+    "keywords": [
+      {
+        "id": 274,
+        "value": "shemaʿ",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 300,
+        "value": "Palestinian custom as precedent",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
-  },
-  "123": {
-    "id": 123,
-    "order": "94.00000000000000000000",
-    "title": "to Hai Gaon",
-    "text": "יכול איניש לעכובינהו, דבעוונות כמה קהילות הקילו על נפשייהו בכך... רבנן דבארץ\nישראל הכין עבדין: מצלו של ערבית ובתר הכי קרו קריאת שמע בזמנה, ולא איכפת להו\nלמיסמך גאולה לתפילה בערבית.",
-    "loi_id": "loi_passage__123",
-    "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "124": {
     "id": 124,
     "order": "95.00000000000000000000",
-    "title": "Chiluf Minhagim",
+    "title": "Silently in the East, Aloud in the Land",
     "text": "אנשי מזרח מתפלל אדם י\"ח ברכות בלחש, ובני ארץ ישראל בקול רם כדי להרגיל\nהעם.",
     "loi_id": "loi_passage__124",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ: Ein Mensch betet die achtzehn Benediktionen leise; und die Benei Ereẓ Israel mit lauter Stimme, um das Volk zu gewöhnen.",
+    "page": "(Müller) 40",
+    "keywords": [
+      {
+        "id": 298,
+        "value": "Palestinian and Babylonian custom",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 301,
+        "value": "amidah",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "prayer aloud",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "125": {
     "id": 125,
     "order": "96.00000000000000000000",
-    "title": "Otzar",
+    "title": "The Qedushah Only on the Sabbath: A Geonic Notice",
     "text": "כתוב בתשובות הגאונים שאין בני ארץ ישראל אומרים קדושה אלא בשבת.",
     "loi_id": "loi_passage__125",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 114,
+        "value": "Tosafot Sanhedrin 37b",
+        "order": "18.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 331,
+        "value": "Geonic responsum on the Palestinian Sabbath qedushah",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es steht geschrieben in den Responsen der Geonim, dass die Benei Ereẓ Israel die Qedushah nur am Schabbat sagen.",
+    "page": "147",
+    "keywords": [
+      {
+        "id": 273,
+        "value": "qedushah",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "Palestinian custom",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "126": {
     "id": 126,
     "order": "97.00000000000000000000",
-    "title": "Otzar",
+    "title": "Who Sanctifies the Sabbath, or Israel and the Sabbath",
     "text": "בני בבל אומרים: מקדש השבת. בני ארץ ישראל אומרים: מקדש ישראל ויום\nהשבת.",
     "loi_id": "loi_passage__126",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 115,
+        "value": "bBerakhot 49a",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "bPesaḥim 117b",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 332,
+        "value": "Note on the differing Sabbath benediction formula",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel sagen: „der den Schabbat heiligt“. Die Benei Ereẓ Israel sagen: „der Israel und den Tag des Schabbat heiligt“ (vgl. bBerakhot 49a; bPesaḥim 117b).",
+    "page": "26",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 304,
+        "value": "benediction formula",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "127": {
     "id": 127,
     "order": "98.00000000000000000000",
-    "title": "Tschuvat Rav Hai Gaon",
+    "title": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
     "text": "וששאלת נבונינו מר רב משולם בן רב משה [ממגנצא] נב\"ע עבור מהו לומר\nוהשיאנו את ברכת [מועדיך ועבור החילוק שיש בין] חכמי מקומכם... חס ושלום שיהא\nבדבר זה חילוק. שכן אנו נוהגין בתרי מתיבתות דארעא דישראל ונהרדעא שאומר בראש\nהשנה ויום הכיפורים . .. וכן הלכתא ואין לשנות. . . אליהו הכהן ראש ישיבת גאון יעקב.\nאביתר הכהן הרביעי ביר' אליהו.",
     "loi_id": "loi_passage__127",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 333,
+        "value": "Responsum of Elijah ha-Kohen and Evyatar ha-Kohen, Palestinian geonim",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was du gefragt hast im Namen unseres Verständigen, Mar Rav Meschullam ben Rav Mosche [aus Mainz], seine Ruhe sei in Eden, wegen [der Schaltung]: Wie steht es damit, „und bringe uns dar den Segen deiner Festzeiten“ zu sagen — und wegen des Unterschieds, der besteht zwischen den Weisen eures Ortes … Gott behüte, dass es in dieser Sache einen Unterschied gäbe! Denn so halten wir es in den zwei Lehrhäusern, dem von Ereẓ Israel und dem von Nehardeʿa, dass man es an Rosch ha-Schana und am Versöhnungstag sagt … Und so ist die Halacha, und man darf nicht abweichen.\n\nElijahu ha-Kohen, Haupt der Jeschiwa Ge’on Yaʿaqov. Evyatar ha-Kohen, der Vierte, Sohn des R. Elijahu.",
+    "page": "p. 114, no. 21",
+    "keywords": [
+      {
+        "id": 278,
+        "value": "Palestinian custom",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 305,
+        "value": "we-hassi'enu",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 306,
+        "value": "unity of custom",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 307,
+        "value": "Mainz",
+        "order": "91.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 158,
+        "value": "Arʿa de-Yisra’el",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 304,
+        "value": "Nehardeʿa",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 305,
+        "value": "Yeshivat Ge’on Yaʿaqov",
+        "order": "50.00000000000000000000"
+      }
+    ]
   },
   "128": {
     "id": 128,
     "order": "99.00000000000000000000",
-    "title": "Machzor Vitri",
+    "title": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
     "text": "ורבינו משולם ב\"ר משה שאל את פי אריות יושבי ירושלים עיר הקודש, והשיבו\nשאומרים והשיאנו [בראש השנה ויום הכיפורים], ומביאין ראיה לדבריהם ממסכת ברכות\nירושלמי בפרק הרואה. והגאון ר' יצחק הלוי ביטלו בגרמייזא... עוד מצאתי: כל\nהאומר והשיאנו בראש השנה ויום הכיפורים אינו אלא טועה ועליו הכתוב אומר: והכסיל\nבחושך הולך. שאע\"פ שהושבה תשובה מארץ ישראל שאומרים אותו, אין בכך כלום, שמנהג\nארץ ישראל לבדו ומנהג בבל לבדו, כמו שמצינו תשובה שהרבה דברים בין בני בבל ובין\nבני ארץ ישראל. וזהו שפירשנו בתלמוד: וליוצא ולבא אין שלום -- אמר ר' יוחנן זה\nהיוצא מתלמוד לתלמוד, מפני שחלוקים במנהגים ובשמועותיהם ובפסקי הלכותיהם,\nשהרי לדבריהם אומרים והשיאנו בראשי חדשים כדמפורש בתחילת פסיקתא הגדולה:\nר' שמעון בר אבא אמר בשם ר' יוחנן, צריך לומר והשיאנו בראשי חדשים. ואף חותמין\nבארץ ישראל בהזמנים, כדמפורש בהרואה ירושלמי אצל תפילת ראש חודש: רב אמר\nצריך לומר בה זמן, ושמואל אמר צריך לומר והשיאנו. לפיכך בארץ ישראל אומרים\nוהשיאנו וחותמים בהזמנים בראש השנה כמו שמפורש במסכת סופרים לפי שהוא ראש\nהודש. ואנו אין אומרים בראש חודש, לפיכך בראש השנה אין לנו לעשות כמותם.",
     "loi_id": "loi_passage__128",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 320,
+        "value": "Ecclesiastes 2:14",
+        "order": "135.00000000000000000000"
+      },
+      {
+        "id": 321,
+        "value": "Zechariah 8:10",
+        "order": "136.00000000000000000000"
+      },
+      {
+        "id": 322,
+        "value": "bChagigah 10a",
+        "order": "137.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 334,
+        "value": "Maḥzor Vitry",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und Rabbenu Meschullam ben R. Mosche befragte die Löwen, die Bewohner Jerusalems, der heiligen Stadt, und sie antworteten, dass man we-hassi’enu sagt [an Rosch ha-Schana und am Versöhnungstag], und sie brachten einen Beweis für ihre Worte aus dem Traktat Berakhot im Jeruschalmi, im Kapitel ha-Ro’eh (yBerakhot 9). Und der Gaon R. Jiẓḥaq ha-Levi hob es in Germaiza [Worms] auf …\n\nFerner fand ich: Jeder, der we-hassi’enu an Rosch ha-Schana und am Versöhnungstag sagt, ist nichts als ein Irrender, und über ihn sagt die Schrift: „und der Tor geht im Finstern“ (Koh 2,14). Denn obgleich aus Ereẓ Israel die Antwort zurückkam, dass man es dort sagt, liegt darin nichts — denn der Brauch von Ereẓ Israel steht für sich und der Brauch von Bavel steht für sich, wie wir finden, dass viele Dinge zwischen den Benei Bavel und den Benei Ereẓ Israel [verschieden] sind.\n\nUnd das ist es, was wir im Talmud erklärt haben: „und für den, der auszieht und einzieht, ist kein Friede“ (Sach 8,10) — es sagte R. Yoḥanan: Das ist der, der von einem Talmud zum anderen hinübergeht (bḤagigah 10a), weil sie geteilt sind in ihren Bräuchen und in ihren Überlieferungen und in ihren Halachaentscheidungen.\n\nDenn nach ihren Worten sagt man we-hassi’enu an Neumonden, wie am Anfang der Pesiqta Rabbati ausgeführt ist: R. Schimon bar Abba sagte im Namen des R. Yoḥanan: Man muss we-hassi’enu an Neumonden sagen. Und sie schließen auch in Ereẓ Israel mit „[der] die Zeiten [heiligt]“, wie im Jeruschalmi in ha-Ro’eh beim Neumondsgebet ausgeführt ist: Rav sagte, man müsse darin die Zeit nennen, und Schmuel sagte, man müsse we-hassi’enu sagen. Darum sagen sie in Ereẓ Israel we-hassi’enu und schließen mit „die Zeiten“ an Rosch ha-Schana, wie im Traktat Soferim ausgeführt ist, weil er ein Neumond ist. Und wir sagen es nicht am Neumond; darum haben wir an Rosch ha-Schana nicht wie sie zu verfahren.",
+    "page": "I, 35",
+    "keywords": [
+      {
+        "id": 305,
+        "value": "we-hassi'enu",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 307,
+        "value": "Mainz",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "Worms",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 309,
+        "value": "minhag",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 2,
+        "value": "Ir ha-Kodesh",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 306,
+        "value": "Germaiza",
+        "order": "51.00000000000000000000"
+      }
+    ]
   },
   "129": {
     "id": 129,
     "order": "100.00000000000000000000",
-    "title": "Eretz Israel beTschuvot haGeonim",
+    "title": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
     "text": "ובתפילת שחרית בתשעה באב אין מנהג בשתי ישיבות ובכל ארץ ישראל לומר\nסליחות ותחנונים ולא להזכיר שלש עשרה מדות, אלא מנהג לומר פזמונים של קינות.",
     "loi_id": "loi_passage__129",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 323,
+        "value": "Exodus 34:6",
+        "order": "138.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 335,
+        "value": "Geonic notice on the liturgy of the Ninth of Av",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und im Morgengebet am Neunten Aw ist es nicht Brauch in den beiden Jeschiwot und im ganzen Ereẓ Israel, Seliḥot und Taḥanunim zu sagen und die dreizehn Eigenschaften (Ex 34,6–7) zu erwähnen; vielmehr ist der Brauch, Pizmonim der Qinot zu sagen.",
+    "page": "Herausgeber zu klären",
+    "keywords": [
+      {
+        "id": 278,
+        "value": "Palestinian custom",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 310,
+        "value": "Ninth of Av",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "seliḥot",
+        "order": "95.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "qinot",
+        "order": "96.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "130": {
     "id": 130,
     "order": "101.00000000000000000000",
-    "title": "Time of the Torah giving",
+    "title": "Sivan Borders on Tammuz: Why the Custom Is Not Kept",
     "text": "וששאלתם, בסיון שהוא זמן מתן תורה למה אין נוהגין כן -- שאינו מנהג כימי\nניסן וימי תשרי, דאיכא מרבוותא דאמרי דמצוות סגיין בניסן ותשרי יותר מסלון, ונכון\nהוא... ורבי חנוניא החסיד איש ירושלים ז\"\"ל, חסיד אשר קבלנו מרוב הקבלות הערוכות\nלו מימי התנאין ז\"ל מצינו בו טעם, והיה אומר סיון סמוך לתמוז שכנו הוא, אוי לרשע\nוטוב לשכנו תנן",
     "loi_id": "loi_passage__130",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 324,
+        "value": "mNegaim 12:6",
+        "order": "139.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 336,
+        "value": "Geonic responsum on the months of Nisan, Tishri and Sivan",
+        "order": "79.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt: Im Sivan, der die Zeit der Toragabe ist — weshalb hält man es nicht so? — Weil er nicht ist wie die Tage des Nisan und die Tage des Tischri, denn es gibt unter den Lehrern solche, die sagen, dass im Nisan und im Tischri mehr Gebote sind als im Sivan; und das ist richtig … Und bei R. Ḥanunya dem Frommen, dem Mann aus Jerusalem seligen Andenkens — einem Frommen, von dem wir viele der ihm geordneten Überlieferungen aus den Tagen der Tannaim seligen Andenkens empfangen haben —, bei ihm fanden wir einen Grund: Er pflegte zu sagen, der Sivan ist dem Tammuz benachbart, sein Nachbar ist er; und wir haben gelernt: Wehe dem Frevler, [wehe] seinem Nachbarn (mNegaʿim 12,6).",
+    "page": "208",
+    "keywords": [
+      {
+        "id": 313,
+        "value": "Sivan",
+        "order": "97.00000000000000000000"
+      },
+      {
+        "id": 314,
+        "value": "tradition from Jerusalem",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      }
+    ]
   },
   "131": {
     "id": 131,

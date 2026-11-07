@@ -39,6 +39,11 @@
         "id": 2,
         "value": "The Sages of Israel’s Authority over the Calendar and the Primacy of Jerusalem",
         "order": "2.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
       }
     ],
     "form_he": "עיר הקודש",
@@ -302,6 +307,16 @@
         "id": 106,
         "value": "The Great Court in Jerusalem Rules on a Caravan",
         "order": "77.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
+      },
+      {
+        "id": 130,
+        "value": "Sivan Borders on Tammuz: Why the Custom Is Not Kept",
+        "order": "101.00000000000000000000"
       }
     ],
     "form_he": "ירושלים",
@@ -576,6 +591,51 @@
         "id": 117,
         "value": "No Power to Release an Oath in the Latter Generations",
         "order": "88.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Standing in the Land, Seated in Bavel: The Posture of the Shemaʿ",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Error, Ignorance and Folly: Amram Gaon against Standing for the Shemaʿ",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Several Provinces in the Land Still Say It So",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Toraton schel Rischonim",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "Silently in the East, Aloud in the Land",
+        "order": "95.00000000000000000000"
+      },
+      {
+        "id": 125,
+        "value": "The Qedushah Only on the Sabbath: A Geonic Notice",
+        "order": "96.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "Who Sanctifies the Sabbath, or Israel and the Sabbath",
+        "order": "97.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
+      },
+      {
+        "id": 129,
+        "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
+        "order": "100.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -963,6 +1023,21 @@
         "id": 115,
         "value": "In Bavel the Ketubbah Is Paid in Full",
         "order": "86.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Standing in the Land, Seated in Bavel: The Posture of the Shemaʿ",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "Who Sanctifies the Sabbath, or Israel and the Sabbath",
+        "order": "97.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
       }
     ],
     "form_he": "בבל",
@@ -1523,6 +1598,11 @@
         "id": 56,
         "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
         "order": "27.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
       }
     ],
     "form_he": "ארעא דישראל",
@@ -1898,6 +1978,126 @@
         "id": 217,
         "value": "Tiberias",
         "order": "26.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "302": {
+    "id": 302,
+    "order": "47.00000000000000000000",
+    "label": "Medinot be-Ereẓ Yisra’el",
+    "loi_id": "loi_parallel__302",
+    "passages": [
+      {
+        "id": 121,
+        "value": "Several Provinces in the Land Still Say It So",
+        "order": "92.00000000000000000000"
+      }
+    ],
+    "form_he": "מדינות בארץ ישראל",
+    "source": [],
+    "gloss_en": "provinces in the Land of Israel",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "303": {
+    "id": 303,
+    "order": "48.00000000000000000000",
+    "label": "Mizraḥ",
+    "loi_id": "loi_parallel__303",
+    "passages": [
+      {
+        "id": 124,
+        "value": "Silently in the East, Aloud in the Land",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "form_he": "מזרח",
+    "source": [],
+    "gloss_en": "East",
+    "referent": [
+      {
+        "id": 37,
+        "value": "Babylonia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "304": {
+    "id": 304,
+    "order": "49.00000000000000000000",
+    "label": "Nehardeʿa",
+    "loi_id": "loi_parallel__304",
+    "passages": [
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "form_he": "נהרדעא",
+    "source": [],
+    "gloss_en": "Nehardea",
+    "referent": [
+      {
+        "id": 219,
+        "value": "Nehardea",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "305": {
+    "id": 305,
+    "order": "50.00000000000000000000",
+    "label": "Yeshivat Ge’on Yaʿaqov",
+    "loi_id": "loi_parallel__305",
+    "passages": [
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "form_he": "ישיבת גאון יעקב",
+    "source": [
+      {
+        "id": 319,
+        "value": "Psalms 47:5",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the academy Pride of Jacob",
+    "referent": [],
+    "commentary": ""
+  },
+  "306": {
+    "id": 306,
+    "order": "51.00000000000000000000",
+    "label": "Germaiza",
+    "loi_id": "loi_parallel__306",
+    "passages": [
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "form_he": "גרמייזא",
+    "source": [],
+    "gloss_en": "Worms",
+    "referent": [
+      {
+        "id": 220,
+        "value": "Worms",
+        "order": "29.00000000000000000000"
       }
     ],
     "commentary": ""

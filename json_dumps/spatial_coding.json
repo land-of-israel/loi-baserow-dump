@@ -410,6 +410,26 @@
         "id": 118,
         "value": "A Release without a Torah Scroll: The Community of Tiberias",
         "order": "89.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Error, Ignorance and Folly: Amram Gaon against Standing for the Shemaʿ",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Toraton schel Rischonim",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
       }
     ]
   },
@@ -649,6 +669,61 @@
         "id": 118,
         "value": "A Release without a Torah Scroll: The Community of Tiberias",
         "order": "89.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Standing in the Land, Seated in Bavel: The Posture of the Shemaʿ",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Error, Ignorance and Folly: Amram Gaon against Standing for the Shemaʿ",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Several Provinces in the Land Still Say It So",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Toraton schel Rischonim",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "Silently in the East, Aloud in the Land",
+        "order": "95.00000000000000000000"
+      },
+      {
+        "id": 125,
+        "value": "The Qedushah Only on the Sabbath: A Geonic Notice",
+        "order": "96.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "Who Sanctifies the Sabbath, or Israel and the Sabbath",
+        "order": "97.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "The Custom of the Land Stands Alone: Vitry against the Jerusalem Reply",
+        "order": "99.00000000000000000000"
+      },
+      {
+        "id": 129,
+        "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
+        "order": "100.00000000000000000000"
+      },
+      {
+        "id": 130,
+        "value": "Sivan Borders on Tammuz: Why the Custom Is Not Kept",
+        "order": "101.00000000000000000000"
       }
     ]
   },
@@ -763,6 +838,11 @@
         "id": 104,
         "value": "The Sixth Wing: Why the Land Sings on the Sabbath Tosafot Sanhedrin 37b:11",
         "order": "75.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "Who Sanctifies the Sabbath, or Israel and the Sabbath",
+        "order": "97.00000000000000000000"
       }
     ]
   }

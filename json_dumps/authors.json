@@ -82,6 +82,16 @@
         "id": 226,
         "value": "Otzar ha-Geonim Ketubbot",
         "order": "34.00000000000000000000"
+      },
+      {
+        "id": 274,
+        "value": "Otzar Ha-Geonim Berakhot",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 277,
+        "value": "Otzar Ha-Geonim Beizah",
+        "order": "53.00000000000000000000"
       }
     ]
   },
@@ -421,6 +431,11 @@
         "id": 146,
         "value": "Teshuvot haGeonim",
         "order": "18.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "Sefer ha-Yishuv II",
+        "order": "54.00000000000000000000"
       }
     ]
   },
@@ -825,6 +840,94 @@
         "id": 270,
         "value": "Halakhot Pesuqot min ha-Geonim",
         "order": "46.00000000000000000000"
+      },
+      {
+        "id": 276,
+        "value": "Ḥilluf Minhagim",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 281,
+        "value": "Mafteaḥ le-Teshuvot ha-Geonim",
+        "order": "57.00000000000000000000"
+      }
+    ]
+  },
+  "332": {
+    "id": 332,
+    "order": "55.00000000000000000000",
+    "name": "Simeon Qayyara (attrib.)",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__332",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "333": {
+    "id": 333,
+    "order": "56.00000000000000000000",
+    "name": "Avraham Shimon ben Yitzhak Traubak",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__333",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 275,
+        "value": "Halakhot Gedolot (Traub)",
+        "order": "51.00000000000000000000"
+      }
+    ]
+  },
+  "334": {
+    "id": 334,
+    "order": "57.00000000000000000000",
+    "name": "Elijah ha-Kohen Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__334",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "335": {
+    "id": 335,
+    "order": "58.00000000000000000000",
+    "name": "Evyatar ha-Kohen",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__335",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "336": {
+    "id": 336,
+    "order": "59.00000000000000000000",
+    "name": "Simḥah of Vitry",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__336",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "337": {
+    "id": 337,
+    "order": "60.00000000000000000000",
+    "name": "Simon ha-Levi Horovitz",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__337",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 279,
+        "value": "Machsor Vitri",
+        "order": "55.00000000000000000000"
       }
     ]
   }
