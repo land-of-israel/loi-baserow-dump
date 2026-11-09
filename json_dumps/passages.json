@@ -6562,20 +6562,65 @@
   "131": {
     "id": 131,
     "order": "102.00000000000000000000",
-    "title": "Omer counting",
+    "title": "Counting the Omer by Night Only, or by Day and Night",
     "text": "אנשי מזרח אין סופרין את העומר אלא בלילה, ובני ארץ ישראל ביום ובלילה",
     "loi_id": "loi_passage__131",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 117,
+        "value": "Leviticus 23,15–16",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ zählen das Omer nur in der Nacht; und die Benei Ereẓ Israel bei Tag und in der Nacht (vgl. Lev 23,15–16).",
+    "page": "(Müller) p.70",
+    "keywords": [
+      {
+        "id": 298,
+        "value": "Palestinian and Babylonian custom",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 315,
+        "value": "sefirat ha-omer",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "132": {
     "id": 132,

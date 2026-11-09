@@ -636,6 +636,11 @@
         "id": 129,
         "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
         "order": "100.00000000000000000000"
+      },
+      {
+        "id": 131,
+        "value": "Counting the Omer by Night Only, or by Day and Night",
+        "order": "102.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -2016,6 +2021,11 @@
         "id": 124,
         "value": "Silently in the East, Aloud in the Land",
         "order": "95.00000000000000000000"
+      },
+      {
+        "id": 131,
+        "value": "Counting the Omer by Night Only, or by Day and Night",
+        "order": "102.00000000000000000000"
       }
     ],
     "form_he": "מזרח",
