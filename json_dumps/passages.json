@@ -6625,45 +6625,87 @@
   "132": {
     "id": 132,
     "order": "103.00000000000000000000",
-    "title": "Fast",
+    "title": "A Land That Drinks Rain from Heaven: Why Fasts Are Decreed There and Not in Bavel",
     "text": "דאמר שמואל: אין תענית צבור בבבל אלא תשעה באב בלבד, ובמתניתין\nקתני עברו אלו ולא נענו בית דין גוזרין שלש תעניות על הציבור, אוכלין ושותין מבעוד\nיום כתשעה באב, לא קשיא, כי תניא מתניתין בארץ ישראל דצריכה מי גשמים דכתיבם:\nלמטר השמים תשתה מים, וכי קאמר שמואל אין תענית ציבור בבבל, דווקא בבבל.",
     "loi_id": "loi_passage__132",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 325,
+        "value": "bTaanit 11b",
+        "order": "140.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "mTa'anit 1:6",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 327,
+        "value": "Deuteronomy 11:11",
+        "order": "142.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 337,
+        "value": "Halakhot Pesuqot min ha-Geonim",
+        "order": "80.00000000000000000000"
+      }
+    ],
+    "german_translation": "Denn Schmuel sagte (bTaʿanit 11b): Es gibt kein öffentliches Fasten in Bavel außer dem Neunten Aw allein. Und in der Mischna ist gelehrt (mTaʿanit 1,5–6): Sind diese vorübergegangen und sie wurden nicht erhört, so verhängt das Bet Din drei Fasttage über die Gemeinde; man isst und trinkt, solange es noch Tag ist, wie am Neunten Aw. Kein Widerspruch: Was die Mischna lehrt, [gilt] in Ereẓ Israel, das Regenwassers bedarf, wie geschrieben steht: „vom Regen des Himmels trinkt es Wasser“ (Dtn 11,11); und wenn Schmuel sagt, es gebe kein öffentliches Fasten in Bavel, so [gilt das] gerade für Bavel.",
+    "page": "p. 93, no. 193",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 316,
+        "value": "public fasts",
+        "order": "100.00000000000000000000"
+      },
+      {
+        "id": 317,
+        "value": "rain",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "133": {
     "id": 133,
     "order": "104.00000000000000000000",
     "title": "[laws and customs / minhagim] (untitled)",
-    "text": "וזו תשובה שהשיב רבינו יצחק ב\"ר יהודה לר' מנחם: וששאל מה ראו לקבוע",
+    "text": "וזו תשובה שהשיב רבינו יצחק ב\"ר יהודה לר' מנחם: וששאל מה ראו לקבוע\n\nזמן שאילת מטר בשישים בתקופה בגולה, נראה בעיני לפי שזמן הזרע שני חדשים כמו  \nששנינו: חצי תשרי, מרחשון, וחצי כסליו זרע וכו' ר' יהודה היה מונה מתחילת תשרי.  \nוארץ ישראל שהיא ארץ גריד אין גשמים קשין לה בשעת הזרע, וקבעו שאילתן בשעה שאינה  \nקשה לעוברי דרכים. בבל שהיא לחה ומטונפת גשמים קשים לה עד כלות הזרע, לפי  \nשהרגבים מדובקים מעכבות את החריש והכיסוי שצריך עפר דק ותיחוח. וחנניה ירד לגולה  \nוראה אותן נוהגין מנין ימי זרע מתחילת תשרי של חמה, שהוא יום התקופה וכלים  \nלשישים יום.",
     "loi_id": "loi_passage__133",
-    "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
-  },
-  "134": {
-    "id": 134,
-    "order": "105.00000000000000000000",
-    "title": "Rain in Babylonia/Israel",
-    "text": "זמן שאילת מטר בשישים בתקופה בגולה, נראה בעיני לפי שזמן הזרע שני חדשים כמו\nששנינו: חצי תשרי, מרחשון, וחצי כסליו זרע וכו' ר' יהודה היה מונה מתחילת תשרי.\nוארץ ישראל שהיא ארץ גריד אין גשמים קשין לה בשעת הזרע, וקבעו שאילתן בשעה שאינה\nקשה לעוברי דרכים. בבל שהיא לחה ומטונפת גשמים קשים לה עד כלות הזרע, לפי\nשהרגבים מדובקים מעכבות את החריש והכיסוי שצריך עפר דק ותיחוח. וחנניה ירד לגולה\nוראה אותן נוהגין מנין ימי זרע מתחילת תשרי של חמה, שהוא יום התקופה וכלים\nלשישים יום.",
-    "loi_id": "loi_passage__134",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],

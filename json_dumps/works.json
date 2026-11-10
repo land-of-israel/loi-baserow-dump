@@ -2738,5 +2738,44 @@
         "order": "57.00000000000000000000"
       }
     ]
+  },
+  "337": {
+    "id": 337,
+    "order": "80.00000000000000000000",
+    "title": "Halakhot Pesuqot min ha-Geonim",
+    "reference": "",
+    "author": [
+      {
+        "id": 320,
+        "value": "Paltoy bar Abbaye Gaon",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 213,
+        "value": "Pumbedita",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__337",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 72,
+        "value": "Halakhic compendium",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 270,
+        "value": "Halakhot Pesuqot min ha-Geonim",
+        "order": "46.00000000000000000000"
+      }
+    ]
   }
 }
