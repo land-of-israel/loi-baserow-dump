@@ -255,6 +255,11 @@
         "id": 20,
         "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
         "order": "20.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "Still Read in Jerusalem: Hai Gaon on the Reading of Shemini Aẓeret",
+        "order": "110.00000000000000000000"
       }
     ]
   },
@@ -747,6 +752,11 @@
         "id": 76,
         "value": "The City That Cannot Become Unclean",
         "order": "47.00000000000000000000"
+      },
+      {
+        "id": 153,
+        "value": "Severe in the Land, for Those Who Eat in Purity",
+        "order": "124.00000000000000000000"
       }
     ]
   },
@@ -775,6 +785,11 @@
         "id": 75,
         "value": "Four Blessings, Four Stages of Possession",
         "order": "46.00000000000000000000"
+      },
+      {
+        "id": 151,
+        "value": "They Make the Food the Main Thing: The Zimmun Formula",
+        "order": "122.00000000000000000000"
       }
     ]
   },
@@ -859,6 +874,11 @@
         "id": 79,
         "value": "Seder Rav Amram",
         "order": "50.00000000000000000000"
+      },
+      {
+        "id": 140,
+        "value": "Rolled Like a Torah Scroll, Not Spread Like a Letter",
+        "order": "111.00000000000000000000"
       }
     ]
   },
@@ -906,6 +926,11 @@
         "id": 91,
         "value": "Ḥallah but Not Terumah: What the Diaspora Keeps as Remembrance",
         "order": "62.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "A Dry Land and a Damp One: Why the Rain Is Asked Sixty Days Later",
+        "order": "104.00000000000000000000"
       }
     ]
   },
@@ -1099,6 +1124,11 @@
         "id": 132,
         "value": "A Land That Drinks Rain from Heaven: Why Fasts Are Decreed There and Not in Bavel",
         "order": "103.00000000000000000000"
+      },
+      {
+        "id": 153,
+        "value": "Severe in the Land, for Those Who Eat in Purity",
+        "order": "124.00000000000000000000"
       }
     ]
   },
@@ -1499,6 +1529,11 @@
         "id": 129,
         "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
         "order": "100.00000000000000000000"
+      },
+      {
+        "id": 149,
+        "value": "The Broken Piece upon the Whole",
+        "order": "120.00000000000000000000"
       }
     ]
   },
@@ -1922,6 +1957,11 @@
         "id": 122,
         "value": "Toraton schel Rischonim",
         "order": "93.00000000000000000000"
+      },
+      {
+        "id": 140,
+        "value": "Rolled Like a Torah Scroll, Not Spread Like a Letter",
+        "order": "111.00000000000000000000"
       }
     ]
   },
@@ -1960,6 +2000,116 @@
         "id": 131,
         "value": "Counting the Omer by Night Only, or by Day and Night",
         "order": "102.00000000000000000000"
+      },
+      {
+        "id": 136,
+        "value": "Who Reads the Portion: Congregation or Precentor",
+        "order": "107.00000000000000000000"
+      },
+      {
+        "id": 137,
+        "value": "Simḥat Torah in Bavel and in the Land",
+        "order": "108.00000000000000000000"
+      },
+      {
+        "id": 138,
+        "value": "As Torah and Halakhah Require: The Palestinian Usage Endorsed",
+        "order": "109.00000000000000000000"
+      },
+      {
+        "id": 141,
+        "value": "None but a Priest May Pronounce the Name",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 142,
+        "value": "Before He Has Taken a Wife: Who May Pronounce the Blessing",
+        "order": "113.00000000000000000000"
+      },
+      {
+        "id": 143,
+        "value": "With Uncovered Head: The Priestly Blessing in the Land",
+        "order": "114.00000000000000000000"
+      },
+      {
+        "id": 144,
+        "value": "Facing the People or Facing the Ark",
+        "order": "115.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "At Morning Only, Save Four Times on the Day of Atonement",
+        "order": "116.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "Three Times or Four on the Day of Atonement",
+        "order": "117.00000000000000000000"
+      },
+      {
+        "id": 147,
+        "value": "All Is Included in the Ground: Lupines before Tree Fruit",
+        "order": "118.00000000000000000000"
+      },
+      {
+        "id": 148,
+        "value": "Only When It Is Mixed: The Blessing over Wine",
+        "order": "119.00000000000000000000"
+      },
+      {
+        "id": 151,
+        "value": "They Make the Food the Main Thing: The Zimmun Formula",
+        "order": "122.00000000000000000000"
+      },
+      {
+        "id": 152,
+        "value": "We Are in an Impure Land: Immersion and Its Abandonment",
+        "order": "123.00000000000000000000"
+      },
+      {
+        "id": 154,
+        "value": "Cleansing with Water",
+        "order": "125.00000000000000000000"
+      },
+      {
+        "id": 155,
+        "value": "Three Blasts before the Sabbath Comes In",
+        "order": "126.00000000000000000000"
+      },
+      {
+        "id": 156,
+        "value": "Because All Labours Subsist in It: Money on the Sabbath",
+        "order": "127.00000000000000000000"
+      },
+      {
+        "id": 157,
+        "value": "Three Recensions on One Difference: Lowering into the Oven",
+        "order": "128.00000000000000000000"
+      },
+      {
+        "id": 158,
+        "value": "One Loaf, So as Not to Carry the Eve’s Honour into the Sabbath",
+        "order": "129.00000000000000000000"
+      },
+      {
+        "id": 159,
+        "value": "Weighing Meat on a Festival",
+        "order": "130.00000000000000000000"
+      },
+      {
+        "id": 160,
+        "value": "Lulav and Myrtle When the Festival Falls on a Sabbath",
+        "order": "131.00000000000000000000"
+      },
+      {
+        "id": 161,
+        "value": "That He May Hold Both in One Hand: A Palestinian Teaching on the Four Species",
+        "order": "132.00000000000000000000"
+      },
+      {
+        "id": 162,
+        "value": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
+        "order": "133.00000000000000000000"
       }
     ]
   },
@@ -2082,6 +2232,11 @@
         "id": 129,
         "value": "No Seliḥot on the Ninth of Av: The Practice of the Two Academies",
         "order": "100.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "At Morning Only, Save Four Times on the Day of Atonement",
+        "order": "116.00000000000000000000"
       }
     ]
   },
@@ -2180,6 +2335,778 @@
         "id": 132,
         "value": "A Land That Drinks Rain from Heaven: Why Fasts Are Decreed There and Not in Bavel",
         "order": "103.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "A Dry Land and a Damp One: Why the Rain Is Asked Sixty Days Later",
+        "order": "104.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Like the Land of Israel and Francia: Rain Asked by Dependence, Not by Place",
+        "order": "106.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "Still Read in Jerusalem: Hai Gaon on the Reading of Shemini Aẓeret",
+        "order": "110.00000000000000000000"
+      }
+    ]
+  },
+  "318": {
+    "id": 318,
+    "order": "102.00000000000000000000",
+    "label": "request for rain",
+    "notes": "",
+    "loi_id": "loi_keyword__318",
+    "passages": [
+      {
+        "id": 133,
+        "value": "A Dry Land and a Damp One: Why the Rain Is Asked Sixty Days Later",
+        "order": "104.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Like the Land of Israel and Francia: Rain Asked by Dependence, Not by Place",
+        "order": "106.00000000000000000000"
+      }
+    ]
+  },
+  "319": {
+    "id": 319,
+    "order": "103.00000000000000000000",
+    "label": "Francia",
+    "notes": "",
+    "loi_id": "loi_keyword__319",
+    "passages": [
+      {
+        "id": 135,
+        "value": "Like the Land of Israel and Francia: Rain Asked by Dependence, Not by Place",
+        "order": "106.00000000000000000000"
+      }
+    ]
+  },
+  "320": {
+    "id": 320,
+    "order": "104.00000000000000000000",
+    "label": "Torah reading",
+    "notes": "",
+    "loi_id": "loi_keyword__320",
+    "passages": [
+      {
+        "id": 136,
+        "value": "Who Reads the Portion: Congregation or Precentor",
+        "order": "107.00000000000000000000"
+      },
+      {
+        "id": 137,
+        "value": "Simḥat Torah in Bavel and in the Land",
+        "order": "108.00000000000000000000"
+      },
+      {
+        "id": 138,
+        "value": "As Torah and Halakhah Require: The Palestinian Usage Endorsed",
+        "order": "109.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "Still Read in Jerusalem: Hai Gaon on the Reading of Shemini Aẓeret",
+        "order": "110.00000000000000000000"
+      }
+    ]
+  },
+  "321": {
+    "id": 321,
+    "order": "105.00000000000000000000",
+    "label": "triennial cycle",
+    "notes": "",
+    "loi_id": "loi_keyword__321",
+    "passages": [
+      {
+        "id": 136,
+        "value": "Who Reads the Portion: Congregation or Precentor",
+        "order": "107.00000000000000000000"
+      },
+      {
+        "id": 137,
+        "value": "Simḥat Torah in Bavel and in the Land",
+        "order": "108.00000000000000000000"
+      }
+    ]
+  },
+  "322": {
+    "id": 322,
+    "order": "106.00000000000000000000",
+    "label": "Simḥat Torah",
+    "notes": "",
+    "loi_id": "loi_keyword__322",
+    "passages": [
+      {
+        "id": 137,
+        "value": "Simḥat Torah in Bavel and in the Land",
+        "order": "108.00000000000000000000"
+      }
+    ]
+  },
+  "323": {
+    "id": 323,
+    "order": "107.00000000000000000000",
+    "label": "honour of the Torah",
+    "notes": "",
+    "loi_id": "loi_keyword__323",
+    "passages": [
+      {
+        "id": 138,
+        "value": "As Torah and Halakhah Require: The Palestinian Usage Endorsed",
+        "order": "109.00000000000000000000"
+      }
+    ]
+  },
+  "324": {
+    "id": 324,
+    "order": "108.00000000000000000000",
+    "label": "Shemini Aẓeret",
+    "notes": "",
+    "loi_id": "loi_keyword__324",
+    "passages": [
+      {
+        "id": 139,
+        "value": "Still Read in Jerusalem: Hai Gaon on the Reading of Shemini Aẓeret",
+        "order": "110.00000000000000000000"
+      }
+    ]
+  },
+  "325": {
+    "id": 325,
+    "order": "109.00000000000000000000",
+    "label": "Megillah",
+    "notes": "",
+    "loi_id": "loi_keyword__325",
+    "passages": [
+      {
+        "id": 140,
+        "value": "Rolled Like a Torah Scroll, Not Spread Like a Letter",
+        "order": "111.00000000000000000000"
+      }
+    ]
+  },
+  "326": {
+    "id": 326,
+    "order": "110.00000000000000000000",
+    "label": "priestly blessing",
+    "notes": "",
+    "loi_id": "loi_keyword__326",
+    "passages": [
+      {
+        "id": 141,
+        "value": "None but a Priest May Pronounce the Name",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 142,
+        "value": "Before He Has Taken a Wife: Who May Pronounce the Blessing",
+        "order": "113.00000000000000000000"
+      },
+      {
+        "id": 143,
+        "value": "With Uncovered Head: The Priestly Blessing in the Land",
+        "order": "114.00000000000000000000"
+      },
+      {
+        "id": 144,
+        "value": "Facing the People or Facing the Ark",
+        "order": "115.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "At Morning Only, Save Four Times on the Day of Atonement",
+        "order": "116.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "Three Times or Four on the Day of Atonement",
+        "order": "117.00000000000000000000"
+      }
+    ]
+  },
+  "327": {
+    "id": 327,
+    "order": "111.00000000000000000000",
+    "label": "pronouncing the Name",
+    "notes": "",
+    "loi_id": "loi_keyword__327",
+    "passages": [
+      {
+        "id": 141,
+        "value": "None but a Priest May Pronounce the Name",
+        "order": "112.00000000000000000000"
+      }
+    ]
+  },
+  "328": {
+    "id": 328,
+    "order": "112.00000000000000000000",
+    "label": "marriage",
+    "notes": "",
+    "loi_id": "loi_keyword__328",
+    "passages": [
+      {
+        "id": 142,
+        "value": "Before He Has Taken a Wife: Who May Pronounce the Blessing",
+        "order": "113.00000000000000000000"
+      }
+    ]
+  },
+  "329": {
+    "id": 329,
+    "order": "113.00000000000000000000",
+    "label": "head covering",
+    "notes": "",
+    "loi_id": "loi_keyword__329",
+    "passages": [
+      {
+        "id": 143,
+        "value": "With Uncovered Head: The Priestly Blessing in the Land",
+        "order": "114.00000000000000000000"
+      }
+    ]
+  },
+  "330": {
+    "id": 330,
+    "order": "114.00000000000000000000",
+    "label": "orientation",
+    "notes": "",
+    "loi_id": "loi_keyword__330",
+    "passages": [
+      {
+        "id": 144,
+        "value": "Facing the People or Facing the Ark",
+        "order": "115.00000000000000000000"
+      }
+    ]
+  },
+  "331": {
+    "id": 331,
+    "order": "115.00000000000000000000",
+    "label": "holy ark",
+    "notes": "",
+    "loi_id": "loi_keyword__331",
+    "passages": [
+      {
+        "id": 144,
+        "value": "Facing the People or Facing the Ark",
+        "order": "115.00000000000000000000"
+      }
+    ]
+  },
+  "332": {
+    "id": 332,
+    "order": "116.00000000000000000000",
+    "label": "Day of Atonement",
+    "notes": "",
+    "loi_id": "loi_keyword__332",
+    "passages": [
+      {
+        "id": 145,
+        "value": "At Morning Only, Save Four Times on the Day of Atonement",
+        "order": "116.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "Three Times or Four on the Day of Atonement",
+        "order": "117.00000000000000000000"
+      },
+      {
+        "id": 152,
+        "value": "We Are in an Impure Land: Immersion and Its Abandonment",
+        "order": "123.00000000000000000000"
+      }
+    ]
+  },
+  "333": {
+    "id": 333,
+    "order": "117.00000000000000000000",
+    "label": "blessings over food",
+    "notes": "",
+    "loi_id": "loi_keyword__333",
+    "passages": [
+      {
+        "id": 147,
+        "value": "All Is Included in the Ground: Lupines before Tree Fruit",
+        "order": "118.00000000000000000000"
+      }
+    ]
+  },
+  "334": {
+    "id": 334,
+    "order": "118.00000000000000000000",
+    "label": "tree fruit",
+    "notes": "",
+    "loi_id": "loi_keyword__334",
+    "passages": [
+      {
+        "id": 147,
+        "value": "All Is Included in the Ground: Lupines before Tree Fruit",
+        "order": "118.00000000000000000000"
+      }
+    ]
+  },
+  "335": {
+    "id": 335,
+    "order": "119.00000000000000000000",
+    "label": "blessing over wine",
+    "notes": "",
+    "loi_id": "loi_keyword__335",
+    "passages": [
+      {
+        "id": 148,
+        "value": "Only When It Is Mixed: The Blessing over Wine",
+        "order": "119.00000000000000000000"
+      }
+    ]
+  },
+  "336": {
+    "id": 336,
+    "order": "120.00000000000000000000",
+    "label": "mixed wine",
+    "notes": "",
+    "loi_id": "loi_keyword__336",
+    "passages": [
+      {
+        "id": 148,
+        "value": "Only When It Is Mixed: The Blessing over Wine",
+        "order": "119.00000000000000000000"
+      }
+    ]
+  },
+  "337": {
+    "id": 337,
+    "order": "121.00000000000000000000",
+    "label": "Passover",
+    "notes": "",
+    "loi_id": "loi_keyword__337",
+    "passages": [
+      {
+        "id": 149,
+        "value": "The Broken Piece upon the Whole",
+        "order": "120.00000000000000000000"
+      },
+      {
+        "id": 157,
+        "value": "Three Recensions on One Difference: Lowering into the Oven",
+        "order": "128.00000000000000000000"
+      }
+    ]
+  },
+  "338": {
+    "id": 338,
+    "order": "122.00000000000000000000",
+    "label": "seder",
+    "notes": "",
+    "loi_id": "loi_keyword__338",
+    "passages": [
+      {
+        "id": 149,
+        "value": "The Broken Piece upon the Whole",
+        "order": "120.00000000000000000000"
+      }
+    ]
+  },
+  "339": {
+    "id": 339,
+    "order": "123.00000000000000000000",
+    "label": "breaking of bread",
+    "notes": "",
+    "loi_id": "loi_keyword__339",
+    "passages": [
+      {
+        "id": 149,
+        "value": "The Broken Piece upon the Whole",
+        "order": "120.00000000000000000000"
+      },
+      {
+        "id": 158,
+        "value": "One Loaf, So as Not to Carry the Eve’s Honour into the Sabbath",
+        "order": "129.00000000000000000000"
+      }
+    ]
+  },
+  "340": {
+    "id": 340,
+    "order": "124.00000000000000000000",
+    "label": "zimmun",
+    "notes": "",
+    "loi_id": "loi_keyword__340",
+    "passages": [
+      {
+        "id": 151,
+        "value": "They Make the Food the Main Thing: The Zimmun Formula",
+        "order": "122.00000000000000000000"
+      }
+    ]
+  },
+  "341": {
+    "id": 341,
+    "order": "125.00000000000000000000",
+    "label": "ṭevilah",
+    "notes": "",
+    "loi_id": "loi_keyword__341",
+    "passages": [
+      {
+        "id": 152,
+        "value": "We Are in an Impure Land: Immersion and Its Abandonment",
+        "order": "123.00000000000000000000"
+      }
+    ]
+  },
+  "342": {
+    "id": 342,
+    "order": "126.00000000000000000000",
+    "label": "impurity of the lands of the nations",
+    "notes": "",
+    "loi_id": "loi_keyword__342",
+    "passages": [
+      {
+        "id": 152,
+        "value": "We Are in an Impure Land: Immersion and Its Abandonment",
+        "order": "123.00000000000000000000"
+      }
+    ]
+  },
+  "343": {
+    "id": 343,
+    "order": "127.00000000000000000000",
+    "label": "severe impurity",
+    "notes": "",
+    "loi_id": "loi_keyword__343",
+    "passages": [
+      {
+        "id": 153,
+        "value": "Severe in the Land, for Those Who Eat in Purity",
+        "order": "124.00000000000000000000"
+      }
+    ]
+  },
+  "344": {
+    "id": 344,
+    "order": "128.00000000000000000000",
+    "label": "ṭoharot",
+    "notes": "",
+    "loi_id": "loi_keyword__344",
+    "passages": [
+      {
+        "id": 153,
+        "value": "Severe in the Land, for Those Who Eat in Purity",
+        "order": "124.00000000000000000000"
+      }
+    ]
+  },
+  "345": {
+    "id": 345,
+    "order": "129.00000000000000000000",
+    "label": "personal hygiene",
+    "notes": "",
+    "loi_id": "loi_keyword__345",
+    "passages": [
+      {
+        "id": 154,
+        "value": "Cleansing with Water",
+        "order": "125.00000000000000000000"
+      }
+    ]
+  },
+  "346": {
+    "id": 346,
+    "order": "130.00000000000000000000",
+    "label": "cleansing",
+    "notes": "",
+    "loi_id": "loi_keyword__346",
+    "passages": [
+      {
+        "id": 154,
+        "value": "Cleansing with Water",
+        "order": "125.00000000000000000000"
+      }
+    ]
+  },
+  "347": {
+    "id": 347,
+    "order": "131.00000000000000000000",
+    "label": "shofar",
+    "notes": "",
+    "loi_id": "loi_keyword__347",
+    "passages": [
+      {
+        "id": 155,
+        "value": "Three Blasts before the Sabbath Comes In",
+        "order": "126.00000000000000000000"
+      }
+    ]
+  },
+  "348": {
+    "id": 348,
+    "order": "132.00000000000000000000",
+    "label": "announcing the Sabbath",
+    "notes": "",
+    "loi_id": "loi_keyword__348",
+    "passages": [
+      {
+        "id": 155,
+        "value": "Three Blasts before the Sabbath Comes In",
+        "order": "126.00000000000000000000"
+      }
+    ]
+  },
+  "349": {
+    "id": 349,
+    "order": "133.00000000000000000000",
+    "label": "money",
+    "notes": "",
+    "loi_id": "loi_keyword__349",
+    "passages": [
+      {
+        "id": 156,
+        "value": "Because All Labours Subsist in It: Money on the Sabbath",
+        "order": "127.00000000000000000000"
+      }
+    ]
+  },
+  "350": {
+    "id": 350,
+    "order": "134.00000000000000000000",
+    "label": "carrying",
+    "notes": "",
+    "loi_id": "loi_keyword__350",
+    "passages": [
+      {
+        "id": 156,
+        "value": "Because All Labours Subsist in It: Money on the Sabbath",
+        "order": "127.00000000000000000000"
+      }
+    ]
+  },
+  "351": {
+    "id": 351,
+    "order": "135.00000000000000000000",
+    "label": "Sabbath",
+    "notes": "",
+    "loi_id": "loi_keyword__351",
+    "passages": [
+      {
+        "id": 156,
+        "value": "Because All Labours Subsist in It: Money on the Sabbath",
+        "order": "127.00000000000000000000"
+      },
+      {
+        "id": 157,
+        "value": "Three Recensions on One Difference: Lowering into the Oven",
+        "order": "128.00000000000000000000"
+      },
+      {
+        "id": 160,
+        "value": "Lulav and Myrtle When the Festival Falls on a Sabbath",
+        "order": "131.00000000000000000000"
+      }
+    ]
+  },
+  "352": {
+    "id": 352,
+    "order": "136.00000000000000000000",
+    "label": "oven",
+    "notes": "",
+    "loi_id": "loi_keyword__352",
+    "passages": [
+      {
+        "id": 157,
+        "value": "Three Recensions on One Difference: Lowering into the Oven",
+        "order": "128.00000000000000000000"
+      }
+    ]
+  },
+  "353": {
+    "id": 353,
+    "order": "137.00000000000000000000",
+    "label": "Passover offering",
+    "notes": "",
+    "loi_id": "loi_keyword__353",
+    "passages": [
+      {
+        "id": 157,
+        "value": "Three Recensions on One Difference: Lowering into the Oven",
+        "order": "128.00000000000000000000"
+      }
+    ]
+  },
+  "354": {
+    "id": 354,
+    "order": "138.00000000000000000000",
+    "label": "leḥem mishneh",
+    "notes": "",
+    "loi_id": "loi_keyword__354",
+    "passages": [
+      {
+        "id": 158,
+        "value": "One Loaf, So as Not to Carry the Eve’s Honour into the Sabbath",
+        "order": "129.00000000000000000000"
+      }
+    ]
+  },
+  "355": {
+    "id": 355,
+    "order": "139.00000000000000000000",
+    "label": "Sabbath meal",
+    "notes": "",
+    "loi_id": "loi_keyword__355",
+    "passages": [
+      {
+        "id": 158,
+        "value": "One Loaf, So as Not to Carry the Eve’s Honour into the Sabbath",
+        "order": "129.00000000000000000000"
+      }
+    ]
+  },
+  "356": {
+    "id": 356,
+    "order": "140.00000000000000000000",
+    "label": "festival laws",
+    "notes": "",
+    "loi_id": "loi_keyword__356",
+    "passages": [
+      {
+        "id": 159,
+        "value": "Weighing Meat on a Festival",
+        "order": "130.00000000000000000000"
+      }
+    ]
+  },
+  "357": {
+    "id": 357,
+    "order": "141.00000000000000000000",
+    "label": "weighing",
+    "notes": "",
+    "loi_id": "loi_keyword__357",
+    "passages": [
+      {
+        "id": 159,
+        "value": "Weighing Meat on a Festival",
+        "order": "130.00000000000000000000"
+      }
+    ]
+  },
+  "358": {
+    "id": 358,
+    "order": "142.00000000000000000000",
+    "label": "lulav",
+    "notes": "",
+    "loi_id": "loi_keyword__358",
+    "passages": [
+      {
+        "id": 160,
+        "value": "Lulav and Myrtle When the Festival Falls on a Sabbath",
+        "order": "131.00000000000000000000"
+      }
+    ]
+  },
+  "359": {
+    "id": 359,
+    "order": "143.00000000000000000000",
+    "label": "hadas",
+    "notes": "",
+    "loi_id": "loi_keyword__359",
+    "passages": [
+      {
+        "id": 160,
+        "value": "Lulav and Myrtle When the Festival Falls on a Sabbath",
+        "order": "131.00000000000000000000"
+      }
+    ]
+  },
+  "360": {
+    "id": 360,
+    "order": "144.00000000000000000000",
+    "label": "Sukkot",
+    "notes": "",
+    "loi_id": "loi_keyword__360",
+    "passages": [
+      {
+        "id": 160,
+        "value": "Lulav and Myrtle When the Festival Falls on a Sabbath",
+        "order": "131.00000000000000000000"
+      },
+      {
+        "id": 161,
+        "value": "That He May Hold Both in One Hand: A Palestinian Teaching on the Four Species",
+        "order": "132.00000000000000000000"
+      }
+    ]
+  },
+  "361": {
+    "id": 361,
+    "order": "145.00000000000000000000",
+    "label": "four species",
+    "notes": "",
+    "loi_id": "loi_keyword__361",
+    "passages": [
+      {
+        "id": 161,
+        "value": "That He May Hold Both in One Hand: A Palestinian Teaching on the Four Species",
+        "order": "132.00000000000000000000"
+      }
+    ]
+  },
+  "362": {
+    "id": 362,
+    "order": "146.00000000000000000000",
+    "label": "lulav and etrog",
+    "notes": "",
+    "loi_id": "loi_keyword__362",
+    "passages": [
+      {
+        "id": 161,
+        "value": "That He May Hold Both in One Hand: A Palestinian Teaching on the Four Species",
+        "order": "132.00000000000000000000"
+      }
+    ]
+  },
+  "363": {
+    "id": 363,
+    "order": "147.00000000000000000000",
+    "label": "ḥol ha-moʿed",
+    "notes": "",
+    "loi_id": "loi_keyword__363",
+    "passages": [
+      {
+        "id": 162,
+        "value": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
+        "order": "133.00000000000000000000"
+      }
+    ]
+  },
+  "364": {
+    "id": 364,
+    "order": "148.00000000000000000000",
+    "label": "Torah study",
+    "notes": "",
+    "loi_id": "loi_keyword__364",
+    "passages": [
+      {
+        "id": 162,
+        "value": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
+        "order": "133.00000000000000000000"
+      }
+    ]
+  },
+  "365": {
+    "id": 365,
+    "order": "149.00000000000000000000",
+    "label": "prohibition of work",
+    "notes": "",
+    "loi_id": "loi_keyword__365",
+    "passages": [
+      {
+        "id": 162,
+        "value": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
+        "order": "133.00000000000000000000"
       }
     ]
   }

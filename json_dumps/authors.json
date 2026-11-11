@@ -930,5 +930,22 @@
         "order": "55.00000000000000000000"
       }
     ]
+  },
+  "338": {
+    "id": 338,
+    "order": "61.00000000000000000000",
+    "name": "Tzedakia ben Avraham Anaw",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__338",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 282,
+        "value": "Shibbolei ha-Leqeṭ ha-Shalem",
+        "order": "58.00000000000000000000"
+      }
+    ]
   }
 }

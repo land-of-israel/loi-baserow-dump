@@ -99,6 +99,11 @@
         "id": 302,
         "value": "Medinot be-Ereẓ Yisra’el",
         "order": "47.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "Pelekh",
+        "order": "53.00000000000000000000"
       }
     ],
     "edition": []
@@ -460,6 +465,11 @@
         "id": 109,
         "value": "Genizah Studies Vol. II",
         "order": "13.00000000000000000000"
+      },
+      {
+        "id": 282,
+        "value": "Shibbolei ha-Leqeṭ ha-Shalem",
+        "order": "58.00000000000000000000"
       }
     ]
   },
@@ -700,6 +710,23 @@
         "id": 306,
         "value": "Germaiza",
         "order": "51.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "221": {
+    "id": 221,
+    "order": "30.00000000000000000000",
+    "name": "France",
+    "geonames": "",
+    "loi_id": "loi_place__221",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 307,
+        "value": "Frankiya",
+        "order": "52.00000000000000000000"
       }
     ],
     "edition": []

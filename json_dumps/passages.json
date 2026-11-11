@@ -1721,7 +1721,7 @@
       }
     ],
     "german_translation": "Die Bewohner Babyloniens halten zwei Festtage.\nDie Bewohner des Landes Israel halten einen einzigen, gemäß dem Gebot der Tora.",
-    "page": "264",
+    "page": "(Müller) p. 37, no. 41",
     "keywords": [
       {
         "id": 4,
@@ -6569,7 +6569,7 @@
     "parallel_text": [
       {
         "id": 117,
-        "value": "Leviticus 23,15–16",
+        "value": "Leviticus 23:15–16",
         "order": "21.00000000000000000000"
       }
     ],
@@ -6703,524 +6703,1910 @@
   "133": {
     "id": 133,
     "order": "104.00000000000000000000",
-    "title": "[laws and customs / minhagim] (untitled)",
+    "title": "A Dry Land and a Damp One: Why the Rain Is Asked Sixty Days Later",
     "text": "וזו תשובה שהשיב רבינו יצחק ב\"ר יהודה לר' מנחם: וששאל מה ראו לקבוע\n\nזמן שאילת מטר בשישים בתקופה בגולה, נראה בעיני לפי שזמן הזרע שני חדשים כמו  \nששנינו: חצי תשרי, מרחשון, וחצי כסליו זרע וכו' ר' יהודה היה מונה מתחילת תשרי.  \nוארץ ישראל שהיא ארץ גריד אין גשמים קשין לה בשעת הזרע, וקבעו שאילתן בשעה שאינה  \nקשה לעוברי דרכים. בבל שהיא לחה ומטונפת גשמים קשים לה עד כלות הזרע, לפי  \nשהרגבים מדובקים מעכבות את החריש והכיסוי שצריך עפר דק ותיחוח. וחנניה ירד לגולה  \nוראה אותן נוהגין מנין ימי זרע מתחילת תשרי של חמה, שהוא יום התקופה וכלים  \nלשישים יום.",
     "loi_id": "loi_passage__133",
     "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
+    "parallel_text": [
+      {
+        "id": 118,
+        "value": "mTaʿanit 1:3",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 328,
+        "value": "bBava Metzia 106b",
+        "order": "143.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 9,
+        "value": "Ma'aseh ha-Geonim",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und dies ist die Antwort, die unser Lehrer Jiẓḥaq ben R. Jehuda dem R. Menaḥem gab: Und was er gefragt hat, was sie bewogen hat, die Zeit der Bitte um Regen auf den sechzigsten [Tag] nach der Tequfah in der Golah festzusetzen — mir scheint es so: Weil die Zeit der Aussaat zwei Monate beträgt, wie wir gelernt haben (bBava Meẓiʿa 106b): die Hälfte des Tischri, Marḥeschwan und die Hälfte des Kislev sind Saatzeit usw.; R. Jehuda zählte vom Anfang des Tischri.\n\nUnd Ereẓ Israel, das ein trockenes Land ist — Regen ist ihm zur Zeit der Aussaat nicht beschwerlich, und sie setzten ihre Bitte auf eine Zeit fest, die den Reisenden nicht beschwerlich ist (vgl. mTaʿanit 1,3). Bavel, das feucht und schlammig ist — Regen ist ihm beschwerlich bis zum Ende der Aussaat, weil die Schollen zusammenkleben und das Pflügen und das Zudecken behindern, wozu feine und lockere Erde nötig ist.\n\nUnd Ḥananyah zog hinab in die Golah und sah, dass sie die Zahl der Saattage vom Anfang des Sonnen-Tischri an rechnen, das ist der Tag der Tequfah, und sie enden am sechzigsten Tag.",
+    "page": "p. 43, no. 54",
+    "keywords": [
+      {
+        "id": 221,
+        "value": "diaspora practice",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 317,
+        "value": "rain",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 318,
+        "value": "request for rain",
+        "order": "102.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "Ha-Golah",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "135": {
     "id": 135,
     "order": "106.00000000000000000000",
-    "title": "Countries where rain is essential",
+    "title": "Like the Land of Israel and Francia: Rain Asked by Dependence, Not by Place",
     "text": "בכל מקומות ששותין ומשקין מן מטר כמו ארץ ישראל ופרנקיא מתפללים טל\nומטר בשבעה במרחשון שהלכה כרבן גמליאל.",
     "loi_id": "loi_passage__135",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 118,
+        "value": "mTaʿanit 1:3",
+        "order": "22.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 266,
+        "value": "Seder Rav Amram Gaon",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "german_translation": "An allen Orten, die aus Regen trinken und tränken, wie Ereẓ Israel und Frankiya, betet man um Tau und Regen am siebten des Marḥeschwan, denn die Halacha ist wie Rabban Gamliel (mTaʿanit 1,3).",
+    "page": "I, p. 258, no. 123",
+    "keywords": [
+      {
+        "id": 317,
+        "value": "rain",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 318,
+        "value": "request for rain",
+        "order": "102.00000000000000000000"
+      },
+      {
+        "id": 319,
+        "value": "Francia",
+        "order": "103.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 307,
+        "value": "Frankiya",
+        "order": "52.00000000000000000000"
+      }
+    ]
   },
   "136": {
     "id": 136,
     "order": "107.00000000000000000000",
-    "title": "Parasha Sedarim",
+    "title": "Who Reads the Portion: Congregation or Precentor",
     "text": "בניג ארץ ישראל קורא העם הפרשה והש\"ץ סדרים, בני בבל קורא הש\"ץ\nהפרשה והעם יעמדו, וישמעו מלה במלה.",
     "loi_id": "loi_passage__136",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 119,
+        "value": "bMegillah 29b",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel: Das Volk liest die Parascha und der Vorbeter die Sedarim. Die Benei Bavel: Der Vorbeter liest die Parascha, und das Volk steht und hört Wort für Wort (vgl. bMegillah 29b).",
+    "page": "(Müller) p. 41, no. 47",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 320,
+        "value": "Torah reading",
+        "order": "104.00000000000000000000"
+      },
+      {
+        "id": 321,
+        "value": "triennial cycle",
+        "order": "105.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "137": {
     "id": 137,
     "order": "108.00000000000000000000",
-    "title": "Simchat Tora",
+    "title": "Simḥat Torah in Bavel and in the Land",
     "text": "בני בבל עושין שמחת תורה בכל שנה ושנה בחג הסוכות, ובכל מדינה ומדינה\nובכל עיר ועיר קורין בפרשה אחת, בני ארץ ישראל אין עושין שמחת תורה אלא לשלש\nשנים ומחצה, וביום שישלימוהו, הפרשה שקורין בפלך זה אין קורין בזה.",
     "loi_id": "loi_passage__137",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 119,
+        "value": "bMegillah 29b",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel begehen Simḥat Torah in jedem einzelnen Jahr am Sukkotfest, und in jeder einzelnen Provinz und in jeder einzelnen Stadt lesen sie dieselbe Parascha. Die Benei Ereẓ Israel begehen Simḥat Torah nur alle dreieinhalb Jahre, und an dem Tag, da sie [den Zyklus] vollenden; die Parascha, die man in diesem Bezirk (pelekh) liest, liest man in jenem nicht (vgl. bMegillah 29b).",
+    "page": "(Müller) p. 42, no. 48",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 320,
+        "value": "Torah reading",
+        "order": "104.00000000000000000000"
+      },
+      {
+        "id": 321,
+        "value": "triennial cycle",
+        "order": "105.00000000000000000000"
+      },
+      {
+        "id": 322,
+        "value": "Simḥat Torah",
+        "order": "106.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "Pelekh",
+        "order": "53.00000000000000000000"
+      }
+    ]
   },
   "138": {
     "id": 138,
     "order": "109.00000000000000000000",
-    "title": "show honor to the Torah",
+    "title": "As Torah and Halakhah Require: The Palestinian Usage Endorsed",
     "text": "בני בבל מכבדין את התורה בכניסה, בני ארץ ישראל נותנין לה כבוד ביציאתה\nובכניסתה, כתורה וכהלכה שנאמר: וכפתחו עמדו כל העם. כך היו נקיי הדעת\nשבירושלים עושין, כשהיו מוציאין את התורה וכשהיו מחזירין היו הולכין אחריה מפני\nהכבוד.",
     "loi_id": "loi_passage__138",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 329,
+        "value": "Nehemiah 8:5",
+        "order": "144.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel erweisen der Tora Ehre beim Hereinbringen; die Benei Ereẓ Israel geben ihr Ehre bei ihrem Hinausbringen und bei ihrem Hereinbringen, wie es Tora und Halacha entspricht, denn es heißt: „und als er es öffnete, erhob sich das ganze Volk“ (Neh 8,5). So taten die Niqqiyyei ha-Daʿat in Jerusalem: Wenn sie die Tora hinausbrachten und wenn sie sie zurückbrachten, gingen sie hinter ihr her um der Ehre willen.",
+    "page": "(Müller) p. 43, no. 49",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 320,
+        "value": "Torah reading",
+        "order": "104.00000000000000000000"
+      },
+      {
+        "id": 323,
+        "value": "honour of the Torah",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "139": {
     "id": 139,
     "order": "110.00000000000000000000",
-    "title": "Prayers for the last holiday",
+    "title": "Still Read in Jerusalem: Hai Gaon on the Reading of Shemini Aẓeret",
     "text": "והא דתנן: ביום טוב האחרון של חג קורין מצות וחוקים ובכור, הכי אמר רבינו\nהאיי: שמענו כי סימן הוא, יש שקורין ,,כי המצוה הזאת\", ועדיין קורין אותו בארץ ישראל\nבירושלים. ויש שקורין ברכות שב,,אם בחוקותי\" בשביל ,ונתתי גשמיכם בעתם\", כי יום\nהזכרת גשמים הוא. ויש שקורין ,,כל הבכור\".",
     "loi_id": "loi_passage__139",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 330,
+        "value": "mMegillah 3:5",
+        "order": "145.00000000000000000000"
+      },
+      {
+        "id": 331,
+        "value": "Deuteronomy 30:11",
+        "order": "146.00000000000000000000"
+      },
+      {
+        "id": 332,
+        "value": "Leviticus 26:3",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 333,
+        "value": "Leviticus 26:4",
+        "order": "148.00000000000000000000"
+      },
+      {
+        "id": 334,
+        "value": "Deuteronomy 15:19",
+        "order": "149.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 338,
+        "value": "Responsum of Rav Hai Gaon on the reading of the last festival day",
+        "order": "81.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was gelehrt ist (mMegillah 3,5): Am letzten Festtag des Festes liest man „Gebote und Satzungen“ und „alles Erstgeborene“ — so sagte unser Lehrer Hai: Wir haben gehört, dass es ein Merkzeichen ist. Es gibt solche, die „denn dieses Gebot“ (Dtn 30,11) lesen, und bis jetzt liest man es in Ereẓ Israel, in Jerusalem. Und es gibt solche, die die Segnungen aus „wenn ihr in meinen Satzungen wandelt“ (Lev 26,3 ff.) lesen, wegen „und ich werde eure Regen geben zu ihrer Zeit“ (Lev 26,4), denn es ist der Tag der Erwähnung des Regens. Und es gibt solche, die „alles Erstgeborene“ (Dtn 15,19 ff.) lesen.",
+    "page": "II, p. 178, no. 65",
+    "keywords": [
+      {
+        "id": 39,
+        "value": "Jerusalem",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 317,
+        "value": "rain",
+        "order": "101.00000000000000000000"
+      },
+      {
+        "id": 320,
+        "value": "Torah reading",
+        "order": "104.00000000000000000000"
+      },
+      {
+        "id": 324,
+        "value": "Shemini Aẓeret",
+        "order": "108.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "140": {
     "id": 140,
     "order": "111.00000000000000000000",
-    "title": "Megilla",
+    "title": "Rolled Like a Torah Scroll, Not Spread Like a Letter",
     "text": "כתב רב צמח גאון ז\"ל, הקורא את המגילה כורך וקורא אותה כספר תורה ואינה\nפושטה כאיגרת. שבשתי ישיבות.. ובכל מקומות ארץ ישראל קורין וכורכין אותה\nכספר תורה.",
     "loi_id": "loi_passage__140",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 120,
+        "value": "bMegillah 19a",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Esther 9:29",
+        "order": "25.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 339,
+        "value": "Responsum of Rav Ṣemaḥ Gaon on reading the Megillah",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "german_translation": "Es schrieb Rav Ṣemaḥ Gaon seligen Andenkens: Wer die Megilla liest, rollt sie und liest sie wie eine Torarolle und breitet sie nicht aus wie einen Brief (vgl. bMegillah 19a; Est 9,29). Denn in den zwei Jeschiwot … und an allen Orten von Ereẓ Israel liest man sie und rollt sie wie eine Torarolle.",
+    "page": "p. 156",
+    "keywords": [
+      {
+        "id": 218,
+        "value": "Purim",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 300,
+        "value": "Palestinian custom as precedent",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 325,
+        "value": "Megillah",
+        "order": "109.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "141": {
     "id": 141,
     "order": "112.00000000000000000000",
-    "title": "God's name",
+    "title": "None but a Priest May Pronounce the Name",
     "text": "בני בבל שליח ציבור מברך ברכת כהנים בקהל בקול רם, בני ארץ ישראל אומר\nושמו את שמי וגו', שאסור להזכיר את השם אלא אם כן היה כהן.",
     "loi_id": "loi_passage__141",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 122,
+        "value": "Numbers 6:27",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel: Der Vorbeter spricht den Priestersegen in der Gemeinde mit lauter Stimme. Die Benei Ereẓ Israel: Er sagt „und sie sollen meinen Namen [auf die Kinder Israel legen]“ usw. (Num 6,27), denn es ist verboten, den Namen zu erwähnen, es sei denn, er wäre ein Priester.",
+    "page": "(Müller) p. 28, no. 29",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "priestly blessing",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 327,
+        "value": "pronouncing the Name",
+        "order": "111.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "142": {
     "id": 142,
     "order": "113.00000000000000000000",
-    "title": "Blessing for unmarried/married",
+    "title": "Before He Has Taken a Wife: Who May Pronounce the Blessing",
     "text": "בני בבל אין כהן מברך את ישראל עד שישא אשה, בני ארץ ישראל מברך עד\nשלא ישא אשה .",
     "loi_id": "loi_passage__142",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel: Ein Priester segnet Israel nicht, bis er eine Frau genommen hat. Die Benei Ereẓ Israel: Er segnet, bevor er eine Frau genommen hat.",
+    "page": "(Müller) p. 43, no. 50",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "priestly blessing",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 328,
+        "value": "marriage",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "143": {
     "id": 143,
     "order": "114.00000000000000000000",
-    "title": "Barehead",
+    "title": "With Uncovered Head: The Priestly Blessing in the Land",
     "text": "בני בבל אוסרין שיברכו הכהנים לישראל וראשם פרוע, בני ארץ ישראל מברכין\nכהנים לישראל וראשם פרוע.",
     "loi_id": "loi_passage__143",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel verbieten, dass die Priester Israel segnen mit entblößtem Haupt. Die Benei Ereẓ Israel: Die Priester segnen Israel mit entblößtem Haupt.",
+    "page": "(Müller) p. 39, no. 42",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "priestly blessing",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 329,
+        "value": "head covering",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "144": {
     "id": 144,
     "order": "115.00000000000000000000",
-    "title": "Back to the Torah shrine",
+    "title": "Facing the People or Facing the Ark",
     "text": "בני בבל הופכין פניהם אל הציבור ואחוריהם אל הארון הקודש, בני ארץ ישראל\nהופכין פניהם אל אחון הקודש.",
     "loi_id": "loi_passage__144",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel wenden ihr Angesicht zur Gemeinde und ihren Rücken zum heiligen Schrein. Die Benei Ereẓ Israel wenden ihr Angesicht zum heiligen Schrein.",
+    "page": "(Müller) p. 34, no. 36",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "priestly blessing",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 330,
+        "value": "orientation",
+        "order": "114.00000000000000000000"
+      },
+      {
+        "id": 331,
+        "value": "holy ark",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "145": {
     "id": 145,
     "order": "116.00000000000000000000",
-    "title": "Raising of hands, prayer",
+    "title": "At Morning Only, Save Four Times on the Day of Atonement",
     "text": "בני בבל פורסין כפיהם בתעניות ובתשעה באב בשחרית ובמנחה, בני ארץ\nישראל אין פורסין כפיהם אלא בשחרית.\n[נוסחה אחרת]: אנשי מזרח פורשין כפיהם במנחה בתעניות ובתשעה באב. ובני\nארץ ישראל אין פורשין אלא בשחרית כי אם ביום הכיפורים ארבע פעמים ביום.",
     "loi_id": "loi_passage__145",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel breiten ihre Hände aus an Fasttagen und am Neunten Aw, im Morgengebet und im Nachmittagsgebet; die Benei Ereẓ Israel breiten ihre Hände nur im Morgengebet aus.\n\n[Andere Fassung:] Die Anshei Mizraḥ breiten ihre Hände im Nachmittagsgebet aus an Fasttagen und am Neunten Aw; und die Benei Ereẓ Israel breiten sie nur im Morgengebet aus, außer am Versöhnungstag, viermal am Tag.",
+    "page": "(Müller) p. 21, no. 22",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 310,
+        "value": "Ninth of Av",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "priestly blessing",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 332,
+        "value": "Day of Atonement",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "146": {
     "id": 146,
     "order": "117.00000000000000000000",
-    "title": "Raising hands on Yom Kippur",
+    "title": "Three Times or Four on the Day of Atonement",
     "text": "אנשי מזרח הכהנים נושאין כפים שלש פעמים ביום הכיפורים, ובני ארץ ישראל\nארבע פעמים: שחרית, מוסף, מנחה ונעילה.",
     "loi_id": "loi_passage__146",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ: Die Priester erheben die Hände dreimal am Versöhnungstag; und die Benei Ereẓ Israel viermal: Schaḥarit, Musaf, Minḥah und Neʿilah.",
+    "page": "(Müller) p. 46, no. 55",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "priestly blessing",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 332,
+        "value": "Day of Atonement",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "147": {
     "id": 147,
     "order": "118.00000000000000000000",
-    "title": "Tree fruits",
+    "title": "All Is Included in the Ground: Lupines before Tree Fruit",
     "text": "בני בבל בשעה שיש תורמסין ופרי עץ מברכין על פרי עץ ומניחין פרי האדמה.\nבני ארץ ישראל מברכין על התורמסין, שהכל בכלל אדמה.",
     "loi_id": "loi_passage__147",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 123,
+        "value": "mBerakhot 6:4",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "bBerakhot 40b–41a",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel: Wenn Lupinen und Baumfrucht da sind, segnen sie über die Baumfrucht und lassen die Erdfrucht liegen. Die Benei Ereẓ Israel segnen über die Lupinen, denn alles ist in [der Kategorie] Erdboden eingeschlossen (vgl. mBerakhot 6,4; bBerakhot 40b–41a).",
+    "page": "(Müller) p. 20, no. 20",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 333,
+        "value": "blessings over food",
+        "order": "117.00000000000000000000"
+      },
+      {
+        "id": 334,
+        "value": "tree fruit",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "148": {
     "id": 148,
     "order": "119.00000000000000000000",
-    "title": "Wine + Water",
+    "title": "Only When It Is Mixed: The Blessing over Wine",
     "text": "בני ארץ ישראל אין מברכין על היין אלא כשהוא מזוג. בני בבל מברכין עליו\nכשהוא חי.",
     "loi_id": "loi_passage__148",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 125,
+        "value": "mBerakhot 7:5",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel segnen über den Wein nur, wenn er gemischt (mazug) ist. Die Benei Bavel segnen über ihn, wenn er ungemischt (ḥai) ist (vgl. mBerakhot 7,5; bBerakhot 50b).",
+    "page": "(Müller) p. 19, no. 19",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 335,
+        "value": "blessing over wine",
+        "order": "119.00000000000000000000"
+      },
+      {
+        "id": 336,
+        "value": "mixed wine",
+        "order": "120.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "149": {
     "id": 149,
     "order": "120.00000000000000000000",
-    "title": "Mazzot",
+    "title": "The Broken Piece upon the Whole",
     "text": "אנשי ארץ ישראל בין בחול בין בשבת [פירוש : בין כשחל פסח בחול, בין כשחל\nבשבת] מניח פרוסה על השלימה ובוצע על הפרוסה,",
     "loi_id": "loi_passage__149",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 340,
+        "value": "Geonic notice on the breaking of bread in the Land of Israel",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Ereẓ Israel, sei es am Werktag, sei es am Schabbat [Erläuterung: sei es, dass Pessach auf einen Werktag fällt, sei es, dass es auf den Schabbat fällt], legen das gebrochene Stück auf das ganze und brechen über dem gebrochenen Stück.",
+    "page": "no. 250",
+    "keywords": [
+      {
+        "id": 278,
+        "value": "Palestinian custom",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 337,
+        "value": "Passover",
+        "order": "121.00000000000000000000"
+      },
+      {
+        "id": 338,
+        "value": "seder",
+        "order": "122.00000000000000000000"
+      },
+      {
+        "id": 339,
+        "value": "breaking of bread",
+        "order": "123.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
-  },
-  "150": {
-    "id": 150,
-    "order": "121.00000000000000000000",
-    "title": "",
-    "text": "",
-    "loi_id": "loi_passage__150",
-    "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
-    "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
-    "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "151": {
     "id": 151,
     "order": "122.00000000000000000000",
-    "title": "food",
+    "title": "They Make the Food the Main Thing: The Zimmun Formula",
     "text": "בני ארץ ישראל מברכין ,,על המזון שאכלנו משלו\", שעושין המזון עיקר. בני בבל\nאומרים: ,,נברך שאכלנו משלו\", ואין אומרים על המזון.",
     "loi_id": "loi_passage__151",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 126,
+        "value": "mBerakhot 7:3",
+        "order": "30.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel segnen „für die Speise, von der wir gegessen haben, die sein ist“, denn sie machen die Speise zur Hauptsache (ʿiqqar). Die Benei Bavel sagen: „Lasst uns segnen den, von dessen [Eigentum] wir gegessen haben“, und sie sagen nicht „für die Speise“ (vgl. mBerakhot 7,3).",
+    "page": "(Müller) p. 23, no. 24",
+    "keywords": [
+      {
+        "id": 212,
+        "value": "birkat ha-mazon",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 340,
+        "value": "zimmun",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "152": {
     "id": 152,
     "order": "123.00000000000000000000",
-    "title": "Ejaculation while bathing",
+    "title": "We Are in an Impure Land: Immersion and Its Abandonment",
     "text": "אנשי מזרח אין רוחצין לא מקרי ולא מתשמיש המטה שהן דורשין אנו בארץ\nטמאה. ובני ארץ ישראל הוחצין מתשמיש המטה ומקרי אפילו ביום הכיפורים, שהן\nדורשין בעלי קריין רוחצין בצינעה בשבת וביום הכיפורים כדרכן, מאותו מעשה דרבי\nיוסי בן חלפתא שראו אותו טובל ביום הכיפורים.",
     "loi_id": "loi_passage__152",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 127,
+        "value": "bShabbat 15b",
+        "order": "31.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ baden weder nach dem Samenerguss noch nach dem ehelichen Verkehr, denn sie legen aus: Wir sind in einem unreinen Land (vgl. bShabbat 15b). Und die Benei Ereẓ Israel baden nach dem ehelichen Verkehr und nach dem Samenerguss sogar am Versöhnungstag, denn sie legen aus: Die mit Samenerguss Behafteten baden im Verborgenen am Schabbat und am Versöhnungstag nach ihrer Gewohnheit — aufgrund jener Begebenheit mit R. Yose ben Ḥalafta, den man am Versöhnungstag untertauchen sah.",
+    "page": "(Müller) p. 15, no. 9",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 332,
+        "value": "Day of Atonement",
+        "order": "116.00000000000000000000"
+      },
+      {
+        "id": 341,
+        "value": "ṭevilah",
+        "order": "125.00000000000000000000"
+      },
+      {
+        "id": 342,
+        "value": "impurity of the lands of the nations",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 309,
+        "value": "Ereẓ Ṭeme’ah",
+        "order": "54.00000000000000000000"
+      }
+    ]
   },
   "153": {
     "id": 153,
     "order": "124.00000000000000000000",
-    "title": "impurity of the food",
+    "title": "Severe in the Land, for Those Who Eat in Purity",
     "text": "וששאלתם טומאה חמורה היא או לא? -- טומאה חמורה היא בארץ ישראל\nלאוכלי טהרות.",
     "loi_id": "loi_passage__153",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 341,
+        "value": "Geonic responsum on degrees of impurity",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt, ob es eine schwere Unreinheit (ṭum’ah ḥamurah) ist oder nicht: Eine schwere Unreinheit ist es in Ereẓ Israel, für die, welche Teharot essen.",
+    "page": "249",
+    "keywords": [
+      {
+        "id": 210,
+        "value": "ritual purity",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 343,
+        "value": "severe impurity",
+        "order": "127.00000000000000000000"
+      },
+      {
+        "id": 344,
+        "value": "ṭoharot",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "154": {
     "id": 154,
     "order": "125.00000000000000000000",
-    "title": "Clean with water",
+    "title": "Cleansing with Water",
     "text": "בני ארץ ישראל מקנחין מן המים, הדא דכתיב: טהור בעיניו ומצואתו לא רוחץ,\nבני בבל אין מקנחין במים.",
     "loi_id": "loi_passage__154",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 336,
+        "value": "Proverbs 30:12",
+        "order": "151.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel reinigen sich mit Wasser; das ist es, was geschrieben steht: „rein in seinen eigenen Augen, und von seinem Kot nicht gewaschen“ (Spr 30,12). Die Benei Bavel reinigen sich nicht mit Wasser.",
+    "page": "(Müller) p. 18, no. 15",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 345,
+        "value": "personal hygiene",
+        "order": "129.00000000000000000000"
+      },
+      {
+        "id": 346,
+        "value": "cleansing",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "155": {
     "id": 155,
     "order": "126.00000000000000000000",
-    "title": "Shofar",
+    "title": "Three Blasts before the Sabbath Comes In",
     "text": "אנשי מזרח אין תוקעין לפני ביאת שבת. ובני ארץ ישראל תוקעין שלש\nתקיעות.",
     "loi_id": "loi_passage__155",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 128,
+        "value": "bShabbat 35b",
+        "order": "32.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ blasen nicht vor dem Kommen des Schabbat. Und die Benei Ereẓ Israel blasen drei Stöße (vgl. bSchabbat 35b).",
+    "page": "(Müller)p. 45, no. 54",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 347,
+        "value": "shofar",
+        "order": "131.00000000000000000000"
+      },
+      {
+        "id": 348,
+        "value": "announcing the Sabbath",
+        "order": "132.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "156": {
     "id": 156,
     "order": "127.00000000000000000000",
-    "title": "carry money",
+    "title": "Because All Labours Subsist in It: Money on the Sabbath",
     "text": "בני בבל טוענים כספים בשבת בכל מקום. בני ארץ ישראל אומרים: אפילו ליגע\nבהם אסור, למה, שכל המלאכות מתקיימות בהם,",
     "loi_id": "loi_passage__156",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel tragen Geld am Schabbat an jedem Ort. Die Benei Ereẓ Israel sagen: Sogar es anzurühren ist verboten. Weshalb? Weil alle Arbeiten in ihm bestehen.",
+    "page": "(Müller) p. 30, no. 31",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 349,
+        "value": "money",
+        "order": "133.00000000000000000000"
+      },
+      {
+        "id": 350,
+        "value": "carrying",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 351,
+        "value": "Sabbath",
+        "order": "135.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "157": {
     "id": 157,
     "order": "128.00000000000000000000",
-    "title": "Cook",
+    "title": "Three Recensions on One Difference: Lowering into the Oven",
     "text": "בני ארץ ישראל הביאו פסח שהוא קרבן ואינן מחללין עליו את השבת. בני בבל\nמתירין מן הטעם הזה: משלשלין את הפסח לתנור עם חשיכה.\n[נוסחה אחרת]: אנשי מזרח מתירין [את] התנור [בפסח] מן הדא: משלשלין\nאת הפסח לתנור עם חשיכה. ובני ארץ ישראל [אומרים] : הניחו פסח שהוא קרבן ואנו\nמחללין עליו את השבת.\n[נוסחה אחרת]: אנשי מזרח מתירים להניח את הקדירה בתנור לפני כניסת השבת\nכדי שתתבשל בשבת. ואנשי ארץ ישראל אוסרים דבר זה.",
     "loi_id": "loi_passage__157",
     "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
+    "parallel_text": [
+      {
+        "id": 129,
+        "value": "mShabbat 1:10",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 130,
+        "value": "bShabbat 18b–20a",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 337,
+        "value": "mShabbat 1:11",
+        "order": "152.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel [sagen]: Sie haben das Pessach dargebracht, das ein Opfer ist, und sie entweihen seinetwegen den Schabbat nicht. Die Benei Bavel erlauben es aus diesem Grund: Man lässt das Pessach bei Einbruch der Dunkelheit in den Ofen hinab (mSchabbat 1,11).\n\n[Andere Fassung:] Die Anshei Mizraḥ erlauben [den] Ofen [am Pessach] aus diesem: Man lässt das Pessach bei Einbruch der Dunkelheit in den Ofen hinab. Und die Benei Ereẓ Israel [sagen]: Lasst das Pessach, das ein Opfer ist — und wir entweihen seinetwegen den Schabbat.\n\n[Andere Fassung:] Die Anshei Mizraḥ erlauben, den Topf vor dem Eintritt des Schabbat in den Ofen zu stellen, damit er am Schabbat gare. Und die Anshei Ereẓ Israel verbieten diese Sache (vgl. mSchabbat 1,10; bSchabbat 18b–20a).",
+    "page": "(Müller) p. 14, no. 8",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 337,
+        "value": "Passover",
+        "order": "121.00000000000000000000"
+      },
+      {
+        "id": 351,
+        "value": "Sabbath",
+        "order": "135.00000000000000000000"
+      },
+      {
+        "id": 352,
+        "value": "oven",
+        "order": "136.00000000000000000000"
+      },
+      {
+        "id": 353,
+        "value": "Passover offering",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "158": {
     "id": 158,
     "order": "129.00000000000000000000",
-    "title": "Cutting bread",
+    "title": "One Loaf, So as Not to Carry the Eve’s Honour into the Sabbath",
     "text": "בני בבל בוצעים בשתי ככרות בשבת שהן דורשין ,,לחם משנה\", בני ארץ\nישראל בוצעים על אחד שלא להכניס כבוד ערב שבת בשבת.",
     "loi_id": "loi_passage__158",
     "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
+    "parallel_text": [
+      {
+        "id": 131,
+        "value": "bShabbat 117b",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 338,
+        "value": "Exodus 16:22",
+        "order": "153.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel brechen über zwei Broten am Schabbat an, denn sie legen „doppeltes Brot“ aus (Ex 16,22; vgl. bSchabbat 117b). Die Benei Ereẓ Israel brechen über einem an, um nicht die Ehre des Schabbatvorabends in den Schabbat hineinzutragen.",
+    "page": "(Müller) p. 21, no. 21",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 339,
+        "value": "breaking of bread",
+        "order": "123.00000000000000000000"
+      },
+      {
+        "id": 354,
+        "value": "leḥem mishneh",
+        "order": "138.00000000000000000000"
+      },
+      {
+        "id": 355,
+        "value": "Sabbath meal",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "159": {
     "id": 159,
     "order": "130.00000000000000000000",
-    "title": "Weighing meat",
+    "title": "Weighing Meat on a Festival",
     "text": "אנשי מזרח שוקלים בשר ביום טוב. ובני ארץ ישראל אפילו לתלות בכף מאזנים\nלשומרה מן העכברים אסור.",
     "loi_id": "loi_passage__159",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 132,
+        "value": "mBeitzah 3:7",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ wiegen Fleisch am Festtag. Und bei den Benei Ereẓ Israel ist sogar verboten, es in die Waagschale zu hängen, um es vor den Mäusen zu bewahren (vgl. mBeiẓah 3,7–8; bBeiẓah 28a).",
+    "page": "(Müller) p. 18, no. 16",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 356,
+        "value": "festival laws",
+        "order": "140.00000000000000000000"
+      },
+      {
+        "id": 357,
+        "value": "weighing",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "160": {
     "id": 160,
     "order": "131.00000000000000000000",
-    "title": "Arba Minim",
+    "title": "Lulav and Myrtle When the Festival Falls on a Sabbath",
     "text": "בני ארץ ישראל אין נוטלין הדס ואין טוענין לולב ביום טוב של חג שחל להיות\nבשבת. ובני בבל נוטלין הדס אבל לולב אין טוענין בשבת.\n[נוסחה אחרת]: אנשי מזרח אין נוטלין לולב בשבת אבל נוטלין הדס. ובני\nארץ ישראל אפילו בשבת ,,ולקחתם\" -- אפילו בשבת,",
     "loi_id": "loi_passage__160",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 339,
+        "value": "Leviticus 23:40",
+        "order": "154.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 342,
+        "value": "Geonic notice on the lulav and myrtle on the Sabbath",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel nehmen die Myrte nicht und handhaben den Lulav nicht am Festtag des Sukkotfestes, wenn er auf einen Schabbat fällt. Und die Benei Bavel nehmen die Myrte, aber den Lulav handhaben sie am Schabbat nicht.\n\n[Andere Fassung:] Die Anshei Mizraḥ nehmen den Lulav nicht am Schabbat, aber sie nehmen die Myrte. Und die Benei Ereẓ Israel [nehmen ihn] sogar am Schabbat: „und ihr sollt nehmen“ (Lev 23,40) — sogar am Schabbat.",
+    "page": "no. 138",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 351,
+        "value": "Sabbath",
+        "order": "135.00000000000000000000"
+      },
+      {
+        "id": 358,
+        "value": "lulav",
+        "order": "142.00000000000000000000"
+      },
+      {
+        "id": 359,
+        "value": "hadas",
+        "order": "143.00000000000000000000"
+      },
+      {
+        "id": 360,
+        "value": "Sukkot",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "161": {
     "id": 161,
     "order": "132.00000000000000000000",
-    "title": "Arba Minim",
+    "title": "That He May Hold Both in One Hand: A Palestinian Teaching on the Four Species",
     "text": "ההיינו שומעים כי בארץ ישראל שונים: כדי שיאחז שניהם בידו אחת.",
     "loi_id": "loi_passage__161",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 343,
+        "value": "Geonic fragment citing a Palestinian teaching",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "german_translation": "Wir hatten gehört, dass man in Ereẓ Israel lehrt: damit er beide in einer Hand halten kann.",
+    "page": "II, p. 58",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 360,
+        "value": "Sukkot",
+        "order": "144.00000000000000000000"
+      },
+      {
+        "id": 361,
+        "value": "four species",
+        "order": "145.00000000000000000000"
+      },
+      {
+        "id": 362,
+        "value": "lulav and etrog",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "162": {
     "id": 162,
     "order": "133.00000000000000000000",
-    "title": "Work Chol haMoed",
+    "title": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
     "text": "בני בבל עושים מלאכה בחול המועד, בני ארץ ישראל אין עושים מלאכה כל עיקר\nבחול המועד כהלכה: אוכלין ושותין ויגעים בתורה, שכך אמרו חכמים: אסור לעשות\nמלאכה בחול המועד.",
     "loi_id": "loi_passage__162",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 133,
+        "value": "mMoed Katan 1:1 ff.",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel verrichten Arbeit an den Zwischentagen des Festes. Die Benei Ereẓ Israel verrichten überhaupt keine Arbeit an den Zwischentagen, wie es der Halacha entspricht: Sie essen und trinken und mühen sich in der Tora, denn so sagten die Weisen: Es ist verboten, an den Zwischentagen des Festes Arbeit zu verrichten (vgl. mMoʿed Qaṭan 1,1 ff.).",
+    "page": "(Müller) p. 36, no. 39",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 363,
+        "value": "ḥol ha-moʿed",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 364,
+        "value": "Torah study",
+        "order": "148.00000000000000000000"
+      },
+      {
+        "id": 365,
+        "value": "prohibition of work",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "163": {
     "id": 163,

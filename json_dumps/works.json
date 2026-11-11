@@ -2777,5 +2777,185 @@
         "order": "46.00000000000000000000"
       }
     ]
+  },
+  "338": {
+    "id": 338,
+    "order": "81.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on the reading of the last festival day",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__338",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 111,
+        "value": "Sefer haEshkol",
+        "order": "15.00000000000000000000"
+      }
+    ]
+  },
+  "339": {
+    "id": 339,
+    "order": "82.00000000000000000000",
+    "title": "Responsum of Rav Ṣemaḥ Gaon on reading the Megillah",
+    "reference": "",
+    "author": [
+      {
+        "id": 330,
+        "value": "Zermakh Gaon",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__339",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 282,
+        "value": "Shibbolei ha-Leqeṭ ha-Shalem",
+        "order": "58.00000000000000000000"
+      }
+    ]
+  },
+  "340": {
+    "id": 340,
+    "order": "83.00000000000000000000",
+    "title": "Geonic notice on the breaking of bread in the Land of Israel",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__340",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 274,
+        "value": "Otzar Ha-Geonim Berakhot",
+        "order": "50.00000000000000000000"
+      }
+    ]
+  },
+  "341": {
+    "id": 341,
+    "order": "84.00000000000000000000",
+    "title": "Geonic responsum on degrees of impurity",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__341",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 182,
+        "value": "Geonica II",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "342": {
+    "id": 342,
+    "order": "85.00000000000000000000",
+    "title": "Geonic notice on the lulav and myrtle on the Sabbath",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__342",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 283,
+        "value": "Otzar Ha-Geonim Sukkah",
+        "order": "59.00000000000000000000"
+      }
+    ]
+  },
+  "343": {
+    "id": 343,
+    "order": "86.00000000000000000000",
+    "title": "Geonic fragment citing a Palestinian teaching",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__343",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 263,
+        "value": "Ginzei Schechter II",
+        "order": "39.00000000000000000000"
+      }
+    ]
   }
 }
