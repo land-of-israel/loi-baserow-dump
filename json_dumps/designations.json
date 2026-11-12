@@ -796,6 +796,131 @@
         "id": 162,
         "value": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
         "order": "133.00000000000000000000"
+      },
+      {
+        "id": 163,
+        "value": "Why Are the Tefillin Slighted Now? Sherira on a Lapse under Persecution",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "Hai Gaon on Tefillin and the Fear of Ostentation",
+        "order": "135.00000000000000000000"
+      },
+      {
+        "id": 165,
+        "value": "Thirty Days outside the Land, Immediately within It",
+        "order": "136.00000000000000000000"
+      },
+      {
+        "id": 166,
+        "value": "Earth or Water: Two Prooftexts for the Circumcision Rite",
+        "order": "137.00000000000000000000"
+      },
+      {
+        "id": 167,
+        "value": "Razor or Knife: The Instrument of Circumcision",
+        "order": "138.00000000000000000000"
+      },
+      {
+        "id": 168,
+        "value": "Dung and Cumin: A Babylonian Remedy the Land Does Not Use",
+        "order": "139.00000000000000000000"
+      },
+      {
+        "id": 169,
+        "value": "A City in the Land Whose Slaves Would Not Be Circumcised",
+        "order": "140.00000000000000000000"
+      },
+      {
+        "id": 170,
+        "value": "Betrothal with a Ring: A Palestinian Usage",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "A Reversed Recension: Whether the Ring Effects Betrothal",
+        "order": "142.00000000000000000000"
+      },
+      {
+        "id": 172,
+        "value": "Wednesday in the Land, Thursday in Bavel",
+        "order": "143.00000000000000000000"
+      },
+      {
+        "id": 173,
+        "value": "Three Blessings or Seven for the Bridegroom",
+        "order": "144.00000000000000000000"
+      },
+      {
+        "id": 174,
+        "value": "As It Was Created: The First Consummation",
+        "order": "145.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "Twenty-Five or Two Hundred: The Minimum of the Ketubbah",
+        "order": "146.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "All Your Doings Now Follow Our Customs: The Ketubbah Formula",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 178,
+        "value": "She Became a Niddah through Desire: Seven Days in the Land",
+        "order": "149.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "Brought Forth in Pain: The Land Permits at Once",
+        "order": "149.50000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "Three Things Only, or Nothing at All: The Niddah in the Household",
+        "order": "150.00000000000000000000"
+      },
+      {
+        "id": 180,
+        "value": "Twenty-Four Months for the Nursing Widow",
+        "order": "151.00000000000000000000"
+      },
+      {
+        "id": 181,
+        "value": "Did He Leave Seed? The Miscarried Foetus Exempts",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 397,
+        "value": "The Head and Greater Part Alive for an Hour",
+        "order": "152.50000000000000000000"
+      },
+      {
+        "id": 182,
+        "value": "Taken from Both, or Kept with Her Husband",
+        "order": "153.00000000000000000000"
+      },
+      {
+        "id": 183,
+        "value": "One Writes and Two Sign: The Witnesses to a Bill of Divorce",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "Ḥatam Sofer we-Ed: A Report of the Differences",
+        "order": "154.50000000000000000000"
+      },
+      {
+        "id": 184,
+        "value": "Two Forms or Three in the Bill of Divorce",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 185,
+        "value": "They Tear the Bill of Divorce",
+        "order": "156.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -961,6 +1086,11 @@
         "id": 117,
         "value": "No Power to Release an Oath in the Latter Generations",
         "order": "88.00000000000000000000"
+      },
+      {
+        "id": 165,
+        "value": "Thirty Days outside the Land, Immediately within It",
+        "order": "136.00000000000000000000"
       }
     ],
     "form_he": "חוצה לארץ",
@@ -1298,6 +1428,116 @@
         "id": 162,
         "value": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
         "order": "133.00000000000000000000"
+      },
+      {
+        "id": 163,
+        "value": "Why Are the Tefillin Slighted Now? Sherira on a Lapse under Persecution",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "Hai Gaon on Tefillin and the Fear of Ostentation",
+        "order": "135.00000000000000000000"
+      },
+      {
+        "id": 166,
+        "value": "Earth or Water: Two Prooftexts for the Circumcision Rite",
+        "order": "137.00000000000000000000"
+      },
+      {
+        "id": 167,
+        "value": "Razor or Knife: The Instrument of Circumcision",
+        "order": "138.00000000000000000000"
+      },
+      {
+        "id": 168,
+        "value": "Dung and Cumin: A Babylonian Remedy the Land Does Not Use",
+        "order": "139.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "A Reversed Recension: Whether the Ring Effects Betrothal",
+        "order": "142.00000000000000000000"
+      },
+      {
+        "id": 172,
+        "value": "Wednesday in the Land, Thursday in Bavel",
+        "order": "143.00000000000000000000"
+      },
+      {
+        "id": 173,
+        "value": "Three Blessings or Seven for the Bridegroom",
+        "order": "144.00000000000000000000"
+      },
+      {
+        "id": 174,
+        "value": "As It Was Created: The First Consummation",
+        "order": "145.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "Twenty-Five or Two Hundred: The Minimum of the Ketubbah",
+        "order": "146.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "All Your Doings Now Follow Our Customs: The Ketubbah Formula",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 178,
+        "value": "She Became a Niddah through Desire: Seven Days in the Land",
+        "order": "149.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "Brought Forth in Pain: The Land Permits at Once",
+        "order": "149.50000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "Three Things Only, or Nothing at All: The Niddah in the Household",
+        "order": "150.00000000000000000000"
+      },
+      {
+        "id": 180,
+        "value": "Twenty-Four Months for the Nursing Widow",
+        "order": "151.00000000000000000000"
+      },
+      {
+        "id": 181,
+        "value": "Did He Leave Seed? The Miscarried Foetus Exempts",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 397,
+        "value": "The Head and Greater Part Alive for an Hour",
+        "order": "152.50000000000000000000"
+      },
+      {
+        "id": 182,
+        "value": "Taken from Both, or Kept with Her Husband",
+        "order": "153.00000000000000000000"
+      },
+      {
+        "id": 183,
+        "value": "One Writes and Two Sign: The Witnesses to a Bill of Divorce",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "Ḥatam Sofer we-Ed: A Report of the Differences",
+        "order": "154.50000000000000000000"
+      },
+      {
+        "id": 184,
+        "value": "Two Forms or Three in the Bill of Divorce",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 185,
+        "value": "They Tear the Bill of Divorce",
+        "order": "156.00000000000000000000"
       }
     ],
     "form_he": "בבל",
@@ -1863,6 +2103,11 @@
         "id": 127,
         "value": "God Forbid There Should Be a Difference: The Palestinian Geonim to Mainz",
         "order": "98.00000000000000000000"
+      },
+      {
+        "id": 399,
+        "value": "The Words the Land Adds",
+        "order": "155.50000000000000000000"
       }
     ],
     "form_he": "ארעא דישראל",
@@ -1964,6 +2209,11 @@
         "id": 74,
         "value": "Everything That Is Not the Land Is Called Medinat ha-Yam",
         "order": "45.00000000000000000000"
+      },
+      {
+        "id": 182,
+        "value": "Taken from Both, or Kept with Her Husband",
+        "order": "153.00000000000000000000"
       }
     ],
     "form_he": "מדינת הים",
@@ -2014,7 +2264,7 @@
     "referent": [
       {
         "id": 178,
-        "value": "",
+        "value": "Lviv",
         "order": "19.00000000000000000000"
       }
     ],
@@ -2316,6 +2566,36 @@
         "id": 160,
         "value": "Lulav and Myrtle When the Festival Falls on a Sabbath",
         "order": "131.00000000000000000000"
+      },
+      {
+        "id": 170,
+        "value": "Betrothal with a Ring: A Palestinian Usage",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "A Reversed Recension: Whether the Ring Effects Betrothal",
+        "order": "142.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "Twenty-Five or Two Hundred: The Minimum of the Ketubbah",
+        "order": "146.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "All Your Doings Now Follow Our Customs: The Ketubbah Formula",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "Brought Forth in Pain: The Land Permits at Once",
+        "order": "149.50000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "Ḥatam Sofer we-Ed: A Report of the Differences",
+        "order": "154.50000000000000000000"
       }
     ],
     "form_he": "מזרח",
@@ -2472,6 +2752,35 @@
     ],
     "gloss_en": "an impure land",
     "referent": [],
+    "commentary": ""
+  },
+  "310": {
+    "id": 310,
+    "order": "55.00000000000000000000",
+    "label": "Maʿarava",
+    "loi_id": "loi_parallel__310",
+    "passages": [
+      {
+        "id": 177,
+        "value": "No Claim to the Ketubbah of an Apostate Daughter",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "form_he": "מערבא",
+    "source": [],
+    "gloss_en": "the West",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 222,
+        "value": "Maghreb",
+        "order": "31.00000000000000000000"
+      }
+    ],
     "commentary": ""
   }
 }

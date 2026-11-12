@@ -2957,5 +2957,254 @@
         "order": "39.00000000000000000000"
       }
     ]
+  },
+  "344": {
+    "id": 344,
+    "order": "87.00000000000000000000",
+    "title": "Responsum of Rav Sherira Gaon on the neglect of tefillin",
+    "reference": "",
+    "author": [
+      {
+        "id": 43,
+        "value": "Sherira ben Ḥananyah Gaon",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 213,
+        "value": "Pumbedita",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__344",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 284,
+        "value": "Otzar Ha-Geonim Chagiga",
+        "order": "60.00000000000000000000"
+      }
+    ]
+  },
+  "345": {
+    "id": 345,
+    "order": "88.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on tefillin and the fear of ostentation",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__345",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 285,
+        "value": "Sefer ha-Ittur (Lemberg)",
+        "order": "61.00000000000000000000"
+      }
+    ]
+  },
+  "346": {
+    "id": 346,
+    "order": "89.00000000000000000000",
+    "title": "Geonic responsum on an uncircumcised slave",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__346",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 219,
+        "value": "Sha’arei Ẓedeq, Teshuvot ha-Geonim",
+        "order": "27.00000000000000000000"
+      }
+    ]
+  },
+  "347": {
+    "id": 347,
+    "order": "90.00000000000000000000",
+    "title": "Geonic responsum on the ketubbah formula",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__347",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 286,
+        "value": "Sefer ha-Makhria with Zer Zahav and Minkhat Yehudah",
+        "order": "62.00000000000000000000"
+      }
+    ]
+  },
+  "348": {
+    "id": 348,
+    "order": "91.00000000000000000000",
+    "title": "Geonic responsum on the ketubbah of an apostate wife",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__348",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 219,
+        "value": "Sha’arei Ẓedeq, Teshuvot ha-Geonim",
+        "order": "27.00000000000000000000"
+      }
+    ]
+  },
+  "349": {
+    "id": 349,
+    "order": "92.00000000000000000000",
+    "title": "Geonic notice on the bride as niddah",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__349",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 181,
+        "value": "Teshuvot ha-Geonim (Harkavy)",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "350": {
+    "id": 350,
+    "order": "93.00000000000000000000",
+    "title": "Geonic notice on the yevamah",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__350",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 287,
+        "value": "Otzar ha-Geonim Yevamo",
+        "order": "63.00000000000000000000"
+      }
+    ]
+  },
+  "351": {
+    "id": 351,
+    "order": "94.00000000000000000000",
+    "title": "Report of the Differences between East and Land",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__351",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 73,
+        "value": "Halakhic-topographical work",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 261,
+        "value": "Kaftor wa-Feraḥ",
+        "order": "37.00000000000000000000"
+      }
+    ]
+  },
+  "352": {
+    "id": 352,
+    "order": "95.00000000000000000000",
+    "title": "Geonic notice on the formula of the get",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__352",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 76,
+        "value": "Otzar HaGeonim Gittin",
+        "order": "12.00000000000000000000"
+      }
+    ]
   }
 }

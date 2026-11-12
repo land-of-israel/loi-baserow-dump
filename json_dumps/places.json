@@ -104,6 +104,11 @@
         "id": 308,
         "value": "Pelekh",
         "order": "53.00000000000000000000"
+      },
+      {
+        "id": 310,
+        "value": "Maʿarava",
+        "order": "55.00000000000000000000"
       }
     ],
     "edition": []
@@ -542,7 +547,7 @@
   "178": {
     "id": 178,
     "order": "19.00000000000000000000",
-    "name": "",
+    "name": "Lviv",
     "geonames": "",
     "loi_id": "loi_place__178",
     "wikidata": "",
@@ -554,7 +559,13 @@
         "order": "37.00000000000000000000"
       }
     ],
-    "edition": []
+    "edition": [
+      {
+        "id": 285,
+        "value": "Sefer ha-Ittur (Lemberg)",
+        "order": "61.00000000000000000000"
+      }
+    ]
   },
   "179": {
     "id": 179,
@@ -727,6 +738,23 @@
         "id": 307,
         "value": "Frankiya",
         "order": "52.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "222": {
+    "id": 222,
+    "order": "31.00000000000000000000",
+    "name": "Maghreb",
+    "geonames": "",
+    "loi_id": "loi_place__222",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 310,
+        "value": "Maʿarava",
+        "order": "55.00000000000000000000"
       }
     ],
     "edition": []

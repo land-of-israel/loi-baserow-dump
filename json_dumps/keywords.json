@@ -757,6 +757,11 @@
         "id": 153,
         "value": "Severe in the Land, for Those Who Eat in Purity",
         "order": "124.00000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "Three Things Only, or Nothing at All: The Niddah in the Household",
+        "order": "150.00000000000000000000"
       }
     ]
   },
@@ -832,6 +837,11 @@
         "id": 77,
         "value": "Held from the Moment of Death: The Land as Inherited Possession",
         "order": "48.00000000000000000000"
+      },
+      {
+        "id": 177,
+        "value": "No Claim to the Ketubbah of an Apostate Daughter",
+        "order": "148.00000000000000000000"
       }
     ]
   },
@@ -1006,6 +1016,21 @@
         "id": 115,
         "value": "In Bavel the Ketubbah Is Paid in Full",
         "order": "86.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "Twenty-Five or Two Hundred: The Minimum of the Ketubbah",
+        "order": "146.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "All Your Doings Now Follow Our Customs: The Ketubbah Formula",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 177,
+        "value": "No Claim to the Ketubbah of an Apostate Daughter",
+        "order": "148.00000000000000000000"
       }
     ]
   },
@@ -1129,6 +1154,11 @@
         "id": 153,
         "value": "Severe in the Land, for Those Who Eat in Purity",
         "order": "124.00000000000000000000"
+      },
+      {
+        "id": 165,
+        "value": "Thirty Days outside the Land, Immediately within It",
+        "order": "136.00000000000000000000"
       }
     ]
   },
@@ -1380,6 +1410,16 @@
         "id": 101,
         "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
         "order": "72.00000000000000000000"
+      },
+      {
+        "id": 163,
+        "value": "Why Are the Tefillin Slighted Now? Sherira on a Lapse under Persecution",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "Hai Gaon on Tefillin and the Fear of Ostentation",
+        "order": "135.00000000000000000000"
       }
     ]
   },
@@ -2110,6 +2150,86 @@
         "id": 162,
         "value": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
         "order": "133.00000000000000000000"
+      },
+      {
+        "id": 166,
+        "value": "Earth or Water: Two Prooftexts for the Circumcision Rite",
+        "order": "137.00000000000000000000"
+      },
+      {
+        "id": 167,
+        "value": "Razor or Knife: The Instrument of Circumcision",
+        "order": "138.00000000000000000000"
+      },
+      {
+        "id": 168,
+        "value": "Dung and Cumin: A Babylonian Remedy the Land Does Not Use",
+        "order": "139.00000000000000000000"
+      },
+      {
+        "id": 170,
+        "value": "Betrothal with a Ring: A Palestinian Usage",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "A Reversed Recension: Whether the Ring Effects Betrothal",
+        "order": "142.00000000000000000000"
+      },
+      {
+        "id": 172,
+        "value": "Wednesday in the Land, Thursday in Bavel",
+        "order": "143.00000000000000000000"
+      },
+      {
+        "id": 173,
+        "value": "Three Blessings or Seven for the Bridegroom",
+        "order": "144.00000000000000000000"
+      },
+      {
+        "id": 174,
+        "value": "As It Was Created: The First Consummation",
+        "order": "145.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "Twenty-Five or Two Hundred: The Minimum of the Ketubbah",
+        "order": "146.00000000000000000000"
+      },
+      {
+        "id": 178,
+        "value": "She Became a Niddah through Desire: Seven Days in the Land",
+        "order": "149.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "Brought Forth in Pain: The Land Permits at Once",
+        "order": "149.50000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "Three Things Only, or Nothing at All: The Niddah in the Household",
+        "order": "150.00000000000000000000"
+      },
+      {
+        "id": 180,
+        "value": "Twenty-Four Months for the Nursing Widow",
+        "order": "151.00000000000000000000"
+      },
+      {
+        "id": 182,
+        "value": "Taken from Both, or Kept with Her Husband",
+        "order": "153.00000000000000000000"
+      },
+      {
+        "id": 183,
+        "value": "One Writes and Two Sign: The Witnesses to a Bill of Divorce",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "Ḥatam Sofer we-Ed: A Report of the Differences",
+        "order": "154.50000000000000000000"
       }
     ]
   },
@@ -2554,6 +2674,21 @@
         "id": 142,
         "value": "Before He Has Taken a Wife: Who May Pronounce the Blessing",
         "order": "113.00000000000000000000"
+      },
+      {
+        "id": 172,
+        "value": "Wednesday in the Land, Thursday in Bavel",
+        "order": "143.00000000000000000000"
+      },
+      {
+        "id": 173,
+        "value": "Three Blessings or Seven for the Bridegroom",
+        "order": "144.00000000000000000000"
+      },
+      {
+        "id": 174,
+        "value": "As It Was Created: The First Consummation",
+        "order": "145.00000000000000000000"
       }
     ]
   },
@@ -3107,6 +3242,775 @@
         "id": 162,
         "value": "They Eat and Drink and Labour in Torah: Work on the Intermediate Days",
         "order": "133.00000000000000000000"
+      }
+    ]
+  },
+  "366": {
+    "id": 366,
+    "order": "150.00000000000000000000",
+    "label": "tefillin",
+    "notes": "",
+    "loi_id": "loi_keyword__366",
+    "passages": [
+      {
+        "id": 163,
+        "value": "Why Are the Tefillin Slighted Now? Sherira on a Lapse under Persecution",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "Hai Gaon on Tefillin and the Fear of Ostentation",
+        "order": "135.00000000000000000000"
+      }
+    ]
+  },
+  "367": {
+    "id": 367,
+    "order": "151.00000000000000000000",
+    "label": "persecution",
+    "notes": "",
+    "loi_id": "loi_keyword__367",
+    "passages": [
+      {
+        "id": 163,
+        "value": "Why Are the Tefillin Slighted Now? Sherira on a Lapse under Persecution",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "Hai Gaon on Tefillin and the Fear of Ostentation",
+        "order": "135.00000000000000000000"
+      }
+    ]
+  },
+  "368": {
+    "id": 368,
+    "order": "152.00000000000000000000",
+    "label": "yuhara",
+    "notes": "",
+    "loi_id": "loi_keyword__368",
+    "passages": [
+      {
+        "id": 164,
+        "value": "Hai Gaon on Tefillin and the Fear of Ostentation",
+        "order": "135.00000000000000000000"
+      }
+    ]
+  },
+  "369": {
+    "id": 369,
+    "order": "153.00000000000000000000",
+    "label": "obligation and custom",
+    "notes": "",
+    "loi_id": "loi_keyword__369",
+    "passages": [
+      {
+        "id": 164,
+        "value": "Hai Gaon on Tefillin and the Fear of Ostentation",
+        "order": "135.00000000000000000000"
+      }
+    ]
+  },
+  "370": {
+    "id": 370,
+    "order": "154.00000000000000000000",
+    "label": "mezuzah",
+    "notes": "",
+    "loi_id": "loi_keyword__370",
+    "passages": [
+      {
+        "id": 165,
+        "value": "Thirty Days outside the Land, Immediately within It",
+        "order": "136.00000000000000000000"
+      }
+    ]
+  },
+  "371": {
+    "id": 371,
+    "order": "155.00000000000000000000",
+    "label": "rented dwelling",
+    "notes": "",
+    "loi_id": "loi_keyword__371",
+    "passages": [
+      {
+        "id": 165,
+        "value": "Thirty Days outside the Land, Immediately within It",
+        "order": "136.00000000000000000000"
+      }
+    ]
+  },
+  "372": {
+    "id": 372,
+    "order": "156.00000000000000000000",
+    "label": "settlement of the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__372",
+    "passages": [
+      {
+        "id": 165,
+        "value": "Thirty Days outside the Land, Immediately within It",
+        "order": "136.00000000000000000000"
+      }
+    ]
+  },
+  "373": {
+    "id": 373,
+    "order": "157.00000000000000000000",
+    "label": "circumcision",
+    "notes": "",
+    "loi_id": "loi_keyword__373",
+    "passages": [
+      {
+        "id": 166,
+        "value": "Earth or Water: Two Prooftexts for the Circumcision Rite",
+        "order": "137.00000000000000000000"
+      },
+      {
+        "id": 167,
+        "value": "Razor or Knife: The Instrument of Circumcision",
+        "order": "138.00000000000000000000"
+      },
+      {
+        "id": 168,
+        "value": "Dung and Cumin: A Babylonian Remedy the Land Does Not Use",
+        "order": "139.00000000000000000000"
+      },
+      {
+        "id": 169,
+        "value": "A City in the Land Whose Slaves Would Not Be Circumcised",
+        "order": "140.00000000000000000000"
+      }
+    ]
+  },
+  "374": {
+    "id": 374,
+    "order": "158.00000000000000000000",
+    "label": "earth",
+    "notes": "",
+    "loi_id": "loi_keyword__374",
+    "passages": [
+      {
+        "id": 166,
+        "value": "Earth or Water: Two Prooftexts for the Circumcision Rite",
+        "order": "137.00000000000000000000"
+      }
+    ]
+  },
+  "375": {
+    "id": 375,
+    "order": "159.00000000000000000000",
+    "label": "water",
+    "notes": "",
+    "loi_id": "loi_keyword__375",
+    "passages": [
+      {
+        "id": 166,
+        "value": "Earth or Water: Two Prooftexts for the Circumcision Rite",
+        "order": "137.00000000000000000000"
+      }
+    ]
+  },
+  "376": {
+    "id": 376,
+    "order": "160.00000000000000000000",
+    "label": "slaves",
+    "notes": "",
+    "loi_id": "loi_keyword__376",
+    "passages": [
+      {
+        "id": 169,
+        "value": "A City in the Land Whose Slaves Would Not Be Circumcised",
+        "order": "140.00000000000000000000"
+      }
+    ]
+  },
+  "377": {
+    "id": 377,
+    "order": "161.00000000000000000000",
+    "label": "precedent from the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__377",
+    "passages": [
+      {
+        "id": 169,
+        "value": "A City in the Land Whose Slaves Would Not Be Circumcised",
+        "order": "140.00000000000000000000"
+      }
+    ]
+  },
+  "378": {
+    "id": 378,
+    "order": "162.00000000000000000000",
+    "label": "betrothal",
+    "notes": "",
+    "loi_id": "loi_keyword__378",
+    "passages": [
+      {
+        "id": 170,
+        "value": "Betrothal with a Ring: A Palestinian Usage",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "A Reversed Recension: Whether the Ring Effects Betrothal",
+        "order": "142.00000000000000000000"
+      }
+    ]
+  },
+  "379": {
+    "id": 379,
+    "order": "163.00000000000000000000",
+    "label": "ring",
+    "notes": "",
+    "loi_id": "loi_keyword__379",
+    "passages": [
+      {
+        "id": 170,
+        "value": "Betrothal with a Ring: A Palestinian Usage",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "A Reversed Recension: Whether the Ring Effects Betrothal",
+        "order": "142.00000000000000000000"
+      }
+    ]
+  },
+  "380": {
+    "id": 380,
+    "order": "164.00000000000000000000",
+    "label": "qiddushin",
+    "notes": "",
+    "loi_id": "loi_keyword__380",
+    "passages": [
+      {
+        "id": 170,
+        "value": "Betrothal with a Ring: A Palestinian Usage",
+        "order": "141.00000000000000000000"
+      },
+      {
+        "id": 171,
+        "value": "A Reversed Recension: Whether the Ring Effects Betrothal",
+        "order": "142.00000000000000000000"
+      }
+    ]
+  },
+  "381": {
+    "id": 381,
+    "order": "165.00000000000000000000",
+    "label": "wedding day",
+    "notes": "",
+    "loi_id": "loi_keyword__381",
+    "passages": [
+      {
+        "id": 172,
+        "value": "Wednesday in the Land, Thursday in Bavel",
+        "order": "143.00000000000000000000"
+      }
+    ]
+  },
+  "382": {
+    "id": 382,
+    "order": "166.00000000000000000000",
+    "label": "ketubbot",
+    "notes": "",
+    "loi_id": "loi_keyword__382",
+    "passages": [
+      {
+        "id": 172,
+        "value": "Wednesday in the Land, Thursday in Bavel",
+        "order": "143.00000000000000000000"
+      }
+    ]
+  },
+  "383": {
+    "id": 383,
+    "order": "167.00000000000000000000",
+    "label": "birkat ḥatanim",
+    "notes": "",
+    "loi_id": "loi_keyword__383",
+    "passages": [
+      {
+        "id": 173,
+        "value": "Three Blessings or Seven for the Bridegroom",
+        "order": "144.00000000000000000000"
+      }
+    ]
+  },
+  "384": {
+    "id": 384,
+    "order": "168.00000000000000000000",
+    "label": "seven blessings",
+    "notes": "",
+    "loi_id": "loi_keyword__384",
+    "passages": [
+      {
+        "id": 173,
+        "value": "Three Blessings or Seven for the Bridegroom",
+        "order": "144.00000000000000000000"
+      }
+    ]
+  },
+  "385": {
+    "id": 385,
+    "order": "169.00000000000000000000",
+    "label": "virginity",
+    "notes": "",
+    "loi_id": "loi_keyword__385",
+    "passages": [
+      {
+        "id": 174,
+        "value": "As It Was Created: The First Consummation",
+        "order": "145.00000000000000000000"
+      }
+    ]
+  },
+  "386": {
+    "id": 386,
+    "order": "170.00000000000000000000",
+    "label": "beʿilat zenut",
+    "notes": "",
+    "loi_id": "loi_keyword__386",
+    "passages": [
+      {
+        "id": 175,
+        "value": "Twenty-Five or Two Hundred: The Minimum of the Ketubbah",
+        "order": "146.00000000000000000000"
+      }
+    ]
+  },
+  "387": {
+    "id": 387,
+    "order": "171.00000000000000000000",
+    "label": "Babylonian rite",
+    "notes": "",
+    "loi_id": "loi_keyword__387",
+    "passages": [
+      {
+        "id": 176,
+        "value": "All Your Doings Now Follow Our Customs: The Ketubbah Formula",
+        "order": "147.00000000000000000000"
+      }
+    ]
+  },
+  "388": {
+    "id": 388,
+    "order": "172.00000000000000000000",
+    "label": "apostasy",
+    "notes": "",
+    "loi_id": "loi_keyword__388",
+    "passages": [
+      {
+        "id": 177,
+        "value": "No Claim to the Ketubbah of an Apostate Daughter",
+        "order": "148.00000000000000000000"
+      }
+    ]
+  },
+  "389": {
+    "id": 389,
+    "order": "173.00000000000000000000",
+    "label": "Benei Maʿarava",
+    "notes": "",
+    "loi_id": "loi_keyword__389",
+    "passages": [
+      {
+        "id": 177,
+        "value": "No Claim to the Ketubbah of an Apostate Daughter",
+        "order": "148.00000000000000000000"
+      }
+    ]
+  },
+  "390": {
+    "id": 390,
+    "order": "174.00000000000000000000",
+    "label": "niddah",
+    "notes": "",
+    "loi_id": "loi_keyword__390",
+    "passages": [
+      {
+        "id": 178,
+        "value": "She Became a Niddah through Desire: Seven Days in the Land",
+        "order": "149.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "Brought Forth in Pain: The Land Permits at Once",
+        "order": "149.50000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "Three Things Only, or Nothing at All: The Niddah in the Household",
+        "order": "150.00000000000000000000"
+      }
+    ]
+  },
+  "391": {
+    "id": 391,
+    "order": "175.00000000000000000000",
+    "label": "dam betulim",
+    "notes": "",
+    "loi_id": "loi_keyword__391",
+    "passages": [
+      {
+        "id": 178,
+        "value": "She Became a Niddah through Desire: Seven Days in the Land",
+        "order": "149.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "Brought Forth in Pain: The Land Permits at Once",
+        "order": "149.50000000000000000000"
+      }
+    ]
+  },
+  "392": {
+    "id": 392,
+    "order": "176.00000000000000000000",
+    "label": "bride",
+    "notes": "",
+    "loi_id": "loi_keyword__392",
+    "passages": [
+      {
+        "id": 178,
+        "value": "She Became a Niddah through Desire: Seven Days in the Land",
+        "order": "149.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "Brought Forth in Pain: The Land Permits at Once",
+        "order": "149.50000000000000000000"
+      }
+    ]
+  },
+  "393": {
+    "id": 393,
+    "order": "177.00000000000000000000",
+    "label": "nursing",
+    "notes": "",
+    "loi_id": "loi_keyword__393",
+    "passages": [
+      {
+        "id": 179,
+        "value": "Three Things Only, or Nothing at All: The Niddah in the Household",
+        "order": "150.00000000000000000000"
+      }
+    ]
+  },
+  "394": {
+    "id": 394,
+    "order": "178.00000000000000000000",
+    "label": "nursing widow",
+    "notes": "",
+    "loi_id": "loi_keyword__394",
+    "passages": [
+      {
+        "id": 180,
+        "value": "Twenty-Four Months for the Nursing Widow",
+        "order": "151.00000000000000000000"
+      }
+    ]
+  },
+  "395": {
+    "id": 395,
+    "order": "179.00000000000000000000",
+    "label": "waiting period",
+    "notes": "",
+    "loi_id": "loi_keyword__395",
+    "passages": [
+      {
+        "id": 180,
+        "value": "Twenty-Four Months for the Nursing Widow",
+        "order": "151.00000000000000000000"
+      }
+    ]
+  },
+  "396": {
+    "id": 396,
+    "order": "180.00000000000000000000",
+    "label": "remarriage",
+    "notes": "",
+    "loi_id": "loi_keyword__396",
+    "passages": [
+      {
+        "id": 180,
+        "value": "Twenty-Four Months for the Nursing Widow",
+        "order": "151.00000000000000000000"
+      }
+    ]
+  },
+  "397": {
+    "id": 397,
+    "order": "181.00000000000000000000",
+    "label": "yibbum",
+    "notes": "",
+    "loi_id": "loi_keyword__397",
+    "passages": [
+      {
+        "id": 181,
+        "value": "Did He Leave Seed? The Miscarried Foetus Exempts",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 397,
+        "value": "The Head and Greater Part Alive for an Hour",
+        "order": "152.50000000000000000000"
+      },
+      {
+        "id": 182,
+        "value": "Taken from Both, or Kept with Her Husband",
+        "order": "153.00000000000000000000"
+      }
+    ]
+  },
+  "398": {
+    "id": 398,
+    "order": "182.00000000000000000000",
+    "label": "ḥaliẓah",
+    "notes": "",
+    "loi_id": "loi_keyword__398",
+    "passages": [
+      {
+        "id": 181,
+        "value": "Did He Leave Seed? The Miscarried Foetus Exempts",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 397,
+        "value": "The Head and Greater Part Alive for an Hour",
+        "order": "152.50000000000000000000"
+      },
+      {
+        "id": 182,
+        "value": "Taken from Both, or Kept with Her Husband",
+        "order": "153.00000000000000000000"
+      }
+    ]
+  },
+  "399": {
+    "id": 399,
+    "order": "183.00000000000000000000",
+    "label": "ben qayyama",
+    "notes": "",
+    "loi_id": "loi_keyword__399",
+    "passages": [
+      {
+        "id": 181,
+        "value": "Did He Leave Seed? The Miscarried Foetus Exempts",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 397,
+        "value": "The Head and Greater Part Alive for an Hour",
+        "order": "152.50000000000000000000"
+      }
+    ]
+  },
+  "400": {
+    "id": 400,
+    "order": "184.00000000000000000000",
+    "label": "thirty days",
+    "notes": "",
+    "loi_id": "loi_keyword__400",
+    "passages": [
+      {
+        "id": 181,
+        "value": "Did He Leave Seed? The Miscarried Foetus Exempts",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 397,
+        "value": "The Head and Greater Part Alive for an Hour",
+        "order": "152.50000000000000000000"
+      }
+    ]
+  },
+  "401": {
+    "id": 401,
+    "order": "185.00000000000000000000",
+    "label": "void marriage",
+    "notes": "",
+    "loi_id": "loi_keyword__401",
+    "passages": [
+      {
+        "id": 182,
+        "value": "Taken from Both, or Kept with Her Husband",
+        "order": "153.00000000000000000000"
+      }
+    ]
+  },
+  "402": {
+    "id": 402,
+    "order": "186.00000000000000000000",
+    "label": "medinat ha-yam",
+    "notes": "",
+    "loi_id": "loi_keyword__402",
+    "passages": [
+      {
+        "id": 182,
+        "value": "Taken from Both, or Kept with Her Husband",
+        "order": "153.00000000000000000000"
+      }
+    ]
+  },
+  "403": {
+    "id": 403,
+    "order": "187.00000000000000000000",
+    "label": "bill of divorce",
+    "notes": "",
+    "loi_id": "loi_keyword__403",
+    "passages": [
+      {
+        "id": 183,
+        "value": "One Writes and Two Sign: The Witnesses to a Bill of Divorce",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 184,
+        "value": "Two Forms or Three in the Bill of Divorce",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 399,
+        "value": "The Words the Land Adds",
+        "order": "155.50000000000000000000"
+      },
+      {
+        "id": 185,
+        "value": "They Tear the Bill of Divorce",
+        "order": "156.00000000000000000000"
+      }
+    ]
+  },
+  "404": {
+    "id": 404,
+    "order": "188.00000000000000000000",
+    "label": "witnesses",
+    "notes": "",
+    "loi_id": "loi_keyword__404",
+    "passages": [
+      {
+        "id": 183,
+        "value": "One Writes and Two Sign: The Witnesses to a Bill of Divorce",
+        "order": "154.00000000000000000000"
+      }
+    ]
+  },
+  "405": {
+    "id": 405,
+    "order": "189.00000000000000000000",
+    "label": "ḥatam sofer we-ed",
+    "notes": "",
+    "loi_id": "loi_keyword__405",
+    "passages": [
+      {
+        "id": 183,
+        "value": "One Writes and Two Sign: The Witnesses to a Bill of Divorce",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "Ḥatam Sofer we-Ed: A Report of the Differences",
+        "order": "154.50000000000000000000"
+      }
+    ]
+  },
+  "406": {
+    "id": 406,
+    "order": "190.00000000000000000000",
+    "label": "circulation of the list",
+    "notes": "",
+    "loi_id": "loi_keyword__406",
+    "passages": [
+      {
+        "id": 398,
+        "value": "Ḥatam Sofer we-Ed: A Report of the Differences",
+        "order": "154.50000000000000000000"
+      }
+    ]
+  },
+  "407": {
+    "id": 407,
+    "order": "191.00000000000000000000",
+    "label": "fourteenth-century testimony",
+    "notes": "",
+    "loi_id": "loi_keyword__407",
+    "passages": [
+      {
+        "id": 398,
+        "value": "Ḥatam Sofer we-Ed: A Report of the Differences",
+        "order": "154.50000000000000000000"
+      }
+    ]
+  },
+  "408": {
+    "id": 408,
+    "order": "192.00000000000000000000",
+    "label": "formula",
+    "notes": "",
+    "loi_id": "loi_keyword__408",
+    "passages": [
+      {
+        "id": 184,
+        "value": "Two Forms or Three in the Bill of Divorce",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 399,
+        "value": "The Words the Land Adds",
+        "order": "155.50000000000000000000"
+      }
+    ]
+  },
+  "409": {
+    "id": 409,
+    "order": "193.00000000000000000000",
+    "label": "ḥilluf minhagim",
+    "notes": "",
+    "loi_id": "loi_keyword__409",
+    "passages": [
+      {
+        "id": 184,
+        "value": "Two Forms or Three in the Bill of Divorce",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 399,
+        "value": "The Words the Land Adds",
+        "order": "155.50000000000000000000"
+      },
+      {
+        "id": 185,
+        "value": "They Tear the Bill of Divorce",
+        "order": "156.00000000000000000000"
+      }
+    ]
+  },
+  "410": {
+    "id": 410,
+    "order": "194.00000000000000000000",
+    "label": "tearing the get",
+    "notes": "",
+    "loi_id": "loi_keyword__410",
+    "passages": [
+      {
+        "id": 185,
+        "value": "They Tear the Bill of Divorce",
+        "order": "156.00000000000000000000"
+      }
+    ]
+  },
+  "411": {
+    "id": 411,
+    "order": "195.00000000000000000000",
+    "label": "proof of divorce",
+    "notes": "",
+    "loi_id": "loi_keyword__411",
+    "passages": [
+      {
+        "id": 185,
+        "value": "They Tear the Bill of Divorce",
+        "order": "156.00000000000000000000"
       }
     ]
   }

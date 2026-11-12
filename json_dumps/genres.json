@@ -78,5 +78,14 @@
     "reference": "",
     "loi_id": "loi_genre__72",
     "main_genre": null
+  },
+  "73": {
+    "id": 73,
+    "order": "9.00000000000000000000",
+    "name": "Halakhic-topographical work",
+    "note": "",
+    "reference": "",
+    "loi_id": "loi_genre__73",
+    "main_genre": null
   }
 }

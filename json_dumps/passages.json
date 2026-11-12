@@ -8611,416 +8611,1860 @@
   "163": {
     "id": 163,
     "order": "134.00000000000000000000",
-    "title": "Tefillin",
+    "title": "Why Are the Tefillin Slighted Now? Sherira on a Lapse under Persecution",
     "text": "בתפילין. תשובת רבינו שרירא גאון: והאידנא מאי טעמא מזלזלי בהו [בתפילין)\nהכין חזינא דבארץ ישראל מימות הראשונים כיון דנפישי גזירה ולא יכלו לאחותי\nתפילין אשתכח מנהון, אבל בבבל היו זהירים בהון, וביותר רבנן יושבי מדרשות.",
     "loi_id": "loi_passage__163",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 344,
+        "value": "Responsum of Rav Sherira Gaon on the neglect of tefillin",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zu den Tefillin. Responsum unseres Lehrers Scherira Gaon: Und heutzutage, aus welchem Grund geht man nachlässig mit ihnen [den Tefillin] um? So haben wir gesehen: dass in Ereẓ Israel seit den Tagen der Früheren, da der Verfolgungen viele waren und sie die Tefillin nicht anlegen konnten, sie ihnen abhanden kamen; in Bavel aber war man achtsam mit ihnen, und am meisten die Rabbanan, die in den Lehrhäusern sitzen.",
+    "page": "20",
+    "keywords": [
+      {
+        "id": 272,
+        "value": "minhagei ha-shemad",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 366,
+        "value": "tefillin",
+        "order": "150.00000000000000000000"
+      },
+      {
+        "id": 367,
+        "value": "persecution",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "164": {
     "id": 164,
     "order": "135.00000000000000000000",
-    "title": "Tefillin 2",
+    "title": "Hai Gaon on Tefillin and the Fear of Ostentation",
     "text": "[נוסחה אחרת מהנ\"ל]: איתשל לרבינו האי, פושעי ישראל בגופן קרקפתא דלא\nמנחי תפילין מעולם, מאי טעמא זלזלו בהון רבנן דעלמא ? ואותן שמניחין תפילין אי\nחיישינן ליוהרא או לא ?והשיב: בארץ ישראל דנפיש שמדא ולא יכול לאנוחי אשתכח\nמנהון, בבבל דהוו נהירו טובא והוי שכיחי למזבן כדאמרינן: תפילין בר בי חבו מישכח\nשכוחי, ומאן דקבעי ליה לא מיחזי כאגרא. וליכא למיחש ליוהרא אלא בדבר שאינו\nחייב, אבל תפילין כולי עלמא מחייבי בהו אטו משום דאחריני פשעי מאן דלא פשע מיחזי\nכיוהרא?",
     "loi_id": "loi_passage__164",
     "translation": "",
-    "parallel_text": [],
-    "bibl_quotes": [],
+    "parallel_text": [
+      {
+        "id": 134,
+        "value": "Otzar Ha-Geonim Chagigah, p. 20",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [
+      {
+        "id": 340,
+        "value": "bRosh ha-Shana 17a",
+        "order": "155.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 345,
+        "value": "Responsum of Rav Hai Gaon on tefillin and the fear of ostentation",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "german_translation": "[Andere Fassung des Vorigen:] Man fragte unseren Lehrer Hai: „Die Frevler Israels mit ihrem Leib“ — der Schädel, der niemals Tefillin anlegt (bRosch ha-Schana 17a): Aus welchem Grund haben die Rabbanan in aller Welt sie geringgeschätzt? Und bei denen, die Tefillin anlegen — besorgen wir Hochmut (yuhara) oder nicht?\n\nUnd er antwortete: In Ereẓ Israel, wo der Verfolgung viel war und man sie nicht anlegen konnte, kamen sie ihnen abhanden. In Bavel, wo viel Licht war und sie leicht zu kaufen waren — wie wir sagen: Tefillin [Crux] … —, und wer sie sich beschafft, erscheint nicht wie [Crux] … Und Hochmut ist nur bei einer Sache zu besorgen, zu der er nicht verpflichtet ist; bei den Tefillin aber sind alle verpflichtet. Sollte denn, weil andere sich verfehlen, der, der sich nicht verfehlt, als hochmütig erscheinen?",
+    "page": "fol. 26 (52)",
+    "keywords": [
+      {
+        "id": 272,
+        "value": "minhagei ha-shemad",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 366,
+        "value": "tefillin",
+        "order": "150.00000000000000000000"
+      },
+      {
+        "id": 367,
+        "value": "persecution",
+        "order": "151.00000000000000000000"
+      },
+      {
+        "id": 368,
+        "value": "yuhara",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 369,
+        "value": "obligation and custom",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "165": {
     "id": 165,
     "order": "136.00000000000000000000",
-    "title": "Mezuzah",
+    "title": "Thirty Days outside the Land, Immediately within It",
     "text": "במזוזה. השוכר בית בחוצה לארץ כל שלשים יום פטור מן המזוזה ובארץ ישראל\nחייב לאלתר. השוכר בית בחוצה לארץ והדר בפונדקי בארץ ישראל פטור מן המזוזה\nשלשים יום.",
     "loi_id": "loi_passage__165",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 135,
+        "value": "bMenachot 44a",
+        "order": "39.00000000000000000000"
+      },
+      {
+        "id": 136,
+        "value": "bAvodah Zarah 21a)",
+        "order": "40.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sheiltot d'Rav Achai Gaon",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Mezuzah: Wer ein Haus außerhalb des Landes mietet, ist dreißig Tage lang von der Mezuzah befreit, und in Ereẓ Israel ist er sogleich verpflichtet (vgl. bMenaḥot 44a; bʿAvodah Zarah 21a). Wer ein Haus außerhalb des Landes mietet, und wer in einer Herberge in Ereẓ Israel wohnt, ist dreißig Tage lang von der Mezuzah befreit.",
+    "page": "no. 145",
+    "keywords": [
+      {
+        "id": 258,
+        "value": "mitzvot ha-teluyot ba-areẓ",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 370,
+        "value": "mezuzah",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 371,
+        "value": "rented dwelling",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 372,
+        "value": "settlement of the Land",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Ḥuẓ la-Areẓ",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "166": {
     "id": 166,
     "order": "137.00000000000000000000",
-    "title": "circumcision",
+    "title": "Earth or Water: Two Prooftexts for the Circumcision Rite",
     "text": "במילה. בני ארץ ישראל מוהלין מן העפר דכתיב: גם את בדם בריתך שלחתי\nאסיריך מבור אין מים בו, ונותנים על פניהם. בני בבל מוהלין במים הה\"ד: וארחצך\nבמים.",
     "loi_id": "loi_passage__166",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 341,
+        "value": "Zechariah 9:11",
+        "order": "156.00000000000000000000"
+      },
+      {
+        "id": 342,
+        "value": "Ezekiel 16:9",
+        "order": "157.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Beschneidung: Die Benei Ereẓ Israel beschneiden mit Erde, denn es steht geschrieben: „auch du — durch das Blut deines Bundes habe ich deine Gefangenen freigelassen aus der Grube, in der kein Wasser ist“ (Sach 9,11), und sie legen sie auf [die Wunde?]. Die Benei Bavel beschneiden mit Wasser; das ist es, was geschrieben steht: „und ich wusch dich mit Wasser“ (Ez 16,9).",
+    "page": "(Müller) p. 18, no. 17",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 373,
+        "value": "circumcision",
+        "order": "157.00000000000000000000"
+      },
+      {
+        "id": 374,
+        "value": "earth",
+        "order": "158.00000000000000000000"
+      },
+      {
+        "id": 375,
+        "value": "water",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "167": {
     "id": 167,
     "order": "138.00000000000000000000",
-    "title": "circumcision II",
+    "title": "Razor or Knife: The Instrument of Circumcision",
     "text": "בני בבל מוהלין בתער. בני ארץ ישראל בסכין.",
     "loi_id": "loi_passage__167",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 137,
+        "value": "mShabbat 19:1",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel beschneiden mit dem Schermesser (taʿar). Die Benei Ereẓ Israel mit dem Messer (sakkin) (vgl. mSchabbat 19,1).",
+    "page": "(Müller) p. 41, no. 45",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 373,
+        "value": "circumcision",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "168": {
     "id": 168,
     "order": "139.00000000000000000000",
-    "title": "circumcision III",
+    "title": "Dung and Cumin: A Babylonian Remedy the Land Does Not Use",
     "text": "בני בבל עושים רפואה למילה בגלל חמורים וכמון, בני ארץ ישראל אין\nעושים.",
     "loi_id": "loi_passage__168",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 138,
+        "value": "bShabbat 133b",
+        "order": "42.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel machen ein Heilmittel für die Beschneidung aus Eselsmist und Kümmel (vgl. bSchabbat 133b). Die Benei Ereẓ Israel machen es nicht.",
+    "page": "(Müller) p. 41, no. 46",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 373,
+        "value": "circumcision",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "169": {
     "id": 169,
     "order": "140.00000000000000000000",
-    "title": "circumcision IV",
+    "title": "A City in the Land Whose Slaves Would Not Be Circumcised",
     "text": "וששאלתם, עבד ערל שהיה ביד ישראל... דרצה... אדונו למולו ועבד אינו מקבל...\nכך ראינו... אומרין, יתיב ר' אמי ור' יצחק נפחא אקילעא דר' יצחק נפחא נפק מילתא\nמבינייהו : עיר אחת היתה בארץ ישראל שלא רצו עבדיהם למול, גלגלו עמהם י\"ב חודש\nומכרום לגוים.",
     "loi_id": "loi_passage__169",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 343,
+        "value": "bYevamot 48b",
+        "order": "158.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 346,
+        "value": "Geonic responsum on an uncircumcised slave",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt: Ein unbeschnittener Sklave, der in der Hand eines Juden war … dessen Herr ihn beschneiden will und der Sklave nimmt es nicht an … So haben wir gesehen … Man sagt (bYevamot 48b): R. Ammi und R. Yiẓḥaq Nappaḥa saßen im Vorbau des R. Yiẓḥaq Nappaḥa; da ergab sich eine Sache zwischen ihnen: Eine Stadt war in Ereẓ Israel, deren Sklaven sich nicht beschneiden lassen wollten; man trug es zwölf Monate mit ihnen und verkaufte sie an Nichtjuden.",
+    "page": "III, Gate 6, p. 67",
+    "keywords": [
+      {
+        "id": 373,
+        "value": "circumcision",
+        "order": "157.00000000000000000000"
+      },
+      {
+        "id": 376,
+        "value": "slaves",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 377,
+        "value": "precedent from the Land",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "170": {
     "id": 170,
     "order": "141.00000000000000000000",
-    "title": "Ring",
+    "title": "Betrothal with a Ring: A Palestinian Usage",
     "text": "בקידושין. בני ארץ ישראל מקדשין בטבעת. ואנשי מזרח אין מקדשין את האשה\nבטבעת.",
     "loi_id": "loi_passage__170",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 139,
+        "value": "mKiddushin 1:1",
+        "order": "43.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zu den Verlobungen: Die Benei Ereẓ Israel verloben mit einem Ring. Und die Anshei Mizraḥ verloben die Frau nicht mit einem Ring (vgl. mQiddushin 1,1).",
+    "page": "(Müller) p. 42",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 378,
+        "value": "betrothal",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 379,
+        "value": "ring",
+        "order": "163.00000000000000000000"
+      },
+      {
+        "id": 380,
+        "value": "qiddushin",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "171": {
     "id": 171,
     "order": "142.00000000000000000000",
-    "title": "[laws and customs / minhagim] (untitled)",
+    "title": "A Reversed Recension: Whether the Ring Effects Betrothal",
     "text": "בני ארץ ישראל רואין טבעת קידושין גמורים. בני בבל אין רואין בטבעת\nקידושין.\n[נוסחה הפוכה]: אנשי מזרח רואין טבעת קידושין. ובני ארץ ישראל אין רואין\nטבעת קידושין.",
     "loi_id": "loi_passage__171",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 139,
+        "value": "mKiddushin 1:1",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 140,
+        "value": "bKiddushin 9a",
+        "order": "44.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel sehen den Ring als vollgültige Verlobung (qiddushin gemurim) an. Die Benei Bavel sehen im Ring keine Verlobung.\n\n[Umgekehrte Fassung:] Die Anshei Mizraḥ sehen den Ring als Verlobung an. Und die Benei Ereẓ Israel sehen im Ring keine Verlobung (vgl. mQiddushin 1,1; bQiddushin 9a).",
+    "page": "Rezension YSh\"Sh, ot 25",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 378,
+        "value": "betrothal",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 379,
+        "value": "ring",
+        "order": "163.00000000000000000000"
+      },
+      {
+        "id": 380,
+        "value": "qiddushin",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "172": {
     "id": 172,
     "order": "143.00000000000000000000",
-    "title": "Day of the week for marriage",
+    "title": "Wednesday in the Land, Thursday in Bavel",
     "text": "בנישואין. בני בבל משיאין את החתונה ואת הכלה ביום ה'. בני ארץ ישראל\nביום ד', כהלכה: בתולה נשאת ליום הרביעי.",
     "loi_id": "loi_passage__172",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 344,
+        "value": "mKetubot 1:1",
+        "order": "159.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zu den Eheschließungen: Die Benei Bavel verheiraten den Bräutigam und die Braut am fünften Tag. Die Benei Ereẓ Israel am vierten Tag, wie es der Halacha entspricht: Eine Jungfrau wird am vierten Tag geheiratet (mKetubbot 1,1).",
+    "page": "(Müller) p. 36, no. 38",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 328,
+        "value": "marriage",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 381,
+        "value": "wedding day",
+        "order": "165.00000000000000000000"
+      },
+      {
+        "id": 382,
+        "value": "ketubbot",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "173": {
     "id": 173,
     "order": "144.00000000000000000000",
-    "title": "Berakhot",
+    "title": "Three Blessings or Seven for the Bridegroom",
     "text": "בני ארץ ישראל מברכין את החתן בשלש ברכות. בני בבל מברכין את החתן\nבשבע ברכות.",
     "loi_id": "loi_passage__173",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 141,
+        "value": "bKetubot 7b–8a",
+        "order": "45.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel segnen den Bräutigam mit drei Benediktionen. Die Benei Bavel segnen den Bräutigam mit sieben Benediktionen (vgl. bKetubbot 7b–8a).",
+    "page": "(Müller) p. 27, no. 28",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 328,
+        "value": "marriage",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 383,
+        "value": "birkat ḥatanim",
+        "order": "167.00000000000000000000"
+      },
+      {
+        "id": 384,
+        "value": "seven blessings",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "174": {
     "id": 174,
     "order": "145.00000000000000000000",
-    "title": "sexual intercourse",
+    "title": "As It Was Created: The First Consummation",
     "text": "בני בבל נוהגים בבעילה בצינור באמה כדרך שנברא. בני ארץ ישראל באצבע.",
     "loi_id": "loi_passage__174",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel verfahren beim Beiwohnen [Crux: בצינור] mit dem Glied, nach der Weise, wie es geschaffen wurde. Die Benei Ereẓ Israel mit dem Finger.",
+    "page": "(Müller) p. 37, no. 40",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 328,
+        "value": "marriage",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 385,
+        "value": "virginity",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "175": {
     "id": 175,
     "order": "146.00000000000000000000",
-    "title": "Amount of money",
+    "title": "Twenty-Five or Two Hundred: The Minimum of the Ketubbah",
     "text": "בכתובה. בני ארץ ישראל כתובה שלהם כ\"ה כספים. בני בבל אומרים: כל\nהפוחת לבתולה ממאתים ולאלמנה ממנה הרי זו בעילת זנות,\n[נוסחה הפוכה]: אנשי מזרח משיאין בכתובה שלהן עשרים וחתמשה כספים\nלבתולה ושנים עשר וחצי לאלמנה, ובני ארץ ישראל כל הפוחת לבתולה ממאתיים\nולאלמנה ממנה הרי זו בעילת זנות.",
     "loi_id": "loi_passage__175",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 345,
+        "value": "mKetubot 1:2",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 346,
+        "value": "mKetubot 5,1",
+        "order": "161.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Ketubba: Die Benei Ereẓ Israel — ihre Ketubba [beträgt] 25 Silberstücke. Die Benei Bavel sagen: Jeder, der einer Jungfrau weniger als zweihundert und einer Witwe weniger als hundert ansetzt, dessen Beiwohnung ist Unzucht (mKetubbot 1,2; 5,1).\n\n[Umgekehrte Fassung:] Die Anshei Mizraḥ verheiraten mit ihrer Ketubba von fünfundzwanzig Silberstücken für eine Jungfrau und zwölfeinhalb für eine Witwe; und die Benei Ereẓ Israel [sagen]: Jeder, der einer Jungfrau weniger als zweihundert und einer Witwe weniger als hundert ansetzt, dessen Beiwohnung ist Unzucht.",
+    "page": "(Müller) p. 14, no. 7",
+    "keywords": [
+      {
+        "id": 226,
+        "value": "ketubbah",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 386,
+        "value": "beʿilat zenut",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "176": {
     "id": 176,
     "order": "147.00000000000000000000",
-    "title": "Ketubba",
+    "title": "All Your Doings Now Follow Our Customs: The Ketubbah Formula",
     "text": "מילתא פסיקתא היא לכל חכמי בבל דכתובה מדרבנן היא... והא מילתא\nמחלוקת אנשי מזרח ובני ארץ ישראל. ועדיין מגונה מאד אצלנו מאן דכתב בכתובה:\n,דהזי ליכי מן אורייתא\", ומהדרין ליה רבנן וקמאי דלכון מן בני ארץ ישראל נקטוה\nלהא מילתא, ואתון השתא כל מעשיכם כמנהגות שלנו, וכתלמוד שלנו, הכי מבעי לכון\nלמיעבד ולסלוקי מן כתובתכון דוכרן ,,אורייתא\", אלא כתובו ,דחזי ליכי\" סתם.",
     "loi_id": "loi_passage__176",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 142,
+        "value": "bKetubot 10a",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 347,
+        "value": "Geonic responsum on the ketubbah formula",
+        "order": "90.00000000000000000000"
+      }
+    ],
+    "german_translation": "Eine entschiedene Sache ist es bei allen Weisen Bavels, dass die Ketubba von den Rabbanan ist … Und diese Sache ist ein Streit zwischen den Anshei Mizraḥ und den Benei Ereẓ Israel. Und noch immer ist es bei uns sehr anstößig, wer in die Ketubba schreibt: „die dir von der Tora her zukommen“, und die Rabbanan weisen ihn zurück. Und eure Früheren haben von den Benei Ereẓ Israel diese Sache übernommen; ihr aber — alle eure Handlungen sind jetzt nach unseren Bräuchen und nach unserem Talmud. So müsst ihr tun und aus euren Ketubbot die Erwähnung „Tora“ entfernen, sondern schreibt schlicht: „die dir zukommen“ (vgl. bKetubbot 10a).",
+    "page": "p. 303, no. 152",
+    "keywords": [
+      {
+        "id": 226,
+        "value": "ketubbah",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 387,
+        "value": "Babylonian rite",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "177": {
     "id": 177,
     "order": "148.00000000000000000000",
-    "title": "convert",
+    "title": "No Claim to the Ketubbah of an Apostate Daughter",
     "text": "אשת ישראל שנשתמדה אסור לאביה למיזל למיתבע לבעלה ולעיוקי ליה ולמימר\nהב לי חדא זוזא מכתובתה דברתאי. ואי קאמרין בני מערבא אשת ישראל שנשתמדה\nאביה יורש כתובתה, טועים אנון ותיעין אינין ושוא ודבר כזב קאמרי ולית למיחש לה.",
     "loi_id": "loi_passage__177",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 348,
+        "value": "Geonic responsum on the ketubbah of an apostate wife",
+        "order": "91.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Frau eines Israeliten, die abgefallen ist: Es ist ihrem Vater verboten, hinzugehen, ihren Mann zu belangen und ihn zu bedrängen und zu sagen: Gib mir einen Zuz von der Ketubba meiner Tochter. Und wenn die Benei Maʿarava sagen, bei der Frau eines Israeliten, die abgefallen ist, erbe ihr Vater ihre Ketubba — so irren sie, und in die Irre gehen sie, und Nichtiges und lügenhaftes Wort reden sie, und man braucht darauf nicht zu achten.",
+    "page": "IV, Gate 4, p. 149, no. 141",
+    "keywords": [
+      {
+        "id": 215,
+        "value": "inheritance",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 226,
+        "value": "ketubbah",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 388,
+        "value": "apostasy",
+        "order": "172.00000000000000000000"
+      },
+      {
+        "id": 389,
+        "value": "Benei Maʿarava",
+        "order": "173.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 310,
+        "value": "Maʿarava",
+        "order": "55.00000000000000000000"
+      }
+    ]
   },
   "178": {
     "id": 178,
     "order": "149.00000000000000000000",
-    "title": "Niddah",
-    "text": "באיסור נדה. בני ארץ ישראל אומרים, כלה אסורה לחתן כל שבעה מפני שנעשית\\\nנדה מפני תאוה וחימוד. בני בבל אומרים, עד שהוא מוציא הבתולים היא מותרת לו\\\nמיד.\\\n\\[נוסחה הפוכה\\]: .. דאשכחן בחלוקות שבין אנשי בבל וארץ ישראל: אנשי\\\nמזרח אוסרים כלה על בעלה כל שבעת הימים מפני שהיתה בתולה ונעשית נדה. אנשי\\\nארץ ישראל, על שהוא מוציא דם בתולים בצער מיד מותרת.",
+    "title": "She Became a Niddah through Desire: Seven Days in the Land",
+    "text": "באיסור נדה. בני ארץ ישראל אומרים, כלה אסורה לחתן כל שבעה מפני שנעשית  \nנדה מפני תאוה וחימוד. בני בבל אומרים, עד שהוא מוציא הבתולים היא מותרת לו  \nמיד.",
     "loi_id": "loi_passage__178",
+    "translation": "",
+    "parallel_text": [
+      {
+        "id": 143,
+        "value": "bKetubot 5b",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zum Niddah-Verbot: Die Benei Ereẓ Israel sagen: Die Braut ist dem Bräutigam alle sieben Tage verboten, weil sie durch Verlangen und Begierde zur Niddah geworden ist. Die Benei Bavel sagen: Sobald er die Jungfernzeichen hervorbringt, ist sie ihm sogleich erlaubt (vgl. bKetubbot 5b).",
+    "page": "(Müller) p. 13, no. 6",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 390,
+        "value": "niddah",
+        "order": "174.00000000000000000000"
+      },
+      {
+        "id": 391,
+        "value": "dam betulim",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 392,
+        "value": "bride",
+        "order": "176.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "396": {
+    "id": 396,
+    "order": "149.50000000000000000000",
+    "title": "Brought Forth in Pain: The Land Permits at Once",
+    "text": "\\[נוסחה הפוכה\\]: .. דאשכחן בחלוקות שבין אנשי בבל וארץ ישראל: אנשי  \nמזרח אוסרים כלה על בעלה כל שבעת הימים מפני שהיתה בתולה ונעשית נדה. אנשי  \nארץ ישראל, על שהוא מוציא דם בתולים בצער מיד מותרת",
+    "loi_id": "loi_passage__396",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 349,
+        "value": "Geonic notice on the bride as niddah",
+        "order": "92.00000000000000000000"
+      }
+    ],
+    "german_translation": "[Umgekehrte Fassung:] … denn wir finden unter den Unterschieden zwischen den Leuten Bavels und Ereẓ Israels: Die Anshei Mizraḥ verbieten die Braut ihrem Mann alle sieben Tage, weil sie Jungfrau war und zur Niddah geworden ist. Die Anshei Ereẓ Israel: Da er das Blut der Jungfernschaft unter Schmerz hervorbringt, ist sie sogleich erlaubt.",
+    "page": "no. 67",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 390,
+        "value": "niddah",
+        "order": "174.00000000000000000000"
+      },
+      {
+        "id": 391,
+        "value": "dam betulim",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 392,
+        "value": "bride",
+        "order": "176.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "179": {
     "id": 179,
     "order": "150.00000000000000000000",
-    "title": "Niddah",
+    "title": "Three Things Only, or Nothing at All: The Niddah in the Household",
     "text": "בני ארץ ישראל נדה אינה נוגעת בדבר לח ולא בכלים שבבית. אבל בדוחק\nהתירו להניק את בנה. בני בבל אומרים נדה משתמשת כל צרכי הבית חוץ משלשה\nדברים: ממזיגת הכוס והצעת המיטה והרחצת פניו ידיו ורגליו.",
     "loi_id": "loi_passage__179",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 144,
+        "value": "mKetubot 5:5",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "bKetubot 61a",
+        "order": "49.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel: Eine Niddah rührt nichts Feuchtes an und keines der Geräte im Hause. Aber im Notfall haben sie erlaubt, dass sie ihr Kind stille. Die Benei Bavel sagen: Eine Niddah verrichtet alle Bedürfnisse des Hauses, ausgenommen drei Dinge: das Mischen des Bechers, das Bereiten des Bettes und das Waschen seines Gesichts, seiner Hände und seiner Füße (mKetubbot 5,5; vgl. bKetubbot 61a).",
+    "page": "(Müller) p. 16, no. 11",
+    "keywords": [
+      {
+        "id": 210,
+        "value": "ritual purity",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 390,
+        "value": "niddah",
+        "order": "174.00000000000000000000"
+      },
+      {
+        "id": 393,
+        "value": "nursing",
+        "order": "177.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "180": {
     "id": 180,
     "order": "151.00000000000000000000",
-    "title": "lactation period",
+    "title": "Twenty-Four Months for the Nursing Widow",
     "text": "במינקת. בני ארץ ישראל אין משיאין את המינקת שמת בנה עד שתמתין עשרים\nוארבעה חדשים. ובני בבל משיאין אותה בתוך עשרים וארבעה חדשים .",
     "loi_id": "loi_passage__180",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 146,
+        "value": "bKetubot 60a–b",
+        "order": "50.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur stillenden Frau (meniqah): Die Benei Ereẓ Israel verheiraten die Stillende, deren Kind gestorben ist, nicht, bis sie vierundzwanzig Monate gewartet hat. Und die Benei Bavel verheiraten sie innerhalb der vierundzwanzig Monate (vgl. bKetubbot 60a–b).",
+    "page": "(Müller) p. 11, no. 3",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "nursing widow",
+        "order": "178.00000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "waiting period",
+        "order": "179.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "remarriage",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "181": {
     "id": 181,
     "order": "152.00000000000000000000",
-    "title": "Chalitza",
-    "text": "ביבמה. בני בבל אם תלד יבמתו בתוך שלשים, אם מת הילד אומרים שהיא\nצריכה חליצה. בני ארץ ישראל, אפילו הפילה והולד ניכר אם זכר אם נקיבה עד שיהיה\nפרצוף של ולד ניכר אינה צריכה לא חליצה ולא יבום, דאינון דורשים שהניח זרע והיא\nפטורה.\n[נוסחה אחרת]: בני ארץ ישראל אפילו יצא ראשו ורובו בחיים שעה אחת\nהרי זו פטורה. בני בבל אינה פטורה אם מת הולד תוך שלשים יום.",
+    "title": "Did He Leave Seed? The Miscarried Foetus Exempts",
+    "text": "ביבמה. בני בבל אם תלד יבמתו בתוך שלשים, אם מת הילד אומרים שהיא  \nצריכה חליצה. בני ארץ ישראל, אפילו הפילה והולד ניכר אם זכר אם נקיבה עד שיהיה  \nפרצוף של ולד ניכר אינה צריכה לא חליצה ולא יבום, דאינון דורשים שהניח זרע והיא  \nפטורה.",
     "loi_id": "loi_passage__181",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 147,
+        "value": "Deuteronomy 25:5",
+        "order": "51.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Schwagerpflichtigen: Die Benei Bavel — wenn die Jevamah innerhalb von dreißig [Tagen] gebiert und das Kind stirbt, sagen sie, sie bedürfe der Ḥaliẓah. Die Benei Ereẓ Israel: Sogar wenn sie eine Fehlgeburt hatte und am Kind erkennbar war, ob männlich oder weiblich — solange die Gestalt (parẓuf) eines Kindes nicht erkennbar ist, bedarf sie weder der Ḥaliẓah noch des Jibbum, denn sie legen aus, dass er Samen hinterlassen hat (vgl. Dtn 25,5) und sie frei ist.",
+    "page": "(Müller) Rezension YSh\"Sh, ot 35 (p. 33)",
+    "keywords": [
+      {
+        "id": 397,
+        "value": "yibbum",
+        "order": "181.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "ḥaliẓah",
+        "order": "182.00000000000000000000"
+      },
+      {
+        "id": 399,
+        "value": "ben qayyama",
+        "order": "183.00000000000000000000"
+      },
+      {
+        "id": 400,
+        "value": "thirty days",
+        "order": "184.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "397": {
+    "id": 397,
+    "order": "152.50000000000000000000",
+    "title": "The Head and Greater Part Alive for an Hour",
+    "text": "\\[נוסחה אחרת\\]: בני ארץ ישראל אפילו יצא ראשו ורובו בחיים שעה אחת  \nהרי זו פטורה. בני בבל אינה פטורה אם מת הולד תוך שלשים יום.",
+    "loi_id": "loi_passage__397",
+    "translation": "",
+    "parallel_text": [
+      {
+        "id": 148,
+        "value": "bYevamot 36b",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 350,
+        "value": "Geonic notice on the yevamah",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "german_translation": "[Andere Fassung:] Die Benei Ereẓ Israel: Sogar wenn sein Kopf und sein größerer Teil lebend hervorkamen, auch nur eine Stunde lang — so ist sie frei. Die Benei Bavel: Sie ist nicht frei, wenn das Kind innerhalb von dreißig Tagen stirbt (vgl. bJevamot 36b).",
+    "page": "no. 141 bzw. 142",
+    "keywords": [
+      {
+        "id": 397,
+        "value": "yibbum",
+        "order": "181.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "ḥaliẓah",
+        "order": "182.00000000000000000000"
+      },
+      {
+        "id": 399,
+        "value": "ben qayyama",
+        "order": "183.00000000000000000000"
+      },
+      {
+        "id": 400,
+        "value": "thirty days",
+        "order": "184.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "182": {
     "id": 182,
     "order": "153.00000000000000000000",
-    "title": "Chalitza II",
+    "title": "Taken from Both, or Kept with Her Husband",
     "text": "בני ארץ ישראל יבמה שנשאת בלא חליצה ובא יבמה ממדינת הים מוציאים\nאותה מזה ומזה. בני בבל כופים יבמה שיחלוץ לה ? ומתקיימת עם בעלה.",
     "loi_id": "loi_passage__182",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 149,
+        "value": "mYevamot 10:1",
+        "order": "53.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel: Eine Jevamah, die ohne Ḥaliẓah geheiratet hat, und ihr Levir kommt aus der Medinat ha-Yam — man nimmt sie diesem und jenem (vgl. mJevamot 10,1). Die Benei Bavel zwingen ihren Levir, ihr die Ḥaliẓah zu geben [?], und sie bleibt bei ihrem Mann.",
+    "page": "(Müller) p. 32, no. 34",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 397,
+        "value": "yibbum",
+        "order": "181.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "ḥaliẓah",
+        "order": "182.00000000000000000000"
+      },
+      {
+        "id": 401,
+        "value": "void marriage",
+        "order": "185.00000000000000000000"
+      },
+      {
+        "id": 402,
+        "value": "medinat ha-yam",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "Medinat ha-Yam",
+        "order": "35.00000000000000000000"
+      }
+    ]
   },
   "183": {
     "id": 183,
     "order": "154.00000000000000000000",
-    "title": "Get",
-    "text": "בגיטין: בני בבל אחד: כותב את הגט ואחד חותם עם אותו הכותב. בני ארץ\nישראל אחד כותב ושנים חותמין.\nומצאתי ... הרבה מאלו החילוקים שבין אנשי מזרח -- כלומר בני בבל, ובין\nאנשי ארץ ישראל. ומכללם, שבני בבל אית להו חתם סופר ועד ובני ארץ ישראל לא.",
+    "title": "One Writes and Two Sign: The Witnesses to a Bill of Divorce",
+    "text": "בגיטין: בני בבל אחד: כותב את הגט ואחד חותם עם אותו הכותב. בני ארץ  \nישראל אחד כותב ושנים חותמין.",
     "loi_id": "loi_passage__183",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zu den Scheidebriefen: Die Benei Bavel — einer schreibt den Get, und einer unterschreibt zusammen mit jenem Schreiber. Die Benei Ereẓ Israel — einer schreibt und zwei unterschreiben (vgl. bGiṭṭin 87b).",
+    "page": "(Müller) p. 35, no. 37",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 403,
+        "value": "bill of divorce",
+        "order": "187.00000000000000000000"
+      },
+      {
+        "id": 404,
+        "value": "witnesses",
+        "order": "188.00000000000000000000"
+      },
+      {
+        "id": 405,
+        "value": "ḥatam sofer we-ed",
+        "order": "189.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "398": {
+    "id": 398,
+    "order": "154.50000000000000000000",
+    "title": "Ḥatam Sofer we-Ed: A Report of the Differences",
+    "text": "ומצאתי ... הרבה מאלו החילוקים שבין אנשי מזרח -- כלומר בני בבל, ובין  \nאנשי ארץ ישראל. ומכללם, שבני בבל אית להו חתם סופר ועד ובני ארץ ישראל לא.",
+    "loi_id": "loi_passage__398",
+    "translation": "",
+    "parallel_text": [],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 351,
+        "value": "Report of the Differences between East and Land",
+        "order": "94.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und ich fand … viele von diesen Unterschieden zwischen den Anshei Mizraḥ — das heißt den Benei Bavel — und den Anshei Ereẓ Israel. Und darunter, dass die Benei Bavel ḥatam sofer we-ed haben und die Benei Ereẓ Israel nicht.",
+    "page": "ch. 10, fol. 36a",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 405,
+        "value": "ḥatam sofer we-ed",
+        "order": "189.00000000000000000000"
+      },
+      {
+        "id": 406,
+        "value": "circulation of the list",
+        "order": "190.00000000000000000000"
+      },
+      {
+        "id": 407,
+        "value": "fourteenth-century testimony",
+        "order": "191.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "184": {
     "id": 184,
     "order": "155.00000000000000000000",
-    "title": "Get II",
-    "text": "בני בבל כותבים שתים בגט מעשר עשר, בני ארץ ישראל כותבים שלשה\nמעשר עשר.\nמנדחיי כתבין תרתין מילין מן עשר עשר אתין: דיתיהוייין דיתיצבילין. ובני\nארעא דישראל מוסיפין : דיתהוייתין.",
+    "title": "Two Forms or Three in the Bill of Divorce",
+    "text": "בני בבל כותבים שתים בגט מעשר עשר, בני ארץ ישראל כותבים שלשה  \nמעשר עשר.",
     "loi_id": "loi_passage__184",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Bavel schreiben zwei im Get von [מעשר עשר ?]; die Benei Ereẓ Israel schreiben drei von [מעשר עשר ?].",
+    "page": "(Müller) p. 26, no. 27",
+    "keywords": [
+      {
+        "id": 403,
+        "value": "bill of divorce",
+        "order": "187.00000000000000000000"
+      },
+      {
+        "id": 408,
+        "value": "formula",
+        "order": "192.00000000000000000000"
+      },
+      {
+        "id": 409,
+        "value": "ḥilluf minhagim",
+        "order": "193.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "399": {
+    "id": 399,
+    "order": "155.50000000000000000000",
+    "title": "The Words the Land Adds",
+    "text": "מנדחיי כתבין תרתין מילין מן עשר עשר אתין: דיתיהוייין דיתיצבילין. ובני  \nארעא דישראל מוסיפין : דיתהוייתין.",
+    "loi_id": "loi_passage__399",
+    "translation": "",
+    "parallel_text": [],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 352,
+        "value": "Geonic notice on the formula of the get",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "german_translation": "Wer immer [Wort unklar מנדחיי ?] schreiben zwei Wörter von zehn-zehn Buchstaben: di-tihawyin und di-tiẓbeyan. Und die Benei Arʿa de-Yisra’el fügen hinzu: di-tehawyatin.",
+    "page": "no. 464",
+    "keywords": [
+      {
+        "id": 403,
+        "value": "bill of divorce",
+        "order": "187.00000000000000000000"
+      },
+      {
+        "id": 408,
+        "value": "formula",
+        "order": "192.00000000000000000000"
+      },
+      {
+        "id": 409,
+        "value": "ḥilluf minhagim",
+        "order": "193.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 158,
+        "value": "Arʿa de-Yisra’el",
+        "order": "31.00000000000000000000"
+      }
+    ]
   },
   "185": {
     "id": 185,
     "order": "156.00000000000000000000",
-    "title": "Get III",
+    "title": "They Tear the Bill of Divorce",
     "text": "בני ארץ ישראל קורעין את הגט. בני בבל אין קורעין אותו.",
     "loi_id": "loi_passage__185",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel zerreißen den Get. Die Benei Bavel zerreißen ihn nicht.",
+    "page": "(Müller) p. 17, no. 13",
+    "keywords": [
+      {
+        "id": 403,
+        "value": "bill of divorce",
+        "order": "187.00000000000000000000"
+      },
+      {
+        "id": 409,
+        "value": "ḥilluf minhagim",
+        "order": "193.00000000000000000000"
+      },
+      {
+        "id": 410,
+        "value": "tearing the get",
+        "order": "194.00000000000000000000"
+      },
+      {
+        "id": 411,
+        "value": "proof of divorce",
+        "order": "195.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "186": {
     "id": 186,

@@ -92,6 +92,11 @@
         "id": 277,
         "value": "Otzar Ha-Geonim Beizah",
         "order": "53.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "Otzar Ha-Geonim Chagiga",
+        "order": "60.00000000000000000000"
       }
     ]
   },
@@ -604,6 +609,11 @@
         "id": 216,
         "value": "Ha-Ittur (Warsaw)",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 285,
+        "value": "Sefer ha-Ittur (Lemberg)",
+        "order": "61.00000000000000000000"
       }
     ]
   },
@@ -945,6 +955,23 @@
         "id": 282,
         "value": "Shibbolei ha-Leqeṭ ha-Shalem",
         "order": "58.00000000000000000000"
+      }
+    ]
+  },
+  "339": {
+    "id": 339,
+    "order": "62.00000000000000000000",
+    "name": "Yeshaya ben Meli (haZaken) Tarani",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__339",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 286,
+        "value": "Sefer ha-Makhria with Zer Zahav and Minkhat Yehudah",
+        "order": "62.00000000000000000000"
       }
     ]
   }

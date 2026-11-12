@@ -425,6 +425,11 @@
         "id": 303,
         "value": "Geonic/rishonic note on the prosbul in and outside the Land",
         "order": "46.00000000000000000000"
+      },
+      {
+        "id": 352,
+        "value": "Geonic notice on the formula of the get",
+        "order": "95.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -708,6 +713,11 @@
         "id": 187,
         "value": "Geonic Responsum on the Four Cubits Clause",
         "order": "27.00000000000000000000"
+      },
+      {
+        "id": 349,
+        "value": "Geonic notice on the bride as niddah",
+        "order": "92.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -883,6 +893,16 @@
         "id": 318,
         "value": "Responsum of Rav Natronai Gaon on fines and injuries outside the Land",
         "order": "61.00000000000000000000"
+      },
+      {
+        "id": 346,
+        "value": "Geonic responsum on an uncircumcised slave",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 348,
+        "value": "Geonic responsum on the ketubbah of an apostate wife",
+        "order": "91.00000000000000000000"
       }
     ],
     "publisher": "Klal uFrat",
@@ -1165,6 +1185,11 @@
         "id": 307,
         "value": "Responsum of Rav Ṣemaḥ bar Paltoy Gaon on terumah and ḥallah outside the Land",
         "order": "50.00000000000000000000"
+      },
+      {
+        "id": 351,
+        "value": "Report of the Differences between East and Land",
+        "order": "94.00000000000000000000"
       }
     ],
     "publisher": "Julius Sittenfeld",
@@ -1685,6 +1710,98 @@
         "id": 342,
         "value": "Geonic notice on the lulav and myrtle on the Sabbath",
         "order": "85.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "284": {
+    "id": 284,
+    "order": "60.00000000000000000000",
+    "label": "Otzar Ha-Geonim Chagiga",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__284",
+    "works": [
+      {
+        "id": 344,
+        "value": "Responsum of Rav Sherira Gaon on the neglect of tefillin",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "285": {
+    "id": 285,
+    "order": "61.00000000000000000000",
+    "label": "Sefer ha-Ittur (Lemberg)",
+    "editor": [
+      {
+        "id": 283,
+        "value": "Issac ben Abba Mari",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__285",
+    "works": [
+      {
+        "id": 345,
+        "value": "Responsum of Rav Hai Gaon on tefillin and the fear of ostentation",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "publisher": "D. B. Schrenzel",
+    "place": [
+      {
+        "id": 178,
+        "value": "Lviv",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "year": "1860"
+  },
+  "286": {
+    "id": 286,
+    "order": "62.00000000000000000000",
+    "label": "Sefer ha-Makhria with Zer Zahav and Minkhat Yehudah",
+    "editor": [
+      {
+        "id": 339,
+        "value": "Yeshaya ben Meli (haZaken) Tarani",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__286",
+    "works": [
+      {
+        "id": 347,
+        "value": "Geonic responsum on the ketubbah formula",
+        "order": "90.00000000000000000000"
+      }
+    ],
+    "publisher": "Chayim uVracha",
+    "place": [],
+    "year": "1976"
+  },
+  "287": {
+    "id": 287,
+    "order": "63.00000000000000000000",
+    "label": "Otzar ha-Geonim Yevamo",
+    "editor": [],
+    "loi_id": "loi_parallel__287",
+    "works": [
+      {
+        "id": 350,
+        "value": "Geonic notice on the yevamah",
+        "order": "93.00000000000000000000"
       }
     ],
     "publisher": "",
