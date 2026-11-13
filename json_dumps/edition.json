@@ -611,6 +611,11 @@
         "id": 317,
         "value": "Palestinian responsum on the fine for wounding",
         "order": "60.00000000000000000000"
+      },
+      {
+        "id": 365,
+        "value": "Rabbenu Ḥananel on the geonic permission to lease to gentiles",
+        "order": "108.00000000000000000000"
       }
     ],
     "publisher": "HaMedafis",
@@ -903,6 +908,16 @@
         "id": 348,
         "value": "Geonic responsum on the ketubbah of an apostate wife",
         "order": "91.00000000000000000000"
+      },
+      {
+        "id": 356,
+        "value": "Geonic notice on mourning before the festival",
+        "order": "99.00000000000000000000"
+      },
+      {
+        "id": 357,
+        "value": "Geonic notice on mourning for an infant",
+        "order": "100.00000000000000000000"
       }
     ],
     "publisher": "Klal uFrat",
@@ -1242,6 +1257,11 @@
         "id": 343,
         "value": "Geonic fragment citing a Palestinian teaching",
         "order": "86.00000000000000000000"
+      },
+      {
+        "id": 366,
+        "value": "Geonic text on the writing of Torah scrolls",
+        "order": "109.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -1401,6 +1421,11 @@
         "id": 337,
         "value": "Halakhot Pesuqot min ha-Geonim",
         "order": "80.00000000000000000000"
+      },
+      {
+        "id": 364,
+        "value": "Responsum of Rav Kohen Ṣedeq on the redemption of the firstborn",
+        "order": "107.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -1595,6 +1620,11 @@
         "id": 333,
         "value": "Responsum of Elijah ha-Kohen and Evyatar ha-Kohen, Palestinian geonim",
         "order": "76.00000000000000000000"
+      },
+      {
+        "id": 363,
+        "value": "Notice on the eve of the Ninth of Av in the Land of Israel",
+        "order": "106.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -1802,6 +1832,183 @@
         "id": 350,
         "value": "Geonic notice on the yevamah",
         "order": "93.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "288": {
+    "id": 288,
+    "order": "64.00000000000000000000",
+    "label": "Otzar Ha-Geonim Pesachim",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__288",
+    "works": [
+      {
+        "id": 353,
+        "value": "Geonic notice on the differences concerning forbidden fat",
+        "order": "96.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "289": {
+    "id": 289,
+    "order": "65.00000000000000000000",
+    "label": "Teshuvot Maharam bar Barukh",
+    "editor": [],
+    "loi_id": "loi_parallel__289",
+    "works": [
+      {
+        "id": 354,
+        "value": "Teshuvot Maharam (Meir of Rothenburg), citing Rav Natan of Africa",
+        "order": "97.00000000000000000000"
+      }
+    ],
+    "publisher": "https://www.sefaria.org/Teshuvot_Maharam%2C_Lemberg_Edition.193.1?lang=bi&with=About&lang2=en",
+    "place": [
+      {
+        "id": 178,
+        "value": "Lviv",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "year": "1860"
+  },
+  "290": {
+    "id": 290,
+    "order": "66.00000000000000000000",
+    "label": "Sefer ha-Manhig",
+    "editor": [
+      {
+        "id": 342,
+        "value": "Avraham ben Nosson",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__290",
+    "works": [
+      {
+        "id": 355,
+        "value": "Sefer ha-Manhig",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1970"
+  },
+  "291": {
+    "id": 291,
+    "order": "67.00000000000000000000",
+    "label": "Otzar ha-Geonim Addenda to Moed Katan",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__291",
+    "works": [
+      {
+        "id": 358,
+        "value": "Geonic notice on lamentation during the festival",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "292": {
+    "id": 292,
+    "order": "68.00000000000000000000",
+    "label": "Sha’arei Simḥah",
+    "editor": [],
+    "loi_id": "loi_parallel__292",
+    "works": [
+      {
+        "id": 359,
+        "value": "Sha’arei Simḥah",
+        "order": "102.00000000000000000000"
+      },
+      {
+        "id": 360,
+        "value": "Responsum of Rav Hai Gaon on the reuse of graves",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 361,
+        "value": "Responsum of Rav Natronai Gaon on burial",
+        "order": "104.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [
+      {
+        "id": 223,
+        "value": "Fürth",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "year": "1861"
+  },
+  "293": {
+    "id": 293,
+    "order": "69.00000000000000000000",
+    "label": "Otzar Ha-Geonim Taaanit",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__293",
+    "works": [
+      {
+        "id": 362,
+        "value": "Geonic notice on the eve of the Ninth of Av",
+        "order": "105.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
+  },
+  "294": {
+    "id": 294,
+    "order": "70.00000000000000000000",
+    "label": "Otzar ha-Geonim Sotah",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__294",
+    "works": [
+      {
+        "id": 367,
+        "value": "Geonic notice on the ink of Torah scrolls",
+        "order": "110.00000000000000000000"
       }
     ],
     "publisher": "",

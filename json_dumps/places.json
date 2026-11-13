@@ -109,6 +109,11 @@
         "id": 310,
         "value": "Maʿarava",
         "order": "55.00000000000000000000"
+      },
+      {
+        "id": 313,
+        "value": "Maʿarav",
+        "order": "58.00000000000000000000"
       }
     ],
     "edition": []
@@ -223,6 +228,11 @@
         "id": 280,
         "value": "Ereẓ Yisra’el bi-Teshuvot ha-Geonim",
         "order": "56.00000000000000000000"
+      },
+      {
+        "id": 290,
+        "value": "Sefer ha-Manhig",
+        "order": "66.00000000000000000000"
       }
     ]
   },
@@ -357,6 +367,16 @@
         "id": 84,
         "value": "Galil",
         "order": "20.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "Gush Ḥalav",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "Ḥamat",
+        "order": "57.00000000000000000000"
       }
     ],
     "edition": []
@@ -564,6 +584,11 @@
         "id": 285,
         "value": "Sefer ha-Ittur (Lemberg)",
         "order": "61.00000000000000000000"
+      },
+      {
+        "id": 289,
+        "value": "Teshuvot Maharam bar Barukh",
+        "order": "65.00000000000000000000"
       }
     ]
   },
@@ -755,8 +780,41 @@
         "id": 310,
         "value": "Maʿarava",
         "order": "55.00000000000000000000"
+      },
+      {
+        "id": 313,
+        "value": "Maʿarav",
+        "order": "58.00000000000000000000"
       }
     ],
+    "edition": []
+  },
+  "223": {
+    "id": 223,
+    "order": "32.00000000000000000000",
+    "name": "Fürth",
+    "geonames": "",
+    "loi_id": "loi_place__223",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 292,
+        "value": "Sha’arei Simḥah",
+        "order": "68.00000000000000000000"
+      }
+    ]
+  },
+  "224": {
+    "id": 224,
+    "order": "33.00000000000000000000",
+    "name": "Qairawan",
+    "geonames": "",
+    "loi_id": "loi_place__224",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
     "edition": []
   }
 }

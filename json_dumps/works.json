@@ -3206,5 +3206,403 @@
         "order": "12.00000000000000000000"
       }
     ]
+  },
+  "353": {
+    "id": 353,
+    "order": "96.00000000000000000000",
+    "title": "Geonic notice on the differences concerning forbidden fat",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__353",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 288,
+        "value": "Otzar Ha-Geonim Pesachim",
+        "order": "64.00000000000000000000"
+      }
+    ]
+  },
+  "354": {
+    "id": 354,
+    "order": "97.00000000000000000000",
+    "title": "Teshuvot Maharam (Meir of Rothenburg), citing Rav Natan of Africa",
+    "reference": "",
+    "author": [
+      {
+        "id": 213,
+        "value": "Meir von Rothenburg",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 340,
+        "value": "Rav Natan of Africa",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__354",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 289,
+        "value": "Teshuvot Maharam bar Barukh",
+        "order": "65.00000000000000000000"
+      }
+    ]
+  },
+  "355": {
+    "id": 355,
+    "order": "98.00000000000000000000",
+    "title": "Sefer ha-Manhig",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__355",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 290,
+        "value": "Sefer ha-Manhig",
+        "order": "66.00000000000000000000"
+      }
+    ]
+  },
+  "356": {
+    "id": 356,
+    "order": "99.00000000000000000000",
+    "title": "Geonic notice on mourning before the festival",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__356",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 219,
+        "value": "Sha’arei Ẓedeq, Teshuvot ha-Geonim",
+        "order": "27.00000000000000000000"
+      }
+    ]
+  },
+  "357": {
+    "id": 357,
+    "order": "100.00000000000000000000",
+    "title": "Geonic notice on mourning for an infant",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__357",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 219,
+        "value": "Sha’arei Ẓedeq, Teshuvot ha-Geonim",
+        "order": "27.00000000000000000000"
+      }
+    ]
+  },
+  "358": {
+    "id": 358,
+    "order": "101.00000000000000000000",
+    "title": "Geonic notice on lamentation during the festival",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__358",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 291,
+        "value": "Otzar ha-Geonim Addenda to Moed Katan",
+        "order": "67.00000000000000000000"
+      }
+    ]
+  },
+  "359": {
+    "id": 359,
+    "order": "102.00000000000000000000",
+    "title": "Sha’arei Simḥah",
+    "reference": "",
+    "author": [
+      {
+        "id": 343,
+        "value": "Isaac ibn Ghiyyat",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__359",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 292,
+        "value": "Sha’arei Simḥah",
+        "order": "68.00000000000000000000"
+      }
+    ]
+  },
+  "360": {
+    "id": 360,
+    "order": "103.00000000000000000000",
+    "title": "Responsum of Rav Hai Gaon on the reuse of graves",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__360",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 292,
+        "value": "Sha’arei Simḥah",
+        "order": "68.00000000000000000000"
+      }
+    ]
+  },
+  "361": {
+    "id": 361,
+    "order": "104.00000000000000000000",
+    "title": "Responsum of Rav Natronai Gaon on burial",
+    "reference": "",
+    "author": [
+      {
+        "id": 41,
+        "value": "Natronai bar Hilai",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__361",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 292,
+        "value": "Sha’arei Simḥah",
+        "order": "68.00000000000000000000"
+      }
+    ]
+  },
+  "362": {
+    "id": 362,
+    "order": "105.00000000000000000000",
+    "title": "Geonic notice on the eve of the Ninth of Av",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__362",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 293,
+        "value": "Otzar Ha-Geonim Taaanit",
+        "order": "69.00000000000000000000"
+      }
+    ]
+  },
+  "363": {
+    "id": 363,
+    "order": "106.00000000000000000000",
+    "title": "Notice on the eve of the Ninth of Av in the Land of Israel",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__363",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 278,
+        "value": "Sefer ha-Yishuv II",
+        "order": "54.00000000000000000000"
+      }
+    ]
+  },
+  "364": {
+    "id": 364,
+    "order": "107.00000000000000000000",
+    "title": "Responsum of Rav Kohen Ṣedeq on the redemption of the firstborn",
+    "reference": "",
+    "author": [
+      {
+        "id": 344,
+        "value": "Kohen Zedeq Gaon",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__364",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 270,
+        "value": "Halakhot Pesuqot min ha-Geonim",
+        "order": "46.00000000000000000000"
+      }
+    ]
+  },
+  "365": {
+    "id": 365,
+    "order": "108.00000000000000000000",
+    "title": "Rabbenu Ḥananel on the geonic permission to lease to gentiles",
+    "reference": "",
+    "author": [
+      {
+        "id": 345,
+        "value": "Ḥananel b. Ḥushiel",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [
+      {
+        "id": 224,
+        "value": "Qairawan",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_work__365",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 146,
+        "value": "Teshuvot haGeonim",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "366": {
+    "id": 366,
+    "order": "109.00000000000000000000",
+    "title": "Geonic text on the writing of Torah scrolls",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__366",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 263,
+        "value": "Ginzei Schechter II",
+        "order": "39.00000000000000000000"
+      }
+    ]
+  },
+  "367": {
+    "id": 367,
+    "order": "110.00000000000000000000",
+    "title": "Geonic notice on the ink of Torah scrolls",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__367",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 294,
+        "value": "Otzar ha-Geonim Sotah",
+        "order": "70.00000000000000000000"
+      }
+    ]
   }
 }

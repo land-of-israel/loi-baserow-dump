@@ -921,6 +921,116 @@
         "id": 185,
         "value": "They Tear the Bill of Divorce",
         "order": "156.00000000000000000000"
+      },
+      {
+        "id": 186,
+        "value": "Eight Days Belong to the Offering Alone",
+        "order": "157.00000000000000000000"
+      },
+      {
+        "id": 187,
+        "value": "Eighteen Defects or the Lung Alone",
+        "order": "158.00000000000000000000"
+      },
+      {
+        "id": 188,
+        "value": "Ḥelev de-Ayitra: Permitted in the Land, Forbidden in Bavel",
+        "order": "159.00000000000000000000"
+      },
+      {
+        "id": 189,
+        "value": "Butter of Gentiles: Three Grounds against One",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 191,
+        "value": "Wood Neither Forbids nor Permits: Bread Baked by Gentiles",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 193,
+        "value": "One Hour or Three Days before the Festival",
+        "order": "164.00000000000000000000"
+      },
+      {
+        "id": 194,
+        "value": "The Mourner Enters Only on the Sabbath",
+        "order": "165.00000000000000000000"
+      },
+      {
+        "id": 195,
+        "value": "Even a Day Old, He Is as a Full Bridegroom",
+        "order": "166.00000000000000000000"
+      },
+      {
+        "id": 196,
+        "value": "Opening before the Dead on the Festival",
+        "order": "167.00000000000000000000"
+      },
+      {
+        "id": 400,
+        "value": "They Lament before the Dead on the Festival",
+        "order": "167.50000000000000000000"
+      },
+      {
+        "id": 401,
+        "value": "Rending the Garment on the Festival",
+        "order": "167.66666666666665719276"
+      },
+      {
+        "id": 197,
+        "value": "The Meal before the Wedding Day Is Not of the Days of Feasting",
+        "order": "168.00000000000000000000"
+      },
+      {
+        "id": 198,
+        "value": "What They Do in the Land Is Not Lawful: Hai Gaon on Reused Graves",
+        "order": "169.00000000000000000000"
+      },
+      {
+        "id": 199,
+        "value": "Not All Lands Are Alike: Natronai Gaon on Burial Practice",
+        "order": "170.00000000000000000000"
+      },
+      {
+        "id": 200,
+        "value": "As Though a Corpse Lay before Them: The Last Meal before the Ninth",
+        "order": "171.00000000000000000000"
+      },
+      {
+        "id": 402,
+        "value": "In the Land They Do Not Eat the Evening Meal",
+        "order": "171.50000000000000000000"
+      },
+      {
+        "id": 201,
+        "value": "Twenty-Eight Pieces or Five Shekels: The Redemption of the Firstborn",
+        "order": "172.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "Three or Even One: The Redemption of the Second Tithe",
+        "order": "173.00000000000000000000"
+      },
+      {
+        "id": 203,
+        "value": "Even in the Land of Israel: Leasing to Gentiles",
+        "order": "174.00000000000000000000"
+      },
+      {
+        "id": 204,
+        "value": "A Difference in the Greeting of the Teacher",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 205,
+        "value": "Five Points of Leniency in Writing a Torah Scroll",
+        "order": "175.33333333333334280724"
+      },
+      {
+        "id": 403,
+        "value": "I Saw in the Land of Israel: Only with Proper Ink",
+        "order": "175.50000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -1538,6 +1648,71 @@
         "id": 185,
         "value": "They Tear the Bill of Divorce",
         "order": "156.00000000000000000000"
+      },
+      {
+        "id": 186,
+        "value": "Eight Days Belong to the Offering Alone",
+        "order": "157.00000000000000000000"
+      },
+      {
+        "id": 187,
+        "value": "Eighteen Defects or the Lung Alone",
+        "order": "158.00000000000000000000"
+      },
+      {
+        "id": 188,
+        "value": "Ḥelev de-Ayitra: Permitted in the Land, Forbidden in Bavel",
+        "order": "159.00000000000000000000"
+      },
+      {
+        "id": 189,
+        "value": "Butter of Gentiles: Three Grounds against One",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 191,
+        "value": "Wood Neither Forbids nor Permits: Bread Baked by Gentiles",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 194,
+        "value": "The Mourner Enters Only on the Sabbath",
+        "order": "165.00000000000000000000"
+      },
+      {
+        "id": 196,
+        "value": "Opening before the Dead on the Festival",
+        "order": "167.00000000000000000000"
+      },
+      {
+        "id": 400,
+        "value": "They Lament before the Dead on the Festival",
+        "order": "167.50000000000000000000"
+      },
+      {
+        "id": 401,
+        "value": "Rending the Garment on the Festival",
+        "order": "167.66666666666665719276"
+      },
+      {
+        "id": 199,
+        "value": "Not All Lands Are Alike: Natronai Gaon on Burial Practice",
+        "order": "170.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "Three or Even One: The Redemption of the Second Tithe",
+        "order": "173.00000000000000000000"
+      },
+      {
+        "id": 204,
+        "value": "A Difference in the Greeting of the Teacher",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 205,
+        "value": "Five Points of Leniency in Writing a Torah Scroll",
+        "order": "175.33333333333334280724"
       }
     ],
     "form_he": "בבל",
@@ -2005,6 +2180,11 @@
         "id": 20,
         "value": "Bavel Counts, Ifriqiya Does Not: Ranking Places by Their Academies",
         "order": "20.00000000000000000000"
+      },
+      {
+        "id": 190,
+        "value": "We Ban Whoever Eats It: A Later Reversal on Gentile Butter",
+        "order": "161.00000000000000000000"
       }
     ],
     "form_he": "אפריקא",
@@ -2596,6 +2776,31 @@
         "id": 398,
         "value": "Ḥatam Sofer we-Ed: A Report of the Differences",
         "order": "154.50000000000000000000"
+      },
+      {
+        "id": 191,
+        "value": "Wood Neither Forbids nor Permits: Bread Baked by Gentiles",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 192,
+        "value": "Beans and Locusts Cooked by a Gentile",
+        "order": "163.00000000000000000000"
+      },
+      {
+        "id": 193,
+        "value": "One Hour or Three Days before the Festival",
+        "order": "164.00000000000000000000"
+      },
+      {
+        "id": 195,
+        "value": "Even a Day Old, He Is as a Full Bridegroom",
+        "order": "166.00000000000000000000"
+      },
+      {
+        "id": 201,
+        "value": "Twenty-Eight Pieces or Five Shekels: The Redemption of the Firstborn",
+        "order": "172.00000000000000000000"
       }
     ],
     "form_he": "מזרח",
@@ -2781,6 +2986,106 @@
         "order": "31.00000000000000000000"
       }
     ],
+    "commentary": ""
+  },
+  "311": {
+    "id": 311,
+    "order": "56.00000000000000000000",
+    "label": "Gush Ḥalav",
+    "loi_id": "loi_parallel__311",
+    "passages": [
+      {
+        "id": 190,
+        "value": "We Ban Whoever Eats It: A Later Reversal on Gentile Butter",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "form_he": "גוש חלב",
+    "source": [],
+    "gloss_en": "Gush Ḥalav (Gischala)",
+    "referent": [
+      {
+        "id": 72,
+        "value": "Galilee",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "312": {
+    "id": 312,
+    "order": "57.00000000000000000000",
+    "label": "Ḥamat",
+    "loi_id": "loi_parallel__312",
+    "passages": [
+      {
+        "id": 190,
+        "value": "We Ban Whoever Eats It: A Later Reversal on Gentile Butter",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "form_he": "חמת",
+    "source": [],
+    "gloss_en": "Ḥamat (near Tiberias)",
+    "referent": [
+      {
+        "id": 72,
+        "value": "Galilee",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "313": {
+    "id": 313,
+    "order": "58.00000000000000000000",
+    "label": "Maʿarav",
+    "loi_id": "loi_parallel__313",
+    "passages": [
+      {
+        "id": 191,
+        "value": "Wood Neither Forbids nor Permits: Bread Baked by Gentiles",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 192,
+        "value": "Beans and Locusts Cooked by a Gentile",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "form_he": "מערב",
+    "source": [],
+    "gloss_en": "the West",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 222,
+        "value": "Maghreb",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "314": {
+    "id": 314,
+    "order": "59.00000000000000000000",
+    "label": "Ereẓ Galutam",
+    "loi_id": "loi_parallel__314",
+    "passages": [
+      {
+        "id": 200,
+        "value": "As Though a Corpse Lay before Them: The Last Meal before the Ninth",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "form_he": "ארץ גלותם",
+    "source": [],
+    "gloss_en": "the land of their exile",
+    "referent": [],
     "commentary": ""
   }
 }

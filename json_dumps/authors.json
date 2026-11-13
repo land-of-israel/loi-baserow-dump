@@ -97,6 +97,26 @@
         "id": 284,
         "value": "Otzar Ha-Geonim Chagiga",
         "order": "60.00000000000000000000"
+      },
+      {
+        "id": 288,
+        "value": "Otzar Ha-Geonim Pesachim",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 291,
+        "value": "Otzar ha-Geonim Addenda to Moed Katan",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 293,
+        "value": "Otzar Ha-Geonim Taaanit",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 294,
+        "value": "Otzar ha-Geonim Sotah",
+        "order": "70.00000000000000000000"
       }
     ]
   },
@@ -974,5 +994,77 @@
         "order": "62.00000000000000000000"
       }
     ]
+  },
+  "340": {
+    "id": 340,
+    "order": "63.00000000000000000000",
+    "name": "Rav Natan of Africa",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__340",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "341": {
+    "id": 341,
+    "order": "64.00000000000000000000",
+    "name": "Avraham ben Nosson",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__341",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "342": {
+    "id": 342,
+    "order": "65.00000000000000000000",
+    "name": "Avraham ben Nosson",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__342",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 290,
+        "value": "Sefer ha-Manhig",
+        "order": "66.00000000000000000000"
+      }
+    ]
+  },
+  "343": {
+    "id": 343,
+    "order": "66.00000000000000000000",
+    "name": "Isaac ibn Ghiyyat",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__343",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "344": {
+    "id": 344,
+    "order": "67.00000000000000000000",
+    "name": "Kohen Zedeq Gaon",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__344",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
+  },
+  "345": {
+    "id": 345,
+    "order": "68.00000000000000000000",
+    "name": "Ḥananel b. Ḥushiel",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__345",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": []
   }
 }

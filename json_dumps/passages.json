@@ -10309,11 +10309,6 @@
         "id": 408,
         "value": "formula",
         "order": "192.00000000000000000000"
-      },
-      {
-        "id": 409,
-        "value": "ḥilluf minhagim",
-        "order": "193.00000000000000000000"
       }
     ],
     "spatial_coding": [
@@ -10371,11 +10366,6 @@
         "id": 408,
         "value": "formula",
         "order": "192.00000000000000000000"
-      },
-      {
-        "id": 409,
-        "value": "ḥilluf minhagim",
-        "order": "193.00000000000000000000"
       }
     ],
     "spatial_coding": [
@@ -10420,14 +10410,14 @@
     "page": "(Müller) p. 17, no. 13",
     "keywords": [
       {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
         "id": 403,
         "value": "bill of divorce",
         "order": "187.00000000000000000000"
-      },
-      {
-        "id": 409,
-        "value": "ḥilluf minhagim",
-        "order": "193.00000000000000000000"
       },
       {
         "id": 410,
@@ -10469,362 +10459,1643 @@
   "186": {
     "id": 186,
     "order": "157.00000000000000000000",
-    "title": "Animal age at slaughter",
+    "title": "Eight Days Belong to the Offering Alone",
     "text": "בשחימה. בני בבל אין שוחטין בהמה שנולדה עד שמונה ימים. בני ארץ ישראל\nשוחטין אותה אפילו בן יומו. שאין בן שמונה אלא לקרבן.",
     "loi_id": "loi_passage__186",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 150,
+        "value": "Leviticus 22:27",
+        "order": "54.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zum Schlachten: Die Benei Bavel schlachten kein Tier, das geboren wurde, bis zu acht Tagen. Die Benei Ereẓ Israel schlachten es sogar an seinem ersten Tag, denn der Achttägige ist nur beim Opfer [erfordert] (vgl. Lev 22,27).",
+    "page": "(Müller) p. 82",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 412,
+        "value": "sheḥitah",
+        "order": "196.00000000000000000000"
+      },
+      {
+        "id": 413,
+        "value": "eighth day",
+        "order": "197.00000000000000000000"
+      },
+      {
+        "id": 414,
+        "value": "offerings",
+        "order": "198.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "187": {
     "id": 187,
     "order": "158.00000000000000000000",
-    "title": "Defects in the animal",
+    "title": "Eighteen Defects or the Lung Alone",
     "text": "בני ארץ ישראל בודקין בי\"ח טריפות. בני בבל אין בודקין אלא בריאה בלבד.",
     "loi_id": "loi_passage__187",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 151,
+        "value": "mChullin 3:1",
+        "order": "55.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel prüfen auf achtzehn Ṭerefot. Die Benei Bavel prüfen nur die Lunge allein (vgl. mḤullin 3,1).",
+    "page": "(Müller) p. 19, no. 18",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 412,
+        "value": "sheḥitah",
+        "order": "196.00000000000000000000"
+      },
+      {
+        "id": 415,
+        "value": "ṭerefot",
+        "order": "199.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "188": {
     "id": 188,
     "order": "159.00000000000000000000",
-    "title": "Grease (Chevel)",
+    "title": "Ḥelev de-Ayitra: Permitted in the Land, Forbidden in Bavel",
     "text": "באכילת חלב. בני ארץ ישראל מתירין חלב דאייתרא. בני בבל אוסרים אותו.",
     "loi_id": "loi_passage__188",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 152,
+        "value": "bChullin 49b–50a",
+        "order": "56.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 353,
+        "value": "Geonic notice on the differences concerning forbidden fat",
+        "order": "96.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zum Verzehr von Fett: Die Benei Ereẓ Israel erlauben ḥelev de-ayitra. Die Benei Bavel verbieten es (vgl. bḤullin 49b–50a).",
+    "page": "no. 174",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 412,
+        "value": "sheḥitah",
+        "order": "196.00000000000000000000"
+      },
+      {
+        "id": 416,
+        "value": "ḥelev",
+        "order": "200.00000000000000000000"
+      },
+      {
+        "id": 417,
+        "value": "forbidden fats",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "189": {
     "id": 189,
     "order": "160.00000000000000000000",
-    "title": "Butter",
+    "title": "Butter of Gentiles: Three Grounds against One",
     "text": "בחמאת עכו\"\"ם. בני ארץ ישראל אוסרין חמאה של גויים מפני שלשה דברים.\nמפני שחלבו חלב גוי ואין ישראל רואהו, ומשום בישולי גוים, ומשום חלב טמא. בני\nבבל מתירין אותו שאומרים שאינו מקבל טומאה.",
     "loi_id": "loi_passage__189",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 153,
+        "value": "bAvodah Zarah 35b",
+        "order": "57.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Butter von Nichtjuden: Die Benei Ereẓ Israel verbieten die Butter der Nichtjuden wegen dreier Dinge: weil ein Nichtjude die Milch gemolken hat und kein Jude es sah, und wegen der von Nichtjuden gekochten Speisen (bishulei goyim), und wegen Milch eines unreinen [Tieres]. Die Benei Bavel erlauben sie, denn sie sagen, dass sie keine Unreinheit annimmt (vgl. bʿAvodah Zarah 35b).",
+    "page": "(Müller) p. 16, no. 10",
+    "keywords": [
+      {
+        "id": 210,
+        "value": "ritual purity",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 418,
+        "value": "butter of gentiles",
+        "order": "202.00000000000000000000"
+      },
+      {
+        "id": 419,
+        "value": "bishulei goyim",
+        "order": "203.00000000000000000000"
+      },
+      {
+        "id": 420,
+        "value": "unclean milk",
+        "order": "204.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "190": {
     "id": 190,
     "order": "161.00000000000000000000",
-    "title": "Butter II",
+    "title": "We Ban Whoever Eats It: A Later Reversal on Gentile Butter",
     "text": "ועל החמאה של עכו\"ם ... בתשובות הגאונים כתוב להיתר. אמנם בתשובות\nהגאונים כתובה תשובת רב נתן מאפריקה : עד עכשיו היינו נוהגים להתיר, אבל\nמשהתחילו להביאם מחמת ומגוש חלב ומזייפין אותן בחלב, אנו מנדין כל מי שיאכל\nאותן.",
     "loi_id": "loi_passage__190",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 354,
+        "value": "Teshuvot Maharam (Meir of Rothenburg), citing Rav Natan of Africa",
+        "order": "97.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und über die Butter der Nichtjuden … in den Responsen der Geonim steht sie als erlaubt. Jedoch steht in den Responsen der Geonim die Antwort des Rav Natan aus Afrika: Bis jetzt pflegten wir zu erlauben; aber seit man sie aus [Ḥamat und Gush Ḥalav?] zu bringen begann und sie mit Milch verfälscht, belegen wir jeden mit dem Bann, der sie isst.",
+    "page": "no. 193",
+    "keywords": [
+      {
+        "id": 418,
+        "value": "butter of gentiles",
+        "order": "202.00000000000000000000"
+      },
+      {
+        "id": 421,
+        "value": "adulteration",
+        "order": "205.00000000000000000000"
+      },
+      {
+        "id": 422,
+        "value": "ban",
+        "order": "206.00000000000000000000"
+      },
+      {
+        "id": 423,
+        "value": "Galilean provenance",
+        "order": "207.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 123,
+        "value": "Afriqa",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "Gush Ḥalav",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "Ḥamat",
+        "order": "57.00000000000000000000"
+      }
+    ]
   },
   "191": {
     "id": 191,
     "order": "162.00000000000000000000",
-    "title": "Bread from the Kutharians (Samaritans)",
+    "title": "Wood Neither Forbids nor Permits: Bread Baked by Gentiles",
     "text": "אפיית כותי ובישולו. ובמחלוקת בני בבל וארץ ישראל : אנשי מזרח אוסרין פת\nשלהם שאפה כותי ואוכלים פת כותי ובלבד שיהא שם ישראל משליך עץ בתנור. ואנשי\nמערב אוסרים אותה בעץ, שאין עץ לא אוסר ולא מתיר. ואימתי היא מותרת, במקום שאין\nדבר לאכול ועושה כך שלשה ימים שלא טעם כלום, אז התירוהו לו מפני חיי נפש,\nובלבד מן הפלטר שלא מכר בשר מימיו בחנותו ובכך מותרת הפת.",
     "loi_id": "loi_passage__191",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 154,
+        "value": "bAvodah Zarah 38b",
+        "order": "58.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 355,
+        "value": "Sefer ha-Manhig",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zum Backen eines Kuthäers und seinem Kochen. Und im Streit der Benei Bavel und Ereẓ Israel: Die Anshei Mizraḥ verbieten ihr Brot, das ein Kuthäer gebacken hat, und essen Kuthäerbrot, sofern dort ein Jude ist, der ein Holz in den Ofen wirft (vgl. bʿAvodah Zarah 38b). Und die Anshei Maʿarav verbieten es auch beim Holz, denn Holz verbietet nicht und erlaubt nicht. Und wann ist es erlaubt? An einem Ort, wo nichts zu essen ist, und er tut so drei Tage, dass er nichts gekostet hat — dann haben sie es ihm erlaubt wegen der Lebensgefahr, und zwar nur vom Palṭer, der niemals Fleisch in seinem Laden verkauft hat; und damit ist das Brot erlaubt.",
+    "page": "157",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 424,
+        "value": "pat akkum",
+        "order": "208.00000000000000000000"
+      },
+      {
+        "id": 425,
+        "value": "danger to life",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 313,
+        "value": "Maʿarav",
+        "order": "58.00000000000000000000"
+      }
+    ]
   },
   "192": {
     "id": 192,
     "order": "163.00000000000000000000",
-    "title": "Kutharian locusts",
+    "title": "Beans and Locusts Cooked by a Gentile",
     "text": "אנשי מזרח מתירין פולין ששלקן כותי, וכן חגבים. ואנשי מערב אוסרין מפני\nשמערבין שלוקין של בשר בשלוקין של פירות .",
     "loi_id": "loi_passage__192",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 355,
+        "value": "Sefer ha-Manhig",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ erlauben Bohnen, die ein Kuthäer abgekocht hat, und ebenso Heuschrecken. Und die Anshei Maʿarav verbieten [sie], weil man Abgekochtes von Fleisch mit Abgekochtem von Feldfrüchten vermischt.",
+    "page": "157",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 419,
+        "value": "bishulei goyim",
+        "order": "203.00000000000000000000"
+      },
+      {
+        "id": 427,
+        "value": "locusts",
+        "order": "211.00000000000000000000"
+      },
+      {
+        "id": 428,
+        "value": "mixing in vessels",
+        "order": "212.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 313,
+        "value": "Maʿarav",
+        "order": "58.00000000000000000000"
+      }
+    ]
   },
   "193": {
     "id": 193,
     "order": "164.00000000000000000000",
-    "title": "Duty to mourn",
+    "title": "One Hour or Three Days before the Festival",
     "text": "אנשי מזרח פוטרין את האבל לפני הרגל אפילו שעה אחת. ובני ארץ ישראל איגו\nנפטר עד שיהיו לו שלשה ימים לפני הרגל.",
     "loi_id": "loi_passage__193",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 155,
+        "value": "mMoed Katan 3:5",
+        "order": "59.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 356,
+        "value": "Geonic notice on mourning before the festival",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ entbinden den Trauernden vor dem Fest, auch wenn es nur eine Stunde ist. Und die Benei Ereẓ Israel: Er wird nicht entbunden, bis er drei Tage vor dem Fest hat (vgl. mMoʿed Qaṭan 3,5).",
+    "page": "III, Gate 4, no. 46 (p. 54)",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 429,
+        "value": "mourning",
+        "order": "213.00000000000000000000"
+      },
+      {
+        "id": 430,
+        "value": "festival annuls mourning",
+        "order": "214.00000000000000000000"
+      },
+      {
+        "id": 431,
+        "value": "three days",
+        "order": "215.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "194": {
     "id": 194,
     "order": "165.00000000000000000000",
-    "title": "Entrance for mourners at the synagogue",
+    "title": "The Mourner Enters Only on the Sabbath",
     "text": "בני ארץ ישראל אין מכניסין את האבל בבית הכנסת אלא בשבת בלבד. בני בבל\nמכניסין אותו בכל יום בבית הכנסת .",
     "loi_id": "loi_passage__194",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel bringen den Trauernden nur am Schabbat in die Synagoge. Die Benei Bavel bringen ihn an jedem Tag in die Synagoge.",
+    "page": "(Müller) p. 17, no. 14",
+    "keywords": [
+      {
+        "id": 223,
+        "value": "synagogue",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 429,
+        "value": "mourning",
+        "order": "213.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "195": {
     "id": 195,
     "order": "166.00000000000000000000",
-    "title": "Mourning the loss of a newborn",
+    "title": "Even a Day Old, He Is as a Full Bridegroom",
     "text": "אנשי מזרח אין מתאבלין על הולד עד שימלאו לו שלשים יום. ובני ארץ ישראל\nאפילו הוא בן יומו הרי הוא כחתן שלם.",
     "loi_id": "loi_passage__195",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 156,
+        "value": "bShabbat 135b",
+        "order": "60.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 357,
+        "value": "Geonic notice on mourning for an infant",
+        "order": "100.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Anshei Mizraḥ trauern nicht um das Kind, bis ihm dreißig Tage voll sind. Und die Benei Ereẓ Israel: Auch wenn es einen Tag alt ist, so ist es wie ein vollständiger [Toter?] (vgl. bSchabbat 135b).",
+    "page": "III, Gate 4, no. 46 (p. 54)",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 429,
+        "value": "mourning",
+        "order": "213.00000000000000000000"
+      },
+      {
+        "id": 432,
+        "value": "infant",
+        "order": "216.00000000000000000000"
+      },
+      {
+        "id": 433,
+        "value": "ben qayyama",
+        "order": "217.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "196": {
     "id": 196,
     "order": "167.00000000000000000000",
-    "title": "Customs for the deceased",
-    "text": "בני ארץ ישראל פותחין לפני המת במועד. בני בבל אין פותחין.\nבני ארץ ישראל סופדין לפני המת במועד. בני בבל אין סופדין.\nבני ארץ ישראל קורעין במועד. בני בבל אין קורעין.",
+    "title": "Opening before the Dead on the Festival",
+    "text": "בני ארץ ישראל פותחין לפני המת במועד. בני בבל אין פותחין.  \n\n&nbsp;",
     "loi_id": "loi_passage__196",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 157,
+        "value": "mMoed Katan 3:7–9",
+        "order": "61.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel öffnen [stimmen an?] vor dem Toten am Fest. Die Benei Bavel öffnen nicht (vgl. mMoʿed Qaṭan 3,7–9).",
+    "page": "(Müller) p. 17, no. 12",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 363,
+        "value": "ḥol ha-moʿed",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 429,
+        "value": "mourning",
+        "order": "213.00000000000000000000"
+      },
+      {
+        "id": 434,
+        "value": "lamentation",
+        "order": "218.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "400": {
+    "id": 400,
+    "order": "167.50000000000000000000",
+    "title": "They Lament before the Dead on the Festival",
+    "text": "בני ארץ ישראל סופדין לפני המת במועד. בני בבל אין סופדין",
+    "loi_id": "loi_passage__400",
+    "translation": "",
+    "parallel_text": [
+      {
+        "id": 158,
+        "value": "mMoed Katan 3:8–9",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 358,
+        "value": "Geonic notice on lamentation during the festival",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel halten die Totenklage vor dem Toten am Fest. Die Benei Bavel halten keine Totenklage (vgl. mMoʿed Qaṭan 3,8–9).",
+    "page": "",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 363,
+        "value": "ḥol ha-moʿed",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 429,
+        "value": "mourning",
+        "order": "213.00000000000000000000"
+      },
+      {
+        "id": 434,
+        "value": "lamentation",
+        "order": "218.00000000000000000000"
+      },
+      {
+        "id": 435,
+        "value": "funeral rites",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "401": {
+    "id": 401,
+    "order": "167.66666666666665719276",
+    "title": "Rending the Garment on the Festival",
+    "text": "בני ארץ ישראל קורעין במועד. בני בבל אין קורעין.",
+    "loi_id": "loi_passage__401",
+    "translation": "",
+    "parallel_text": [
+      {
+        "id": 157,
+        "value": "mMoed Katan 3:7–9",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Die Benei Ereẓ Israel zerreißen [die Kleider] am Fest. Die Benei Bavel zerreißen nicht (vgl. mMoʿed Qaṭan 3,7).",
+    "page": "(Müller) p. 17, no. 13",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 363,
+        "value": "ḥol ha-moʿed",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 429,
+        "value": "mourning",
+        "order": "213.00000000000000000000"
+      },
+      {
+        "id": 436,
+        "value": "qeriʿah",
+        "order": "220.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "197": {
     "id": 197,
     "order": "168.00000000000000000000",
-    "title": "Wedding and mourning period",
+    "title": "The Meal before the Wedding Day Is Not of the Days of Feasting",
     "text": "ולפי מנהג ארץ ישראל יש שקובעין סעודה קודם ליום הנישואין ואינו מכלל\nימי המשתה -- --. הלכך אם מנהג ארץ ישראל נוהגין ומת לו מת ... כיון שאותה סעודה\nלאו מכלל ימי המשתה היא אנו רואין שנוהג ימי אבילות ברישא ואחר כך ימי שמחתו.",
     "loi_id": "loi_passage__197",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 159,
+        "value": "bKetubot 3b–4a",
+        "order": "63.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 359,
+        "value": "Sha’arei Simḥah",
+        "order": "102.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und nach dem Brauch von Ereẓ Israel gibt es solche, die ein Mahl vor dem Hochzeitstag ansetzen, und es gehört nicht zu den Tagen des Hochzeitsmahls … Darum: Wenn sie nach dem Brauch von Ereẓ Israel verfahren und ihm ein Toter zufällt …, so sehen wir, da jenes Mahl nicht zu den Tagen des Hochzeitsmahls gehört, dass er zuerst die Trauertage hält und danach die Tage seiner Freude (vgl. bKetubbot 3b–4a).",
+    "page": "I, no. 55",
+    "keywords": [
+      {
+        "id": 381,
+        "value": "wedding day",
+        "order": "165.00000000000000000000"
+      },
+      {
+        "id": 429,
+        "value": "mourning",
+        "order": "213.00000000000000000000"
+      },
+      {
+        "id": 437,
+        "value": "seven days of feasting",
+        "order": "221.00000000000000000000"
+      },
+      {
+        "id": 438,
+        "value": "minhag Ereẓ Yisra'el",
+        "order": "222.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "198": {
     "id": 198,
     "order": "169.00000000000000000000",
-    "title": "Reusing graves",
+    "title": "What They Do in the Land Is Not Lawful: Hai Gaon on Reused Graves",
     "text": "בקבורה. ונשאל רבינו האיי ז\"ל: הני מערות שבארץ ישראל ויש בהן כוכין\nשמכניסין מתים לשם ובכל עת שהם רוצים להכניס מתים מעבירים עצמות אותן מתים\nומניחים אותן בגומות שבמערות... שרי למעבד הכי או לא ? וכי בית הקברות שנתמלא\nואין להם מקום לקבור, ויש קברים ישנים, חופרין אותן הקברים ומכניסין את העצמות\nלצד אחר וקוברין בהם -- מאן דעביד הכי איכא עליה מידי או לא ? -- והשיב: הכין חזי\nלנא דהא דעבדין בארץ ישראל שלא כדין הוא, ולא שרי מן שמיא למיעבד הכין.",
     "loi_id": "loi_passage__198",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 360,
+        "value": "Responsum of Rav Hai Gaon on the reuse of graves",
+        "order": "103.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Bestattung. Und es wurde unser Lehrer Hai seligen Andenkens gefragt: Diese Höhlen in Ereẓ Israel, in denen Kokhin sind, in die man Tote hineinbringt, und jedes Mal, wenn sie Tote hineinbringen wollen, schaffen sie die Gebeine jener Toten fort und legen sie in Gruben in den Höhlen … Ist es erlaubt, so zu tun, oder nicht? Und ebenso: Ein Friedhof, der voll geworden ist und sie haben keinen Ort zu begraben, und es sind alte Gräber da — man gräbt jene Gräber auf und bringt die Gebeine zur anderen Seite und begräbt in ihnen: Liegt dem, der so tut, etwas auf oder nicht?\n\nUnd er antwortete: So sehen wir es, dass das, was sie in Ereẓ Israel tun, nicht rechtens ist, und es ist vom Himmel nicht erlaubt, so zu tun.",
+    "page": "I, no. 72",
+    "keywords": [
+      {
+        "id": 439,
+        "value": "burial",
+        "order": "223.00000000000000000000"
+      },
+      {
+        "id": 440,
+        "value": "secondary burial",
+        "order": "224.00000000000000000000"
+      },
+      {
+        "id": 441,
+        "value": "reuse of graves",
+        "order": "225.00000000000000000000"
+      },
+      {
+        "id": 442,
+        "value": "Palestinian practice condemned",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "199": {
     "id": 199,
     "order": "170.00000000000000000000",
-    "title": "The correct way of burial in Israel",
+    "title": "Not All Lands Are Alike: Natronai Gaon on Burial Practice",
     "text": "שאלו ראשונינו למר רב נטרונאי [איזו היא דרך ישרה בקבורה], אם להטיל\nבכוך ולהניח לוח מלמעלה מן הכוך שלא יגע בפניו עפר וטיט, או כשם שעושין שנותנין\nעפר על כולו --. והשיב: המת העני מה חושש ומה איכפת ליה, אלא אף-על-פי-כן\nלהטיל טיט בפניו יש בזיון בדבר ואין ראוי לעשות כן. ולא כל הארצות שוות: מקום\nברד גדול, כמות ארץ ישראל, מכניסין אותו לכוך ואין נותנין עליו עפר כל עיקר,\nשסומכין שיש ברד שם ומתייבש המת ואינו מתליע. אבל בבבל שאין ברד קוברין אותו\nבארון ונותנין עפר על פניו ועל עיניו.",
     "loi_id": "loi_passage__199",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 361,
+        "value": "Responsum of Rav Natronai Gaon on burial",
+        "order": "104.00000000000000000000"
+      }
+    ],
+    "german_translation": "Unsere Früheren fragten Mar Rav Natronai [was der rechte Weg bei der Bestattung sei]: ob man [ihn] in einen Kokh legt und eine Platte oben über den Kokh legt, damit Erde und Lehm sein Angesicht nicht berühren, oder wie man [sonst] tut, dass man Erde über ihn ganz gibt.\n\nUnd er antwortete: Der arme Tote — was kümmert es ihn und was macht es ihm aus? Doch gleichwohl: Lehm auf sein Angesicht zu werfen, darin liegt eine Entwürdigung, und es ziemt sich nicht, so zu tun. Und nicht alle Länder sind gleich: Ein Ort von vielem [ברד ?], wie Ereẓ Israel ist, bringt ihn in einen Kokh und gibt überhaupt keine Erde auf ihn, denn sie verlassen sich darauf, dass dort [ברד] ist und der Tote austrocknet und nicht verwest. Aber in Bavel, wo kein [ברד] ist, begräbt man ihn in einem Sarg und gibt Erde auf sein Angesicht und auf seine Augen.",
+    "page": "I, no. 44",
+    "keywords": [
+      {
+        "id": 439,
+        "value": "burial",
+        "order": "223.00000000000000000000"
+      },
+      {
+        "id": 443,
+        "value": "kokh",
+        "order": "227.00000000000000000000"
+      },
+      {
+        "id": 444,
+        "value": "not all lands are alike",
+        "order": "228.00000000000000000000"
+      },
+      {
+        "id": 445,
+        "value": "dishonour of the dead",
+        "order": "229.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "200": {
     "id": 200,
     "order": "171.00000000000000000000",
-    "title": "Mourning Tisha beAw",
-    "text": "באבילות תשעה באב. וכתוב בתשובות: כל תלמידי חכמים שבארץ ישראל\nנוהגים בערב תשעה באב בסעודה המפסקת שלא להסב, אלא כל אחד יושב לבדו, וכל\nאחד מברך לעצמו, ואין מזמנין בברכת המזון, לפי שדומה להם כמי שמתו מוטל לפניו.\nוכן עושין תלמידי חכמים וותיקין בכל ארץ גלותם .\nאמרו שבארץ ישראל לא יאכלו סעודת הערב בשמיני בסוף היום.",
+    "title": "As Though a Corpse Lay before Them: The Last Meal before the Ninth",
+    "text": "באבילות תשעה באב. וכתוב בתשובות: כל תלמידי חכמים שבארץ ישראל  \nנוהגים בערב תשעה באב בסעודה המפסקת שלא להסב, אלא כל אחד יושב לבדו, וכל  \nאחד מברך לעצמו, ואין מזמנין בברכת המזון, לפי שדומה להם כמי שמתו מוטל לפניו.  \nוכן עושין תלמידי חכמים וותיקין בכל ארץ גלותם .",
     "loi_id": "loi_passage__200",
+    "translation": "",
+    "parallel_text": [
+      {
+        "id": 160,
+        "value": "mBerakhot 3:1",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 362,
+        "value": "Geonic notice on the eve of the Ninth of Av",
+        "order": "105.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Trauer des Neunten Aw. Und es steht in den Responsen: Alle Gelehrten in Ereẓ Israel halten es am Vorabend des Neunten Aw bei der abschließenden Mahlzeit so, nicht zu lagern, sondern ein jeder sitzt für sich allein, und ein jeder segnet für sich, und man hält kein Zimmun beim Tischsegen, weil es ihnen ist wie einem, dem sein Toter vor ihm liegt (vgl. mBerakhot 3,1). Und so tun die gewissenhaften Gelehrten (watiqin) in allen Ländern ihrer Verbannung.",
+    "page": "no. 108",
+    "keywords": [
+      {
+        "id": 310,
+        "value": "Ninth of Av",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 340,
+        "value": "zimmun",
+        "order": "124.00000000000000000000"
+      },
+      {
+        "id": 446,
+        "value": "seʿudah mafseqet",
+        "order": "230.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 314,
+        "value": "Ereẓ Galutam",
+        "order": "59.00000000000000000000"
+      }
+    ]
+  },
+  "402": {
+    "id": 402,
+    "order": "171.50000000000000000000",
+    "title": "In the Land They Do Not Eat the Evening Meal",
+    "text": "אמרו שבארץ ישראל לא יאכלו סעודת הערב בשמיני בסוף היום.",
+    "loi_id": "loi_passage__402",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 363,
+        "value": "Notice on the eve of the Ninth of Av in the Land of Israel",
+        "order": "106.00000000000000000000"
+      }
+    ],
+    "german_translation": "Sie sagten, dass man in Ereẓ Israel das Abendmahl am achten, am Ende des Tages, nicht isst.",
+    "page": "18",
+    "keywords": [
+      {
+        "id": 310,
+        "value": "Ninth of Av",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 340,
+        "value": "zimmun",
+        "order": "124.00000000000000000000"
+      },
+      {
+        "id": 446,
+        "value": "seʿudah mafseqet",
+        "order": "230.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "201": {
     "id": 201,
     "order": "172.00000000000000000000",
-    "title": "Pdjon haBen",
+    "title": "Twenty-Eight Pieces or Five Shekels: The Redemption of the Firstborn",
     "text": "בפדיון בכור. אנשי מזרח פוטרין את הבכור בשמונה ועשרים כסף וחצי דאנקי.\nובני ארץ ישראל בחמש שקלים, שהן שבעה כספים מתשמישי המלכות.",
     "loi_id": "loi_passage__201",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 347,
+        "value": "Numbers 18:16",
+        "order": "162.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 364,
+        "value": "Responsum of Rav Kohen Ṣedeq on the redemption of the firstborn",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Auslösung des Erstgeborenen: Die Anshei Mizraḥ lösen den Erstgeborenen aus mit achtundzwanzig Silberstücken und einem halben Danqa. Und die Benei Ereẓ Israel mit fünf Schekeln (Num 18,16), das sind sieben Silberstücke von der umlaufenden Währung.",
+    "page": "no. 58 (p. 35)",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 447,
+        "value": "redemption of the firstborn",
+        "order": "231.00000000000000000000"
+      },
+      {
+        "id": 448,
+        "value": "pidyon ha-ben",
+        "order": "232.00000000000000000000"
+      },
+      {
+        "id": 449,
+        "value": "five shekels",
+        "order": "233.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Mizraḥ",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "202": {
     "id": 202,
     "order": "173.00000000000000000000",
-    "title": "Tithing",
+    "title": "Three or Even One: The Redemption of the Second Tithe",
     "text": "במעשר שני ונטע רבעי. בני בבל מעשר שני ונטע רבעי אין פודין אותו אלא\nבשלשה, בני ארץ ישראל פודין אפילו באחד.\n[נוסחה הפוכה]: אנשי מזרח פודין מעשר שני ונטע רבעי אפילו באחד,\nובני ארץ ישראל אין פודין אלא בשלשה.",
     "loi_id": "loi_passage__202",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 161,
+        "value": "mSanhedrin 1:3",
+        "order": "65.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zum zweiten Zehnten und zum Vierjahrespflanzgut: Die Benei Bavel lösen den zweiten Zehnten und das Vierjahrespflanzgut nur vor dreien aus; die Benei Ereẓ Israel lösen sogar vor einem aus.\n\n[Umgekehrte Fassung:] Die Anshei Mizraḥ lösen den zweiten Zehnten und das Vierjahrespflanzgut sogar vor einem aus; und die Benei Ereẓ Israel lösen nur vor dreien aus (vgl. mSanhedrin 1,3).",
+    "page": "(Müller) p. 25, no. 26; p. 26",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 450,
+        "value": "maʿaser sheni",
+        "order": "234.00000000000000000000"
+      },
+      {
+        "id": 451,
+        "value": "redemption",
+        "order": "235.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "203": {
     "id": 203,
     "order": "174.00000000000000000000",
-    "title": "Renting on Shabbat",
+    "title": "Even in the Land of Israel: Leasing to Gentiles",
     "text": "שכירת בתים לנכרי בא\"י. רבינו חננאל כתב: ראינו לגאונים ז\"ל אומרים מותר\nלישראל להשכיר לגוי בין פונדק, בין חנות, בין חצר, בין ספינה והגוי מפליג בה בשבת,\nהני כולהו שריין אפילו בארץ ישראל, דכבר איפסיקא הלכתא כרבי יוסי. וכל שכן\nבשאר ארצות.",
     "loi_id": "loi_passage__203",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 162,
+        "value": "mAvodah Zarah 1:8",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 163,
+        "value": "bAvodah Zarah 21b",
+        "order": "67.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 365,
+        "value": "Rabbenu Ḥananel on the geonic permission to lease to gentiles",
+        "order": "108.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zur Vermietung von Häusern an Nichtjuden in Ereẓ Israel. Rabbenu Ḥananel schrieb: Wir haben gesehen, dass die Geonim seligen Andenkens sagen, es sei einem Juden erlaubt, an einen Nichtjuden zu vermieten, sei es eine Herberge, sei es ein Laden, sei es ein Hof, sei es ein Schiff, und der Nichtjude sticht damit am Schabbat in See — diese alle sind erlaubt, sogar in Ereẓ Israel, denn die Halacha ist bereits nach R. Yose entschieden (vgl. mʿAvodah Zarah 1,8; bʿAvodah Zarah 21b). Und erst recht in den übrigen Ländern.",
+    "page": "p. 137, no. 131",
+    "keywords": [
+      {
+        "id": 351,
+        "value": "Sabbath",
+        "order": "135.00000000000000000000"
+      },
+      {
+        "id": 452,
+        "value": "leasing to gentiles",
+        "order": "236.00000000000000000000"
+      },
+      {
+        "id": 453,
+        "value": "settlement in the Land",
+        "order": "237.00000000000000000000"
+      },
+      {
+        "id": 454,
+        "value": "R. Yose",
+        "order": "238.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "204": {
     "id": 204,
     "order": "175.00000000000000000000",
-    "title": "salutation",
+    "title": "A Difference in the Greeting of the Teacher",
     "text": "בשאילת שלום. בני בבל אין תלמיד שואל בשלום רבו. בני ארץ ישראל תלמיד\nאומר לרבו : שלום עליך רבי ומורי.",
     "loi_id": "loi_passage__204",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 164,
+        "value": "mAvot 4:15",
+        "order": "68.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 7,
+        "value": "Chiluf Minhagim",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zum Grüßen: Die Benei Bavel — ein Schüler grüßt seinen Lehrer nicht. Die Benei Ereẓ Israel — ein Schüler sagt zu seinem Lehrer: Friede über dir, mein Rabbi und mein Lehrer (vgl. mAvot 4,15).",
+    "page": "(Müller) p. 32, no. 33",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 455,
+        "value": "greeting",
+        "order": "239.00000000000000000000"
+      },
+      {
+        "id": 456,
+        "value": "pupil and master",
+        "order": "240.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "205": {
     "id": 205,
-    "order": "176.00000000000000000000",
-    "title": "[laws and customs / minhagim] (untitled)",
-    "text": "בכתיבת ספר תורה. בני ארץ ישראל היו מקילים בכתיבת ספר תורה בחמשה\nדברים, ובני בבל פוסלים אף באחד מהם: בני ארץ ישראל כותבים על ,,ריק\" כלומר,\nעורות שלא עובדו בעפצים. בני בבל אומרים, אין העור יוצא מתורת נבילה עד שנעפצה;\nבני ארץ ישראל מקילים לכתוב על עורות שלא נעבדו לשם ספר תורה ובני בבל מחמירים;\nבני ארץ ישראל כותבים אף על צד הבשר; בני ארץ ישראל היו תופרים את הספר תורה\nבפשתן ולא הקפידו על גידין דווקא ; בני ארץ ישראל לא הקפידו לכתוב בדיו דווקא.\nראיתי בארץ ישראל מרחיקין כתיבת ספרי תורה באחת ממיני הדיו נקרא בערבי\n,חיבר\" אלא בדיו ממש,,",
+    "order": "175.33333333333334280724",
+    "title": "Five Points of Leniency in Writing a Torah Scroll",
+    "text": "בכתיבת ספר תורה. בני ארץ ישראל היו מקילים בכתיבת ספר תורה בחמשה  \nדברים, ובני בבל פוסלים אף באחד מהם: בני ארץ ישראל כותבים על ,,ריק\" כלומר,  \nעורות שלא עובדו בעפצים. בני בבל אומרים, אין העור יוצא מתורת נבילה עד שנעפצה;  \nבני ארץ ישראל מקילים לכתוב על עורות שלא נעבדו לשם ספר תורה ובני בבל מחמירים;  \nבני ארץ ישראל כותבים אף על צד הבשר; בני ארץ ישראל היו תופרים את הספר תורה  \nבפשתן ולא הקפידו על גידין דווקא ; בני ארץ ישראל לא הקפידו לכתוב בדיו דווקא.",
     "loi_id": "loi_passage__205",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 165,
+        "value": "bShabbat 79b",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 166,
+        "value": "bMenachot 31b–32a",
+        "order": "70.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 366,
+        "value": "Geonic text on the writing of Torah scrolls",
+        "order": "109.00000000000000000000"
+      }
+    ],
+    "german_translation": "Zum Schreiben der Torarolle: Die Benei Ereẓ Israel waren beim Schreiben der Torarolle in fünf Dingen nachsichtig, und die Benei Bavel erklären sie schon wegen eines einzigen davon für untauglich.\n\nDie Benei Ereẓ Israel schreiben auf riq, das heißt auf Häute, die nicht mit Galläpfeln gegerbt wurden. Die Benei Bavel sagen: Die Haut tritt nicht aus dem Recht des Aases heraus, bis sie gegerbt ist.\n\nDie Benei Ereẓ Israel sind nachsichtig, auf Häute zu schreiben, die nicht um der Torarolle willen bearbeitet wurden, und die Benei Bavel sind streng.\n\nDie Benei Ereẓ Israel schreiben auch auf der Fleischseite.\n\nDie Benei Ereẓ Israel nähten die Torarolle mit Leinen und bestanden nicht auf Sehnen.\n\nDie Benei Ereẓ Israel bestanden nicht darauf, mit Tinte zu schreiben.\n\n(vgl. bSchabbat 79b; bMenaḥot 31b–32a)",
+    "page": "pp. 527–535, 560",
+    "keywords": [
+      {
+        "id": 302,
+        "value": "ḥilluf minhagim",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 457,
+        "value": "Torah scroll",
+        "order": "241.00000000000000000000"
+      },
+      {
+        "id": 458,
+        "value": "scribal law",
+        "order": "242.00000000000000000000"
+      },
+      {
+        "id": 459,
+        "value": "ink",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "403": {
+    "id": 403,
+    "order": "175.50000000000000000000",
+    "title": "I Saw in the Land of Israel: Only with Proper Ink",
+    "text": "ראיתי בארץ ישראל מרחיקין כתיבת ספרי תורה באחת ממיני הדיו נקרא בערבי  \n,חיבר\" אלא בדיו ממש,,",
+    "loi_id": "loi_passage__403",
+    "translation": "",
+    "parallel_text": [
+      {
+        "id": 167,
+        "value": "bShabbat 23a",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "bibl_quotes": [],
+    "commentary": "",
+    "work": [
+      {
+        "id": 367,
+        "value": "Geonic notice on the ink of Torah scrolls",
+        "order": "110.00000000000000000000"
+      }
+    ],
+    "german_translation": "Ich habe in Ereẓ Israel gesehen, dass sie sich fernhalten, Torarollen mit einer der Tintenarten zu schreiben, die auf Arabisch ḥibr heißt, sondern nur mit wirklicher Tinte (deyo) (vgl. bSchabbat 23a).",
+    "page": "no. 37",
+    "keywords": [
+      {
+        "id": 457,
+        "value": "Torah scroll",
+        "order": "241.00000000000000000000"
+      },
+      {
+        "id": 459,
+        "value": "ink",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "diaspora_type_cohen": [],
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "206": {
     "id": 206,
