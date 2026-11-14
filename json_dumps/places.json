@@ -233,6 +233,11 @@
         "id": 290,
         "value": "Sefer ha-Manhig",
         "order": "66.00000000000000000000"
+      },
+      {
+        "id": 296,
+        "value": "Tequfat ha-Geonim we-Sifrutah",
+        "order": "72.00000000000000000000"
       }
     ]
   },
@@ -816,5 +821,22 @@
     "note": "",
     "designations": [],
     "edition": []
+  },
+  "225": {
+    "id": 225,
+    "order": "34.00000000000000000000",
+    "name": "Bratislava",
+    "geonames": "",
+    "loi_id": "loi_place__225",
+    "wikidata": "",
+    "note": "",
+    "designations": [],
+    "edition": [
+      {
+        "id": 295,
+        "value": "Eldad ha-Dani",
+        "order": "71.00000000000000000000"
+      }
+    ]
   }
 }

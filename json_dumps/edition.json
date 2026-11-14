@@ -572,6 +572,11 @@
         "id": 149,
         "value": "Teshuvot Rav Hai Gaon",
         "order": "21.00000000000000000000"
+      },
+      {
+        "id": 370,
+        "value": "Geonic gloss on ʿassasiyyot",
+        "order": "113.00000000000000000000"
       }
     ],
     "publisher": "Darom",
@@ -616,6 +621,11 @@
         "id": 365,
         "value": "Rabbenu Ḥananel on the geonic permission to lease to gentiles",
         "order": "108.00000000000000000000"
+      },
+      {
+        "id": 369,
+        "value": "Geonic responsum on a reading in the Palestinian Mishnah copies",
+        "order": "112.00000000000000000000"
       }
     ],
     "publisher": "HaMedafis",
@@ -723,6 +733,16 @@
         "id": 349,
         "value": "Geonic notice on the bride as niddah",
         "order": "92.00000000000000000000"
+      },
+      {
+        "id": 372,
+        "value": "Geonic responsum on the kinds of caper",
+        "order": "115.00000000000000000000"
+      },
+      {
+        "id": 373,
+        "value": "Geonic responsum on the meaning of asparagos",
+        "order": "116.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -746,6 +766,11 @@
         "id": 341,
         "value": "Geonic responsum on degrees of impurity",
         "order": "84.00000000000000000000"
+      },
+      {
+        "id": 371,
+        "value": "Geonic gloss on turmusin",
+        "order": "114.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -2014,5 +2039,63 @@
     "publisher": "",
     "place": [],
     "year": null
+  },
+  "295": {
+    "id": 295,
+    "order": "71.00000000000000000000",
+    "label": "Eldad ha-Dani",
+    "editor": [
+      {
+        "id": 346,
+        "value": "Abraham Epstein",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__295",
+    "works": [
+      {
+        "id": 368,
+        "value": "Eldad ha-Dani (responsum concerning his halakhot)",
+        "order": "111.00000000000000000000"
+      }
+    ],
+    "publisher": "Ch. D. Lippe",
+    "place": [
+      {
+        "id": 225,
+        "value": "Bratislava",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "year": "1891"
+  },
+  "296": {
+    "id": 296,
+    "order": "72.00000000000000000000",
+    "label": "Tequfat ha-Geonim we-Sifrutah",
+    "editor": [
+      {
+        "id": 210,
+        "value": "Simcha Assaf",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__296",
+    "works": [
+      {
+        "id": 374,
+        "value": "Geonic responsum on the valuation of the dowry",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "publisher": "Mossad ha-Rav Kook",
+    "place": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "year": "1955"
   }
 }

@@ -12100,128 +12100,398 @@
   "206": {
     "id": 206,
     "order": "177.00000000000000000000",
-    "title": "[laws and customs / minhagim] (untitled)",
+    "title": "Even in the Written Text There Are Differences",
     "text": "שהרי חכמי בבל וחכמי ארץ ישראל שונין משנה אחת בתיקון רב... ולפעמים\nתלמידים הללו אומרים טעם אחר והללו אומרים טעם אחר... ואפילו במקראות שהן\nקבועין בכתוב יש שינוי בהן בין בבל לארץ ישראל בחסירות וביתירות, ובפתוחות\nובסתומות ובפיסוקי טעמים ובמסורת בחיתוך הפסוקים וכל שכן המשנה שהוא דבר\nמסותם, עמוק עמוק מי יכילנו.",
     "loi_id": "loi_passage__206",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 168,
+        "value": "Ecclesiastes 7:24",
+        "order": "72.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 368,
+        "value": "Eldad ha-Dani (responsum concerning his halakhot)",
+        "order": "111.00000000000000000000"
+      }
+    ],
+    "german_translation": "Denn die Weisen Bavels und die Weisen von Ereẓ Israel lehren ein und dieselbe Mischna in der Redaktion Rabs [Rabbis?] … und doch sagen diese Schüler den einen Grund und jene einen anderen … Und sogar bei den Schriftversen, die im Geschriebenen festgelegt sind, gibt es Unterschiede zwischen Bavel und Ereẓ Israel: in defektiven und plenen Schreibungen, in offenen und geschlossenen Abschnitten, in der Setzung der Akzente und in der Masora bei der Gliederung der Verse. Und um wie viel mehr die Mischna, die eine verschlossene Sache ist — tief, tief, wer kann sie fassen (vgl. Koh 7,24)?",
+    "page": "7",
+    "keywords": [
+      {
+        "id": 460,
+        "value": "masorah",
+        "order": "244.00000000000000000000"
+      },
+      {
+        "id": 461,
+        "value": "transmission",
+        "order": "245.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "207": {
     "id": 207,
     "order": "178.00000000000000000000",
-    "title": "[laws and customs / minhagim] (untitled)",
+    "title": "A Scribe’s Error in the Mishnah Copies of the Land",
     "text": "ואשר אמרתם כי מצאתם במשניות של ארץ ישראל ,,תפח\" כך הוא בדעתנו כי\nזאת טעות הסופר... ואילו היה אפשר לשנות ,,תפח\", היה מלשון נפיחה כאשר אמרנו\nבתלמוד הזהב.",
     "loi_id": "loi_passage__207",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 369,
+        "value": "Geonic responsum on a reading in the Palestinian Mishnah copies",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gesagt habt, dass ihr in den Mischnahandschriften von Ereẓ Israel tafaḥ gefunden habt: So ist es nach unserer Meinung, dass dies ein Schreiberfehler ist … Und wenn es möglich wäre, tafaḥ zu lesen, so wäre es von der Sprache des Aufblähens (nefiḥah), wie wir im [Kapitel] ha-Zahav gesagt haben.",
+    "page": "15",
+    "keywords": [
+      {
+        "id": 462,
+        "value": "Mishnah manuscripts",
+        "order": "246.00000000000000000000"
+      },
+      {
+        "id": 463,
+        "value": "scribal error",
+        "order": "247.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "208": {
     "id": 208,
     "order": "179.00000000000000000000",
-    "title": "Assasijjot",
+    "title": "Assasiyyot: A Lexical Note",
     "text": "עססיות [מין] ממיני קטניות שגדלין בארץ ישראל ומבשלין אתהן והם רגילין\nבהן ,ובארצינו אין מצויין כל עיקר.",
     "loi_id": "loi_passage__208",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 370,
+        "value": "Geonic gloss on ʿassasiyyot",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "german_translation": "ʿAssasiyyot: eine Art von Hülsenfrüchten, die in Ereẓ Israel wachsen, und man kocht sie, und sie sind dort gebräuchlich; und in unserem Land kommen sie überhaupt nicht vor.",
+    "page": "155",
+    "keywords": [
+      {
+        "id": 464,
+        "value": "produce of the Land",
+        "order": "248.00000000000000000000"
+      },
+      {
+        "id": 465,
+        "value": "distance from the Mishnah's world",
+        "order": "249.00000000000000000000"
+      },
+      {
+        "id": 468,
+        "value": "ʿassasiyyot",
+        "order": "252.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 315,
+        "value": "Arẓenu",
+        "order": "60.00000000000000000000"
+      }
+    ]
   },
   "209": {
     "id": 209,
     "order": "180.00000000000000000000",
-    "title": "Turmusin",
+    "title": "Neither ʿAssasiyyot nor Turmusin Are Found in Bavel",
     "text": "תורמוסין, בארץ ישראל נזרעין ומרים הם הרבה, ובבבל אין מצויין לא עססיות\nולא תורמוסין.",
     "loi_id": "loi_passage__209",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 371,
+        "value": "Geonic gloss on turmusin",
+        "order": "114.00000000000000000000"
+      }
+    ],
+    "german_translation": "Turmusin: In Ereẓ Israel werden sie gesät, und sie sind sehr bitter; und in Bavel finden sich weder ʿassasiyyot noch turmusin.",
+    "page": "p. 323",
+    "keywords": [
+      {
+        "id": 464,
+        "value": "produce of the Land",
+        "order": "248.00000000000000000000"
+      },
+      {
+        "id": 466,
+        "value": "lupines",
+        "order": "250.00000000000000000000"
+      },
+      {
+        "id": 467,
+        "value": "turmusin",
+        "order": "251.00000000000000000000"
+      },
+      {
+        "id": 468,
+        "value": "ʿassasiyyot",
+        "order": "252.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "210": {
     "id": 210,
     "order": "181.00000000000000000000",
-    "title": "Capers",
+    "title": "Known and Distinguishable in Bavel as in the Land",
     "text": "ומיני צלף אביונות וקפריסין ששאלת ידועין הן. .. פרחא ושיתא ובוטיתא, ומאי\nניהו ידוע ומנוכר הוא בין בבבל ובין בארץ ישראל.",
     "loi_id": "loi_passage__210",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 372,
+        "value": "Geonic responsum on the kinds of caper",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und die Arten des Kapernstrauchs, evyonot und qaprisin, nach denen du gefragt hast, sind bekannt … parḥa und shita und buṭita; und was sie sind, ist bekannt und kenntlich, sowohl in Bavel als auch in Ereẓ Israel.",
+    "page": "no. 378",
+    "keywords": [
+      {
+        "id": 469,
+        "value": "caper",
+        "order": "253.00000000000000000000"
+      },
+      {
+        "id": 470,
+        "value": "evyonot",
+        "order": "254.00000000000000000000"
+      },
+      {
+        "id": 471,
+        "value": "qaprisin",
+        "order": "255.00000000000000000000"
+      },
+      {
+        "id": 472,
+        "value": "botanical terminology",
+        "order": "256.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "211": {
     "id": 211,
     "order": "182.00000000000000000000",
-    "title": "Aspargam",
+    "title": "What Is Asparagos? A Herb Found in the Land",
     "text": "וששאלתם מאי אספרגס... גופה של מלה מה היא -- כך שמענו כי עיקר\\\nאספרגס במיני דשאים הוא וישנו בארץ ישראל.",
     "loi_id": "loi_passage__211",
     "translation": "",
-    "parallel_text": [],
+    "parallel_text": [
+      {
+        "id": 169,
+        "value": "bBerakhot 51a",
+        "order": "73.00000000000000000000"
+      }
+    ],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 373,
+        "value": "Geonic responsum on the meaning of asparagos",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt: Was ist asparagos … was ist der eigentliche Gehalt des Wortes? — So haben wir gehört, dass das Eigentliche des asparagos unter den Arten der Kräuter ist, und es gibt ihn in Ereẓ Israel (vgl. bBerakhot 51a).",
+    "page": "no. 379",
+    "keywords": [
+      {
+        "id": 464,
+        "value": "produce of the Land",
+        "order": "248.00000000000000000000"
+      },
+      {
+        "id": 472,
+        "value": "botanical terminology",
+        "order": "256.00000000000000000000"
+      },
+      {
+        "id": 473,
+        "value": "asparagos",
+        "order": "257.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "212": {
     "id": 212,
     "order": "183.00000000000000000000",
-    "title": "[laws and customs / minhagim] (untitled)",
+    "title": "There Is No Custom Worse and More Unseemly Than Yours",
     "text": "ושכתבת: מנהג שלנו כשאנו נושאין אשה, בשעת נישואין יתן לה אביה בגדים\nותכשיטין ואנו שמין את הבגדים יתר על דמיהם, ועומד החתן ונותן לה במתנה כך וכך\nזהובים, ותחזור הכלה ותשים אותם במתנה עם מה שהביאה מבית אביה בנדוניה שלה,\nויכתבו עליו שטר בממון הרבה ושטר מחוזק ומקויים בקניין... אם מת תטול הכל כל\nמה שכתבו בכתובתה או לא...\nכך ראינו שמנהג שלכם משונה ממה שנהוג בכל מקומות ישראל ואין מנהג רע\nומכוער ממנהג שלכם ויש בו משום גניבת דעת... שמתקהלים ויושבים זקני ישראל\nבמסיבה וכותב אבי הכלה בגדים מאה מנה במאה וחמישים ושוי אלף באלף וחמש מאות\nעל חתן עשוק וכותבין שטר מקויים ומוחזק עליו. מה אתם אומרים בנפשכם, ולא עוד\nאלא נותן לה אלף זוז במתנה ומערבתן עם מה שנתן לה אביה וקורא אותן נדוניא...\nמנהג בישיבות ובבבל ובכל מקומות ישראל כן הוא: משנתן לה אביה לכלה שמין אותו\nבעדים באמת וצדק מה ששווין וקוראין נדוניא וכותבין בשטר כתובה: ודין נדוניא\nדהנהלת עלוהי מן דילה…",
     "loi_id": "loi_passage__212",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 374,
+        "value": "Geonic responsum on the valuation of the dowry",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was du geschrieben hast: Unser Brauch ist, wenn wir eine Frau heiraten, dass ihr Vater ihr zur Zeit der Eheschließung Kleider und Schmuck gibt, und wir schätzen die Kleider über ihren Wert, und der Bräutigam steht auf und gibt ihr als Geschenk soundso viele Goldstücke, und die Braut gibt sie wiederum als Geschenk zu dem, was sie aus dem Haus ihres Vaters als ihre Mitgift mitgebracht hat, und man schreibt darüber eine Urkunde über viel Geld, eine befestigte und durch Qinyan bekräftigte Urkunde … ob sie, wenn er stirbt, alles nimmt, was sie in ihre Ketubba geschrieben haben, oder nicht …\n\nSo haben wir gesehen, dass euer Brauch abweicht von dem, was an allen Orten Israels gebräuchlich ist, und es gibt keinen schlechteren und hässlicheren Brauch als euren, und es ist darin Täuschung (genevat daʿat) … dass sich die Ältesten Israels versammeln und in der Runde sitzen, und der Vater der Braut schreibt Kleider von hundert Maneh mit hundertfünfzig an und einen Wert von tausend mit tausendfünfhundert, zu Lasten eines bedrückten Bräutigams, und man schreibt darüber eine bekräftigte und befestigte Urkunde. Was sagt ihr bei euch selbst? Und nicht genug damit: Er gibt ihr tausend Zuz als Geschenk und mischt sie mit dem, was ihr Vater ihr gegeben hat, und nennt es Mitgift …\n\nDer Brauch in den Jeschiwot und in Bavel und an allen Orten Israels ist so: Sobald ihr Vater der Braut gegeben hat, schätzt man es vor Zeugen, wahrhaftig und gerecht, was es wert ist, und nennt es Mitgift, und man schreibt in die Ketubba-Urkunde: „Und dies ist die Mitgift, die sie ihm von dem Ihren eingebracht hat …“",
+    "page": "no. 247 (רמז)",
+    "keywords": [
+      {
+        "id": 226,
+        "value": "ketubbah",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 474,
+        "value": "dowry",
+        "order": "258.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 45,
+        "value": "Bavel",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "213": {
     "id": 213,

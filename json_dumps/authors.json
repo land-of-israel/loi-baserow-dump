@@ -461,6 +461,11 @@
         "id": 278,
         "value": "Sefer ha-Yishuv II",
         "order": "54.00000000000000000000"
+      },
+      {
+        "id": 296,
+        "value": "Tequfat ha-Geonim we-Sifrutah",
+        "order": "72.00000000000000000000"
       }
     ]
   },
@@ -1066,5 +1071,22 @@
     "birth_date": [],
     "death_date": [],
     "parallel_texts 2": []
+  },
+  "346": {
+    "id": 346,
+    "order": "69.00000000000000000000",
+    "name": "Abraham Epstein",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__346",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 295,
+        "value": "Eldad ha-Dani",
+        "order": "71.00000000000000000000"
+      }
+    ]
   }
 }

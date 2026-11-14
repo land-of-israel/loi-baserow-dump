@@ -690,6 +690,11 @@
         "id": 403,
         "value": "I Saw in the Land of Israel: Only with Proper Ink",
         "order": "175.50000000000000000000"
+      },
+      {
+        "id": 212,
+        "value": "There Is No Custom Worse and More Unseemly Than Yours",
+        "order": "183.00000000000000000000"
       }
     ]
   },
@@ -1334,6 +1339,41 @@
         "id": 403,
         "value": "I Saw in the Land of Israel: Only with Proper Ink",
         "order": "175.50000000000000000000"
+      },
+      {
+        "id": 206,
+        "value": "Even in the Written Text There Are Differences",
+        "order": "177.00000000000000000000"
+      },
+      {
+        "id": 207,
+        "value": "A Scribe’s Error in the Mishnah Copies of the Land",
+        "order": "178.00000000000000000000"
+      },
+      {
+        "id": 208,
+        "value": "Assasiyyot: A Lexical Note",
+        "order": "179.00000000000000000000"
+      },
+      {
+        "id": 209,
+        "value": "Neither ʿAssasiyyot nor Turmusin Are Found in Bavel",
+        "order": "180.00000000000000000000"
+      },
+      {
+        "id": 210,
+        "value": "Known and Distinguishable in Bavel as in the Land",
+        "order": "181.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "What Is Asparagos? A Herb Found in the Land",
+        "order": "182.00000000000000000000"
+      },
+      {
+        "id": 212,
+        "value": "There Is No Custom Worse and More Unseemly Than Yours",
+        "order": "183.00000000000000000000"
       }
     ]
   },

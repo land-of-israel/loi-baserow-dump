@@ -1041,6 +1041,11 @@
         "id": 177,
         "value": "No Claim to the Ketubbah of an Apostate Daughter",
         "order": "148.00000000000000000000"
+      },
+      {
+        "id": 212,
+        "value": "There Is No Custom Worse and More Unseemly Than Yours",
+        "order": "183.00000000000000000000"
       }
     ]
   },
@@ -4868,6 +4873,236 @@
         "id": 403,
         "value": "I Saw in the Land of Israel: Only with Proper Ink",
         "order": "175.50000000000000000000"
+      }
+    ]
+  },
+  "460": {
+    "id": 460,
+    "order": "244.00000000000000000000",
+    "label": "masorah",
+    "notes": "",
+    "loi_id": "loi_keyword__460",
+    "passages": [
+      {
+        "id": 206,
+        "value": "Even in the Written Text There Are Differences",
+        "order": "177.00000000000000000000"
+      }
+    ]
+  },
+  "461": {
+    "id": 461,
+    "order": "245.00000000000000000000",
+    "label": "transmission",
+    "notes": "",
+    "loi_id": "loi_keyword__461",
+    "passages": [
+      {
+        "id": 206,
+        "value": "Even in the Written Text There Are Differences",
+        "order": "177.00000000000000000000"
+      }
+    ]
+  },
+  "462": {
+    "id": 462,
+    "order": "246.00000000000000000000",
+    "label": "Mishnah manuscripts",
+    "notes": "",
+    "loi_id": "loi_keyword__462",
+    "passages": [
+      {
+        "id": 207,
+        "value": "A Scribe’s Error in the Mishnah Copies of the Land",
+        "order": "178.00000000000000000000"
+      }
+    ]
+  },
+  "463": {
+    "id": 463,
+    "order": "247.00000000000000000000",
+    "label": "scribal error",
+    "notes": "",
+    "loi_id": "loi_keyword__463",
+    "passages": [
+      {
+        "id": 207,
+        "value": "A Scribe’s Error in the Mishnah Copies of the Land",
+        "order": "178.00000000000000000000"
+      }
+    ]
+  },
+  "464": {
+    "id": 464,
+    "order": "248.00000000000000000000",
+    "label": "produce of the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__464",
+    "passages": [
+      {
+        "id": 208,
+        "value": "Assasiyyot: A Lexical Note",
+        "order": "179.00000000000000000000"
+      },
+      {
+        "id": 209,
+        "value": "Neither ʿAssasiyyot nor Turmusin Are Found in Bavel",
+        "order": "180.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "What Is Asparagos? A Herb Found in the Land",
+        "order": "182.00000000000000000000"
+      }
+    ]
+  },
+  "465": {
+    "id": 465,
+    "order": "249.00000000000000000000",
+    "label": "distance from the Mishnah's world",
+    "notes": "",
+    "loi_id": "loi_keyword__465",
+    "passages": [
+      {
+        "id": 208,
+        "value": "Assasiyyot: A Lexical Note",
+        "order": "179.00000000000000000000"
+      }
+    ]
+  },
+  "466": {
+    "id": 466,
+    "order": "250.00000000000000000000",
+    "label": "lupines",
+    "notes": "",
+    "loi_id": "loi_keyword__466",
+    "passages": [
+      {
+        "id": 209,
+        "value": "Neither ʿAssasiyyot nor Turmusin Are Found in Bavel",
+        "order": "180.00000000000000000000"
+      }
+    ]
+  },
+  "467": {
+    "id": 467,
+    "order": "251.00000000000000000000",
+    "label": "turmusin",
+    "notes": "",
+    "loi_id": "loi_keyword__467",
+    "passages": [
+      {
+        "id": 209,
+        "value": "Neither ʿAssasiyyot nor Turmusin Are Found in Bavel",
+        "order": "180.00000000000000000000"
+      }
+    ]
+  },
+  "468": {
+    "id": 468,
+    "order": "252.00000000000000000000",
+    "label": "ʿassasiyyot",
+    "notes": "",
+    "loi_id": "loi_keyword__468",
+    "passages": [
+      {
+        "id": 208,
+        "value": "Assasiyyot: A Lexical Note",
+        "order": "179.00000000000000000000"
+      },
+      {
+        "id": 209,
+        "value": "Neither ʿAssasiyyot nor Turmusin Are Found in Bavel",
+        "order": "180.00000000000000000000"
+      }
+    ]
+  },
+  "469": {
+    "id": 469,
+    "order": "253.00000000000000000000",
+    "label": "caper",
+    "notes": "",
+    "loi_id": "loi_keyword__469",
+    "passages": [
+      {
+        "id": 210,
+        "value": "Known and Distinguishable in Bavel as in the Land",
+        "order": "181.00000000000000000000"
+      }
+    ]
+  },
+  "470": {
+    "id": 470,
+    "order": "254.00000000000000000000",
+    "label": "evyonot",
+    "notes": "",
+    "loi_id": "loi_keyword__470",
+    "passages": [
+      {
+        "id": 210,
+        "value": "Known and Distinguishable in Bavel as in the Land",
+        "order": "181.00000000000000000000"
+      }
+    ]
+  },
+  "471": {
+    "id": 471,
+    "order": "255.00000000000000000000",
+    "label": "qaprisin",
+    "notes": "",
+    "loi_id": "loi_keyword__471",
+    "passages": [
+      {
+        "id": 210,
+        "value": "Known and Distinguishable in Bavel as in the Land",
+        "order": "181.00000000000000000000"
+      }
+    ]
+  },
+  "472": {
+    "id": 472,
+    "order": "256.00000000000000000000",
+    "label": "botanical terminology",
+    "notes": "",
+    "loi_id": "loi_keyword__472",
+    "passages": [
+      {
+        "id": 210,
+        "value": "Known and Distinguishable in Bavel as in the Land",
+        "order": "181.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "What Is Asparagos? A Herb Found in the Land",
+        "order": "182.00000000000000000000"
+      }
+    ]
+  },
+  "473": {
+    "id": 473,
+    "order": "257.00000000000000000000",
+    "label": "asparagos",
+    "notes": "",
+    "loi_id": "loi_keyword__473",
+    "passages": [
+      {
+        "id": 211,
+        "value": "What Is Asparagos? A Herb Found in the Land",
+        "order": "182.00000000000000000000"
+      }
+    ]
+  },
+  "474": {
+    "id": 474,
+    "order": "258.00000000000000000000",
+    "label": "dowry",
+    "notes": "",
+    "loi_id": "loi_keyword__474",
+    "passages": [
+      {
+        "id": 212,
+        "value": "There Is No Custom Worse and More Unseemly Than Yours",
+        "order": "183.00000000000000000000"
       }
     ]
   }

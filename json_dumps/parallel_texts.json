@@ -637,5 +637,23 @@
     "loi_id": "loi_parallel__167",
     "excerpt_he": "",
     "url": ""
+  },
+  "168": {
+    "id": 168,
+    "order": "72.00000000000000000000",
+    "label": "Ecclesiastes 7:24",
+    "excerpt": "[The secret of] what happens is elusive and deep, deep down; who can discover it?",
+    "loi_id": "loi_parallel__168",
+    "excerpt_he": "רָחוֹק מַה־שֶּׁהָיָה וְעָמֹק  עָמֹק מִי יִמְצָאֶנּוּ",
+    "url": "https://www.sefaria.org/Ecclesiastes.7.24?lang=bi"
+  },
+  "169": {
+    "id": 169,
+    "order": "73.00000000000000000000",
+    "label": "bBerakhot 51a",
+    "excerpt": "",
+    "loi_id": "loi_parallel__169",
+    "excerpt_he": "",
+    "url": ""
   }
 }

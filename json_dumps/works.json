@@ -3604,5 +3604,176 @@
         "order": "70.00000000000000000000"
       }
     ]
+  },
+  "368": {
+    "id": 368,
+    "order": "111.00000000000000000000",
+    "title": "Eldad ha-Dani (responsum concerning his halakhot)",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__368",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 295,
+        "value": "Eldad ha-Dani",
+        "order": "71.00000000000000000000"
+      }
+    ]
+  },
+  "369": {
+    "id": 369,
+    "order": "112.00000000000000000000",
+    "title": "Geonic responsum on a reading in the Palestinian Mishnah copies",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__369",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 146,
+        "value": "Teshuvot haGeonim",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "370": {
+    "id": 370,
+    "order": "113.00000000000000000000",
+    "title": "Geonic gloss on ʿassasiyyot",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__370",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 145,
+        "value": "Teshuvot haGeonim miToch haGenizah",
+        "order": "17.00000000000000000000"
+      }
+    ]
+  },
+  "371": {
+    "id": 371,
+    "order": "114.00000000000000000000",
+    "title": "Geonic gloss on turmusin",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__371",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 182,
+        "value": "Geonica II",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "372": {
+    "id": 372,
+    "order": "115.00000000000000000000",
+    "title": "Geonic responsum on the kinds of caper",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__372",
+    "corpus": [],
+    "language": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Responsum",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "edition": [
+      {
+        "id": 181,
+        "value": "Teshuvot ha-Geonim (Harkavy)",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "373": {
+    "id": 373,
+    "order": "116.00000000000000000000",
+    "title": "Geonic responsum on the meaning of asparagos",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__373",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 181,
+        "value": "Teshuvot ha-Geonim (Harkavy)",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "374": {
+    "id": 374,
+    "order": "117.00000000000000000000",
+    "title": "Geonic responsum on the valuation of the dowry",
+    "reference": "",
+    "author": [
+      {
+        "id": 176,
+        "value": "anonymous",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__374",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 296,
+        "value": "Tequfat ha-Geonim we-Sifrutah",
+        "order": "72.00000000000000000000"
+      }
+    ]
   }
 }
