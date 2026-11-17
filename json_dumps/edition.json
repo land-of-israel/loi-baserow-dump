@@ -2097,5 +2097,34 @@
       }
     ],
     "year": "1955"
+  },
+  "297": {
+    "id": 297,
+    "order": "73.00000000000000000000",
+    "label": "Ṭaʿam Zeqenim",
+    "editor": [
+      {
+        "id": 347,
+        "value": "Meluket Al Yedei Eliezer Ashkenazi",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__297",
+    "works": [
+      {
+        "id": 375,
+        "value": "Responsum on the order of the redemption",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "publisher": "Verlag der hebräisch-antiquarischen Buchhandlung von I. Kauffmann",
+    "place": [
+      {
+        "id": 180,
+        "value": "Frankfurt am Main",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "year": "1854"
   }
 }

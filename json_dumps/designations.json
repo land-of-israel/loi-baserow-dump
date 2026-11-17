@@ -327,6 +327,11 @@
         "id": 139,
         "value": "Still Read in Jerusalem: Hai Gaon on the Reading of Shemini Aẓeret",
         "order": "110.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "order": "184.00000000000000000000"
       }
     ],
     "form_he": "ירושלים",
@@ -1061,6 +1066,11 @@
         "id": 211,
         "value": "What Is Asparagos? A Herb Found in the Land",
         "order": "182.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "order": "184.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -2299,6 +2309,11 @@
         "id": 101,
         "value": "Said under Duress: Pirqoi on the Palestinian Qedushah",
         "order": "72.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "order": "184.00000000000000000000"
       }
     ],
     "form_he": "אדום",
@@ -3148,6 +3163,11 @@
         "id": 208,
         "value": "Assasiyyot: A Lexical Note",
         "order": "179.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "order": "184.00000000000000000000"
       }
     ],
     "form_he": "ארצנו",
@@ -3155,5 +3175,71 @@
     "gloss_en": "our land",
     "referent": [],
     "commentary": "Babylonia"
+  },
+  "316": {
+    "id": 316,
+    "order": "61.00000000000000000000",
+    "label": "Galil ha-ʿElyon",
+    "loi_id": "loi_parallel__316",
+    "passages": [
+      {
+        "id": 213,
+        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "order": "184.00000000000000000000"
+      }
+    ],
+    "form_he": "גליל העליון",
+    "source": [],
+    "gloss_en": "the Upper Galilee",
+    "referent": [
+      {
+        "id": 72,
+        "value": "Galilee",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "317": {
+    "id": 317,
+    "order": "62.00000000000000000000",
+    "label": "Midbar ha-ʿAmmim",
+    "loi_id": "loi_parallel__317",
+    "passages": [
+      {
+        "id": 213,
+        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "order": "184.00000000000000000000"
+      }
+    ],
+    "form_he": "מדבר העמים",
+    "source": [
+      {
+        "id": 348,
+        "value": "Ezekiel 20:35",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the wilderness of the peoples",
+    "referent": [],
+    "commentary": "Exilsraum (eschatologisch)"
+  },
+  "318": {
+    "id": 318,
+    "order": "63.00000000000000000000",
+    "label": "Golatam",
+    "loi_id": "loi_parallel__318",
+    "passages": [
+      {
+        "id": 213,
+        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "order": "184.00000000000000000000"
+      }
+    ],
+    "form_he": "גלותם",
+    "source": [],
+    "gloss_en": "their exile",
+    "referent": [],
+    "commentary": ""
   }
 }

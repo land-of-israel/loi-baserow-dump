@@ -1844,5 +1844,91 @@
     "loi_id": "loi_biblref__347",
     "text_he": "וּפְדוּיָו מִבֶּן־חֹדֶשׁ תִּפְדֶּה בְּעֶרְכְּךָ כֶּסֶף חֲמֵשֶׁת שְׁקָלִים בְּשֶׁקֶל הַקֹּדֶשׁ עֶשְׂרִים גֵּרָה הוּא",
     "designations": []
+  },
+  "348": {
+    "id": 348,
+    "order": "163.00000000000000000000",
+    "bible": "Ezekiel 20:35",
+    "text": "וְהֵבֵאתִי אֶתְכֶם אֶל־מִדְבַּר הָעַמִּים וְנִשְׁפַּטְתִּי אִתְּכֶם שָׁם פָּנִים אֶל־פָּנִים",
+    "url": "https://www.sefaria.org/Ezekiel.20.35?lang=bi",
+    "loi_id": "loi_biblref__348",
+    "text_he": "[The secret of] what happens is elusive and deep, deep down; who can discover it?",
+    "designations": [
+      {
+        "id": 317,
+        "value": "Midbar ha-ʿAmmim",
+        "order": "62.00000000000000000000"
+      }
+    ]
+  },
+  "349": {
+    "id": 349,
+    "order": "164.00000000000000000000",
+    "bible": "Numbers 24:18–19",
+    "text": "Edom becomes a possession,\nYea, Seir a possession of its enemies;\nBut Israel is triumphant.\nA victor issues from Jacob\nTo wipe out what is left of Ir.",
+    "url": "https://www.sefaria.org/Numbers.24.19?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__349",
+    "text_he": "וְהָיָה אֱדוֹם יְרֵשָׁה וְהָיָה יְרֵשָׁה שֵׂעִיר אֹיְבָיו וְיִשְׂרָאֵל עֹשֶׂה חָיִל\nוְיֵרְדְּ מִיַּעֲקֹב וְהֶאֱבִיד שָׂרִיד מֵעִיר",
+    "designations": []
+  },
+  "350": {
+    "id": 350,
+    "order": "165.00000000000000000000",
+    "bible": "Numbers 24:24",
+    "text": "Ships come from the quarter of Kittim;\nThey subject Asshur, subject Eber.\nThey, too, shall perish forever.",
+    "url": "https://www.sefaria.org/Numbers.24.24?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__350",
+    "text_he": "וְצִים מִיַּד כִּתִּים וְעִנּוּ אַשּׁוּר וְעִנּוּ־עֵבֶר וְגַם־הוּא עֲדֵי אֹבֵד",
+    "designations": []
+  },
+  "351": {
+    "id": 351,
+    "order": "166.00000000000000000000",
+    "bible": "Numbers 24:22",
+    "text": "Yet shall Kain be consumed,\nWhen Asshur takes you captive.",
+    "url": "https://www.sefaria.org/Numbers.24.22?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__351",
+    "text_he": "כִּי אִם־יִהְיֶה לְבָעֵר קָיִן עַד־מָה אַשּׁוּר תִּשְׁבֶּךָּ",
+    "designations": []
+  },
+  "352": {
+    "id": 352,
+    "order": "167.00000000000000000000",
+    "bible": "Obadiah 1:21",
+    "text": "For liberators shall march up on Mount Zion to wreak judgment on Mount Esau; and dominion shall be GOD’s.",
+    "url": "https://www.sefaria.org/Obadiah.1.21?lang=bi",
+    "loi_id": "loi_biblref__352",
+    "text_he": "וְעָלוּ מוֹשִׁעִים בְּהַר צִיּוֹן לִשְׁפֹּט אֶת־הַר עֵשָׂו וְהָיְתָה לַיהֹוָה הַמְּלוּכָה",
+    "designations": []
+  },
+  "353": {
+    "id": 353,
+    "order": "168.00000000000000000000",
+    "bible": "Jeremiah 3:14",
+    "text": "Turn back, rebellious children—declares GOD. Since I have espoused you, I will take you, one from a town and two from a clan, and bring you to Zion.",
+    "url": "https://www.sefaria.org/Jeremiah.3.14?lang=bi",
+    "loi_id": "loi_biblref__353",
+    "text_he": "שׁוּבוּ בָנִים שׁוֹבָבִים נְאֻם־יְהֹוָה כִּי אָנֹכִי בָּעַלְתִּי בָכֶם וְלָקַחְתִּי אֶתְכֶם אֶחָד מֵעִיר וּשְׁנַיִם מִמִּשְׁפָּחָה וְהֵבֵאתִי אֶתְכֶם צִיּוֹן",
+    "designations": []
+  },
+  "354": {
+    "id": 354,
+    "order": "169.00000000000000000000",
+    "bible": "Ezekiel 25:14",
+    "text": "I will wreak My vengeance on Edom through My people Israel, and they shall take action against Edom in accordance with My blazing anger; and they shall know My vengeance—declares the Sovereign GOD.",
+    "url": "https://www.sefaria.org/Ezekiel.25.14?lang=bi",
+    "loi_id": "loi_biblref__354",
+    "text_he": "וְנָתַתִּי אֶת־נִקְמָתִי בֶּאֱדוֹם בְּיַד עַמִּי יִשְׂרָאֵל וְעָשׂוּ בֶאֱדוֹם כְּאַפִּי וְכַחֲמָתִי וְיָדְעוּ אֶת־נִקְמָתִי נְאֻם אֲדֹנָי יֱהֹוִה",
+    "designations": []
+  },
+  "355": {
+    "id": 355,
+    "order": "170.00000000000000000000",
+    "bible": "Hosea 12:10",
+    "text": "I  the ETERNAL have been your God\nEver since the land of Egypt.\nI will let you dwell in your tents again\nAs in the days of old,",
+    "url": "https://www.sefaria.org/Hosea.12.10?lang=bi",
+    "loi_id": "loi_biblref__355",
+    "text_he": "וְאָנֹכִי יְהֹוָה אֱלֹהֶיךָ מֵאֶרֶץ מִצְרָיִם עֹד אוֹשִׁיבְךָ בׇאֳהָלִים כִּימֵי מוֹעֵד",
+    "designations": []
   }
 }

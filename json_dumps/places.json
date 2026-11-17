@@ -382,6 +382,11 @@
         "id": 312,
         "value": "Ḥamat",
         "order": "57.00000000000000000000"
+      },
+      {
+        "id": 316,
+        "value": "Galil ha-ʿElyon",
+        "order": "61.00000000000000000000"
       }
     ],
     "edition": []
@@ -628,6 +633,11 @@
         "id": 222,
         "value": "Toratan shel Rishonim",
         "order": "30.00000000000000000000"
+      },
+      {
+        "id": 297,
+        "value": "Ṭaʿam Zeqenim",
+        "order": "73.00000000000000000000"
       }
     ]
   },

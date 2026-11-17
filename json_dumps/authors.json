@@ -1088,5 +1088,22 @@
         "order": "71.00000000000000000000"
       }
     ]
+  },
+  "347": {
+    "id": 347,
+    "order": "70.00000000000000000000",
+    "name": "Meluket Al Yedei Eliezer Ashkenazi",
+    "gnd": "",
+    "wikidata": "",
+    "loi_id": "loi_author__347",
+    "birth_date": [],
+    "death_date": [],
+    "parallel_texts 2": [
+      {
+        "id": 297,
+        "value": "Ṭaʿam Zeqenim",
+        "order": "73.00000000000000000000"
+      }
+    ]
   }
 }

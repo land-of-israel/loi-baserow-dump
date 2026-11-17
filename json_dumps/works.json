@@ -3775,5 +3775,32 @@
         "order": "72.00000000000000000000"
       }
     ]
+  },
+  "375": {
+    "id": 375,
+    "order": "118.00000000000000000000",
+    "title": "Responsum on the order of the redemption",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__375",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 297,
+        "value": "Ṭaʿam Zeqenim",
+        "order": "73.00000000000000000000"
+      }
+    ]
   }
 }
