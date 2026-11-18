@@ -89,6 +89,11 @@
         "id": 56,
         "value": "Where Our Talmud Does Not Dissent: Hai Gaon on the Status of the Yerushalmi",
         "order": "27.00000000000000000000"
+      },
+      {
+        "id": 216,
+        "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
+        "order": "187.00000000000000000000"
       }
     ],
     "form_he": "ציון",
@@ -330,8 +335,23 @@
       },
       {
         "id": 213,
-        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
         "order": "184.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      },
+      {
+        "id": 215,
+        "value": "The Plagues upon Gog, the Ingathering, and the Resurrection of the Dead",
+        "order": "186.00000000000000000000"
+      },
+      {
+        "id": 217,
+        "value": "New Heavens and a New Jerusalem: The End of the World and the Final Blessing",
+        "order": "188.00000000000000000000"
       }
     ],
     "form_he": "ירושלים",
@@ -1069,8 +1089,13 @@
       },
       {
         "id": 213,
-        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
         "order": "184.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -1379,6 +1404,11 @@
         "id": 114,
         "value": "Collected Everywhere: The Fine for Shaming a Scholar",
         "order": "85.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
       }
     ],
     "form_he": "הארץ",
@@ -1938,6 +1968,11 @@
         "id": 13,
         "value": "Sheilta 46",
         "order": "13.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
       }
     ],
     "form_he": "יהודה",
@@ -2312,8 +2347,13 @@
       },
       {
         "id": 213,
-        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
         "order": "184.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
       }
     ],
     "form_he": "אדום",
@@ -3166,7 +3206,7 @@
       },
       {
         "id": 213,
-        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
         "order": "184.00000000000000000000"
       }
     ],
@@ -3184,7 +3224,7 @@
     "passages": [
       {
         "id": 213,
-        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
         "order": "184.00000000000000000000"
       }
     ],
@@ -3208,7 +3248,7 @@
     "passages": [
       {
         "id": 213,
-        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
         "order": "184.00000000000000000000"
       }
     ],
@@ -3232,13 +3272,341 @@
     "passages": [
       {
         "id": 213,
-        "value": "Four Kingdoms from Kenites to Edom: The Frame of the Reckoning",
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
         "order": "184.00000000000000000000"
       }
     ],
     "form_he": "גלותם",
     "source": [],
     "gloss_en": "their exile",
+    "referent": [],
+    "commentary": ""
+  },
+  "319": {
+    "id": 319,
+    "order": "64.00000000000000000000",
+    "label": "Ereẓ Patros",
+    "loi_id": "loi_parallel__319",
+    "passages": [
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ],
+    "form_he": "ארץ פתרוס",
+    "source": [
+      {
+        "id": 356,
+        "value": "Isaiah 11:11",
+        "order": "171.00000000000000000000"
+      },
+      {
+        "id": 357,
+        "value": "Ezekiel 29:14",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the land of Patros",
+    "referent": [
+      {
+        "id": 226,
+        "value": "Upper Egypt",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "320": {
+    "id": 320,
+    "order": "65.00000000000000000000",
+    "label": "Ereẓ Perazot",
+    "loi_id": "loi_parallel__320",
+    "passages": [
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ],
+    "form_he": "ארץ פרזות",
+    "source": [
+      {
+        "id": 358,
+        "value": "Ezekiel 38:11",
+        "order": "173.00000000000000000000"
+      }
+    ],
+    "gloss_en": "",
+    "referent": [],
+    "commentary": ""
+  },
+  "321": {
+    "id": 321,
+    "order": "66.00000000000000000000",
+    "label": "Admat Yisra’el",
+    "loi_id": "loi_parallel__321",
+    "passages": [
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ],
+    "form_he": "אדמת ישראל",
+    "source": [
+      {
+        "id": 359,
+        "value": "Ezekiel 38:19",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the soil of Israel",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "322": {
+    "id": 322,
+    "order": "67.00000000000000000000",
+    "label": "Ereẓ Gog u-Magog",
+    "loi_id": "loi_parallel__322",
+    "passages": [
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ],
+    "form_he": "ארץ גוג ומגוג",
+    "source": [
+      {
+        "id": 360,
+        "value": "Ezekiel 38:2",
+        "order": "175.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the land of Gog and Magog",
+    "referent": [],
+    "commentary": ""
+  },
+  "323": {
+    "id": 323,
+    "order": "68.00000000000000000000",
+    "label": "Yam Miẓrayim",
+    "loi_id": "loi_parallel__323",
+    "passages": [
+      {
+        "id": 215,
+        "value": "The Plagues upon Gog, the Ingathering, and the Resurrection of the Dead",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "form_he": "ים מצרים",
+    "source": [
+      {
+        "id": 373,
+        "value": "Isaiah 11:15",
+        "order": "188.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the sea of Egypt",
+    "referent": [],
+    "commentary": ""
+  },
+  "324": {
+    "id": 324,
+    "order": "69.00000000000000000000",
+    "label": "Naḥal Miẓrayim",
+    "loi_id": "loi_parallel__324",
+    "passages": [
+      {
+        "id": 215,
+        "value": "The Plagues upon Gog, the Ingathering, and the Resurrection of the Dead",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "form_he": "נחל מצרים",
+    "source": [
+      {
+        "id": 373,
+        "value": "Isaiah 11:15",
+        "order": "188.00000000000000000000"
+      },
+      {
+        "id": 375,
+        "value": "Numbers 34:5",
+        "order": "190.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the river of Egypt",
+    "referent": [
+      {
+        "id": 177,
+        "value": "Egypt",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "325": {
+    "id": 325,
+    "order": "70.00000000000000000000",
+    "label": "Biqʿah",
+    "loi_id": "loi_parallel__325",
+    "passages": [
+      {
+        "id": 215,
+        "value": "The Plagues upon Gog, the Ingathering, and the Resurrection of the Dead",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "form_he": "בקעה",
+    "source": [
+      {
+        "id": 374,
+        "value": "Ezekiel 37:1",
+        "order": "189.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the valley (of the dry bones)",
+    "referent": [],
+    "commentary": ""
+  },
+  "326": {
+    "id": 326,
+    "order": "71.00000000000000000000",
+    "label": "Yerushalayim ha-Benuyah",
+    "loi_id": "loi_parallel__326",
+    "passages": [
+      {
+        "id": 216,
+        "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
+        "order": "187.00000000000000000000"
+      }
+    ],
+    "form_he": "ירושלים הבנויה",
+    "source": [
+      {
+        "id": 390,
+        "value": "Psalms 122:3",
+        "order": "205.00000000000000000000"
+      }
+    ],
+    "gloss_en": "Jerusalem the built",
+    "referent": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "327": {
+    "id": 327,
+    "order": "72.00000000000000000000",
+    "label": "Ha-Kikkar",
+    "loi_id": "loi_parallel__327",
+    "passages": [
+      {
+        "id": 216,
+        "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
+        "order": "187.00000000000000000000"
+      }
+    ],
+    "form_he": "הככר",
+    "source": [
+      {
+        "id": 391,
+        "value": "Genesis 13:11",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "gloss_en": "",
+    "referent": [
+      {
+        "id": 3,
+        "value": "Eretz Israel/Palestine",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "328": {
+    "id": 328,
+    "order": "73.00000000000000000000",
+    "label": "Har YHWH",
+    "loi_id": "loi_parallel__328",
+    "passages": [
+      {
+        "id": 216,
+        "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
+        "order": "187.00000000000000000000"
+      }
+    ],
+    "form_he": "הר ד",
+    "source": [
+      {
+        "id": 392,
+        "value": "Isaiah 2:3",
+        "order": "207.00000000000000000000"
+      }
+    ],
+    "gloss_en": "the mountain of the Lord",
+    "referent": [],
+    "commentary": ""
+  },
+  "329": {
+    "id": 329,
+    "order": "74.00000000000000000000",
+    "label": "Yerushalayim shel Shiʿbud",
+    "loi_id": "loi_parallel__329",
+    "passages": [
+      {
+        "id": 217,
+        "value": "New Heavens and a New Jerusalem: The End of the World and the Final Blessing",
+        "order": "188.00000000000000000000"
+      }
+    ],
+    "form_he": "ירושלים של שעבוד",
+    "source": [],
+    "gloss_en": "the Jerusalem of servitude",
+    "referent": [
+      {
+        "id": 36,
+        "value": "Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "330": {
+    "id": 330,
+    "order": "75.00000000000000000000",
+    "label": "Shamayim Ḥadashim wa-Areẓ Ḥadashah",
+    "loi_id": "loi_parallel__330",
+    "passages": [
+      {
+        "id": 217,
+        "value": "New Heavens and a New Jerusalem: The End of the World and the Final Blessing",
+        "order": "188.00000000000000000000"
+      }
+    ],
+    "form_he": "שמים חדשים וארץ חדשה",
+    "source": [
+      {
+        "id": 400,
+        "value": "Isaiah 65:17",
+        "order": "215.00000000000000000000"
+      }
+    ],
+    "gloss_en": "new heavens and a new earth",
     "referent": [],
     "commentary": ""
   }

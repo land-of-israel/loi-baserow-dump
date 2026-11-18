@@ -114,6 +114,16 @@
         "id": 313,
         "value": "Maʿarav",
         "order": "58.00000000000000000000"
+      },
+      {
+        "id": 321,
+        "value": "Admat Yisra’el",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 327,
+        "value": "Ha-Kikkar",
+        "order": "72.00000000000000000000"
       }
     ],
     "edition": []
@@ -156,6 +166,16 @@
         "id": 122,
         "value": "Miqdash",
         "order": "27.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "Yerushalayim ha-Benuyah",
+        "order": "71.00000000000000000000"
+      },
+      {
+        "id": 329,
+        "value": "Yerushalayim shel Shiʿbud",
+        "order": "74.00000000000000000000"
       }
     ],
     "edition": [
@@ -570,6 +590,11 @@
         "id": 259,
         "value": "Miẓrayim",
         "order": "36.00000000000000000000"
+      },
+      {
+        "id": 324,
+        "value": "Naḥal Miẓrayim",
+        "order": "69.00000000000000000000"
       }
     ],
     "edition": []
@@ -848,5 +873,22 @@
         "order": "71.00000000000000000000"
       }
     ]
+  },
+  "226": {
+    "id": 226,
+    "order": "35.00000000000000000000",
+    "name": "Upper Egypt",
+    "geonames": "",
+    "loi_id": "loi_place__226",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 319,
+        "value": "Ereẓ Patros",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "edition": []
   }
 }

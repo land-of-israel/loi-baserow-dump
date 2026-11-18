@@ -1930,5 +1930,552 @@
     "loi_id": "loi_biblref__355",
     "text_he": "וְאָנֹכִי יְהֹוָה אֱלֹהֶיךָ מֵאֶרֶץ מִצְרָיִם עֹד אוֹשִׁיבְךָ בׇאֳהָלִים כִּימֵי מוֹעֵד",
     "designations": []
+  },
+  "356": {
+    "id": 356,
+    "order": "171.00000000000000000000",
+    "bible": "Isaiah 11:11",
+    "text": "In that day, my Sovereign will apply the divine hand again to redeeming the other part of this people from Assyria—as also from Egypt, Pathros, Cush, Elam, Shinar, Hamath, and the coastlands.",
+    "url": "https://www.sefaria.org/Isaiah.11.11?lang=bi",
+    "loi_id": "loi_biblref__356",
+    "text_he": "וְהָיָה  בַּיּוֹם הַהוּא יוֹסִיף אֲדֹנָי  שֵׁנִית יָדוֹ לִקְנוֹת אֶת־שְׁאָר עַמּוֹ אֲשֶׁר יִשָּׁאֵר מֵאַשּׁוּר וּמִמִּצְרַיִם וּמִפַּתְרוֹס וּמִכּוּשׁ וּמֵעֵילָם וּמִשִּׁנְעָר וּמֵחֲמָת וּמֵאִיֵּי הַיָּם",
+    "designations": [
+      {
+        "id": 319,
+        "value": "Ereẓ Patros",
+        "order": "64.00000000000000000000"
+      }
+    ]
+  },
+  "357": {
+    "id": 357,
+    "order": "172.00000000000000000000",
+    "bible": "Ezekiel 29:14",
+    "text": "I will restore the fortunes of the Egyptians and bring them back to the land of their origin, the land of Pathros, and there they shall be a lowly kingdom.",
+    "url": "https://www.sefaria.org/Ezekiel.29.14?lang=bi",
+    "loi_id": "loi_biblref__357",
+    "text_he": "וְשַׁבְתִּי אֶת־שְׁבוּת מִצְרַיִם וַהֲשִׁבֹתִי אֹתָם אֶרֶץ פַּתְרוֹס עַל־אֶרֶץ מְכוּרָתָם וְהָיוּ שָׁם מַמְלָכָה שְׁפָלָה",
+    "designations": [
+      {
+        "id": 319,
+        "value": "Ereẓ Patros",
+        "order": "64.00000000000000000000"
+      }
+    ]
+  },
+  "358": {
+    "id": 358,
+    "order": "173.00000000000000000000",
+    "bible": "Ezekiel 38:11",
+    "text": "You will say, “I will invade a land of open towns, I will fall upon a tranquil people living secure, all of them living in unwalled towns and lacking bars and gates,",
+    "url": "https://www.sefaria.org/Ezekiel.38.11?lang=bi",
+    "loi_id": "loi_biblref__358",
+    "text_he": "וְאָמַרְתָּ אֶעֱלֶה עַל־אֶרֶץ פְּרָזוֹת אָבוֹא הַשֹּׁקְטִים יֹשְׁבֵי לָבֶטַח כֻּלָּם יֹשְׁבִים בְּאֵין חוֹמָה וּבְרִיחַ וּדְלָתַיִם אֵין לָהֶם",
+    "designations": [
+      {
+        "id": 320,
+        "value": "Ereẓ Perazot",
+        "order": "65.00000000000000000000"
+      }
+    ]
+  },
+  "359": {
+    "id": 359,
+    "order": "174.00000000000000000000",
+    "bible": "Ezekiel 38:19",
+    "text": "For I have decreed in My indignation and in My blazing wrath: On that day, a terrible earthquake shall befall the land of Israel.",
+    "url": "https://www.sefaria.org/Ezekiel.38.19?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__359",
+    "text_he": "וּבְקִנְאָתִי בְאֵשׁ־עֶבְרָתִי דִּבַּרְתִּי אִם־לֹא  בַּיּוֹם הַהוּא יִהְיֶה רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל",
+    "designations": [
+      {
+        "id": 321,
+        "value": "Admat Yisra’el",
+        "order": "66.00000000000000000000"
+      }
+    ]
+  },
+  "360": {
+    "id": 360,
+    "order": "175.00000000000000000000",
+    "bible": "Ezekiel 38:2",
+    "text": "O mortal, turn your face toward Gog of the land of Magog, the chief prince of Meshech and Tubal. Prophesy against him",
+    "url": "https://www.sefaria.org/Ezekiel.38.2?lang=bi",
+    "loi_id": "loi_biblref__360",
+    "text_he": "בֶּן־אָדָם שִׂים פָּנֶיךָ אֶל־גּוֹג אֶרֶץ הַמָּגוֹג נְשִׂיא רֹאשׁ מֶשֶׁךְ וְתֻבָל וְהִנָּבֵא עָלָיו",
+    "designations": [
+      {
+        "id": 322,
+        "value": "Ereẓ Gog u-Magog",
+        "order": "67.00000000000000000000"
+      }
+    ]
+  },
+  "361": {
+    "id": 361,
+    "order": "176.00000000000000000000",
+    "bible": "Ezekiel 20:38",
+    "text": "I will remove from you those who rebel and transgress against Me; I will take them out of the countries where they sojourn, but they shall not enter the land of Israel. Then you shall know that I am GOD.",
+    "url": "https://www.sefaria.org/Ezekiel.20.38?lang=bi",
+    "loi_id": "loi_biblref__361",
+    "text_he": "וּבָרוֹתִי מִכֶּם הַמֹּרְדִים וְהַפּוֹשְׁעִים בִּי מֵאֶרֶץ מְגוּרֵיהֶם אוֹצִיא אוֹתָם וְאֶל־אַדְמַת יִשְׂרָאֵל לֹא יָבוֹא וִידַעְתֶּם כִּי־אֲנִי יְהֹוָה",
+    "designations": []
+  },
+  "362": {
+    "id": 362,
+    "order": "177.00000000000000000000",
+    "bible": "Ezekiel 20:37",
+    "text": "I will make you pass under the shepherd’s staff, and I will bring you into the bond of the covenant.",
+    "url": "https://www.sefaria.org/Ezekiel.20.37?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__362",
+    "text_he": "וְהַעֲבַרְתִּי אֶתְכֶם תַּחַת הַשָּׁבֶט וְהֵבֵאתִי אֶתְכֶם בְּמָסֹרֶת הַבְּרִית",
+    "designations": []
+  },
+  "363": {
+    "id": 363,
+    "order": "178.00000000000000000000",
+    "bible": "Zechariah 14:2",
+    "text": "For I will gather all the nations to Jerusalem for war: The city shall be captured, the houses plundered, and the women violated; and a part of the city shall go into exile. But the rest of the population shall not be uprooted from the city.",
+    "url": "https://www.sefaria.org/Zechariah.14.2?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__363",
+    "text_he": "וְאָסַפְתִּי אֶת־כׇּל־הַגּוֹיִם  אֶל־יְרוּשָׁלַ͏ִם לַמִּלְחָמָה וְנִלְכְּדָה הָעִיר וְנָשַׁסּוּ הַבָּתִּים וְהַנָּשִׁים (תשגלנה) [תִּשָּׁכַבְנָה] וְיָצָא חֲצִי הָעִיר בַּגּוֹלָה וְיֶתֶר הָעָם לֹא יִכָּרֵת מִן־הָעִיר",
+    "designations": []
+  },
+  "364": {
+    "id": 364,
+    "order": "179.00000000000000000000",
+    "bible": "Zechariah 12:10",
+    "text": "But I will fill the House of David and the inhabitants of Jerusalem with a spirit of pity and compassion; and they shall lament to Me about those who are slain, wailing over them as over a favorite son and showing bitter grief as over a first-born.",
+    "url": "https://www.sefaria.org/Zechariah.12.10?lang=bi",
+    "loi_id": "loi_biblref__364",
+    "text_he": "וְשָׁפַכְתִּי עַל־בֵּית דָּוִיד וְעַל  יוֹשֵׁב יְרוּשָׁלַ͏ִם רוּחַ חֵן וְתַחֲנוּנִים וְהִבִּיטוּ אֵלַי אֵת אֲשֶׁר־דָּקָרוּ וְסָפְדוּ עָלָיו כְּמִסְפֵּד עַל־הַיָּחִיד וְהָמֵר עָלָיו כְּהָמֵר עַל־הַבְּכוֹר",
+    "designations": []
+  },
+  "365": {
+    "id": 365,
+    "order": "180.00000000000000000000",
+    "bible": "Amos 9:10",
+    "text": "All the sinners of My people\nShall perish by the sword,\nWho boast,\n“Never shall the evil\nOvertake us or come near us.”",
+    "url": "https://www.sefaria.org/Amos.9.10?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__365",
+    "text_he": "בַּחֶרֶב יָמוּתוּ כֹּל חַטָּאֵי עַמִּי הָאֹמְרִים לֹא־תַגִּישׁ וְתַקְדִּים בַּעֲדֵינוּ הָרָעָה",
+    "designations": []
+  },
+  "366": {
+    "id": 366,
+    "order": "181.00000000000000000000",
+    "bible": "Zechariah 13:8",
+    "text": "Throughout the land\n—declares  GOD—\nTwo-thirds shall perish, shall die,\nAnd one-third of it shall survive.",
+    "url": "https://www.sefaria.org/Zechariah.13.8?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__366",
+    "text_he": "וְהָיָה בְכׇל־הָאָרֶץ נְאֻם־יְהֹוָה פִּי־שְׁנַיִם בָּהּ יִכָּרְתוּ יִגְוָעוּ וְהַשְּׁלִשִׁית יִוָּתֶר בָּהּ",
+    "designations": []
+  },
+  "367": {
+    "id": 367,
+    "order": "182.00000000000000000000",
+    "bible": "Zechariah 13:9",
+    "text": "That third I will put into the fire,\nAnd I will smelt them as one smelts silver\nAnd test them as one tests gold.\nThey will invoke Me by name,\nAnd I will respond to them.\nI will declare, “You are My people,”\nAnd they will declare,\n“ The ETERNAL is our God!”",
+    "url": "https://www.sefaria.org/Zechariah.13.9?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__367",
+    "text_he": "וְהֵבֵאתִי אֶת־הַשְּׁלִשִׁית בָּאֵשׁ וּצְרַפְתִּים כִּצְרֹף אֶת־הַכֶּסֶף וּבְחַנְתִּים כִּבְחֹן אֶת־הַזָּהָב הוּא  יִקְרָא בִשְׁמִי וַאֲנִי אֶעֱנֶה אֹתוֹ אָמַרְתִּי עַמִּי הוּא וְהוּא יֹאמַר יְהֹוָה אֱלֹהָי",
+    "designations": []
+  },
+  "368": {
+    "id": 368,
+    "order": "183.00000000000000000000",
+    "bible": "Malachi 3:24",
+    "text": "He shall reconcile parents with children and children with their parents, so that, when I come, I do not strike the whole land with utter destruction.",
+    "url": "https://www.sefaria.org/Malachi.3.24?lang=bi",
+    "loi_id": "loi_biblref__368",
+    "text_he": "וְהֵשִׁיב לֵב־אָבוֹת עַל־בָּנִים וְלֵב בָּנִים עַל־אֲבוֹתָם פֶּן־אָבוֹא וְהִכֵּיתִי אֶת־הָאָרֶץ חֵרֶם",
+    "designations": []
+  },
+  "369": {
+    "id": 369,
+    "order": "184.00000000000000000000",
+    "bible": "Malachi 3:1",
+    "text": "Behold, I am sending My messenger to clear the way before Me, and the Sovereign you seek shall come to the temple suddenly. As for the angel of the covenant that you desire, he is already coming",
+    "url": "https://www.sefaria.org/Malachi.3.1?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__369",
+    "text_he": "הִנְנִי שֹׁלֵחַ מַלְאָכִי וּפִנָּה־דֶרֶךְ לְפָנָי וּפִתְאֹם יָבוֹא אֶל־הֵיכָלוֹ הָאָדוֹן  אֲשֶׁר־אַתֶּם מְבַקְשִׁים וּמַלְאַךְ הַבְּרִית אֲשֶׁר־אַתֶּם חֲפֵצִים הִנֵּה־בָא אָמַר יְהֹוָה צְבָאוֹת",
+    "designations": []
+  },
+  "370": {
+    "id": 370,
+    "order": "185.00000000000000000000",
+    "bible": "Jeremiah 3:18",
+    "text": "In those days, the House of Judah shall go with the House of Israel; they shall come together from the land of the north to the land I gave your ancestors as a possession.",
+    "url": "https://www.sefaria.org/Jeremiah.3.18?lang=bi",
+    "loi_id": "loi_biblref__370",
+    "text_he": "בַּיָּמִים הָהֵמָּה יֵלְכוּ בֵית־יְהוּדָה עַל־בֵּית יִשְׂרָאֵל וְיָבֹאוּ יַחְדָּו מֵאֶרֶץ צָפוֹן עַל־הָאָרֶץ אֲשֶׁר הִנְחַלְתִּי אֶת־אֲבוֹתֵיכֶם",
+    "designations": []
+  },
+  "371": {
+    "id": 371,
+    "order": "186.00000000000000000000",
+    "bible": "Ezekiel 38:6",
+    "text": "Gomer and all its cohorts, Beth-togarmah [in] the remotest parts of the north and all its cohorts—the many peoples with you.",
+    "url": "https://www.sefaria.org/Ezekiel.38.6?lang=bi",
+    "loi_id": "loi_biblref__371",
+    "text_he": "גֹּמֶר וְכׇל־אֲגַפֶּיהָ בֵּית תּוֹגַרְמָה יַרְכְּתֵי צָפוֹן וְאֶת־כׇּל־אֲגַפָּיו עַמִּים רַבִּים אִתָּךְ",
+    "designations": []
+  },
+  "372": {
+    "id": 372,
+    "order": "187.00000000000000000000",
+    "bible": "Zechariah 12:2",
+    "text": "Behold, I will make Jerusalem a bowl of reeling for the peoples all around. Judah shall be caught up in the siege upon Jerusalem,",
+    "url": "https://www.sefaria.org/Zechariah.12.2?lang=bi",
+    "loi_id": "loi_biblref__372",
+    "text_he": "הִנֵּה אָנֹכִי שָׂם אֶת־יְרוּשָׁלַ͏ִם סַף־רַעַל לְכׇל־הָעַמִּים סָבִיב וְגַם עַל־יְהוּדָה יִהְיֶה בַמָּצוֹר עַל־יְרוּשָׁלָ͏ִם",
+    "designations": []
+  },
+  "373": {
+    "id": 373,
+    "order": "188.00000000000000000000",
+    "bible": "Isaiah 11:15",
+    "text": "GOD will dry up the tongue of the Egyptian sea—and will raise a hand over the Euphrates with a mighty wind and break it into seven wadis, so that it can be trodden dry-shod.",
+    "url": "https://www.sefaria.org/Isaiah.11.15?lang=bi",
+    "loi_id": "loi_biblref__373",
+    "text_he": "וְהֶחֱרִים יְהֹוָה אֵת לְשׁוֹן יָם־מִצְרַיִם וְהֵנִיף יָדוֹ עַל־הַנָּהָר בַּעְיָם רוּחוֹ וְהִכָּהוּ לְשִׁבְעָה נְחָלִים וְהִדְרִיךְ בַּנְּעָלִים",
+    "designations": [
+      {
+        "id": 323,
+        "value": "Yam Miẓrayim",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 324,
+        "value": "Naḥal Miẓrayim",
+        "order": "69.00000000000000000000"
+      }
+    ]
+  },
+  "374": {
+    "id": 374,
+    "order": "189.00000000000000000000",
+    "bible": "Ezekiel 37:1",
+    "text": "GOD’s hand came upon me. I was taken out by the spirit of GOD and set down in the valley. It was full of bones.",
+    "url": "https://www.sefaria.org/Ezekiel.37.1?lang=bi",
+    "loi_id": "loi_biblref__374",
+    "text_he": "הָיְתָה עָלַי יַד־יְהֹוָה וַיּוֹצִאֵנִי בְרוּחַ יְהֹוָה וַיְנִיחֵנִי בְּתוֹךְ הַבִּקְעָה וְהִיא מְלֵאָה עֲצָמוֹת",
+    "designations": [
+      {
+        "id": 325,
+        "value": "Biqʿah",
+        "order": "70.00000000000000000000"
+      }
+    ]
+  },
+  "375": {
+    "id": 375,
+    "order": "190.00000000000000000000",
+    "bible": "Numbers 34:5",
+    "text": "From Azmon the boundary shall turn toward the Wadi of Egypt and terminate at the Sea.",
+    "url": "https://www.sefaria.org/Numbers.34.5?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__375",
+    "text_he": "וְנָסַב הַגְּבוּל מֵעַצְמוֹן נַחְלָה מִצְרָיִם וְהָיוּ תוֹצְאֹתָיו הַיָּמָּה",
+    "designations": [
+      {
+        "id": 324,
+        "value": "Naḥal Miẓrayim",
+        "order": "69.00000000000000000000"
+      }
+    ]
+  },
+  "376": {
+    "id": 376,
+    "order": "191.00000000000000000000",
+    "bible": "Ezekiel 38:22",
+    "text": "I will punish him with pestilence and with bloodshed; and I will pour torrential rain, hailstones, and sulfurous fire upon him and his hordes and the many peoples with him.",
+    "url": "https://www.sefaria.org/Ezekiel.38.22?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__376",
+    "text_he": "וְנִשְׁפַּטְתִּי אִתּוֹ בְּדֶבֶר וּבְדָם וְגֶשֶׁם שׁוֹטֵף וְאַבְנֵי אֶלְגָּבִישׁ אֵשׁ וְגׇפְרִית אַמְטִיר עָלָיו וְעַל־אֲגַפָּיו וְעַל־עַמִּים רַבִּים אֲשֶׁר אִתּוֹ",
+    "designations": []
+  },
+  "377": {
+    "id": 377,
+    "order": "192.00000000000000000000",
+    "bible": "Ezekiel 38:21",
+    "text": "I will then summon the sword against him throughout My mountains—declares the Sovereign GOD—and every man’s sword shall be turned against his kin.",
+    "url": "https://www.sefaria.org/Ezekiel.38.21?lang=bi",
+    "loi_id": "loi_biblref__377",
+    "text_he": "וְקָרָאתִי עָלָיו לְכׇל־הָרַי חֶרֶב נְאֻם אֲדֹנָי יֱהֹוִה חֶרֶב אִישׁ בְּאָחִיו תִּהְיֶה",
+    "designations": []
+  },
+  "378": {
+    "id": 378,
+    "order": "193.00000000000000000000",
+    "bible": "Zechariah 14:12",
+    "text": "As for those peoples that warred against Jerusalem, GOD will smite them with this plague: Their flesh shall rot away while they stand on their feet; their eyes shall rot away in their sockets; and their tongues shall rot away in their mouths.",
+    "url": "https://www.sefaria.org/Zechariah.14.12?lang=bi",
+    "loi_id": "loi_biblref__378",
+    "text_he": "וְזֹאת  תִּהְיֶה הַמַּגֵּפָה אֲשֶׁר יִגֹּף יְהֹוָה אֶת־כׇּל־הָעַמִּים אֲשֶׁר צָבְאוּ עַל־יְרוּשָׁלָ͏ִם הָמֵק  בְּשָׂרוֹ וְהוּא עֹמֵד עַל־רַגְלָיו וְעֵינָיו תִּמַּקְנָה בְחֹרֵיהֶן וּלְשׁוֹנוֹ תִּמַּק בְּפִיהֶם",
+    "designations": []
+  },
+  "379": {
+    "id": 379,
+    "order": "194.00000000000000000000",
+    "bible": "Zechariah 14:13",
+    "text": "In that day, a great panic from GOD shall fall upon them, and everyone shall snatch at the hand of another, and everyone shall raise their hand against everyone else’s hand.",
+    "url": "https://www.sefaria.org/Zechariah.14.13?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__379",
+    "text_he": "וְהָיָה בַּיּוֹם הַהוּא תִּהְיֶה מְהוּמַת־יְהֹוָה רַבָּה בָּהֶם וְהֶחֱזִיקוּ אִישׁ יַד רֵעֵהוּ וְעָלְתָה יָדוֹ עַל־יַד רֵעֵהוּ",
+    "designations": []
+  },
+  "380": {
+    "id": 380,
+    "order": "195.00000000000000000000",
+    "bible": "Isaiah 66:20",
+    "text": "And out of all the nations, said GOD, they shall bring all your kindred on horses, in chariots and drays, on mules and dromedaries, to Jerusalem My holy mountain as an offering to GOD—just as the Israelites bring an offering in a pure vessel to the House of GOD.",
+    "url": "https://www.sefaria.org/Isaiah.66.20?lang=bi",
+    "loi_id": "loi_biblref__380",
+    "text_he": "וְהֵבִיאוּ אֶת־כׇּל־אֲחֵיכֶם מִכׇּל־הַגּוֹיִם  מִנְחָה  לַיהֹוָה בַּסּוּסִים וּבָרֶכֶב וּבַצַּבִּים וּבַפְּרָדִים וּבַכִּרְכָּרוֹת עַל הַר קׇדְשִׁי יְרוּשָׁלַ͏ִם אָמַר יְהֹוָה כַּאֲשֶׁר יָבִיאוּ בְנֵי יִשְׂרָאֵל אֶת־הַמִּנְחָה בִּכְלִי טָהוֹר בֵּית יְהֹוָה",
+    "designations": []
+  },
+  "381": {
+    "id": 381,
+    "order": "196.00000000000000000000",
+    "bible": "Isaiah 43:6",
+    "text": "I will say to the North, “Give back!”\nAnd to the South, “Do not withhold!\nBring My sons from afar,\nAnd My daughters from the end of the earth—",
+    "url": "https://www.sefaria.org/Isaiah.43.6?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__381",
+    "text_he": "אֹמַר לַצָּפוֹן תֵּנִי וּלְתֵימָן אַל־תִּכְלָאִי הָבִיאִי בָנַי מֵרָחוֹק וּבְנוֹתַי מִקְצֵה הָאָרֶץ",
+    "designations": []
+  },
+  "382": {
+    "id": 382,
+    "order": "197.00000000000000000000",
+    "bible": "Isaiah 60:8",
+    "text": "Who are these that float like a cloud,\nLike doves to their cotes?",
+    "url": "https://www.sefaria.org/Isaiah.60.8?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__382",
+    "text_he": "מִי־אֵלֶּה כָּעָב תְּעוּפֶינָה וְכַיּוֹנִים אֶל־אֲרֻבֹּתֵיהֶם",
+    "designations": []
+  },
+  "383": {
+    "id": 383,
+    "order": "198.00000000000000000000",
+    "bible": "Isaiah 41:18",
+    "text": "I will open up streams on the bare hills\nAnd fountains amid the valleys;\nI will turn the desert into ponds,\nThe arid land into springs of water.",
+    "url": "https://www.sefaria.org/Isaiah.41.18?lang=bi",
+    "loi_id": "loi_biblref__383",
+    "text_he": "אֶפְתַּח עַל־שְׁפָיִים נְהָרוֹת וּבְתוֹךְ בְּקָעוֹת מַעְיָנוֹת אָשִׂים מִדְבָּר לַאֲגַם־מַיִם וְאֶרֶץ צִיָּה לְמוֹצָאֵי מָיִם",
+    "designations": []
+  },
+  "384": {
+    "id": 384,
+    "order": "199.00000000000000000000",
+    "bible": "Ezekiel 39:28",
+    "text": "They shall know that I the ETERNAL am their GOD when, having exiled them among the nations, I gather them back into their land and leave none of them behind.",
+    "url": "https://www.sefaria.org/Ezekiel.39.28?lang=bi",
+    "loi_id": "loi_biblref__384",
+    "text_he": "וְיָדְעוּ כִּי אֲנִי יְהֹוָה אֱלֹהֵיהֶם בְּהַגְלוֹתִי אֹתָם אֶל־הַגּוֹיִם וְכִנַּסְתִּים עַל־אַדְמָתָם וְלֹא־אוֹתִיר עוֹד מֵהֶם שָׁם",
+    "designations": []
+  },
+  "385": {
+    "id": 385,
+    "order": "200.00000000000000000000",
+    "bible": "Isaiah 27:13",
+    "text": "And in that day, a great ram’s horn shall be sounded; and the strayed who are in the land of Assyria and the expelled who are in the land of Egypt shall come and worship GOD on the holy mount, in Jerusalem.",
+    "url": "https://www.sefaria.org/Isaiah.27.13?lang=bi",
+    "loi_id": "loi_biblref__385",
+    "text_he": "וְהָיָה  בַּיּוֹם הַהוּא יִתָּקַע בְּשׁוֹפָר גָּדוֹל וּבָאוּ הָאֹבְדִים בְּאֶרֶץ אַשּׁוּר וְהַנִּדָּחִים בְּאֶרֶץ מִצְרָיִם וְהִשְׁתַּחֲווּ לַיהֹוָה בְּהַר הַקֹּדֶשׁ בִּירוּשָׁלָ͏ִם",
+    "designations": []
+  },
+  "386": {
+    "id": 386,
+    "order": "201.00000000000000000000",
+    "bible": "Isaiah 26:19",
+    "text": "Oh, let Your dead revive!\nLet corpses arise!\nAwake and shout for joy,\nYou who dwell in the dust!—\nFor Your dew is like the dew on fresh growth;\nYou make the land of the shades come to life.",
+    "url": "https://www.sefaria.org/Isaiah.26.19?lang=bi",
+    "loi_id": "loi_biblref__386",
+    "text_he": "יִחְיוּ מֵתֶיךָ נְבֵלָתִי יְקוּמוּן הָקִיצוּ וְרַנְּנוּ שֹׁכְנֵי עָפָר כִּי טַל אוֹרֹת טַלֶּךָ וָאָרֶץ רְפָאִים תַּפִּיל",
+    "designations": []
+  },
+  "387": {
+    "id": 387,
+    "order": "202.00000000000000000000",
+    "bible": "Ezekiel 37:13",
+    "text": "You shall know, O My people, that I am GOD, when I have opened your graves and lifted you out of your graves.",
+    "url": "https://www.sefaria.org/Ezekiel.37.13?lang=bi",
+    "loi_id": "loi_biblref__387",
+    "text_he": "וִידַעְתֶּם כִּי־אֲנִי יְהֹוָה בְּפִתְחִי אֶת־קִבְרוֹתֵיכֶם וּבְהַעֲלוֹתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי",
+    "designations": []
+  },
+  "388": {
+    "id": 388,
+    "order": "203.00000000000000000000",
+    "bible": "Isaiah 35:5",
+    "text": "Then the eyes of the blind shall be opened,\nAnd the ears of the deaf shall be unstopped.",
+    "url": "https://www.sefaria.org/Isaiah.35.5?lang=bi",
+    "loi_id": "loi_biblref__388",
+    "text_he": "אָז תִּפָּקַחְנָה עֵינֵי עִוְרִים וְאׇזְנֵי חֵרְשִׁים תִּפָּתַחְנָה",
+    "designations": []
+  },
+  "389": {
+    "id": 389,
+    "order": "204.00000000000000000000",
+    "bible": "Daniel 12:2",
+    "text": "Many of those that sleep in the dust of the earth will awake, some to eternal life, others to reproaches, to everlasting abhorrence.",
+    "url": "https://www.sefaria.org/Daniel.12.2?lang=bi",
+    "loi_id": "loi_biblref__389",
+    "text_he": "וְרַבִּים מִיְּשֵׁנֵי אַדְמַת־עָפָר יָקִיצוּ אֵלֶּה לְחַיֵּי עוֹלָם וְאֵלֶּה לַחֲרָפוֹת לְדִרְאוֹן עוֹלָם",
+    "designations": []
+  },
+  "390": {
+    "id": 390,
+    "order": "205.00000000000000000000",
+    "bible": "Psalms 122:3",
+    "text": "Jerusalem built up, a city knit together,",
+    "url": "https://www.sefaria.org/Psalms.122.3?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__390",
+    "text_he": "יְרוּשָׁלַ͏ִם הַבְּנוּיָה כְּעִיר שֶׁחֻבְּרָה־לָּהּ יַחְדָּו",
+    "designations": [
+      {
+        "id": 326,
+        "value": "Yerushalayim ha-Benuyah",
+        "order": "71.00000000000000000000"
+      }
+    ]
+  },
+  "391": {
+    "id": 391,
+    "order": "206.00000000000000000000",
+    "bible": "Genesis 13:11",
+    "text": "So Lot chose for himself the whole plain of the Jordan, and Lot journeyed eastward. Thus they parted from each other;",
+    "url": "https://www.sefaria.org/Genesis.13.10?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__391",
+    "text_he": "וַיִּבְחַר־לוֹ לוֹט אֵת כׇּל־כִּכַּר הַיַּרְדֵּן וַיִּסַּע לוֹט מִקֶּדֶם וַיִּפָּרְדוּ אִישׁ מֵעַל אָחִיו",
+    "designations": [
+      {
+        "id": 327,
+        "value": "Ha-Kikkar",
+        "order": "72.00000000000000000000"
+      }
+    ]
+  },
+  "392": {
+    "id": 392,
+    "order": "207.00000000000000000000",
+    "bible": "Isaiah 2:3",
+    "text": "And the many peoples shall go and say:\n“Come,\nLet us go up to the Mount of  GOD,\nTo the House of the God of Jacob;\nThat we may be instructed in God’s ways,\nAnd that we may walk in God’s paths.”\nFor instruction shall come forth from Zion,\nThe word of  GOD from Jerusalem.",
+    "url": "https://www.sefaria.org/Isaiah.2.3?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__392",
+    "text_he": "וְהָלְכוּ עַמִּים רַבִּים וְאָמְרוּ לְכוּ  וְנַעֲלֶה אֶל־הַר־יְהֹוָה אֶל־בֵּית אֱלֹהֵי יַעֲקֹב וְיֹרֵנוּ מִדְּרָכָיו וְנֵלְכָה בְּאֹרְחֹתָיו כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר־יְהֹוָה מִירוּשָׁלָ͏ִם",
+    "designations": [
+      {
+        "id": 328,
+        "value": "Har YHWH",
+        "order": "73.00000000000000000000"
+      }
+    ]
+  },
+  "393": {
+    "id": 393,
+    "order": "208.00000000000000000000",
+    "bible": "Joel 3:1",
+    "text": "After that,\nI will pour out My spirit on all flesh;\nYour sons and daughters shall prophesy;\nYour elders shall dream dreams,\nAnd your youths shall see visions.",
+    "url": "https://www.sefaria.org/Joel.3.1?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__393",
+    "text_he": "וְהָיָה אַחֲרֵי־כֵן אֶשְׁפּוֹךְ אֶת־רוּחִי עַל־כׇּל־בָּשָׂר וְנִבְּאוּ בְּנֵיכֶם וּבְנוֹתֵיכֶם זִקְנֵיכֶם חֲלֹמוֹת יַחֲלֹמוּן בַּחוּרֵיכֶם חֶזְיֹנוֹת יִרְאוּ",
+    "designations": []
+  },
+  "394": {
+    "id": 394,
+    "order": "209.00000000000000000000",
+    "bible": "Zephaniah 3:9",
+    "text": "For then I will make the peoples pure of speech, \nSo that they all invoke  GOD by name\nAnd render service with one accord.",
+    "url": "https://www.sefaria.org/Zephaniah.3.9?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__394",
+    "text_he": "כִּי־אָז אֶהְפֹּךְ אֶל־עַמִּים שָׂפָה בְרוּרָה לִקְרֹא כֻלָּם בְּשֵׁם יְהֹוָה לְעׇבְדוֹ שְׁכֶם אֶחָד",
+    "designations": []
+  },
+  "395": {
+    "id": 395,
+    "order": "210.00000000000000000000",
+    "bible": "Isaiah 2:4",
+    "text": "Thus [God] will judge among the nations\nAnd arbitrate for the many peoples,\nAnd they shall beat their swords into plowshares \nAnd their spears into pruning hooks:\nNation shall not take up\nSword against nation;\nThey shall never again know war.",
+    "url": "https://www.sefaria.org/Isaiah.2.4?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__395",
+    "text_he": "וְשָׁפַט בֵּין הַגּוֹיִם וְהוֹכִיחַ לְעַמִּים רַבִּים וְכִתְּתוּ חַרְבוֹתָם לְאִתִּים וַחֲנִיתוֹתֵיהֶם לְמַזְמֵרוֹת לֹא־יִשָּׂא גוֹי אֶל־גּוֹי חֶרֶב וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה",
+    "designations": []
+  },
+  "396": {
+    "id": 396,
+    "order": "211.00000000000000000000",
+    "bible": "Isaiah 11:6",
+    "text": "The wolf shall dwell with the lamb,\nThe leopard lie down with the kid;\nThe calf, the beast of prey, and the fatling together,\nWith a little child to herd them.",
+    "url": "https://www.sefaria.org/Isaiah.11.6?lang=bi",
+    "loi_id": "loi_biblref__396",
+    "text_he": "וְגָר זְאֵב עִם־כֶּבֶשׂ וְנָמֵר עִם־גְּדִי יִרְבָּץ וְעֵגֶל וּכְפִיר וּמְרִיא יַחְדָּו וְנַעַר קָטֹן נֹהֵג בָּם",
+    "designations": []
+  },
+  "397": {
+    "id": 397,
+    "order": "212.00000000000000000000",
+    "bible": "Isaiah 65:20",
+    "text": "No more shall there be an infant or graybeard\nWho does not live out their lifetime.\nSomeone who dies at a hundred years\nShall be reckoned a youth,\nAnd one who fails to reach a hundred\nShall be reckoned accursed.",
+    "url": "https://www.sefaria.org/Isaiah.65.20?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__397",
+    "text_he": "לֹא־יִהְיֶה מִשָּׁם עוֹד עוּל יָמִים וְזָקֵן אֲשֶׁר לֹא־יְמַלֵּא אֶת־יָמָיו כִּי הַנַּעַר בֶּן־מֵאָה שָׁנָה יָמוּת וְהַחוֹטֶא בֶּן־מֵאָה שָׁנָה יְקֻלָּל",
+    "designations": []
+  },
+  "398": {
+    "id": 398,
+    "order": "213.00000000000000000000",
+    "bible": "Isaiah 25:8",
+    "text": "Death will be destroyed forever.\nMy Sovereign  GOD will wipe the tears away\nFrom all faces\nAnd will put an end to the reproach of God’s people \nOver all the earth—\nFor it is  GOD who has spoken.",
+    "url": "https://www.sefaria.org/Isaiah.25.8?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__398",
+    "text_he": "בִּלַּע הַמָּוֶת לָנֶצַח וּמָחָה אֲדֹנָי יֱהֹוִה דִּמְעָה מֵעַל כׇּל־פָּנִים וְחֶרְפַּת עַמּוֹ יָסִיר מֵעַל כׇּל־הָאָרֶץ כִּי יְהֹוָה דִּבֵּר",
+    "designations": []
+  },
+  "399": {
+    "id": 399,
+    "order": "214.00000000000000000000",
+    "bible": "Isaiah 60:3",
+    "text": "And nations shall walk by your light,\nKings, by your shining radiance.",
+    "url": "https://www.sefaria.org/Isaiah.60.3?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__399",
+    "text_he": "וְהָלְכוּ גוֹיִם לְאוֹרֵךְ וּמְלָכִים לְנֹגַהּ זַרְחֵךְ",
+    "designations": []
+  },
+  "400": {
+    "id": 400,
+    "order": "215.00000000000000000000",
+    "bible": "Isaiah 65:17",
+    "text": "For behold! I am creating\nA new heaven and a new earth;\nThe former things shall not be remembered,\nThey shall never come to mind.",
+    "url": "https://www.sefaria.org/Isaiah.65.17?lang=bi",
+    "loi_id": "loi_biblref__400",
+    "text_he": "כִּי־הִנְנִי בוֹרֵא שָׁמַיִם חֲדָשִׁים וָאָרֶץ חֲדָשָׁה וְלֹא תִזָּכַרְנָה הָרִאשֹׁנוֹת וְלֹא תַעֲלֶינָה עַל־לֵב",
+    "designations": [
+      {
+        "id": 330,
+        "value": "Shamayim Ḥadashim wa-Areẓ Ḥadashah",
+        "order": "75.00000000000000000000"
+      }
+    ]
+  },
+  "401": {
+    "id": 401,
+    "order": "216.00000000000000000000",
+    "bible": "Isaiah 65:18",
+    "text": "Be glad, then, and rejoice forever\nIn what I am creating.\nFor I shall create Jerusalem as a joy,\nAnd her people as a delight;",
+    "url": "https://www.sefaria.org/Isaiah.65.18?lang=bi",
+    "loi_id": "loi_biblref__401",
+    "text_he": "כִּי־אִם־שִׂישׂוּ וְגִילוּ עֲדֵי־עַד אֲשֶׁר אֲנִי בוֹרֵא כִּי הִנְנִי בוֹרֵא אֶת־יְרוּשָׁלַ͏ִם גִּילָה וְעַמָּהּ מָשׂוֹשׂ",
+    "designations": []
+  },
+  "402": {
+    "id": 402,
+    "order": "217.00000000000000000000",
+    "bible": "Isaiah 51:6",
+    "text": "Raise your eyes to the heavens,\nAnd look upon the earth beneath:\nThough the heavens should melt away like smoke,\nAnd the earth wear out like a garment,\nAnd its inhabitants die out as well, \nMy victory shall stand forever,\nMy triumph shall remain unbroken.",
+    "url": "https://www.sefaria.org/Isaiah.51.6?lang=bi&with=all&lang2=en",
+    "loi_id": "loi_biblref__402",
+    "text_he": "שְׂאוּ לַשָּׁמַיִם עֵינֵיכֶם וְהַבִּיטוּ אֶל־הָאָרֶץ מִתַּחַת כִּי־שָׁמַיִם כֶּעָשָׁן נִמְלָחוּ וְהָאָרֶץ כַּבֶּגֶד תִּבְלֶה וְיֹשְׁבֶיהָ כְּמוֹ־כֵן יְמוּתוּן וִישׁוּעָתִי לְעוֹלָם תִּהְיֶה וְצִדְקָתִי לֹא תֵחָת",
+    "designations": []
   }
 }

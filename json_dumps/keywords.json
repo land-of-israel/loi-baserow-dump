@@ -4751,6 +4751,16 @@
         "id": 202,
         "value": "Three or Even One: The Redemption of the Second Tithe",
         "order": "173.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
+        "order": "184.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
       }
     ]
   },
@@ -5103,6 +5113,217 @@
         "id": 212,
         "value": "There Is No Custom Worse and More Unseemly Than Yours",
         "order": "183.00000000000000000000"
+      }
+    ]
+  },
+  "475": {
+    "id": 475,
+    "order": "259.00000000000000000000",
+    "label": "Messiah ben Joseph",
+    "notes": "",
+    "loi_id": "loi_keyword__475",
+    "passages": [
+      {
+        "id": 213,
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
+        "order": "184.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ]
+  },
+  "476": {
+    "id": 476,
+    "order": "260.00000000000000000000",
+    "label": "four kingdoms",
+    "notes": "",
+    "loi_id": "loi_keyword__476",
+    "passages": [
+      {
+        "id": 213,
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
+        "order": "184.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ]
+  },
+  "477": {
+    "id": 477,
+    "order": "261.00000000000000000000",
+    "label": "Edom",
+    "notes": "",
+    "loi_id": "loi_keyword__477",
+    "passages": [
+      {
+        "id": 213,
+        "value": "From the Four Kingdoms to the Wilderness of the Peoples",
+        "order": "184.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ]
+  },
+  "478": {
+    "id": 478,
+    "order": "262.00000000000000000000",
+    "label": "Armilos",
+    "notes": "",
+    "loi_id": "loi_keyword__478",
+    "passages": [
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ]
+  },
+  "479": {
+    "id": 479,
+    "order": "263.00000000000000000000",
+    "label": "Messiah ben David",
+    "notes": "",
+    "loi_id": "loi_keyword__479",
+    "passages": [
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ]
+  },
+  "480": {
+    "id": 480,
+    "order": "264.00000000000000000000",
+    "label": "Elijah",
+    "notes": "",
+    "loi_id": "loi_keyword__480",
+    "passages": [
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ]
+  },
+  "481": {
+    "id": 481,
+    "order": "265.00000000000000000000",
+    "label": "resurrection",
+    "notes": "",
+    "loi_id": "loi_keyword__481",
+    "passages": [
+      {
+        "id": 214,
+        "value": "Armilos, the Slain Messiah, and the Coming of Gog",
+        "order": "185.00000000000000000000"
+      }
+    ]
+  },
+  "482": {
+    "id": 482,
+    "order": "266.00000000000000000000",
+    "label": "plagues upon Gog",
+    "notes": "",
+    "loi_id": "loi_keyword__482",
+    "passages": [
+      {
+        "id": 215,
+        "value": "The Plagues upon Gog, the Ingathering, and the Resurrection of the Dead",
+        "order": "186.00000000000000000000"
+      }
+    ]
+  },
+  "483": {
+    "id": 483,
+    "order": "267.00000000000000000000",
+    "label": "ingathering of the exiles",
+    "notes": "",
+    "loi_id": "loi_keyword__483",
+    "passages": [
+      {
+        "id": 215,
+        "value": "The Plagues upon Gog, the Ingathering, and the Resurrection of the Dead",
+        "order": "186.00000000000000000000"
+      }
+    ]
+  },
+  "484": {
+    "id": 484,
+    "order": "268.00000000000000000000",
+    "label": "resurrection of the dead",
+    "notes": "",
+    "loi_id": "loi_keyword__484",
+    "passages": [
+      {
+        "id": 215,
+        "value": "The Plagues upon Gog, the Ingathering, and the Resurrection of the Dead",
+        "order": "186.00000000000000000000"
+      }
+    ]
+  },
+  "485": {
+    "id": 485,
+    "order": "269.00000000000000000000",
+    "label": "Temple from heaven",
+    "notes": "",
+    "loi_id": "loi_keyword__485",
+    "passages": [
+      {
+        "id": 216,
+        "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
+        "order": "187.00000000000000000000"
+      }
+    ]
+  },
+  "486": {
+    "id": 486,
+    "order": "270.00000000000000000000",
+    "label": "conversion of the nations",
+    "notes": "",
+    "loi_id": "loi_keyword__486",
+    "passages": [
+      {
+        "id": 216,
+        "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
+        "order": "187.00000000000000000000"
+      }
+    ]
+  },
+  "487": {
+    "id": 487,
+    "order": "271.00000000000000000000",
+    "label": "Sodom restored",
+    "notes": "",
+    "loi_id": "loi_keyword__487",
+    "passages": [
+      {
+        "id": 216,
+        "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
+        "order": "187.00000000000000000000"
+      }
+    ]
+  },
+  "488": {
+    "id": 488,
+    "order": "272.00000000000000000000",
+    "label": "eschatological",
+    "notes": "",
+    "loi_id": "loi_keyword__488",
+    "passages": [
+      {
+        "id": 216,
+        "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
+        "order": "187.00000000000000000000"
       }
     ]
   }

@@ -664,5 +664,23 @@
     "loi_id": "loi_parallel__170",
     "excerpt_he": "",
     "url": ""
+  },
+  "171": {
+    "id": 171,
+    "order": "75.00000000000000000000",
+    "label": "Isaiah 11:15",
+    "excerpt": "",
+    "loi_id": "loi_parallel__171",
+    "excerpt_he": "",
+    "url": ""
+  },
+  "172": {
+    "id": 172,
+    "order": "76.00000000000000000000",
+    "label": "bSukkah 52b",
+    "excerpt": "",
+    "loi_id": "loi_parallel__172",
+    "excerpt_he": "",
+    "url": ""
   }
 }
