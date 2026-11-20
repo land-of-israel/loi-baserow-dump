@@ -2477,5 +2477,25 @@
     "loi_id": "loi_biblref__402",
     "text_he": "שְׂאוּ לַשָּׁמַיִם עֵינֵיכֶם וְהַבִּיטוּ אֶל־הָאָרֶץ מִתַּחַת כִּי־שָׁמַיִם כֶּעָשָׁן נִמְלָחוּ וְהָאָרֶץ כַּבֶּגֶד תִּבְלֶה וְיֹשְׁבֶיהָ כְּמוֹ־כֵן יְמוּתוּן וִישׁוּעָתִי לְעוֹלָם תִּהְיֶה וְצִדְקָתִי לֹא תֵחָת",
     "designations": []
+  },
+  "403": {
+    "id": 403,
+    "order": "218.00000000000000000000",
+    "bible": "Genesis 5:1",
+    "text": "This is the record of Adam’s line.—When God created humankind, it was made in the likeness of God;",
+    "url": "https://www.sefaria.org/Genesis.5.1?lang=bi&aliyot=0",
+    "loi_id": "loi_biblref__403",
+    "text_he": "זֶה סֵפֶר תּוֹלְדֹת אָדָם בְּיוֹם בְּרֹא אֱלֹהִים אָדָם בִּדְמוּת אֱלֹהִים עָשָׂה אֹתוֹ",
+    "designations": []
+  },
+  "404": {
+    "id": 404,
+    "order": "219.00000000000000000000",
+    "bible": "bSanhedrin 97b",
+    "text": "Rav says: All the ends of days that were calculated passed, and the matter depends only upon repentance and good deeds. When the Jewish people repent, they will be redeemed. And Shmuel says: It is sufficient for the mourner to endure in his mourning to bring about the coming of the Messiah. Even without repentance, they will be worthy of redemption due to the suffering they endured during the exile. The Gemara notes: This dispute is parallel to a dispute between tanna’im: Rabbi Eliezer says: If the Jewish people repent they are redeemed, and if not they are not redeemed. Rabbi Yehoshua said to him: If they do not repent, will they not be redeemed at all? Rather, the Holy One, Blessed be He, will establish a king for them whose decrees are as harsh as those issued by Haman, and the Jewish people will have no choice but to repent, and this will restore them to the right path.",
+    "url": "https://www.sefaria.org/Sanhedrin.97b.14?lang=bi",
+    "loi_id": "loi_biblref__404",
+    "text_he": "אָמַר רַב: כָּלוּ כׇּל הַקִּיצִּין, וְאֵין הַדָּבָר תָּלוּי אֶלָּא בִּתְשׁוּבָה וּמַעֲשִׂים טוֹבִים. וּשְׁמוּאֵל אָמַר: דַּיּוֹ לָאָבֵל שֶׁיַּעֲמוֹד בְּאֶבְלוֹ. כְּתַנָּאֵי: רַבִּי אֱלִיעֶזֶר אוֹמֵר: אִם יִשְׂרָאֵל עוֹשִׂין תְּשׁוּבָה – נִגְאָלִין, וְאִם לָאו – אֵין נִגְאָלִין. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ: אִם אֵין עוֹשִׂין תְּשׁוּבָה אֵין נִגְאָלִין? אֶלָּא הַקָּדוֹשׁ בָּרוּךְ הוּא מַעֲמִיד לָהֶן מֶלֶךְ שֶׁגְּזֵרוֹתָיו קָשׁוֹת כְּהָמָן, וְיִשְׂרָאֵל עוֹשִׂין תְּשׁוּבָה וּמַחְזִירָן לְמוּטָב.",
+    "designations": []
   }
 }

@@ -1096,6 +1096,11 @@
         "id": 214,
         "value": "Armilos, the Slain Messiah, and the Coming of Gog",
         "order": "185.00000000000000000000"
+      },
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
       }
     ],
     "form_he": "ארץ ישראל",
@@ -2007,6 +2012,11 @@
         "id": 16,
         "value": "A Condition from the Days of Joshua: The Two Days Built into the Land",
         "order": "16.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
+        "order": "191.00000000000000000000"
       }
     ],
     "form_he": "גליל",
@@ -2251,6 +2261,11 @@
         "id": 99,
         "value": "Only the Vineyard outside the Land: Redeeming Fourth-Year Produce",
         "order": "70.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
+        "order": "191.00000000000000000000"
       }
     ],
     "form_he": "מקדש / במקדש",
@@ -2354,6 +2369,11 @@
         "id": 214,
         "value": "Armilos, the Slain Messiah, and the Coming of Gog",
         "order": "185.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
+        "order": "191.00000000000000000000"
       }
     ],
     "form_he": "אדום",
@@ -3381,6 +3401,11 @@
         "id": 214,
         "value": "Armilos, the Slain Messiah, and the Coming of Gog",
         "order": "185.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "Resurrection in Nisan, the War of Gog in Tishri",
+        "order": "189.00000000000000000000"
       }
     ],
     "form_he": "ארץ גוג ומגוג",
@@ -3608,6 +3633,54 @@
     ],
     "gloss_en": "new heavens and a new earth",
     "referent": [],
+    "commentary": ""
+  },
+  "331": {
+    "id": 331,
+    "order": "76.00000000000000000000",
+    "label": "Rinus",
+    "loi_id": "loi_parallel__331",
+    "passages": [
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
+      }
+    ],
+    "form_he": "רינוס",
+    "source": [],
+    "gloss_en": "the Rhine (the Rhineland)",
+    "referent": [
+      {
+        "id": 227,
+        "value": "Rhineland",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "commentary": ""
+  },
+  "332": {
+    "id": 332,
+    "order": "77.00000000000000000000",
+    "label": "Wormaisa",
+    "loi_id": "loi_parallel__332",
+    "passages": [
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
+      }
+    ],
+    "form_he": "וורמיישא",
+    "source": [],
+    "gloss_en": "Worms",
+    "referent": [
+      {
+        "id": 228,
+        "value": "Worms",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "commentary": ""
   }
 }

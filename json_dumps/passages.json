@@ -13147,7 +13147,23 @@
     ],
     "german_translation": "In jener Stunde sieht man den Himmel und die Erde, als wären sie erneuert, und als wären Himmel und Erde der Knechtschaft vergangen und dahingegangen und neue Himmel und eine neue Erde an ihrer Statt gebracht worden, wie es heißt: „Denn siehe, ich schaffe neue Himmel“ usw. (Jes 65,17).\n\nUnd auch sieht man Jerusalem und Israel, als wären sie neu, und als wären das Israel und das Jerusalem der Knechtschaft dahingegangen und vergangen und gleichsam andere an ihrer Statt gebracht worden, solche des Jubels und der Freude, wie es heißt: „Denn siehe, ich schaffe Jerusalem zum Jubel und sein Volk zur Freude“ (Jes 65,18).\n\nUnd sie werden in ihrem Königtum sitzen bis zum Ende der Welt. Und es gibt solche, die sagen: bis zum Ablauf der siebentausend Jahre von den Tagen des Anfangs an. Und es gibt solche, die sagen: viele Tausende ohne bekanntes Maß. Und danach werden Himmel und Erde vergehen, wie es heißt: „Denn die Himmel werden wie Rauch zergehen“ usw. (Jes 51,6). Und die Toten werden leben und die Erlösung sehen, und sie selbst werden hinausgehen in die kommende Welt …\n\nDer Ort (ha-Maqom) blicke vom Himmel herab, euch gnädig zu sein … und wende sich in seinem Erbarmen euch zu und [lasse euch übrig?], euch aus ihrer Knechtschaft herauszuführen … und bringe das Ende eurer Erlösung nahe …",
     "page": "58",
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 489,
+        "value": "new heavens and new earth",
+        "order": "273.00000000000000000000"
+      },
+      {
+        "id": 490,
+        "value": "new Jerusalem",
+        "order": "274.00000000000000000000"
+      },
+      {
+        "id": 491,
+        "value": "end of the world; world to come",
+        "order": "275.00000000000000000000"
+      }
+    ],
     "spatial_coding": [
       {
         "id": 3,
@@ -13177,74 +13193,251 @@
   "218": {
     "id": 218,
     "order": "189.00000000000000000000",
-    "title": "by Rav Hai Gaon",
+    "title": "Resurrection in Nisan, the War of Gog in Tishri",
     "text": "ואמר רב האי: מסורת בידינו שעתידה תחית המתים להיות בניסן ומלחמת גוג ומגוג\nבתשרי.",
     "loi_id": "loi_passage__218",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 376,
+        "value": "Geonic notice on the months of the redemption",
+        "order": "119.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und Rav Hai sagte: Überlieferung ist in unserer Hand, dass die Auferweckung der Toten künftig im Nisan sein wird und der Krieg von Gog und Magog im Tischri.",
+    "page": "238",
+    "keywords": [
+      {
+        "id": 481,
+        "value": "resurrection",
+        "order": "265.00000000000000000000"
+      },
+      {
+        "id": 492,
+        "value": "Gog and Magog",
+        "order": "276.00000000000000000000"
+      },
+      {
+        "id": 493,
+        "value": "Nisan",
+        "order": "277.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 322,
+        "value": "Ereẓ Gog u-Magog",
+        "order": "67.00000000000000000000"
+      }
+    ]
   },
   "219": {
     "id": 219,
     "order": "190.00000000000000000000",
-    "title": "by Rav Hai Gaon",
+    "title": "The Messiah Comes Only When All the Souls Have Been Created",
     "text": "ובאגדה דויקרא ובתנחומא באשה כי תזריע: אין מלך המשיח בא עד שיבראו\nכל הנשמות שעלו במחשבה להבראות, ואלו הן האמורים בספר אדם הראשון: זה ספר\nתולדות אדם.",
     "loi_id": "loi_passage__219",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 403,
+        "value": "Genesis 5:1",
+        "order": "218.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 264,
+        "value": "Toratan shel Rishonim II",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und in der Aggadah zu Wajiqra und im Tanḥuma zu Ishah ki tazriaʿ: Der König Messias kommt nicht, bis alle Seelen erschaffen sind, die im Gedanken aufgestiegen sind, erschaffen zu werden; und das sind die, von denen im Buch des ersten Menschen gesagt ist: „Dies ist das Buch der Zeugungen Adams“ (Gen 5,1).",
+    "page": "27",
+    "keywords": [
+      {
+        "id": 494,
+        "value": "coming of the Messiah",
+        "order": "278.00000000000000000000"
+      },
+      {
+        "id": 495,
+        "value": "treasury of souls",
+        "order": "279.00000000000000000000"
+      },
+      {
+        "id": 496,
+        "value": "book of the generations of Adam",
+        "order": "280.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
     "designations": []
   },
   "220": {
     "id": 220,
     "order": "191.00000000000000000000",
-    "title": "by Saadiya Gaon",
+    "title": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
     "text": "קדמונינו ז\"ל קיבלו שתקראנה אותנו צרות רבות ורעות שנבחר בעבורם התשובה\nונהייה ראויים להגאל, והוא מה שאמרו: אם ישראל עושין תשובה נגאלין ואם לא\nהקב\"ה מעמיד עליהם מלך שגזירותיו קשות כהמן והם עושין תשובה ונגאלין. ואמרו\nשסיבת זה עמידת איש מבני יוסף בהר הגליל, ויתקבצו אליו אנשים מבני עמנו, וילך אל\nבית המקדש אחר שיהיה ברשות אדום ויעמוד שם עמם זמן, ואחר כך יעלה עליהם מלך\nששמו ארמילוס וילחם בה וילכוד העיר ויהרג וישבה ויענה. ויהיה האיש אשר משבט\nיוסף בכלל ההרוגים ויהיה עמינו בצרות גדולות. והקשה שבצרות, הפסד ענינם עם כל\nהמלכיות והתבאשם בם עד שיגרשום אל המדברות עד אשר ירעבו ויצמאו, ומחוזק הצרות\nהמוצאות יצאו רבים מהם מתורתם וישארו הנשארים המתבררים, המזוקקים, ואז יראה\nלהם אליהו ותבוא הגאולה.",
     "loi_id": "loi_passage__220",
     "translation": "",
     "parallel_text": [],
-    "bibl_quotes": [],
+    "bibl_quotes": [
+      {
+        "id": 404,
+        "value": "bSanhedrin 97b",
+        "order": "219.00000000000000000000"
+      }
+    ],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 377,
+        "value": "Geonic notice on the order of the redemption",
+        "order": "120.00000000000000000000"
+      }
+    ],
+    "german_translation": "Unsere Früheren seligen Andenkens haben überliefert, dass uns viele und schwere Bedrängnisse treffen werden, um derentwillen wir die Umkehr wählen und würdig werden, erlöst zu werden. Und das ist es, was sie sagten (bSanhedrin 97b): Tut Israel Umkehr, so werden sie erlöst; und wenn nicht, so stellt der Heilige, gepriesen sei er, über sie einen König auf, dessen Verordnungen hart sind wie die Hamans, und sie tun Umkehr und werden erlöst.\n\nUnd sie sagten, dass der Anlass dazu das Auftreten eines Mannes von den Söhnen Josefs auf dem Berge des Galil sein wird, und es werden sich zu ihm Menschen von den Söhnen unseres Volkes sammeln. Und er wird zum Heiligtum ziehen, nachdem es in der Verfügung Edoms ist, und dort mit ihnen eine Zeit lang stehen. Und danach wird gegen sie ein König heraufziehen, dessen Name Armilos ist, und er wird gegen es kämpfen und die Stadt einnehmen und töten und gefangen führen und peinigen. Und der Mann aus dem Stamme Josefs wird unter den Erschlagenen sein, und unser Volk wird in großen Bedrängnissen sein.\n\nUnd das Härteste der Bedrängnisse: der Verlust ihrer Stellung bei allen Königreichen und ihr Verhasstwerden bei ihnen, bis man sie in die Wüsten vertreibt, wo sie hungern und dürsten. Und aus der Härte der Bedrängnisse, die sie treffen, werden viele von ihnen aus ihrer Tora austreten, und es bleiben die Übriggebliebenen, die Geläuterten, die Gereinigten. Und dann wird ihnen Elija erscheinen, und die Erlösung wird kommen.",
+    "page": "192",
+    "keywords": [
+      {
+        "id": 475,
+        "value": "Messiah ben Joseph",
+        "order": "259.00000000000000000000"
+      },
+      {
+        "id": 478,
+        "value": "Armilos",
+        "order": "262.00000000000000000000"
+      },
+      {
+        "id": 480,
+        "value": "Elijah",
+        "order": "264.00000000000000000000"
+      },
+      {
+        "id": 497,
+        "value": "repentance and redemption",
+        "order": "281.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 84,
+        "value": "Galil",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Miqdash",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 157,
+        "value": "Edom",
+        "order": "30.00000000000000000000"
+      }
+    ]
   },
   "221": {
     "id": 221,
     "order": "192.00000000000000000000",
-    "title": "Letter from the people of Rinus to the Land of Israel",
+    "title": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
     "text": "אני יצחק בר דורבלו ראיתי בוורמיישא כתב ששלחו אנשי רינוס לארץ ישראל\nבשנת תש\"ך לפרט. ושאלו לקהלות שבארץ ישראל, על שמע ששמענו על ביאת המשיח\nועל סירכא דליבא מה אתון ביה --\nתשובה: על ביאת המשיח לא הייתם כדיי להשיב. וכי אינכם מאמינים לדברי\nחכמים וסימניהם ? ועדיין הסימנים לא באו. וסירכה שבשומן הלב: נחנו סנהדרי גדולה\nונחנו סנהדרי קטנה אוכלין אותה... וחתם הכתב רבי יעקב בר מרדכי מחסיא וכל\nדורו.",
     "loi_id": "loi_passage__221",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 378,
+        "value": "Letter of the people of the Rhineland and the reply",
+        "order": "121.00000000000000000000"
+      }
+    ],
+    "german_translation": "Ich, Jiẓḥaq bar Dorbolo, habe in Wormaisa ein Schreiben gesehen, das die Leute des Rinus im Jahre 4720 nach der Zählung nach Ereẓ Israel gesandt haben. Und sie fragten die Gemeinden in Ereẓ Israel: Über die Kunde, die wir gehört haben von der Ankunft des Messias, und über die sirkha des Herzens — was sagt ihr dazu?\n\nAntwort: Über die Ankunft des Messias wart ihr nicht würdig, dass man antworte. Glaubt ihr denn nicht den Worten der Weisen und ihren Zeichen? Und die Zeichen sind noch nicht gekommen. Und die Sirkha, die im Fett des Herzens ist: Wir sind der Große Sanhedrin und wir sind der Kleine Sanhedrin, und wir essen sie …\n\nUnd es unterzeichnete das Schreiben Rabbi Jaʿaqov bar Mordekhai aus Ḥasya und seine ganze Generation.",
+    "page": "173–174",
+    "keywords": [
+      {
+        "id": 498,
+        "value": "messianic rumour",
+        "order": "282.00000000000000000000"
+      },
+      {
+        "id": 499,
+        "value": "sirkha",
+        "order": "283.00000000000000000000"
+      },
+      {
+        "id": 500,
+        "value": "Rhineland",
+        "order": "284.00000000000000000000"
+      },
+      {
+        "id": 501,
+        "value": "correspondence with the Land",
+        "order": "285.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 1,
+        "value": "legal",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 41,
+        "value": "Ereẓ Yisra’el",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 331,
+        "value": "Rinus",
+        "order": "76.00000000000000000000"
+      },
+      {
+        "id": 332,
+        "value": "Wormaisa",
+        "order": "77.00000000000000000000"
+      }
+    ]
   },
   "222": {
     "id": 222,

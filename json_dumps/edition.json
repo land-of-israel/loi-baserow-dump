@@ -1765,6 +1765,11 @@
         "id": 342,
         "value": "Geonic notice on the lulav and myrtle on the Sabbath",
         "order": "85.00000000000000000000"
+      },
+      {
+        "id": 377,
+        "value": "Geonic notice on the order of the redemption",
+        "order": "120.00000000000000000000"
       }
     ],
     "publisher": "",
@@ -2086,6 +2091,11 @@
         "id": 374,
         "value": "Geonic responsum on the valuation of the dowry",
         "order": "117.00000000000000000000"
+      },
+      {
+        "id": 378,
+        "value": "Letter of the people of the Rhineland and the reply",
+        "order": "121.00000000000000000000"
       }
     ],
     "publisher": "Mossad ha-Rav Kook",
@@ -2126,5 +2136,28 @@
       }
     ],
     "year": "1854"
+  },
+  "298": {
+    "id": 298,
+    "order": "74.00000000000000000000",
+    "label": "Otzar Ha-Geonim Megillah",
+    "editor": [
+      {
+        "id": 4,
+        "value": "Benjamin Manasseh Lewin",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "loi_id": "loi_parallel__298",
+    "works": [
+      {
+        "id": 376,
+        "value": "Geonic notice on the months of the redemption",
+        "order": "119.00000000000000000000"
+      }
+    ],
+    "publisher": "",
+    "place": [],
+    "year": null
   }
 }

@@ -5132,6 +5132,11 @@
         "id": 214,
         "value": "Armilos, the Slain Messiah, and the Coming of Gog",
         "order": "185.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
+        "order": "191.00000000000000000000"
       }
     ]
   },
@@ -5184,6 +5189,11 @@
         "id": 214,
         "value": "Armilos, the Slain Messiah, and the Coming of Gog",
         "order": "185.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
+        "order": "191.00000000000000000000"
       }
     ]
   },
@@ -5212,6 +5222,11 @@
         "id": 214,
         "value": "Armilos, the Slain Messiah, and the Coming of Gog",
         "order": "185.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
+        "order": "191.00000000000000000000"
       }
     ]
   },
@@ -5226,6 +5241,11 @@
         "id": 214,
         "value": "Armilos, the Slain Messiah, and the Coming of Gog",
         "order": "185.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "Resurrection in Nisan, the War of Gog in Tishri",
+        "order": "189.00000000000000000000"
       }
     ]
   },
@@ -5324,6 +5344,188 @@
         "id": 216,
         "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
         "order": "187.00000000000000000000"
+      }
+    ]
+  },
+  "489": {
+    "id": 489,
+    "order": "273.00000000000000000000",
+    "label": "new heavens and new earth",
+    "notes": "",
+    "loi_id": "loi_keyword__489",
+    "passages": [
+      {
+        "id": 217,
+        "value": "New Heavens and a New Jerusalem: The End of the World and the Final Blessing",
+        "order": "188.00000000000000000000"
+      }
+    ]
+  },
+  "490": {
+    "id": 490,
+    "order": "274.00000000000000000000",
+    "label": "new Jerusalem",
+    "notes": "",
+    "loi_id": "loi_keyword__490",
+    "passages": [
+      {
+        "id": 217,
+        "value": "New Heavens and a New Jerusalem: The End of the World and the Final Blessing",
+        "order": "188.00000000000000000000"
+      }
+    ]
+  },
+  "491": {
+    "id": 491,
+    "order": "275.00000000000000000000",
+    "label": "end of the world; world to come",
+    "notes": "",
+    "loi_id": "loi_keyword__491",
+    "passages": [
+      {
+        "id": 217,
+        "value": "New Heavens and a New Jerusalem: The End of the World and the Final Blessing",
+        "order": "188.00000000000000000000"
+      }
+    ]
+  },
+  "492": {
+    "id": 492,
+    "order": "276.00000000000000000000",
+    "label": "Gog and Magog",
+    "notes": "",
+    "loi_id": "loi_keyword__492",
+    "passages": [
+      {
+        "id": 218,
+        "value": "Resurrection in Nisan, the War of Gog in Tishri",
+        "order": "189.00000000000000000000"
+      }
+    ]
+  },
+  "493": {
+    "id": 493,
+    "order": "277.00000000000000000000",
+    "label": "Nisan",
+    "notes": "",
+    "loi_id": "loi_keyword__493",
+    "passages": [
+      {
+        "id": 218,
+        "value": "Resurrection in Nisan, the War of Gog in Tishri",
+        "order": "189.00000000000000000000"
+      }
+    ]
+  },
+  "494": {
+    "id": 494,
+    "order": "278.00000000000000000000",
+    "label": "coming of the Messiah",
+    "notes": "",
+    "loi_id": "loi_keyword__494",
+    "passages": [
+      {
+        "id": 219,
+        "value": "The Messiah Comes Only When All the Souls Have Been Created",
+        "order": "190.00000000000000000000"
+      }
+    ]
+  },
+  "495": {
+    "id": 495,
+    "order": "279.00000000000000000000",
+    "label": "treasury of souls",
+    "notes": "",
+    "loi_id": "loi_keyword__495",
+    "passages": [
+      {
+        "id": 219,
+        "value": "The Messiah Comes Only When All the Souls Have Been Created",
+        "order": "190.00000000000000000000"
+      }
+    ]
+  },
+  "496": {
+    "id": 496,
+    "order": "280.00000000000000000000",
+    "label": "book of the generations of Adam",
+    "notes": "",
+    "loi_id": "loi_keyword__496",
+    "passages": [
+      {
+        "id": 219,
+        "value": "The Messiah Comes Only When All the Souls Have Been Created",
+        "order": "190.00000000000000000000"
+      }
+    ]
+  },
+  "497": {
+    "id": 497,
+    "order": "281.00000000000000000000",
+    "label": "repentance and redemption",
+    "notes": "",
+    "loi_id": "loi_keyword__497",
+    "passages": [
+      {
+        "id": 220,
+        "value": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
+        "order": "191.00000000000000000000"
+      }
+    ]
+  },
+  "498": {
+    "id": 498,
+    "order": "282.00000000000000000000",
+    "label": "messianic rumour",
+    "notes": "",
+    "loi_id": "loi_keyword__498",
+    "passages": [
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
+      }
+    ]
+  },
+  "499": {
+    "id": 499,
+    "order": "283.00000000000000000000",
+    "label": "sirkha",
+    "notes": "",
+    "loi_id": "loi_keyword__499",
+    "passages": [
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
+      }
+    ]
+  },
+  "500": {
+    "id": 500,
+    "order": "284.00000000000000000000",
+    "label": "Rhineland",
+    "notes": "",
+    "loi_id": "loi_keyword__500",
+    "passages": [
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
+      }
+    ]
+  },
+  "501": {
+    "id": 501,
+    "order": "285.00000000000000000000",
+    "label": "correspondence with the Land",
+    "notes": "",
+    "loi_id": "loi_keyword__501",
+    "passages": [
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
       }
     ]
   }

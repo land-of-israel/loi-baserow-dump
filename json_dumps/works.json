@@ -3802,5 +3802,86 @@
         "order": "73.00000000000000000000"
       }
     ]
+  },
+  "376": {
+    "id": 376,
+    "order": "119.00000000000000000000",
+    "title": "Geonic notice on the months of the redemption",
+    "reference": "",
+    "author": [
+      {
+        "id": 40,
+        "value": "Hai Gaon",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__376",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 298,
+        "value": "Otzar Ha-Geonim Megillah",
+        "order": "74.00000000000000000000"
+      }
+    ]
+  },
+  "377": {
+    "id": 377,
+    "order": "120.00000000000000000000",
+    "title": "Geonic notice on the order of the redemption",
+    "reference": "",
+    "author": [
+      {
+        "id": 3,
+        "value": "Saadya",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__377",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 283,
+        "value": "Otzar Ha-Geonim Sukkah",
+        "order": "59.00000000000000000000"
+      }
+    ]
+  },
+  "378": {
+    "id": 378,
+    "order": "121.00000000000000000000",
+    "title": "Letter of the people of the Rhineland and the reply",
+    "reference": "",
+    "author": [
+      {
+        "id": 348,
+        "value": "Jaʿaqov bar Mordekhai of Ḥasya (Mata Meḥasya?)",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__378",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 296,
+        "value": "Tequfat ha-Geonim we-Sifrutah",
+        "order": "72.00000000000000000000"
+      }
+    ]
   }
 }

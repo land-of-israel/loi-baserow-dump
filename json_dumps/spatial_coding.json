@@ -700,6 +700,11 @@
         "id": 213,
         "value": "From the Four Kingdoms to the Wilderness of the Peoples",
         "order": "184.00000000000000000000"
+      },
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
       }
     ]
   },
@@ -1389,6 +1394,11 @@
         "id": 216,
         "value": "The Temple Revealed, the Nations Converted, and the Pillar of Fire over Jerusalem",
         "order": "187.00000000000000000000"
+      },
+      {
+        "id": 221,
+        "value": "You Were Not Worthy of an Answer: The Rhineland Letter to the Land of Israel",
+        "order": "192.00000000000000000000"
       }
     ]
   },
@@ -1548,6 +1558,21 @@
         "id": 217,
         "value": "New Heavens and a New Jerusalem: The End of the World and the Final Blessing",
         "order": "188.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "Resurrection in Nisan, the War of Gog in Tishri",
+        "order": "189.00000000000000000000"
+      },
+      {
+        "id": 219,
+        "value": "The Messiah Comes Only When All the Souls Have Been Created",
+        "order": "190.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Through Hard Decrees to Repentance: A Compressed Account of the Redemption",
+        "order": "191.00000000000000000000"
       }
     ]
   }

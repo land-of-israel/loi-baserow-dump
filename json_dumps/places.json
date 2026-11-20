@@ -890,5 +890,39 @@
       }
     ],
     "edition": []
+  },
+  "227": {
+    "id": 227,
+    "order": "36.00000000000000000000",
+    "name": "Rhineland",
+    "geonames": "",
+    "loi_id": "loi_place__227",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 331,
+        "value": "Rinus",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "edition": []
+  },
+  "228": {
+    "id": 228,
+    "order": "37.00000000000000000000",
+    "name": "Worms",
+    "geonames": "",
+    "loi_id": "loi_place__228",
+    "wikidata": "",
+    "note": "",
+    "designations": [
+      {
+        "id": 332,
+        "value": "Wormaisa",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "edition": []
   }
 }
