@@ -5528,5 +5528,47 @@
         "order": "192.00000000000000000000"
       }
     ]
+  },
+  "502": {
+    "id": 502,
+    "order": "286.00000000000000000000",
+    "label": "future Jerusalem",
+    "notes": "",
+    "loi_id": "loi_keyword__502",
+    "passages": [
+      {
+        "id": 222,
+        "value": "A Thousand Gardens and Towers: Explaining the Expansion of Jerusalem",
+        "order": "193.00000000000000000000"
+      }
+    ]
+  },
+  "503": {
+    "id": 503,
+    "order": "287.00000000000000000000",
+    "label": "Greek loanwords",
+    "notes": "",
+    "loi_id": "loi_keyword__503",
+    "passages": [
+      {
+        "id": 222,
+        "value": "A Thousand Gardens and Towers: Explaining the Expansion of Jerusalem",
+        "order": "193.00000000000000000000"
+      }
+    ]
+  },
+  "504": {
+    "id": 504,
+    "order": "288.00000000000000000000",
+    "label": "lexical explanation",
+    "notes": "",
+    "loi_id": "loi_keyword__504",
+    "passages": [
+      {
+        "id": 222,
+        "value": "A Thousand Gardens and Towers: Explaining the Expansion of Jerusalem",
+        "order": "193.00000000000000000000"
+      }
+    ]
   }
 }

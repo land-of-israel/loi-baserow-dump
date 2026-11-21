@@ -3883,5 +3883,26 @@
         "order": "72.00000000000000000000"
       }
     ]
+  },
+  "379": {
+    "id": 379,
+    "order": "122.00000000000000000000",
+    "title": "Geonic responsum on the expansion of Jerusalem",
+    "reference": "",
+    "author": [],
+    "manuscript": [],
+    "date": [],
+    "place": [],
+    "loi_id": "loi_work__379",
+    "corpus": [],
+    "language": [],
+    "genre": [],
+    "edition": [
+      {
+        "id": 181,
+        "value": "Teshuvot ha-Geonim (Harkavy)",
+        "order": "21.00000000000000000000"
+      }
+    ]
   }
 }

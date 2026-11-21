@@ -13442,20 +13442,59 @@
   "222": {
     "id": 222,
     "order": "193.00000000000000000000",
-    "title": "The construction of the future Jerusalem. From the answers of the Geonim.",
+    "title": "A Thousand Gardens and Towers: Explaining the Expansion of Jerusalem",
     "text": "וששאלתם הא דאמר ר' שמעון בן לקיש: עתיד הקב\"ה להוסיף על ירושלים אלף\nטפף גינאות וכול' כך אנו מפרשין: אלף גנות טפופות שבנויות בנין משווה שאין בו\nתוספה ולא גרעון זה מזה... ובדברי רבותינו, המדה שאין גדושה ולא מחוקה נקראת\nטפופה, אלף קפל מגדלים, לשון קפל -- עמודים חזקים שעשויין למגדלות ולבנין גבוה,\nשכן מפ'ורש בהגדה דויקרא: קפלאות של ברזל... טטפראות, מראין הדברים שלשון\nיווני הוא... ונראה שהן זיזין שעשויין כסנפירין וככנפים לקורות, אחד מפה ואחד מפה...\nוכן תירוץ הדברים, גני טפף -- אלף, מגדלי קפל -- אלף, שילי טטפראות -- אלף ושנים.\nברניות ליצוי ומליצה -- אלף. אלה עתיד הקב\"יה להוסיף על ירושלים. יהי רצון מלפניו\nלזכות אותנו ואחרים לראותם בישועתו ובבנין ביתו .. . ובקיבוץ גליותיו ישע רב.",
     "loi_id": "loi_passage__222",
     "translation": "",
     "parallel_text": [],
     "bibl_quotes": [],
     "commentary": "",
-    "work": [],
-    "german_translation": "",
-    "page": "",
-    "keywords": [],
-    "spatial_coding": [],
+    "work": [
+      {
+        "id": 379,
+        "value": "Geonic responsum on the expansion of Jerusalem",
+        "order": "122.00000000000000000000"
+      }
+    ],
+    "german_translation": "Und was ihr gefragt habt zu dem, was R. Schimʿon ben Laqisch sagte: Künftig wird der Heilige, gepriesen sei er, zu Jerusalem tausend ṭefef-Gärten hinzufügen usw. — so erklären wir es: tausend dichtgefügte Gärten, die in gleichmäßigem Bau errichtet sind, ohne Zusatz und ohne Minderung eines gegenüber dem anderen … Und in den Worten unserer Lehrer heißt ein Maß, das weder gehäuft noch gestrichen ist, ṭefufah.\n\n„Tausend qefel-Türme“: Das Wort qefel — starke Pfeiler, die für Türme und hohen Bau gemacht sind; denn so ist in der Aggadah zu Wajiqra ausgeführt: qeflaot aus Eisen.\n\nTaṭperot: Die Sache zeigt, dass es ein griechisches Wort ist … Und es scheint, dass es Vorsprünge sind, die wie Flossen und wie Flügel an den Balken gemacht sind, einer hier und einer dort …\n\nUnd so ist die Auflösung der Sache: Ṭefef-Gärten — tausend; qefel-Türme — tausend; shilei taṭperot — tausendundzwei; barniyyot zu [Crux: ליצוי ומליצה] — tausend. Diese wird der Heilige, gepriesen sei er, künftig zu Jerusalem hinzufügen.\n\nEs sei sein Wille, uns und andere würdig zu machen, sie zu sehen in seiner Rettung und im Bau seines Hauses … und in der Sammlung seiner Verbannten — große Rettung.",
+    "page": "no. 36",
+    "keywords": [
+      {
+        "id": 502,
+        "value": "future Jerusalem",
+        "order": "286.00000000000000000000"
+      },
+      {
+        "id": 503,
+        "value": "Greek loanwords",
+        "order": "287.00000000000000000000"
+      },
+      {
+        "id": 504,
+        "value": "lexical explanation",
+        "order": "288.00000000000000000000"
+      }
+    ],
+    "spatial_coding": [
+      {
+        "id": 2,
+        "value": "cultural",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "symbolic",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "diaspora_type_cohen": [],
-    "designations": []
+    "designations": [
+      {
+        "id": 40,
+        "value": "Yerushalayim",
+        "order": "8.00000000000000000000"
+      }
+    ]
   },
   "223": {
     "id": 223,
